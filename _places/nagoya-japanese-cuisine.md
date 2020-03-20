@@ -10,7 +10,7 @@ hours: ''
 name: Nagoya Japanese Cuisine
 neighborhood: ''
 notes: Unconfirmed
-restaurant_phone: ''
+restaurant_phone: (785) 843-1111
 social: ''
 takeout: true
 website: ''

@@ -10,7 +10,7 @@ hours: ''
 name: Bon Bon!
 neighborhood: Downtown-Adjacent
 notes: Closed
-restaurant_phone: ''
+restaurant_phone: (785) 856-2275
 social: https://www.instagram.com/bonbonlawrence/
 takeout: false
 website: ''

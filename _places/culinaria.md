@@ -10,7 +10,7 @@ hours: ''
 name: Culinaria
 neighborhood: Downtown-Adjacent
 notes: Closed
-restaurant_phone: ''
+restaurant_phone: (785) 766-8591
 social: ''
 takeout: false
 website: ''

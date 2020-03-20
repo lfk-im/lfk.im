@@ -10,7 +10,7 @@ hours: ''
 name: Bird Dog Bar at The Oread
 neighborhood: KU Campus Area
 notes: Unconfirmed
-restaurant_phone: ''
+restaurant_phone: (785) 830-3921
 social: ''
 takeout: false
 website: ''

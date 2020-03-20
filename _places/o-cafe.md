@@ -10,7 +10,7 @@ hours: ''
 name: O Cafe
 neighborhood: ''
 notes: Unconfirmed
-restaurant_phone: ''
+restaurant_phone: (785) 312-9211
 social: ''
 takeout: false
 website: ''
