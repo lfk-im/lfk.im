@@ -11,9 +11,9 @@ name: Mexquisito
 neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: 785-856-8226
-social: ''
+social: https://www.facebook.com/Mexquisito
 takeout: false
-website: ''
+website: http://mexquisito.com/
 ---
 
 Unconfirmed

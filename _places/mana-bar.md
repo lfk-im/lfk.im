@@ -11,9 +11,9 @@ name: Mana Bar
 neighborhood: Downtown
 notes: Retail Only
 restaurant_phone: (785) 856-8227
-social: ''
+social: https://www.facebook.com/ManaBarLawrence/
 takeout: false
-website: ''
+website: https://www.facebook.com/ManaBarLawrence/
 ---
 
 Retail Only

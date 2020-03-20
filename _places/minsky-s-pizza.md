@@ -11,9 +11,9 @@ name: Minsky's Pizza
 neighborhood: Downtown
 notes: Call or order online
 restaurant_phone: 785-856-5252
-social: ''
+social: https://www.facebook.com/MinskysPizzaLawrence/
 takeout: true
-website: ''
+website: https://minskys.com/lawrence/
 ---
 
 Call or order online

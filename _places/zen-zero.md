@@ -11,7 +11,7 @@ name: Zen Zero
 neighborhood: Downtown
 notes: Delivery through EatStreet, or call to order and carry out
 restaurant_phone: 785-832-0001
-social: ''
+social: https://www.facebook.com/Zen-Zero-40205034098/
 takeout: true
 website: https://www.zen-zero.com/
 ---

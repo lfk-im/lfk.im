@@ -13,7 +13,7 @@ notes: Unconfirmed
 restaurant_phone: 785-842-9383
 social: ''
 takeout: true
-website: ''
+website: http://mediterraneancafelw.com/
 ---
 
 Unconfirmed

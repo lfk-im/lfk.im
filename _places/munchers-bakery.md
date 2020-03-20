@@ -13,7 +13,7 @@ notes: Dining area closed, but open for takeout
 restaurant_phone: 785-749-4324
 social: https://www.facebook.com/munchersbakery/
 takeout: true
-website: ''
+website: https://www.facebook.com/munchersbakery/
 ---
 
 Dining area closed, but open for takeout

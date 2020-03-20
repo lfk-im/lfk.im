@@ -11,9 +11,9 @@ name: Milton's Café
 neighborhood: Downtown
 notes: Closed
 restaurant_phone: (785) 856-0663
-social: ''
+social: https://www.facebook.com/miltonslawrenceks/
 takeout: false
-website: ''
+website: https://www.facebook.com/miltonslawrenceks/
 ---
 
 Closed

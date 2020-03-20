@@ -13,7 +13,7 @@ notes: Order online or call
 restaurant_phone: 785-856-6973
 social: https://www.facebook.com/morningstarsnyp/
 takeout: true
-website: ''
+website: http://www.morningstarsnypizza.com/
 ---
 
 Order online or call

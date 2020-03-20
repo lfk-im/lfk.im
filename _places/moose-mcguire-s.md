@@ -11,9 +11,9 @@ name: Moose McGuire's
 neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: (785) 856-0918
-social: ''
+social: https://www.facebook.com/moosemcguiresonmass/
 takeout: false
-website: ''
+website: https://www.facebook.com/moosemcguiresonmass/
 ---
 
 Unconfirmed

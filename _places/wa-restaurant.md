@@ -11,7 +11,7 @@ name: Wa Restaurant
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-843-1990
-social: ''
+social: https://www.facebook.com/WaSushiLawrence/
 takeout: true
-website: ''
+website: https://www.facebook.com/WaSushiLawrence/
 ---

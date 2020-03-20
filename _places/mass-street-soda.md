@@ -13,7 +13,7 @@ notes: Evaluating and coming up with a plan for curbside service
 restaurant_phone: 785-615-0482
 social: https://www.facebook.com/massstreetsoda/
 takeout: true
-website: ''
+website: http://www.massstreetsoda.com/
 ---
 
 Evaluating and coming up with a plan for curbside service

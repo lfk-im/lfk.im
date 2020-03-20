@@ -13,7 +13,7 @@ notes: Call or order online
 restaurant_phone: 785-749-5600
 social: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/
 takeout: true
-website: ''
+website: https://www.miranchitokc.com/
 ---
 
 Call or order online
