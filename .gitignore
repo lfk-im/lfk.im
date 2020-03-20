@@ -1,3 +1,4 @@
+*.json
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
