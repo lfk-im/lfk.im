@@ -26,7 +26,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 
@@ -41,6 +40,10 @@ collections:  # process the _data folder
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - "*.conf"
+  - "*.lock"
+  - "*.py"
+  - "*.toml"
   - Gemfile
   - Gemfile.lock
   - node_modules
