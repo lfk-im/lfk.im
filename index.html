@@ -64,6 +64,9 @@ layout: none
           </td>
           <td class="py-4 px-6">
             {{ place.address }}
+            {% if place.hours and place.hours != "" and place.hours != nil %}
+              <br><small class="text-blue-700">Open: {{ place.hours }}</small>
+            {% endif %}
           </td>
           <td class="py-4 px-6 whitespace-no-wrap">
             {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
