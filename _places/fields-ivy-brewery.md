@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-274-8429
 takeout: true
 twitter: ''
-website: fieldsandivy.com
+website: https://fieldsandivy.com
 ---

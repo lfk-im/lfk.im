@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-842-0377
 takeout: true
 twitter: ''
-website: johnnystavern.com
+website: https://johnnystavern.com
 ---

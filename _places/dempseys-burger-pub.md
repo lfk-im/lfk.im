@@ -13,7 +13,7 @@ notes: Likely closing the restaurant if we can not drive enough pick-up and onli
 restaurant_phone: 785-856-5640
 takeout: true
 twitter: ''
-website: dempseysburgerpub.com
+website: https://dempseysburgerpub.com
 ---
 
 Likely closing the restaurant if we can not drive enough pick-up and online orders.

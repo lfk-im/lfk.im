@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-749-2770
 takeout: true
 twitter: ''
-website: southernaccentcatering.com
+website: https://southernaccentcatering.com
 ---

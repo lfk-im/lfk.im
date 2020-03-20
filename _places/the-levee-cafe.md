@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-856-3671
 takeout: false
 twitter: ''
-website: theleveecafe.com
+website: https://theleveecafe.com
 ---

@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-842-6957
 takeout: true
 twitter: ''
-website: ramenbowls.com
+website: https://ramenbowls.com
 ---

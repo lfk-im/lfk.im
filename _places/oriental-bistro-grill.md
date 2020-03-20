@@ -13,5 +13,5 @@ notes: ''
 restaurant_phone: 785-841-8881
 takeout: true
 twitter: ''
-website: orientalbistrolawrence.com
+website: https://orientalbistrolawrence.com
 ---

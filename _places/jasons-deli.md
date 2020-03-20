@@ -13,5 +13,5 @@ notes: ''
 restaurant_phone: 785-842-5600
 takeout: true
 twitter: ''
-website: jasonsdeli.com
+website: https://jasonsdeli.com
 ---

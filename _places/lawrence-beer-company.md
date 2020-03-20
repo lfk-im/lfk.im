@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-856-0453
 takeout: false
 twitter: ''
-website: www.lawrencebeerco.com
+website: https://www.lawrencebeerco.com
 ---

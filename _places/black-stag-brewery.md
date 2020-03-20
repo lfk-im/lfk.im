@@ -12,5 +12,5 @@ notes: ''
 restaurant_phone: 785-766-1163
 takeout: true
 twitter: ''
-website: blackstagbrew.com
+website: https://blackstagbrew.com
 ---
