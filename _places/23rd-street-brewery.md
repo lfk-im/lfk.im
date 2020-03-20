@@ -3,7 +3,7 @@ address: 3512 Clinton Pkwy
 cuisine: American
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: eatstreet.com
 hours: 12 – 9 p.m
 name: 23rd Street Brewery

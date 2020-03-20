@@ -3,7 +3,7 @@ address: 616 W 9th St.
 cuisine: American, Italian
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: eatstreet.com
 hours: ''
 name: Basil Leaf Cafe

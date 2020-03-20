@@ -3,7 +3,7 @@ address: 623 Massachusetts Street
 cuisine: Steakhouse, American
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: eatstreet.com
 hours: ''
 name: Black Stag Brewery
