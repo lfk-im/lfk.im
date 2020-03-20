@@ -1,0 +1,49 @@
+---
+layout: none
+---
+<html>
+<head>
+    <link href="https://unpkg.com/tailwindcss@^1.2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="w-full mx-auto">
+  <div class="bg-gray-100 shadow-md rounded my-6">
+    <table class="text-left w-full border-collapse"> <!--Border collapse doesn't work on this site yet but it's available in newer tailwind versions -->
+      <thead>
+        <tr>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 text-right border-b border-gray-400">City</th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Address</th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400"></th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+{% for place in site.places %}
+        <tr class="hover:bg-blue-700 hover:text-gray-200 align-top">
+          <td class="py-4 px-6 border-b border-gray-400 text-blue-700 hover:text-gray-200 text-right">{{ place.name }}</td>
+          <td class="py-4 px-6 border-b border-gray-400">
+            <span class="text-gray-700">{{ place.address }}</span>
+            <br>
+            <span class="text-gray-800">{{ place.hours }}</span>
+          </td>
+          <td class="py-4 px-6 border-b border-gray-400">
+{{ place.takeout }}
+{{ place.curbside }}
+{{ place.delivery }}
+          </td>
+          <td class="py-4 px-6 border-b border-gray-400">
+            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+                {{ place.restaurant_phone }}
+            </a>
+            <a href="#" class="text-gray-200 py-1 px-3 rounded text-xs bg-blue-500 hover:bg-blue-600">View</a>
+          </td>
+        </tr>
+{% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</body>
+</html>
