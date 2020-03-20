@@ -1,15 +1,15 @@
 ---
 address: 935 Iowa Street
-cuisine: ''
+cuisine: Local Butcher, Eggs
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 hours: ''
 name: Leeway Butcher
-neighborhood: ''
+neighborhood: 9th and Iowa
 notes: ''
-restaurant_phone: ''
+restaurant_phone: 785-856-0890
 takeout: false
 twitter: ''
 website: http://leewaybutcher.com/
