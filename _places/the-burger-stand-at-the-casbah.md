@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: (785) 856-0543
 social: https://www.facebook.com/casbahburgerstand/
 takeout: false
-website: ''
+website: https://www.burgerstandrestaurants.com/
 ---
 
 Closed

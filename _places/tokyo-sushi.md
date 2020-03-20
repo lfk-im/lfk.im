@@ -13,7 +13,7 @@ notes: Open w/ limited seating. Order online w/ pick up curbside or delivery
 restaurant_phone: 785-832-8040
 social: ''
 takeout: true
-website: ''
+website: https://www.tokyosushilfk.com/#/
 ---
 
 Open w/ limited seating. Order online w/ pick up curbside or delivery

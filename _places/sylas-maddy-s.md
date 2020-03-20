@@ -13,7 +13,7 @@ notes: Still open, with to-go pints/quarts available
 restaurant_phone: 785-832-8323
 social: ''
 takeout: true
-website: ''
+website: http://www.sylasandmaddysicecream.com/
 ---
 
 Still open, with to-go pints/quarts available

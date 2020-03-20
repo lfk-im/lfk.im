@@ -13,7 +13,7 @@ notes: Unconfirmed
 restaurant_phone: 785-830-3998
 social: ''
 takeout: false
-website: ''
+website: https://theoread.com/dining-services/on-the-hill-restaurant/
 ---
 
 Unconfirmed

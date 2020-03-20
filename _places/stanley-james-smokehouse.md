@@ -13,5 +13,5 @@ notes: ''
 restaurant_phone: 785-841-9691
 social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true
-website: ''
+website: https://www.sjsmokehouse.com/
 ---

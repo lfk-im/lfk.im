@@ -13,7 +13,7 @@ notes: Unconfirmed
 restaurant_phone: 785-749-1005
 social: https://www.facebook.com/TheJayhawkerBar/
 takeout: false
-website: ''
+website: https://eldridgehotel.com/dining-service/thejayhawker/
 ---
 
 Unconfirmed

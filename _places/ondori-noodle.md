@@ -11,9 +11,9 @@ name: Ondori Noodle
 neighborhood: Downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
 restaurant_phone: 785-856-0210
-social: ''
+social: https://www.facebook.com/OndorinoodleLFK/
 takeout: true
-website: ''
+website: https://www.facebook.com/OndorinoodleLFK/
 ---
 
 Order by phone and pick up curbside, delivery via EatStreet

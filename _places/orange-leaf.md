@@ -22,7 +22,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
 restaurant_phone: 785-856-0544
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false
-website: ''
+website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
 ---
 
 1- Call us at 785-856-0544 to place your order ☎️

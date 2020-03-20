@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: 785-856-6453
 social: https://www.facebook.com/6MileChophouse/
 takeout: false
-website: ''
+website: http://6milechophouse.com/
 ---
 
 Closed
