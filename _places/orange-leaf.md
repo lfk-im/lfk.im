@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 4801 Bauer Farm Drive
 cuisine: Frozen yogurt
 curbside: true
