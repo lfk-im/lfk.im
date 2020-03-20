@@ -14,7 +14,9 @@ layout: none
         <tr>
           <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 text-right border-b border-gray-400">City</th>
           <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Address</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400"></th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Takeout</th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Curbside</th>
+          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Delivery</th>
           <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Actions</th>
         </tr>
       </thead>
@@ -27,16 +29,19 @@ layout: none
             <br>
             <span class="text-gray-800">{{ place.hours }}</span>
           </td>
-          <td class="py-4 px-6 border-b border-gray-400">
-{{ place.takeout }}
-{{ place.curbside }}
-{{ place.delivery }}
-          </td>
+          <td class="py-4 px-6 border-b border-gray-400">{% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}</td>
+          <td class="py-4 px-6 border-b border-gray-400">{% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}</td>
+          <td class="py-4 px-6 border-b border-gray-400">{% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}</td>
           <td class="py-4 px-6 border-b border-gray-400">
             <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
-                {{ place.restaurant_phone }}
+              {{ place.restaurant_phone }}
             </a>
-            <a href="#" class="text-gray-200 py-1 px-3 rounded text-xs bg-blue-500 hover:bg-blue-600">View</a>
+            <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+              Website
+            </a>
+            <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+              Menu
+            </a>
           </td>
         </tr>
 {% endfor %}
