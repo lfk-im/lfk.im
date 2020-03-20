@@ -7,41 +7,87 @@ layout: none
 </head>
 <body>
 
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0">
+    <h2 class="text-4xl font-bold leading-7 text-gray-100 bg-gray-900 sm:text-4xl sm:leading-9 sm:truncate py-3 px-3">
+      LFK.im
+    </h2>
+  </div>
+</div>
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3">
+    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
+      Welcome
+    </h2>
+    <h3>
+      <p>
+        Many Lawrence businesses are now offering curbside takeout and/or delivery through the next several weeks.
+      </p>
+      <p>
+        To help everyone stay up to date, we created this handy list, based information that
+        we found on the internet like the
+        <a class="hover:text-blue-500 text-blue-700 underline" href="https://lawrencechamber.com/local-business-directory-for-covid-19/">
+          Local Business Directory for COVID-19
+        </a>.
+        <a class="hover:text-blue-500 text-blue-700 underline" href="#add-your-business">
+          Add your business to the list
+        </a>
+      </p>
+    </h3>
+  </div>
+</div>
+
+
 <div class="w-full mx-auto">
-  <div class="bg-gray-100 shadow-md rounded my-6">
+  <div class="shadow-md rounded my-6 overflow-hidden">
     <table class="text-left w-full border-collapse"> <!--Border collapse doesn't work on this site yet but it's available in newer tailwind versions -->
       <thead>
-        <tr>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 text-right border-b border-gray-400">City</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Address</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Takeout</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Curbside</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Delivery</th>
-          <th class="py-4 px-6 bg-gray-100 font-bold uppercase text-sm text-gray-600 border-b border-gray-400">Actions</th>
+        <tr class="border-b border-gray-400 bg-gray-200">
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600 text-right">Name</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Address</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Takeout</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Curbside</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Delivery</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Actions</th>
         </tr>
       </thead>
       <tbody>
 {% for place in site.places %}
-        <tr class="hover:bg-blue-700 hover:text-gray-200 align-top">
-          <td class="py-4 px-6 border-b border-gray-400 text-blue-700 hover:text-gray-200 text-right">{{ place.name }}</td>
-          <td class="py-4 px-6 border-b border-gray-400">
-            <span class="text-gray-700">{{ place.address }}</span>
-            <br>
-            <span class="text-gray-800">{{ place.hours }}</span>
+        <tr class="bg-gray-100 hover:bg-blue-700 text-blue-800 hover:text-gray-200 align-top border-b border-gray-400">
+          <td class="py-4 px-6 hover:text-gray-200 font-medium text-right">
+            {{ place.name }}
           </td>
-          <td class="py-4 px-6 border-b border-gray-400">{% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}</td>
-          <td class="py-4 px-6 border-b border-gray-400">{% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}</td>
-          <td class="py-4 px-6 border-b border-gray-400">{% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}</td>
-          <td class="py-4 px-6 border-b border-gray-400">
-            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+          <td class="py-4 px-6">
+            {{ place.address }}
+          </td>
+          <td class="py-4 px-6 whitespace-no-wrap">
+            {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
+          </td>
+          <td class="py-4 px-6 whitespace-no-wrap">
+            {% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}
+          </td>
+          <td class="py-4 px-6 whitespace-no-wrap">
+            {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
+          </td>
+          <td class="py-4 px-6">
+            {% if place.restaurant_phone %}
+            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8 whitespace-no-wrap">
               {{ place.restaurant_phone }}
             </a>
-            <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+            {% endif %}
+            {% if place.website %}
+            <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
               Website
             </a>
-            <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700">
+            {% endif %}
+            {% comment %}
+            {% if place.delivery_service_websites %}
+            <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
               Menu
             </a>
+            {% endif %}
+            {% endcomment %}
           </td>
         </tr>
 {% endfor %}
@@ -50,5 +96,19 @@ layout: none
   </div>
 </div>
 
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3 py-8">
+    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
+      <a name="add-your-business"></a>
+      Add your business to the list
+    </h2>
+    <h3>
+      If you'd like to add your restaurant to the list or need to edit your listing, please
+      <a class="hover:text-blue-500 text-blue-700 underline" href="mailto:jeff.triplett@gmail.com">email us</a>.
+      Thank you to
+      <a class="hover:text-blue-500 text-blue-700 underline" href="https://www.curbsidekc.com/">Curbside KC</a> for the inspiration.
+    </h3>
+  </div>
+</div>
 </body>
 </html>
