@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Merchants
-neighborhood: ''
+neighborhood: Downtown
 notes: Family style orders by phone, online ordering is a work in progress,
 restaurant_phone: 785-843-4111
 social: ''

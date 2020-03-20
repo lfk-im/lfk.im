@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/wa-japanese-restaurant
 hours: ''
 name: Wa Restaurant
-neighborhood: ''
+neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-843-1990
 social: ''

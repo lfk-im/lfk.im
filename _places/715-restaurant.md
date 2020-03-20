@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: closed
 name: 715 Restaurant
-neighborhood: ''
+neighborhood: Downtown
 notes: Gift cards available for purchase over the phone from 10-1 daily
 restaurant_phone: 785-856-7150
 social: https://www.instagram.com/715restaurant/

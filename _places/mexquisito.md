@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/mexquisito?order-source=ORDER_NOW_IFRAME
 hours: ''
 name: Mexquisito
-neighborhood: ''
+neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: 785-856-8226
 social: ''

@@ -1,17 +1,17 @@
 ---
 active: true
-address: 815 New Hampshire St
+address: 1016 Massachusetts St
 cuisine: ''
-curbside: false
+curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 hours: ''
-name: Cielito Lindo
+name: Cheesy Street @ Lucia
 neighborhood: Downtown
 notes: ''
-restaurant_phone: 785-832-1545
+restaurant_phone: 785-865-4055
 social: ''
-takeout: false
-website: ''
+takeout: true
+website: https://cheesystreetkc.com/
 ---

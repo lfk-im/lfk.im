@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/encore-cafe
 hours: ''
 name: Encore Café
-neighborhood: ''
+neighborhood: Downtown
 notes: Order online or by phone, Sack lunches/dinners available
 restaurant_phone: eatstreet.com, jayhawk2go.com
 social: ''

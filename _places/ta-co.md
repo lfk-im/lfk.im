@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/taco-lawrence
 hours: ''
 name: Ta Co
-neighborhood: ''
+neighborhood: Downtown
 notes: Order by phone for takeout or delivery, or order through EatStreet
 restaurant_phone: 785-856-2170
 social: ''

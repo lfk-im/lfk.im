@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 hours: ''
 name: Bayleaf Indian Restaurant
-neighborhood: ''
+neighborhood: Downtown
 notes: Not confirmed
 restaurant_phone: ''
 social: ''

@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Milton's Café
-neighborhood: ''
+neighborhood: Downtown
 notes: Closed
 restaurant_phone: ''
 social: ''

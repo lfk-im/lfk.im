@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: The Burger Stand at The Casbah
-neighborhood: ''
+neighborhood: Downtown
 notes: Closed
 restaurant_phone: ''
 social: https://www.facebook.com/casbahburgerstand/

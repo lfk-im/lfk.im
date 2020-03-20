@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Terrebonne
-neighborhood: ''
+neighborhood: Downtown
 notes: Order by phone and carry out
 restaurant_phone: 785-856-3287
 social: ''

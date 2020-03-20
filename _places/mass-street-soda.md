@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Mass Street Soda
-neighborhood: ''
+neighborhood: Downtown
 notes: Evaluating and coming up with a plan for curbside service
 restaurant_phone: 785-615-0482
 social: https://www.facebook.com/massstreetsoda/

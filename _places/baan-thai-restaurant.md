@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: Mon-Fri 11am-8pm, Sat 12pm-8pm, Sun 4pm-8pm
 name: Baan Thai Restaurant
-neighborhood: ''
+neighborhood: Downtown
 notes: Closed
 restaurant_phone: ''
 social: https://www.facebook.com/Baan-Thai-Restaurant-Lawrence-KS-344278702411383/

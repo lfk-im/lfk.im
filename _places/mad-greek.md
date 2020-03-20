@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://www.doordash.com/store/the-mad-greek-lawrence-327564/
 hours: ''
 name: Mad Greek
-neighborhood: ''
+neighborhood: Downtown
 notes: Order by phone and pick up curbside, or use EatStreet
 restaurant_phone: 785-843-2441
 social: ''
