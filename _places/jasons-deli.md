@@ -1,4 +1,5 @@
 ---
+active: true
 address: 3140 Iowa St
 cuisine: American
 curbside: true
@@ -11,7 +12,7 @@ name: Jason’s Deli
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-842-5600
+social: ''
 takeout: true
-twitter: ''
 website: https://jasonsdeli.com
 ---

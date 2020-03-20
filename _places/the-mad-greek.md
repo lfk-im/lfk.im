@@ -1,4 +1,5 @@
 ---
+active: true
 address: 907 Massachusetts St
 cuisine: Greek, Italian
 curbside: true
@@ -13,7 +14,7 @@ name: The Mad Greek
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 704-523-8296
+social: ''
 takeout: true
-twitter: ''
 website: http://www.themadgreeklawrence.com
 ---

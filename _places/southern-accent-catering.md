@@ -1,4 +1,5 @@
 ---
+active: true
 address: 3115 W 6th St, Lawrence, KS 66049
 cuisine: Catering, Variety
 curbside: false
@@ -10,7 +11,7 @@ name: Southern Accent Catering
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-749-2770
+social: ''
 takeout: true
-twitter: ''
 website: https://southernaccentcatering.com
 ---

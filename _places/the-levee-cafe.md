@@ -1,4 +1,5 @@
 ---
+active: true
 address: 239 Elm St
 cuisine: American, Breakfast, Sandwiches
 curbside: true
@@ -10,7 +11,7 @@ name: The Levee Cafe
 neighborhood: North Lawrence
 notes: ''
 restaurant_phone: 785-856-3671
+social: ''
 takeout: false
-twitter: ''
 website: https://theleveecafe.com
 ---

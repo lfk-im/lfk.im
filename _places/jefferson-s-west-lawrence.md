@@ -1,4 +1,5 @@
 ---
+active: true
 address: 1540 Wakarusa Drive
 cuisine: American
 curbside: true
@@ -10,7 +11,7 @@ name: Jefferson's West Lawrence
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-856-1558
+social: ''
 takeout: false
-twitter: ''
 website: https://jeffersons.com/order-online/
 ---

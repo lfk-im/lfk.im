@@ -1,4 +1,5 @@
 ---
+active: true
 address: 904 Vermont Street
 cuisine: Bakery
 curbside: true
@@ -10,7 +11,7 @@ name: Wheatfields Bakery
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-841-5553
+social: https://twitter.com/WheatfieldsBkry
 takeout: true
-twitter: WheatfieldsBkry
 website: http://wheatfieldsbakery.com/
 ---

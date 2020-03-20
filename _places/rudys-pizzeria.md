@@ -1,16 +1,20 @@
 ---
+active: true
 address: 704 Massachusetts St, Lawrence, KS 66044
 cuisine: Pizza
-curbside: false
+curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com, chownow.com, seamless.com, grubhub.com
+delivery_service_websites: eatstreet.com, chownow.com, seamless.com, grubhub.com,
+  https://www.grubhub.com/restaurant/rudys-pizzeria-704-massachusetts-st-lawrence/1033137
 hours: ''
 name: Rudy’s Pizzeria
 neighborhood: Downtown
-notes: ''
+notes: Order online or call to prepay
 restaurant_phone: 785-749-0055
+social: ''
 takeout: true
-twitter: ''
 website: http://rudyspizzeria.com
 ---
+
+Order online or call to prepay

@@ -1,4 +1,5 @@
 ---
+active: true
 address: 2112 W 25th St, Lawrence, KS 66047
 cuisine: Italian
 curbside: true
@@ -10,7 +11,7 @@ name: Paisano's Ristorante
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-838-3500
+social: ''
 takeout: true
-twitter: ''
 website: https://paisanoskansas.com
 ---

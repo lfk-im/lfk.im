@@ -1,4 +1,5 @@
 ---
+active: true
 address: 1031 New Hampshire St.
 cuisine: Heat & Eat
 curbside: true
@@ -11,7 +12,7 @@ name: Maceli’s
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-1841
+social: ''
 takeout: false
-twitter: ''
 website: https://macelisonline.com/?fbclid=IwAR1Jak6igKdiAjGpdiqUUqNLo_9LGOWNXkPNvXzXyEV1Y6_KceA8XZIJRYE
 ---

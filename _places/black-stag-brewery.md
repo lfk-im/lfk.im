@@ -1,16 +1,19 @@
 ---
-address: 623 Massachusetts Street
+active: false
+address: 623 Massachusetts St
 cuisine: Steakhouse, American
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: eatstreet.com
 hours: ''
 name: Black Stag Brewery
 neighborhood: Downtown
-notes: ''
+notes: Closed
 restaurant_phone: 785-766-1163
-takeout: true
-twitter: ''
+social: ''
+takeout: false
 website: https://blackstagbrew.com
 ---
+
+Closed

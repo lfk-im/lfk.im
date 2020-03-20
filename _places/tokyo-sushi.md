@@ -1,16 +1,19 @@
 ---
+active: true
 address: 619 Massachusetts St
 cuisine: Sushi, Japanese
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: ''
+delivery_service_websites: https://www.tokyosushilfk.com/#/
 hours: ''
 name: Tokyo Sushi
 neighborhood: Downtown
-notes: ''
+notes: Open w/ limited seating. Order online w/ pick up curbside or delivery
 restaurant_phone: 785-832-8040
+social: ''
 takeout: true
-twitter: ''
 website: ''
 ---
+
+Open w/ limited seating. Order online w/ pick up curbside or delivery

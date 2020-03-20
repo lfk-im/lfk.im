@@ -1,5 +1,6 @@
 ---
-address: 743 Massachusetts St.
+active: true
+address: 743 Massachusetts St
 cuisine: American
 curbside: true
 curbside_instructions: ''
@@ -10,7 +11,7 @@ name: Jefferson’s Downtown
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-832-2000
+social: ''
 takeout: false
-twitter: ''
 website: https://jeffersons.com/order-online/
 ---

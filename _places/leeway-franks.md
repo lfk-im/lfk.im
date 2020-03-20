@@ -1,18 +1,19 @@
 ---
-address: 935 Iowa St
+active: true
+address: 935 Iowa Street
 cuisine: American, Sausages
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Mon-Sat 11am - 8pm, Sun 10am - 3pm
+hours: Mon-Sat 11am-8pm, Sun 10am-3pm
 name: Leeway Franks
 neighborhood: 9th and Iowa Area
-notes: 'Buy gift cards: HTTPS://SQUAREUP.COM/GIFT/64TN11KPYF88G/ORDER'
+notes: Order by phone with delivery available, or pick up curbside
 restaurant_phone: 785-856-0890
+social: ''
 takeout: true
-twitter: ''
 website: http://leewayfranks.com
 ---
 
-Buy gift cards: HTTPS://SQUAREUP.COM/GIFT/64TN11KPYF88G/ORDER
+Order by phone with delivery available, or pick up curbside

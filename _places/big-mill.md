@@ -1,16 +1,19 @@
 ---
+active: true
 address: 900 Mississippi
 cuisine: American, Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: ''
-hours: 11am - 8pm Daily
+delivery_service_websites: https://bigmill.hrpos.heartland.us/
+hours: 11am-8pm Daily
 name: Big Mill
 neighborhood: Downtown-Adjacent
-notes: ''
+notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
 restaurant_phone: 785-856-0101
-takeout: false
-twitter: ''
+social: https://www.facebook.com/BigMillLawrence/
+takeout: true
 website: https://www.facebook.com/BigMillLawrence
 ---
+
+Offering curbside to go & delivery from 11am to 9pm, order online or by phone

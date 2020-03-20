@@ -1,4 +1,5 @@
 ---
+active: true
 address: 721 Wakarusa
 cuisine: American, Sandwiches, Pizza, Salads
 curbside: true
@@ -10,7 +11,7 @@ name: Johnny's Tavern West Lawrence
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-843-0704
+social: ''
 takeout: true
-twitter: ''
 website: https://johnnystavern.com
 ---
