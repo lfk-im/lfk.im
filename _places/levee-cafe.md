@@ -13,7 +13,7 @@ notes: Heat and eat meals for pick-up. Check social media for times
 restaurant_phone: 785-856-3671
 social: https://www.facebook.com/TheLeveeCafe/
 takeout: true
-website: ''
+website: http://theleveecafe.com/
 ---
 
 Heat and eat meals for pick-up. Check social media for times

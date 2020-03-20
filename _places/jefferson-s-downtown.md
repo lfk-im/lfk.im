@@ -7,7 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 hours: ''
-name: Jefferson’s Downtown
+name: Jefferson's Downtown
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-832-2000

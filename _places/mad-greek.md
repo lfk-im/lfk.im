@@ -13,7 +13,7 @@ notes: Order by phone and pick up curbside, or use EatStreet
 restaurant_phone: 785-843-2441
 social: ''
 takeout: false
-website: ''
+website: https://www.themadgreeklawrence.com/
 ---
 
 Order by phone and pick up curbside, or use EatStreet

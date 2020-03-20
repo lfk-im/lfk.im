@@ -13,7 +13,7 @@ notes: Closed, but plan to reopen Tuesday March 31
 restaurant_phone: 785-856-8010
 social: https://www.facebook.com/mamastamaleshop/
 takeout: false
-website: ''
+website: http://www.littlesaigonlawrence.com/
 ---
 
 Closed, but plan to reopen Tuesday March 31

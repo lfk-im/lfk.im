@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: 785-424-7565
 social: https://www.facebook.com/mamastamaleshop/
 takeout: false
-website: ''
+website: https://www.facebook.com/mamastamaleshop/
 ---
 
 Closed
