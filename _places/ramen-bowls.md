@@ -2,7 +2,7 @@
 active: true
 address: 918 Massachusetts St
 cuisine: Asian, Ramen
-curbside: false
+curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
