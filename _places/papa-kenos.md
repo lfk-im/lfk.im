@@ -1,16 +1,16 @@
 ---
 address: 1035 Massachusetts St.
 cuisine: Pizza
-curbside: 'no'
+curbside: false
 curbside_instructions: ''
-delivery: 'yes'
+delivery: true
 delivery_service_websites: 'postmates.com, grubhub.com, '
 hours: ''
 name: Papa Keno’s
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-841-7272
-takeout: 'yes'
+takeout: true
 twitter: ''
 website: http://www.papakenos.com
 ---

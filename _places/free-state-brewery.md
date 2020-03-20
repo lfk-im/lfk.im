@@ -1,9 +1,9 @@
 ---
 address: 636 Massachusetts Street
 cuisine: American, Sandwiches, Pasta, Salads
-curbside: 'yes'
+curbside: true
 curbside_instructions: ''
-delivery: 'no'
+delivery: false
 delivery_service_websites: cannot find
 hours: 12-8 (feel free to call before noon)
 name: Free State Brewery
@@ -12,7 +12,7 @@ notes: Don’t forget to grab a six-pack of Free State beer next time you’re s
   up at the grocery or visiting your local liquor retailer. It’s a great way to visit
   Free State when you can’t visit Free State.
 restaurant_phone: 785-843-4555
-takeout: 'yes'
+takeout: true
 twitter: ''
 website: http://www.freestatebrewing.com/brewpub/
 ---

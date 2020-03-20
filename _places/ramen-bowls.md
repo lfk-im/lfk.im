@@ -1,16 +1,16 @@
 ---
 address: 918 Massachusetts St.
 cuisine: Asian, Ramen
-curbside: 'no'
+curbside: false
 curbside_instructions: ''
-delivery: 'yes'
+delivery: true
 delivery_service_websites: eatstreet.com, grubhub.com, chownow.com, seamless.com
 hours: ''
 name: Ramen Bowls
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-842-6957
-takeout: 'yes'
+takeout: true
 twitter: ''
 website: ramenbowls.com
 ---

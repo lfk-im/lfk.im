@@ -1,16 +1,16 @@
 ---
 address: 2435 Iowa St.
 cuisine: American, Chicken
-curbside: 'no'
+curbside: false
 curbside_instructions: ''
-delivery: 'no'
+delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Raising Cane’s
 neighborhood: South Lawrence
 notes: Drive through also available
 restaurant_phone: 785-840-9800
-takeout: 'yes'
+takeout: true
 twitter: ''
 website: ''
 ---
