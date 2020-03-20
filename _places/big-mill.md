@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: 11am-8pm
+hours: 11am - 8pm Daily
 name: Big Mill
 neighborhood: Downtown-Adjacent
 notes: ''

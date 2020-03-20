@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.toasttab.com/lawrencebeerco/v3
-hours: 3-8PM
+hours: 3pm - 8pm Daily
 name: Lawrence Beer Company
 neighborhood: Downtown
 notes: ''

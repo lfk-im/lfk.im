@@ -6,7 +6,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: eatstreet.com, grubhub.com, seamless.com, postmates.com,
   doordash.com
-hours: 11 A.M.-9 P.M.  SUN-THU 11 A.M.-10:30 P.M. FRI-SAT
+hours: Sun-Thu 11am - 9pm, Fri-Sat 11am - 10:30pm
 name: Salty Iguana Lawrence
 neighborhood: West Lawrence
 notes: ''

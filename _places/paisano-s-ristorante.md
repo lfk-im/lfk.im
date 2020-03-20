@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: doordash.com, eatstreet.com
-hours: 11am-10pm Mon-Thu, 11am-11pm Fri-Sat
+hours: Mon-Thu 11am-10pm, Fri-Sat 11am-11pm
 name: Paisano's Ristorante
 neighborhood: South Lawrence
 notes: ''

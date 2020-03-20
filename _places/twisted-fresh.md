@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: doordash.com
-hours: 11am-6:30pm
+hours: 11am - 6:30pm Daily
 name: Twisted Fresh
 neighborhood: West Lawrence
 notes: ''

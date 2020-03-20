@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: eatstreet.com
-hours: 12 – 9 p.m
+hours: 12pm - 9pm Daily
 name: 23rd Street Brewery
 neighborhood: Southwest Lawrence
 notes: ''

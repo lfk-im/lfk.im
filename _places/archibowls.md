@@ -5,7 +5,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: eatstreet.com, grubhub.com, seamless.com
-hours: 12 – 8 p.m.
+hours: 12pm - 8pm Daily
 name: Archibowls
 neighborhood: Downtown
 notes: offering free hot beans and rice meals at the window from noon to 8 every day.

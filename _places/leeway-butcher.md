@@ -7,7 +7,7 @@ delivery: true
 delivery_service_websites: ''
 hours: ''
 name: Leeway Butcher
-neighborhood: 9th and Iowa
+neighborhood: 9th and Iowa Area
 notes: ''
 restaurant_phone: 785-856-0890
 takeout: false

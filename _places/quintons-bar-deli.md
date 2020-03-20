@@ -5,7 +5,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: seamless.com, eatstreet.com, grubhub.com, doordash.com
-hours: until 8pm daily
+hours: 11am - 8pm Daily
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 notes: ''
