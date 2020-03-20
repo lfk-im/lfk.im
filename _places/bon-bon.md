@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 804 Pennsylvania St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

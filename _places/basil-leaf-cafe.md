@@ -1,6 +1,6 @@
 ---
 active: false
-address: 616 W 9th St.
+address: 616 W 9th St
 cuisine: American, Italian
 curbside: false
 curbside_instructions: ''

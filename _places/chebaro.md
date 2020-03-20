@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1000 W 23rd St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

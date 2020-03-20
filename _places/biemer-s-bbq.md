@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 2120 W 9th St
 cuisine: ''
 curbside: true
 curbside_instructions: ''

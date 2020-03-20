@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 815 New Hampshire St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

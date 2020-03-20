@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: '947 New Hampshire St #120'
 cuisine: ''
 curbside: false
 curbside_instructions: ''

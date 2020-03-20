@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 Mississippi
+address: 900 Mississippi St
 cuisine: American, Pizza
 curbside: true
 curbside_instructions: ''

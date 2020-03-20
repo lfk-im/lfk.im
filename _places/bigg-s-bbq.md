@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 2429 Iowa St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
