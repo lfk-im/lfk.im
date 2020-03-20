@@ -3,6 +3,7 @@ layout: none
 ---
 <html>
 <head>
+    <title>LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses</title>
     <link href="https://unpkg.com/tailwindcss@^1.2/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body>
@@ -76,11 +77,13 @@ layout: none
               {{ place.restaurant_phone }}
             </a>
             {% endif %}
+            {% comment %}
             {% if place.website %}
             <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
               Website
             </a>
             {% endif %}
+            {% endcomment %}
             {% comment %}
             {% if place.delivery_service_websites %}
             <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
@@ -105,9 +108,13 @@ layout: none
     <h3>
       If you'd like to add your restaurant to the list or need to edit your listing, please
       <a class="hover:text-blue-500 text-blue-700 underline" href="mailto:jeff.triplett@gmail.com">email us</a>.
-      ♥ Thank you
-      <a class="hover:text-blue-500 text-blue-700 underline" href="https://www.curbsidekc.com/">Curbside KC</a> for the inspiration.
+      <p>Thank you
+        <a class="hover:text-blue-500 text-blue-700 underline" href="https://www.curbsidekc.com/">Curbside KC</a> for the inspiration.
+      </p>
     </h3>
+    <div class="text-center">
+      <p>Made with ♥ in LFK by <a class="hover:text-blue-500 text-blue-700 underline" href="https://twitter.com/webology">Jeff Triplett</a>
+    </div>
   </div>
 </div>
 </body>
