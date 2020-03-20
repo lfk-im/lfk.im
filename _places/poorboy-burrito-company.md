@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1900 Massachusetts S
 cuisine: ''
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 13 E 8th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3115 W 6th St, Lawrence, KS 66049
+address: 3115 W 6th St
 cuisine: Catering, Variety
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1011 Massachusetts St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

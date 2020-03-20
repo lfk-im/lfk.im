@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 801 Massachusetts St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

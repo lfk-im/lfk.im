@@ -1,6 +1,6 @@
 ---
 active: false
-address: 615 Massachusetts Street
+address: 615 Massachusetts St
 cuisine: American, Sandwiches
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 704 Massachusetts St, Lawrence, KS 66044
+address: 704 Massachusetts St
 cuisine: Pizza
 curbside: true
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1200 Oread Ave
 cuisine: ''
 curbside: false
 curbside_instructions: ''

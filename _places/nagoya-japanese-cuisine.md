@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: '711 W 23rd St #24'
 cuisine: ''
 curbside: false
 curbside_instructions: ''

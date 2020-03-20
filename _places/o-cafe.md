@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1530 W 6th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

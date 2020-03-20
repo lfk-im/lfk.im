@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1500 E 23rd St
 cuisine: ''
 curbside: true
 curbside_instructions: ''
