@@ -1,9 +1,18 @@
 ---
-layout: home
+layout: none
 ---
 
-<ul>
+<div>
 {% for place in site.places %}
-<li>{{ place.name }}</li>
+<div>
+{{ place.name }} 
+{{ place.address }}
+{{ place.hours }}
+{{ place.restaurant_phone }}
+{{ place.takeout }}
+{{ place.curbside }}
+{{ place.delivery }}
+</div>
+<hr>
 {% endfor %}
-</ul>
+</div>
