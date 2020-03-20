@@ -2,7 +2,7 @@
 active: true
 address: 820 Massachusetts St
 cuisine: ''
-curbside: false
+curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
