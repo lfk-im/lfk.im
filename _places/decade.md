@@ -13,7 +13,7 @@ notes: Online ordering coming next week for to-go and curbside service
 restaurant_phone: 785-550-7944
 social: https://www.instagram.com/decadelawrence/
 takeout: false
-website: ''
+website: http://www.decadelawrence.com/
 ---
 
 Online ordering coming next week for to-go and curbside service

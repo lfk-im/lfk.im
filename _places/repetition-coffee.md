@@ -13,7 +13,7 @@ notes: Free porch delivery within Lawrence
 restaurant_phone: ''
 social: ''
 takeout: false
-website: ''
+website: https://repetitioncoffee.com/
 ---
 
 Free porch delivery within Lawrence

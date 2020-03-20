@@ -13,7 +13,7 @@ notes: Call to order for pick-up
 restaurant_phone: 785-832-1100
 social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true
-website: ''
+website: https://aladdincafelawrence.com
 ---
 
 Call to order for pick-up

@@ -8,9 +8,9 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Moose McGuire's
-neighborhood: ''
+neighborhood: Downtown
 notes: Unconfirmed
-restaurant_phone: ''
+restaurant_phone: (785) 856-0918
 social: ''
 takeout: false
 website: ''

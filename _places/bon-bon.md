@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: (785) 856-2275
 social: https://www.instagram.com/bonbonlawrence/
 takeout: false
-website: ''
+website: https://www.bonbonlawrence.com/
 ---
 
 Closed

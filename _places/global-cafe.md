@@ -14,7 +14,7 @@ notes: Open w/ limited hours, can order online or on the phone for delivery/carr
 restaurant_phone: 785-838-4600
 social: ''
 takeout: true
-website: ''
+website: https://www.globalcafelawrence.com/
 ---
 
 Open w/ limited hours, can order online or on the phone for delivery/carry out

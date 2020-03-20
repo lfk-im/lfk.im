@@ -10,10 +10,10 @@ hours: ''
 name: Encore Café
 neighborhood: Downtown
 notes: Order online or by phone, Sack lunches/dinners available
-restaurant_phone: eatstreet.com, jayhawk2go.com
+restaurant_phone: (785) 856-3682
 social: ''
 takeout: true
-website: ''
+website: https://www.encorecafeks.com/
 ---
 
 Order online or by phone, Sack lunches/dinners available

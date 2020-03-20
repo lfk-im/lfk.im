@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Mama's Tamale Shop
-neighborhood: ''
+neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-424-7565
 social: https://www.facebook.com/mamastamaleshop/

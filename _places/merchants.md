@@ -9,11 +9,11 @@ delivery_service_websites: ''
 hours: ''
 name: Merchants
 neighborhood: Downtown
-notes: Family style orders by phone, online ordering is a work in progress,
+notes: Family style orders by phone, online ordering is a work in progress
 restaurant_phone: 785-843-4111
-social: ''
+social: https://www.facebook.com/MerchantsOnMass/
 takeout: true
-website: ''
+website: https://www.merchantsonmass.com/
 ---
 
-Family style orders by phone, online ordering is a work in progress,
+Family style orders by phone, online ordering is a work in progress

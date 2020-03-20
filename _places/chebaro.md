@@ -13,5 +13,5 @@ notes: ''
 restaurant_phone: (785) 312-7660
 social: https://www.facebook.com/ChebaroMG/
 takeout: false
-website: ''
+website: https://www.facebook.com/ChebaroMG/
 ---

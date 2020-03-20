@@ -13,7 +13,7 @@ notes: Still open for now, also sells cookie dough to go
 restaurant_phone: 785-856-2253
 social: ''
 takeout: true
-website: ''
+website: https://www.eileenscookies.com/store/lawrence/
 ---
 
 Still open for now, also sells cookie dough to go

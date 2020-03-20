@@ -11,7 +11,7 @@ name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence
 notes: ''
 restaurant_phone: 785-842-0377
-social: ''
+social: https://www.facebook.com/JohnnysNorth/
 takeout: true
 website: https://johnnystavern.com
 ---

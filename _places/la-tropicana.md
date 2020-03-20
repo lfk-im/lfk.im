@@ -8,10 +8,10 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: La Tropicana
-neighborhood: ''
+neighborhood: North Lawrence
 notes: ''
 restaurant_phone: 785-749-3550
-social: ''
+social: https://www.facebook.com/La-Tropicana-303599736470231/
 takeout: true
-website: ''
+website: https://www.facebook.com/La-Tropicana-303599736470231/
 ---

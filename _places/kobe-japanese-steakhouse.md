@@ -8,12 +8,12 @@ delivery: true
 delivery_service_websites: https://kobejapanesesteakhouselawrence.com/28634
 hours: ''
 name: Kobe Japanese Steakhouse
-neighborhood: ''
+neighborhood: Old West Lawrence
 notes: Unconfirmed
 restaurant_phone: 785-838-3399
 social: ''
 takeout: true
-website: ''
+website: https://kobejapanesesteakhouselawrence.com/28634
 ---
 
 Unconfirmed

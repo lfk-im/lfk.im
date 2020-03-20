@@ -8,12 +8,12 @@ delivery: false
 delivery_service_websites: http://www.laestrellamexicana.com/orderonline
 hours: ''
 name: La Estrella
-neighborhood: ''
+neighborhood: South Lawrence
 notes: Order online, pick up in store
 restaurant_phone: 785-843-1595
-social: ''
+social: https://www.instagram.com/laestrellamexicana/
 takeout: true
-website: ''
+website: http://www.laestrellamexicana.com/
 ---
 
 Order online, pick up in store

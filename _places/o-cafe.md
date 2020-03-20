@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: O Cafe
-neighborhood: ''
+neighborhood: Old West Lawrence
 notes: Unconfirmed
 restaurant_phone: (785) 312-9211
 social: ''

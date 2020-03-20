@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://order.mclainsbakerykc.com/mclains-lawrence/menu
 hours: ''
 name: McLain's
-neighborhood: ''
+neighborhood: KU Campus Area
 notes: Order online or by phone for delivery
 restaurant_phone: 785-371-9050
 social: ''

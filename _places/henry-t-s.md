@@ -8,12 +8,12 @@ delivery: true
 delivery_service_websites: ''
 hours: ''
 name: Henry T's
-neighborhood: ''
+neighborhood: Old West Lawrence
 notes: Call or order online via EatStreet
 restaurant_phone: 785-749-2999
 social: https://www.facebook.com/HenryTsLawrence/
 takeout: true
-website: ''
+website: https://henryts.com/
 ---
 
 Call or order online via EatStreet

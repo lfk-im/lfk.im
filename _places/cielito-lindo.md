@@ -11,7 +11,7 @@ name: Cielito Lindo
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-832-1545
-social: ''
+social: https://www.facebook.com/cielitolindoks/
 takeout: false
-website: ''
+website: https://www.cielitolindoks.com/#/
 ---

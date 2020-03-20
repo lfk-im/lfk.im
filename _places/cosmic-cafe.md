@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: 785-551-3347
 social: https://www.facebook.com/cosmiclawrence/
 takeout: false
-website: ''
+website: https://www.facebook.com/cosmiclawrence/
 ---
 
 Closed

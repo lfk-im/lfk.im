@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence
 hours: ''
 name: Mediterranean Market
-neighborhood: ''
+neighborhood: West Lawrence
 notes: Unconfirmed
 restaurant_phone: 785-842-9383
 social: ''

@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Mana Bar
-neighborhood: ''
+neighborhood: Downtown
 notes: Retail Only
 restaurant_phone: (785) 856-8227
 social: ''

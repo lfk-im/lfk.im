@@ -13,7 +13,7 @@ notes: Order online or call
 restaurant_phone: 785-856-3444
 social: ''
 takeout: true
-website: ''
+website: https://www.elmezcaltogo.com/#menu
 ---
 
 Order online or call

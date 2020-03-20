@@ -11,9 +11,9 @@ name: RPG
 neighborhood: Downtown
 notes: Gift cards available for purchase online, online ordering is in the works
 restaurant_phone: 785-330-5079
-social: ''
+social: https://www.facebook.com/RPGLawrence/
 takeout: false
-website: ''
+website: https://rpglawrence.com
 ---
 
 Gift cards available for purchase online, online ordering is in the works

@@ -13,7 +13,7 @@ notes: Unconfirmed
 restaurant_phone: (785) 830-3921
 social: https://www.facebook.com/BirdDogBar/
 takeout: false
-website: ''
+website: https://theoread.com/dining-services/bird-dog-bar/
 ---
 
 Unconfirmed

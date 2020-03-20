@@ -13,7 +13,7 @@ notes: Delivery through EatStreet, or curbside pickup of phone orders
 restaurant_phone: 785-843-5173
 social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true
-website: ''
+website: https://www.facebook.com/AimeesCoffeehouse/
 ---
 
 Delivery through EatStreet, or curbside pickup of phone orders

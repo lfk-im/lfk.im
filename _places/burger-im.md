@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: ''
 hours: 11am-8pm Daily
 name: Burger IM
-neighborhood: ''
+neighborhood: South Lawrence
 notes: People can order bottles of beer and pick up
 restaurant_phone: 785-856-1010
 social: https://www.facebook.com/burgerimlawrence/

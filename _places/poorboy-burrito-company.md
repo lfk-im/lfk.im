@@ -10,10 +10,10 @@ hours: ''
 name: PoorBoy Burrito Company
 neighborhood: Downtown-Adjacent
 notes: Unconfirmed
-restaurant_phone: ''
-social: ''
+restaurant_phone: (785) 550-3317
+social: https://www.facebook.com/webuildyoueat/
 takeout: false
-website: ''
+website: https://www.facebook.com/webuildyoueat/
 ---
 
 Unconfirmed

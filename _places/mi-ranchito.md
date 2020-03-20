@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://lawrence.ordermiranchitokc.com/#/
 hours: ''
 name: Mi Ranchito
-neighborhood: ''
+neighborhood: South Lawrence
 notes: Call or order online
 restaurant_phone: 785-749-5600
 social: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/

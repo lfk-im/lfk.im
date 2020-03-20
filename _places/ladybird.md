@@ -11,9 +11,9 @@ name: Ladybird
 neighborhood: Downtown
 notes: Free sack lunches available, can order gift cards by phone or donate online
 restaurant_phone: 785-856-5239
-social: ''
+social: https://www.instagram.com/ladybird_diner/
 takeout: false
-website: ''
+website: https://ladybirddiner.com/
 ---
 
 Free sack lunches available, can order gift cards by phone or donate online

@@ -13,7 +13,7 @@ notes: Closed
 restaurant_phone: (785) 766-8591
 social: ''
 takeout: false
-website: ''
+website: https://www.culinariafoodandwine.com/
 ---
 
 Closed

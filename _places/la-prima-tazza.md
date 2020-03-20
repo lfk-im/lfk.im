@@ -13,7 +13,7 @@ notes: Currently closed, working on delivery options
 restaurant_phone: 785-832-2233
 social: https://www.facebook.com/La-Prima-Tazza-239100315171/
 takeout: false
-website: ''
+website: http://laprimatazza.com/
 ---
 
 Currently closed, working on delivery options
