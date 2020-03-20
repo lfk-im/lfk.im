@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 638 Massachusetts St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: La Prima Tazza
 neighborhood: ''
 notes: Currently closed, working on delivery options
 restaurant_phone: 785-832-2233
-social: Facebook
+social: https://www.facebook.com/La-Prima-Tazza-239100315171/
 takeout: false
 website: ''
 ---

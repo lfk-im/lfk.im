@@ -11,7 +11,7 @@ name: Baan Thai Restaurant
 neighborhood: ''
 notes: Closed
 restaurant_phone: ''
-social: Facebook
+social: https://www.facebook.com/Baan-Thai-Restaurant-Lawrence-KS-344278702411383/
 takeout: false
 website: ''
 ---

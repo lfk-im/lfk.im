@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1524 W 23rd St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Little Saigon Cafe
 neighborhood: ''
 notes: Closed, but plan to reopen Tuesday March 31
 restaurant_phone: 785-856-8010
-social: Facebook
+social: https://www.facebook.com/mamastamaleshop/
 takeout: false
 website: ''
 ---

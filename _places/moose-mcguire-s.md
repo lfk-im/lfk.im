@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 3320 McCarthy Rd
 cuisine: ''
 curbside: false
 curbside_instructions: ''

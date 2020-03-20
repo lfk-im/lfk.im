@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1540 Wakarusa Drive
+address: 1540 Wakarusa Dr
 cuisine: American
 curbside: true
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 512 E 9th St, Lawrence
 cuisine: ''
 curbside: false
 curbside_instructions: ''

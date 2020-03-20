@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 925 Iowa St
 cuisine: ''
 curbside: true
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Munchers Bakery
 neighborhood: ''
 notes: Dining area closed, but open for takeout
 restaurant_phone: 785-749-4324
-social: Facebook
+social: https://www.facebook.com/munchersbakery/
 takeout: true
 website: ''
 ---

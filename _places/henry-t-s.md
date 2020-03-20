@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 3520 W 6th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Henry T's
 neighborhood: ''
 notes: Call or order online via EatStreet
 restaurant_phone: 785-749-2999
-social: Facebook
+social: https://www.facebook.com/HenryTsLawrence/
 takeout: true
 website: ''
 ---

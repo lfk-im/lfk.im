@@ -11,7 +11,7 @@ name: "The Jayhawker \nat the Eldridge Hotel"
 neighborhood: ''
 notes: Unconfirmed
 restaurant_phone: 785-749-1005
-social: Facebook
+social: https://www.facebook.com/TheJayhawkerBar/
 takeout: false
 website: ''
 ---

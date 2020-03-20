@@ -11,7 +11,7 @@ name: Bon Bon!
 neighborhood: ''
 notes: Closed
 restaurant_phone: ''
-social: Instagram
+social: https://www.instagram.com/bonbonlawrence/
 takeout: false
 website: ''
 ---

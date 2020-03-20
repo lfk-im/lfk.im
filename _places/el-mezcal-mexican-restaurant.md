@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1819 W 23rd St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

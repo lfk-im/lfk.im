@@ -11,7 +11,7 @@ name: The Roost
 neighborhood: ''
 notes: Until 3/20 - Order by phone and pick up curbside
 restaurant_phone: 785-843-1110
-social: Facebook
+social: https://www.facebook.com/920Mass/
 takeout: false
 website: ''
 ---

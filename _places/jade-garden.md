@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1410 Kasold Dr A13
 cuisine: ''
 curbside: true
 curbside_instructions: ''

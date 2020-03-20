@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2112 W 25th St, Lawrence, KS 66047
+address: 2112 W 25th St
 cuisine: Italian
 curbside: true
 curbside_instructions: ''

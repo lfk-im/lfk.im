@@ -11,7 +11,7 @@ name: Aladdin Cafe
 neighborhood: ''
 notes: Call to order for pick-up
 restaurant_phone: 785-832-1100
-social: Facebook
+social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true
 website: ''
 ---

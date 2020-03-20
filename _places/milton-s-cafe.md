@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 901 New Hampshire St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

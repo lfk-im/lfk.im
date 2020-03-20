@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 934 Massachusetts St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

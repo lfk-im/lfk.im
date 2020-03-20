@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 4931 W 6th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Morningstar's New York Pizza
 neighborhood: ''
 notes: Order online or call
 restaurant_phone: 785-856-6973
-social: Facebook
+social: https://www.facebook.com/morningstarsnyp/
 takeout: true
 website: ''
 ---

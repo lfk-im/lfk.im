@@ -11,7 +11,7 @@ name: Aimee's Coffeehouse
 neighborhood: ''
 notes: Delivery through EatStreet, or curbside pickup of phone orders
 restaurant_phone: 785-843-5173
-social: Facebook
+social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true
 website: ''
 ---

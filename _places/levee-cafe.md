@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 239 Elm St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Levee Cafe
 neighborhood: ''
 notes: Heat and eat meals for pick-up. Check social media for times
 restaurant_phone: 785-856-3671
-social: Facebook
+social: https://www.facebook.com/TheLeveeCafe/
 takeout: true
 website: ''
 ---

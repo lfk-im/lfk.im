@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1420 Crescent Rd
 cuisine: ''
 curbside: false
 curbside_instructions: ''

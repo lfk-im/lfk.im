@@ -11,7 +11,7 @@ name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 notes: Order online or by phone and pick up curbside on Mass
 restaurant_phone: 785-424-5601
-social: https://www.instagram.com/p/B93-CYPJ9Hd/
+social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
 website: ''
 ---

@@ -11,7 +11,7 @@ name: The Burger Stand at The Casbah
 neighborhood: ''
 notes: Closed
 restaurant_phone: ''
-social: Facebook
+social: https://www.facebook.com/casbahburgerstand/
 takeout: false
 website: ''
 ---

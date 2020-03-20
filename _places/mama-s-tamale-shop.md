@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 616 W 9th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Mama's Tamale Shop
 neighborhood: ''
 notes: Closed
 restaurant_phone: 785-424-7565
-social: Facebook
+social: https://www.facebook.com/mamastamaleshop/
 takeout: false
 website: ''
 ---

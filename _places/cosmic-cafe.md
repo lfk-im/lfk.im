@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 1910 Haskell Ave Suite 2
 cuisine: ''
 curbside: false
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Cosmic Cafe
 neighborhood: ''
 notes: Closed
 restaurant_phone: 785-551-3347
-social: Facebook
+social: https://www.facebook.com/cosmiclawrence/
 takeout: false
 website: ''
 ---

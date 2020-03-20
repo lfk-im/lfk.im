@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1103 Massachusetts St
 cuisine: ''
 curbside: true
 curbside_instructions: ''
@@ -11,7 +11,7 @@ name: Mass Street Soda
 neighborhood: ''
 notes: Evaluating and coming up with a plan for curbside service
 restaurant_phone: 785-615-0482
-social: Facebook
+social: https://www.facebook.com/massstreetsoda/
 takeout: true
 website: ''
 ---

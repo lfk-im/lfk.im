@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1031 New Hampshire St.
+address: 1031 New Hampshire St
 cuisine: Heat & Eat
 curbside: true
 curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at Maceli’s

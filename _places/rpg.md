@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://www.toasttab.com/restaurant-pub-games/giftcards
+delivery_service_websites: ''
 hours: ''
 name: RPG
 neighborhood: ''

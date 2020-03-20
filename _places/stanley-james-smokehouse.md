@@ -11,7 +11,7 @@ name: Stanley James Smokehouse
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-841-9691
-social: Facebook
+social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true
 website: ''
 ---

@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 2907 W 6th St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: '4931 W 6th St # 124'
 cuisine: ''
 curbside: false
 curbside_instructions: ''

@@ -11,9 +11,9 @@ name: Thai-Siam Restaurant
 neighborhood: ''
 notes: "Order by phone or Delivery \nvia Starve Bird"
 restaurant_phone: 785-331-2525
-social: Website
+social: ''
 takeout: true
-website: ''
+website: https://www.thaisiamlawrence.com
 ---
 
 Order by phone or Delivery 

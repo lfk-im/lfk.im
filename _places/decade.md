@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: 920 Delaware St
 cuisine: ''
 curbside: false
 curbside_instructions: ''
