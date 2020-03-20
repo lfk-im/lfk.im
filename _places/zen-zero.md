@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 811 Massachusetts St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

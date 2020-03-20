@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 805 Vermont St
 cuisine: ''
 curbside: true
 curbside_instructions: ''

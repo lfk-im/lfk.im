@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 7 E 7th St
 cuisine: ''
 curbside: true
 curbside_instructions: ''

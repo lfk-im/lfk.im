@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: '601 Kasold Dr # C101'
 cuisine: ''
 curbside: false
 curbside_instructions: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 920 Massachusetts St
 cuisine: ''
 curbside: true
 curbside_instructions: ''

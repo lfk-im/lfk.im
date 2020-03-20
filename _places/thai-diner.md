@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 2223 Louisiana St
 cuisine: ''
 curbside: false
 curbside_instructions: ''

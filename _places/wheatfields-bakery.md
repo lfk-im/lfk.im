@@ -1,6 +1,6 @@
 ---
 active: true
-address: 904 Vermont Street
+address: 904 Vermont St
 cuisine: Bakery
 curbside: false
 curbside_instructions: ''
