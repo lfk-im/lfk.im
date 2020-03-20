@@ -11,7 +11,7 @@ name: Six Mile Chophouse
 neighborhood: West Lawrence
 notes: Closed
 restaurant_phone: 785-856-6453
-social: ''
+social: https://www.facebook.com/6MileChophouse/
 takeout: false
 website: ''
 ---

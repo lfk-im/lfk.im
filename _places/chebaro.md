@@ -11,7 +11,7 @@ name: Chebaro
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: (785) 312-7660
-social: ''
+social: https://www.facebook.com/ChebaroMG/
 takeout: false
 website: ''
 ---

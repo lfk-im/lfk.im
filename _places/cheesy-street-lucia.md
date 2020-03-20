@@ -11,7 +11,7 @@ name: Cheesy Street @ Lucia
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-865-4055
-social: ''
+social: https://www.facebook.com/CheesyStreetKC/
 takeout: true
 website: https://cheesystreetkc.com/
 ---

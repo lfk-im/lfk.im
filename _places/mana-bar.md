@@ -10,7 +10,7 @@ hours: ''
 name: Mana Bar
 neighborhood: ''
 notes: Retail Only
-restaurant_phone: ''
+restaurant_phone: (785) 856-8227
 social: ''
 takeout: false
 website: ''

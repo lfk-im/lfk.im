@@ -13,7 +13,7 @@ notes: Order online or by phone and pick up curbside on Mass
 restaurant_phone: 785-424-5601
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
-website: ''
+website: http://www.alchemyks.com/
 ---
 
 Order online or by phone and pick up curbside on Mass
