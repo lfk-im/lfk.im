@@ -1,6 +1,6 @@
 ---
 active: true
-address: ''
+address: 1025 Massachusetts St
 cuisine: ''
 curbside: true
 curbside_instructions: ''
