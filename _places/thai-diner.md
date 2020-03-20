@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Thai Diner
-neighborhood: ''
+neighborhood: South Lawrence
 notes: Unconfirmed
 restaurant_phone: ''
 social: ''

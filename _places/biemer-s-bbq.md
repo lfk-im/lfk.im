@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Biemer's BBQ
-neighborhood: ''
+neighborhood: 9th and Iowa Area
 notes: ''
 restaurant_phone: 785-842-0800
 social: ''

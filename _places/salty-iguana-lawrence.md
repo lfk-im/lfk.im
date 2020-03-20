@@ -5,8 +5,7 @@ cuisine: Mexican
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com, grubhub.com, seamless.com, postmates.com,
-  doordash.com
+delivery_service_websites: ''
 hours: Sun-Thu 11am-9pm, Fri-Sat 11am-10:30pm
 name: Salty Iguana Lawrence
 neighborhood: West Lawrence

@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Eileen's Colossal Cookies
-neighborhood: ''
+neighborhood: West Lawrence
 notes: Still open for now, also sells cookie dough to go
 restaurant_phone: 785-856-2253
 social: ''

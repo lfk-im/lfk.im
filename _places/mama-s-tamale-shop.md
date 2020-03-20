@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/mamas-tamales-shop
+delivery_service_websites: ''
 hours: ''
 name: Mama's Tamale Shop
 neighborhood: ''

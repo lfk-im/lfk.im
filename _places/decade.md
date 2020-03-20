@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Decade
-neighborhood: ''
+neighborhood: Downtown-Adjacent
 notes: Online ordering coming next week for to-go and curbside service
 restaurant_phone: 785-550-7944
 social: ''

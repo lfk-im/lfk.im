@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/taco-lawrence
+delivery_service_websites: ''
 hours: ''
 name: Ta Co
 neighborhood: Downtown

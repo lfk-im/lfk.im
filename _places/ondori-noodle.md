@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
 hours: ''
 name: Ondori Noodle
-neighborhood: ''
+neighborhood: Downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
 restaurant_phone: 785-856-0210
 social: ''

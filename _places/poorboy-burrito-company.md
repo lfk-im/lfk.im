@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: PoorBoy Burrito Company
-neighborhood: ''
+neighborhood: Downtown-Adjacent
 notes: Unconfirmed
 restaurant_phone: ''
 social: ''

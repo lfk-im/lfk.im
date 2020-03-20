@@ -5,8 +5,7 @@ cuisine: Chinese, Korean, Thai, Japanese
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: orientalbistrolawrence.com, eatstreet.com, grubhub.com,
-  seamless.com
+delivery_service_websites: orientalbistrolawrence.com
 hours: ''
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence

@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/mexquisito?order-source=ORDER_NOW_IFRAME
+delivery_service_websites: ''
 hours: ''
 name: Mexquisito
 neighborhood: Downtown

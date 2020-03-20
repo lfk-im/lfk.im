@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Bon Bon!
-neighborhood: ''
+neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: ''
 social: https://www.instagram.com/bonbonlawrence/

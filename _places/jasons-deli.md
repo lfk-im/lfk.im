@@ -5,8 +5,7 @@ cuisine: American
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: jasonsdeli.com, seamless.com, doordash.com, eatstreet.com,
-  grubhub.com
+delivery_service_websites: jasonsdeli.com
 hours: ''
 name: Jason’s Deli
 neighborhood: South Lawrence

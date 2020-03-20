@@ -7,8 +7,7 @@ curbside_instructions: 'We ask that you pay for your order over the phone to avo
   unnecessary contact.  If you opt for Curbside you can find a spot up front and let
   us know you are there or you can pull into the alley and let us know you have arrived. '
 delivery: true
-delivery_service_websites: eatstreet.com, doordash.com, seamless.com, grubhub.com,
-  postmates.com
+delivery_service_websites: ''
 hours: ''
 name: The Mad Greek
 neighborhood: Downtown

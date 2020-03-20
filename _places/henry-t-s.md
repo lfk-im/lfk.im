@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/henry-ts
+delivery_service_websites: ''
 hours: ''
 name: Henry T's
 neighborhood: ''

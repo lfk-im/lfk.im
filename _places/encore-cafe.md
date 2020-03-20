@@ -5,7 +5,7 @@ cuisine: ''
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/encore-cafe
+delivery_service_websites: ''
 hours: ''
 name: Encore Café
 neighborhood: Downtown

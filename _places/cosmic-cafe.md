@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Cosmic Cafe
-neighborhood: ''
+neighborhood: South Lawrence
 notes: Closed
 restaurant_phone: 785-551-3347
 social: https://www.facebook.com/cosmiclawrence/

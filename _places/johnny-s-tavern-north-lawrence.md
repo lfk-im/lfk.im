@@ -5,7 +5,7 @@ cuisine: American, Sandwiches, Pizza, Salads
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: doordash.com, grubhub.com
+delivery_service_websites: ''
 hours: ''
 name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence

@@ -5,7 +5,7 @@ cuisine: American
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com
+delivery_service_websites: ''
 hours: ''
 name: Jefferson’s Downtown
 neighborhood: Downtown

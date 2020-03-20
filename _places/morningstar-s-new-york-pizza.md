@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/morningstars-nypd?order-source=ORDER_NOW_IFRAME
+delivery_service_websites: ''
 hours: ''
 name: Morningstar's New York Pizza
 neighborhood: ''

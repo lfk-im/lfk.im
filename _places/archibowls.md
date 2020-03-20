@@ -5,7 +5,7 @@ cuisine: Mexican
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com, grubhub.com, seamless.com
+delivery_service_websites: ''
 hours: 12pm-8pm Daily
 name: Archibowls
 neighborhood: Downtown

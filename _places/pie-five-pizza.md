@@ -5,7 +5,7 @@ cuisine: Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: piefivepizza.com, eatstreet.com, doordash.com
+delivery_service_websites: piefivepizza.com
 hours: ''
 name: Pie Five Pizza
 neighborhood: South Lawrence

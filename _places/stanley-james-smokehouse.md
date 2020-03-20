@@ -5,10 +5,10 @@ cuisine: ''
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://postmates.com/merchant/stanley-james-smokehouse-lawrence
+delivery_service_websites: ''
 hours: ''
 name: Stanley James Smokehouse
-neighborhood: ''
+neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-841-9691
 social: https://www.facebook.com/StanleyJamesSmokehouse/

@@ -8,7 +8,7 @@ delivery: true
 delivery_service_websites: ''
 hours: ''
 name: Thai-Siam Restaurant
-neighborhood: ''
+neighborhood: West Lawrence
 notes: "Order by phone or Delivery \nvia Starve Bird"
 restaurant_phone: 785-331-2525
 social: ''

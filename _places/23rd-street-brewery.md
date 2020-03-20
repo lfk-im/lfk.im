@@ -5,7 +5,7 @@ cuisine: American
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/23rd-street-brewery
+delivery_service_websites: ''
 hours: 12pm-9pm Daily
 name: 23rd Street Brewery
 neighborhood: Southwest Lawrence

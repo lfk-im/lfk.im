@@ -5,7 +5,7 @@ cuisine: Mexican
 curbside: true
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: grubhub.com
+delivery_service_websites: ''
 hours: ''
 name: El Potro Mexican Cafe
 neighborhood: South Lawrence

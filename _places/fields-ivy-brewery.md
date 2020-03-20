@@ -5,7 +5,7 @@ cuisine: American, Sandwiches, Pizza, Salads
 curbside: true
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: grubhub.com, https://www.toasttab.com/fields-ivy-brewing/v3#!/
+delivery_service_websites: ''
 hours: 11am-9:30pm Daily
 name: Fields & Ivy Brewery
 neighborhood: South Lawrence

@@ -5,8 +5,7 @@ cuisine: Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com, chownow.com, seamless.com, grubhub.com,
-  https://www.grubhub.com/restaurant/rudys-pizzeria-704-massachusetts-st-lawrence/1033137
+delivery_service_websites: ''
 hours: ''
 name: Rudy’s Pizzeria
 neighborhood: Downtown

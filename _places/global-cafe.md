@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/global-cafe
+delivery_service_websites: ''
 hours: ''
 name: Global Cafe
 neighborhood: Downtown

@@ -5,7 +5,7 @@ cuisine: Pizza
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: postmates.com, grubhub.com, https://papakenos.appfront.ai/
+delivery_service_websites: https://papakenos.appfront.ai/
 hours: ''
 name: Papa Keno’s
 neighborhood: Downtown

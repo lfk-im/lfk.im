@@ -8,12 +8,10 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Chebaro
-neighborhood: ''
-notes: Unconfirmed
+neighborhood: South Lawrence
+notes: ''
 restaurant_phone: ''
 social: ''
 takeout: false
 website: ''
 ---
-
-Unconfirmed

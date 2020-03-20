@@ -5,7 +5,7 @@ cuisine: American, Tacos
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: doordash.com
+delivery_service_websites: ''
 hours: 11am-6:30pm Daily
 name: Twisted Fresh
 neighborhood: West Lawrence

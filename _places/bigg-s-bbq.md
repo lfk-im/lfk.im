@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Bigg's BBQ
-neighborhood: ''
+neighborhood: South Lawrence
 notes: Closed until April 1st
 restaurant_phone: 785-856-2550
 social: https://www.facebook.com/BiggsBBQ/

@@ -5,7 +5,7 @@ cuisine: ''
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://www.doordash.com/store/the-mad-greek-lawrence-327564/
+delivery_service_websites: ''
 hours: ''
 name: Mad Greek
 neighborhood: Downtown

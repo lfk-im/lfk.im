@@ -5,7 +5,7 @@ cuisine: Steakhouse, American
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: eatstreet.com
+delivery_service_websites: ''
 hours: ''
 name: Black Stag Brewery
 neighborhood: Downtown

@@ -5,8 +5,7 @@ cuisine: American
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://direct.chownow.com/order/15956/locations/22641
-  - eatstreet.com, grubhub.com, doordash.com
+delivery_service_websites: ''
 hours: ''
 name: Dempseys Burger Pub
 neighborhood: Downtown

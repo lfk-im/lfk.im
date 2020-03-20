@@ -8,7 +8,7 @@ delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Culinaria
-neighborhood: ''
+neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: ''
 social: ''

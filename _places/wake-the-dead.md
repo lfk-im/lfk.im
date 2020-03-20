@@ -5,7 +5,7 @@ cuisine: ''
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://eatstreet.com/lawrence-ks/restaurants/wake-the-dead?order-source=ORDER_NOW_IFRAME
+delivery_service_websites: ''
 hours: ''
 name: Wake The Dead
 neighborhood: Downtown

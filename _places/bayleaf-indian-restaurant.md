@@ -10,10 +10,10 @@ hours: ''
 name: Bayleaf Indian Restaurant
 neighborhood: Downtown
 notes: Not confirmed
-restaurant_phone: ''
+restaurant_phone: (785) 840-0855
 social: ''
 takeout: true
-website: ''
+website: http://bayleaflawrence.com/
 ---
 
 Not confirmed

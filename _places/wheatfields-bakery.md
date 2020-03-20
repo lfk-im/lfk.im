@@ -5,7 +5,7 @@ cuisine: Bakery
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://direct.chownow.com/order/12797/locations/17922
+delivery_service_websites: ''
 hours: ''
 name: Wheatfields Bakery
 neighborhood: Downtown

@@ -5,7 +5,7 @@ cuisine: Asian, Ramen
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: eatstreet.com, grubhub.com, chownow.com, seamless.com
+delivery_service_websites: ''
 hours: ''
 name: Ramen Bowls
 neighborhood: Downtown
