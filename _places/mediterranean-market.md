@@ -4,7 +4,7 @@ address: 3300 W, Bob Billings Pkwy suite B5
 cuisine: ''
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence
 hours: ''
 name: Mediterranean Market
