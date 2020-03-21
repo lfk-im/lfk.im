@@ -41,6 +41,7 @@ collections:  # process the _data folder
 # to override the default setting.
 exclude:
   - "*.conf"
+  - "*.json"
   - "*.lock"
   - "*.py"
   - "*.toml"
