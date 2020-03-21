@@ -15,15 +15,15 @@ jobs:
           python-version: "3.7"
           architecture: "x64"
 
-      - run: |
-          pip install -U pip
-          python -m pip install -r requirements.txt
-          pwd
-          echo ${{ secrets.GOOGLE_SECRET_CREDS }} > secrets.json
-          ls -la
-          cat secrets.json
-          git status
-          python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
+      # - run: |
+      #     pip install -U pip
+      #     python -m pip install -r requirements.txt
+      #     pwd
+      #     echo ${{ secrets.GOOGLE_SECRET_CREDS }} > secrets.json
+      #     ls -la
+      #     cat secrets.json
+      #     git status
+      #     python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
 
       - run: |
           git status
