@@ -1,17 +1,19 @@
 ---
-active: false
+active: true
 address: 933 Iowa St.
-cuisine: ''
-curbside: false
+cuisine: American, Burgers, Salads, Sandwiches, Wings
+curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
-hours: ''
+hours: 11am - 730pm Daily
 name: Wayne & Larry's Sports Bar & Grill
 neighborhood: ''
-notes: ''
-restaurant_phone: ''
+notes: Call upon arrival and we will curbside deliver your order
+restaurant_phone: 785-856-7170
 social: ''
-takeout: false
-website: ''
+takeout: true
+website: https://www.wayneandlarrys.com
 ---
+
+Call upon arrival and we will curbside deliver your order
