@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: '711 W 23rd St #24'
 cuisine: ''
 curbside: false
@@ -9,11 +9,11 @@ delivery_service_websites: https://www.ordernagoyasushi.com/#/
 hours: ''
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
-notes: Unconfirmed
+notes: Closed
 restaurant_phone: (785) 843-1111
 social: https://www.facebook.com/nagoyalawrence/
-takeout: true
+takeout: false
 website: https://www.ordernagoyasushi.com/#/
 ---
 
-Unconfirmed
+Closed
