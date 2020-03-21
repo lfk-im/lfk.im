@@ -22,6 +22,7 @@ jobs:
           echo ${{ secrets.GOOGLE_SHEET_NAME }} > secrets.json
           ls -la
           cat secrets.json
+          git st
           python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
 
       - run: |
