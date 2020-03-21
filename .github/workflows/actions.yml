@@ -22,7 +22,21 @@ jobs:
           pip install -U pip
           python -m pip install -r requirements.txt
 
-      - run: |
+      - name: Sync Google Sheets Locally
+        env:
+          LFK_GOOGLE_SHEET_APP_ID: ${{ secrets.LFK_GOOGLE_SHEET_APP_ID }}
+          LFK_SHEET_NAME: ${{ secrets.LFK_SHEET_NAME }}
+          SHEETFU_CONFIG_AUTH_PROVIDER_URL: ${{ secrets.SHEETFU_CONFIG_AUTH_PROVIDER_URL }}
+          SHEETFU_CONFIG_AUTH_URI: ${{ secrets.SHEETFU_CONFIG_AUTH_URI }}
+          SHEETFU_CONFIG_CLIENT_CERT_URL: ${{ secrets.SHEETFU_CONFIG_CLIENT_CERT_URL }}
+          SHEETFU_CONFIG_CLIENT_EMAIL: ${{ secrets.SHEETFU_CONFIG_CLIENT_EMAIL }}
+          SHEETFU_CONFIG_CLIENT_ID: ${{ secrets.SHEETFU_CONFIG_CLIENT_ID }}
+          SHEETFU_CONFIG_PRIVATE_KEY: ${{ secrets.SHEETFU_CONFIG_PRIVATE_KEY }}
+          SHEETFU_CONFIG_PRIVATE_KEY_ID: ${{ secrets.SHEETFU_CONFIG_PRIVATE_KEY_ID }}
+          SHEETFU_CONFIG_PROJECT_ID: ${{ secrets.SHEETFU_CONFIG_PROJECT_ID }}
+          SHEETFU_CONFIG_TOKEN_URI: ${{ secrets.SHEETFU_CONFIG_TOKEN_URI }}
+          SHEETFU_CONFIG_TYPE: ${{ secrets.SHEETFU_CONFIG_TYPE }}
+        run: |
           python sync.py
 
       - run: |
