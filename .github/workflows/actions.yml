@@ -27,8 +27,8 @@ jobs:
           ls -la ${HOME}/secrets.json
 
       - run: |
-        python sync.py ${HOME}/secrets.json _posts
-        git st
+          python sync.py ${HOME}/secrets.json _posts
+          git st
 
     # - uses: mikeal/publish-to-github-action@master
     #   env:
