@@ -23,8 +23,8 @@ jobs:
       - run: |
           pwd
           ls
-          echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets/GOOGLE_SHEET_NAME
-          ls -la ${HOME}/secrets/GOOGLE_SHEET_NAME
+          echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets.json
+          ls -la ${HOME}/secrets.json
 
       - run: python sync.py
 
