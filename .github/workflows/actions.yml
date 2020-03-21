@@ -12,8 +12,8 @@ jobs:
       - name: Setup python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.7
-          architecture: x64
+          python-version: "3.7"
+          architecture: "x64"
 
       - run: |
           pip install -U pip
@@ -23,7 +23,8 @@ jobs:
       - run: |
           pwd
           ls
-          echo ${{ secrets.GOOGLE_SHEET_NAME }}
+          echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets/GOOGLE_SHEET_NAME
+          ls -la ${HOME}/secrets/GOOGLE_SHEET_NAME
 
       - run: python sync.py
 
