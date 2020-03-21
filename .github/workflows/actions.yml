@@ -26,7 +26,9 @@ jobs:
           echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets.json
           ls -la ${HOME}/secrets.json
 
-      - run: python sync.py
+      - run: |
+        python sync.py ${HOME}/secrets.json _posts
+        git st
 
     # - uses: mikeal/publish-to-github-action@master
     #   env:
