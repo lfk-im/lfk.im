@@ -9,11 +9,9 @@ delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-
 hours: ''
 name: Mediterranean Market
 neighborhood: West Lawrence
-notes: Unconfirmed
+notes: ''
 restaurant_phone: 785-842-9383
 social: ''
 takeout: true
 website: http://mediterraneancafelw.com/
 ---
-
-Unconfirmed
