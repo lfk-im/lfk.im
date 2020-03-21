@@ -28,10 +28,10 @@ def verify_http(value):
 
 @click.command()
 @click.argument("token_filename")
-@click.argument("output_folder")
 @click.argument("sheet_app_id", envvar="GOOGLE_SHEET_APP_ID")
-@click.argument("sheet_name", envvar="GOOGLE_SHEET_NAME")
-def main(token_filename, output_folder, sheet_app_id, sheet_name):
+@click.option("--output-folder", default="_places")
+@click.option("--sheet-name", default="Sheet1")
+def main(token_filename, sheet_app_id, output_folder, sheet_name):
 
     output_folder = Path(output_folder)
 

@@ -23,7 +23,7 @@ jobs:
       #     ls -la
       #     cat secrets.json
       #     git status
-      #     python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
+      #     python sync.py secrets.json ${{ secrets.GOOGLE_SHEET_APP_ID }}
 
       - run: |
           git status
