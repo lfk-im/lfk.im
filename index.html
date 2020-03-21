@@ -65,7 +65,7 @@ layout: none
           <td class="py-4 px-6">
             {{ place.address }}
             {% if place.hours and place.hours != "" and place.hours != nil %}
-              <br><small class="text-blue-700">Open: {{ place.hours }}</small>
+              <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
             {% endif %}
           </td>
           <td class="py-4 px-6 whitespace-no-wrap">
@@ -125,7 +125,7 @@ layout: none
         for the inspiration.
       </p>
 
-      <p> Thank you
+      <p>Thank you
         <a target="_blank" class="hover:text-blue-500 text-blue-700 underline" href="http://lawrenceforkingkansas.com/">
            Lawrence Forking Kansas</a>
         for doubling our data and working with us and to
