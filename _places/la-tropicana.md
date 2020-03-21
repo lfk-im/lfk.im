@@ -6,7 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: 12pm-7pm Mon-Sat
+hours: Mon-Sat 12pm-7pm
 name: La Tropicana
 neighborhood: North Lawrence
 notes: ''

@@ -6,7 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-hours: 7:30am-6:30pm Mon-Fri, 7:30am-5pm Sat, 8:30am-4pm Sun
+hours: Mon-Fri 7:30am-6:30pm, Sat 7:30am-5pm, Sun 8:30am-4pm
 name: Wheatfields Bakery
 neighborhood: Downtown
 notes: ''
