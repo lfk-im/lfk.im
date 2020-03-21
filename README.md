@@ -10,12 +10,13 @@
 
 > I built LFK.im over the course of a day to help people figure out which restaurants were open and what their options for ordering food are in Lawrence, Kansas.
 
-
 ### 🏠 [Homepage](https://lfk.im)
 
 ## Usage
 
 ```sh
+This is VERY, VERY WIP.
+
 Fork this repo, configure your GitHub secrets, and go!
 ```
 
