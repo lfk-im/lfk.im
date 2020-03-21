@@ -19,11 +19,10 @@ jobs:
           pip install -U pip
           python -m pip install -r requirements.txt
           pwd
-          ls
-          echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets.json
-          ls -la ${HOME}/secrets.json
-          cat ${HOME}/secrets.json
-          python sync.py ${HOME}/secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
+          echo ${{ secrets.GOOGLE_SHEET_NAME }} > secrets.json
+          ls -la
+          cat secrets.json
+          python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
 
       - run: |
           git st
