@@ -5,13 +5,15 @@ cuisine: Sandwiches
 curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: false
-delivery_service_websites: Doordash, Grubhub, Postmates, Eat Street
+delivery_service_websites: ''
 hours: Mon-Sun 10am-9pm
 name: Yello Sub
 neighborhood: South Lawrence
-notes: ''
+notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
 restaurant_phone: 785-843-6000
-social: ''
+social: https://www.facebook.com/PlanetSub
 takeout: true
 website: https://planetsub.com
 ---
+
+Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
