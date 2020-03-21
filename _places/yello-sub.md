@@ -4,7 +4,7 @@ address: 1814 W 23rd
 cuisine: Sandwiches
 curbside: true
 curbside_instructions: Give us a call, we will bring it out
-delivery: false
+delivery: true
 delivery_service_websites: ''
 hours: Mon-Sun 10am-9pm
 name: Yello Sub
