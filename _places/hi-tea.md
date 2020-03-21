@@ -10,7 +10,7 @@ hours: 12-9:30pm Daily
 name: Hi Tea
 neighborhood: Downtown
 notes: ''
-restaurant_phone: (785) 424-7727
+restaurant_phone: 785-424-7727
 social: https://www.instagram.com/hitealawrence/
 takeout: true
 website: http://www.hitealawrence.com

@@ -10,7 +10,7 @@ hours: ''
 name: Taco Zone
 neighborhood: Downtown
 notes: Closed
-restaurant_phone: (785) 424-7123
+restaurant_phone: 785-424-7123
 social: ''
 takeout: false
 website: http://www.thetacozone.com/

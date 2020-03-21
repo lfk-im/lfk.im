@@ -10,7 +10,7 @@ hours: ''
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
 notes: Closed
-restaurant_phone: (785) 843-1111
+restaurant_phone: 785-843-1111
 social: https://www.facebook.com/nagoyalawrence/
 takeout: false
 website: https://www.ordernagoyasushi.com/#/

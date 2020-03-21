@@ -10,7 +10,7 @@ hours: ''
 name: Culinaria
 neighborhood: Downtown-Adjacent
 notes: Closed
-restaurant_phone: (785) 766-8591
+restaurant_phone: 785-766-8591
 social: ''
 takeout: false
 website: https://www.culinariafoodandwine.com/

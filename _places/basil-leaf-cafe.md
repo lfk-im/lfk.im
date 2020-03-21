@@ -10,7 +10,7 @@ hours: ''
 name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
 notes: Closed
-restaurant_phone: (785) 856-0459
+restaurant_phone: 785-856-0459
 social: https://www.facebook.com/TheBasilLeafCafeKS/
 takeout: false
 website: https://www.facebook.com/TheBasilLeafCafeKS/?ref=br_rs

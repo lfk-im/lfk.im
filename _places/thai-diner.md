@@ -10,7 +10,7 @@ hours: ''
 name: Thai Diner
 neighborhood: South Lawrence
 notes: Unconfirmed
-restaurant_phone: (785) 551-7528
+restaurant_phone: 785-551-7528
 social: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/
 takeout: false
 website: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/

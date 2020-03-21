@@ -10,7 +10,7 @@ hours: ''
 name: The Burger Stand at The Casbah
 neighborhood: Downtown
 notes: Closed
-restaurant_phone: (785) 856-0543
+restaurant_phone: 785-856-0543
 social: https://www.facebook.com/casbahburgerstand/
 takeout: false
 website: https://www.burgerstandrestaurants.com/

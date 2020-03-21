@@ -10,7 +10,7 @@ hours: ''
 name: S&S Artisan Pub & Coffeehouse
 neighborhood: South Lawrence
 notes: ''
-restaurant_phone: (785) 766-2355
+restaurant_phone: 785-766-2355
 social: https://www.facebook.com/SSArtisanPub/
 takeout: false
 website: https://www.facebook.com/SSArtisanPub/

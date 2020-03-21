@@ -7,7 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 hours: ''
-name: "The Jayhawker \nat the Eldridge Hotel"
+name: The Jayhawker at the Eldridge Hotel
 neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: 785-749-1005
