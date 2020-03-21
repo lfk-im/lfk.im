@@ -22,6 +22,7 @@ jobs:
           ls
           echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets.json
           ls -la ${HOME}/secrets.json
+          cat ${HOME}/secrets.json
           python sync.py ${HOME}/secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
 
       - run: |
