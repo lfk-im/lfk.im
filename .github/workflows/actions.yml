@@ -22,11 +22,11 @@ jobs:
           echo ${{ secrets.GOOGLE_SHEET_NAME }} > secrets.json
           ls -la
           cat secrets.json
-          git st
+          git status
           python sync.py secrets.json _posts ${{ secrets.GOOGLE_SHEET_APP_ID }} ${{ secrets.GOOGLE_SHEET_NAME }}
 
       - run: |
-          git st
+          git status
 
     # - uses: mikeal/publish-to-github-action@master
     #   env:
