@@ -6,7 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://bigmill.hrpos.heartland.us/
-hours: 11am-8pm Daily
+hours: 11am-9pm Daily
 name: Big Mill
 neighborhood: Downtown-Adjacent
 notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
