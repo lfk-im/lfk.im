@@ -27,15 +27,16 @@ def verify_http(value):
 
 
 @click.command()
-@click.argument("token_filename")
-@click.argument("sheet_app_id", envvar="GOOGLE_SHEET_APP_ID")
 @click.option("--output-folder", default="_places")
-@click.option("--sheet-name", default="places")
-def main(token_filename, sheet_app_id, output_folder, sheet_name):
+@click.option("--sheet-app-id", envvar="LFK_GOOGLE_SHEET_APP_ID")
+@click.option("--sheet-name", default="Sheet1", envvar="LFK_SHEET_NAME")
+def main(sheet_app_id, output_folder, sheet_name):
 
     output_folder = Path(output_folder)
 
-    spreadsheet = SpreadsheetApp(token_filename).open_by_id(sheet_app_id)
+    sa = SpreadsheetApp(from_env=True)
+
+    spreadsheet = sa.open_by_id(sheet_app_id)
 
     sheet = spreadsheet.get_sheet_by_name(sheet_name)
 
