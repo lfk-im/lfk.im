@@ -57,23 +57,23 @@ def main(sheet_app_id, output_folder, sheet_name):
             post = frontmatter.loads("")
 
         place = {
-            "name": item.get_field_value("name"),
+            "name": name,
             "active": string_to_boolean(item.get_field_value("active")),
             "address": item.get_field_value("address"),
-            "takeout": string_to_boolean(item.get_field_value("takeout")),
-            "curbside": string_to_boolean(item.get_field_value("curbside")),
-            "delivery": string_to_boolean(item.get_field_value("delivery")),
             "cuisine": item.get_field_value("cuisine"),
+            "curbside": string_to_boolean(item.get_field_value("curbside")),
             "curbside_instructions": item.get_field_value("curbside_instructions"),
-            "neighborhood": item.get_field_value("neighborhood"),
-            "restaurant_phone": item.get_field_value("restaurant_phone"),
-            "website": verify_http(item.get_field_value("website")),
+            "delivery": string_to_boolean(item.get_field_value("delivery")),
             "delivery_service_websites": item.get_field_value(
                 "delivery_service_websites"
             ),
             "hours": item.get_field_value("hours"),
-            "social": item.get_field_value("social"),
+            "neighborhood": item.get_field_value("neighborhood"),
             "notes": item.get_field_value("notes"),
+            "restaurant_phone": item.get_field_value("restaurant_phone"),
+            "social": item.get_field_value("social"),
+            "takeout": string_to_boolean(item.get_field_value("takeout")),
+            "website": verify_http(item.get_field_value("website")),
         }
         post.content = item.get_field_value("notes")
 
