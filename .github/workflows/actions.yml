@@ -19,15 +19,13 @@ jobs:
           pip install -U pip
           python -m pip install poetry
           poetry install
-
-      - run: |
           pwd
           ls
           echo ${{ secrets.GOOGLE_SHEET_NAME }} > ${HOME}/secrets.json
           ls -la ${HOME}/secrets.json
+          python sync.py ${HOME}/secrets.json _posts
 
       - run: |
-          python sync.py ${HOME}/secrets.json _posts
           git st
 
     # - uses: mikeal/publish-to-github-action@master
