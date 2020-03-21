@@ -13,7 +13,7 @@ notes: Offering curbside to go & delivery from 11am to 9pm, order online or by p
 restaurant_phone: 785-856-0101
 social: https://www.facebook.com/BigMillLawrence/
 takeout: true
-website: https://www.facebook.com/BigMillLawrence
+website: http://www.bigmilllawrence.com/
 ---
 
 Offering curbside to go & delivery from 11am to 9pm, order online or by phone
