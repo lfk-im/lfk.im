@@ -16,6 +16,9 @@ jobs:
           architecture: "x64"
 
       - run: |
+          export
+
+      - run: |
           pip install -U pip
           python -m pip install -r requirements.txt
 
