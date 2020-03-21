@@ -6,7 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-hours: Mon-Thu 11am-10pm, Fri-Sat 11am-11pm
+hours: Mon-Sat 11am-7pm
 name: Paisano's Ristorante
 neighborhood: South Lawrence
 notes: ''
