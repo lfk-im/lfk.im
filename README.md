@@ -9,16 +9,40 @@
 </p>
 
 > I built LFK.im over the course of a day to help people figure out which restaurants were open and what their options for ordering food are in Lawrence, Kansas.
+>
+> Our workflow involves using a Google Sheet to build a database of local businesses along with their hours and contact information.
+>
+> We started off using a Python script to access this database and save them as Jekyll-friendly frontmatter/markdown files. See the `_places` folder for how this is structured.
+>
+> After my running this script became a bottleneck, I created an GitHub Action which runs this script every 15-minutes or after ever update to the website.
 
 ### 🏠 [Homepage](https://lfk.im)
 
 ## Usage
 
-```sh
-This is VERY, VERY WIP.
+The lfk.im website runs on GitHub Pages using Jekyll.
 
-Fork this repo, configure your GitHub secrets, and go!
+To run the website locally, you'll want to run:
+
+```shell
+$ bundle install
+$ jekyll serve --watch
 ```
+
+Then check the website out at http://localhost:4000/
+
+### Setting up the Python Sync
+
+Create a virtualenv using your method of choice.
+
+```shell
+$ python -m pip install -r requirements.txt
+
+# to run, but except it to fail on your first run:
+$ python sync.py
+```
+
+When you run `sync.py`, it will walk you through which ENV variables that you need to setup to sync your Google Sheet locally.
 
 ## Author
 
