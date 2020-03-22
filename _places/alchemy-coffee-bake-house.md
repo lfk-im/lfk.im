@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 816 Massachusetts St
 cuisine: Coffee
 curbside: true
