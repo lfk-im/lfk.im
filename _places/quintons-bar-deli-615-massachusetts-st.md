@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-8pm Daily
+hours: ''
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 notes: Closed

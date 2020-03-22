@@ -9,7 +9,7 @@ delivery_service_websites: https://squareup.com/store/AlchemyOnline
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 8am-3pm Daily
+hours: ''
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 notes: Order online or by phone and pick up curbside on Mass

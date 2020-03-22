@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10-1 daily
 giftcard_url: ''
-hours: closed
+hours: 10am-1pm Daily for Gift Card orders over the phone
 name: 715 Mass
 neighborhood: Downtown
 notes: ''

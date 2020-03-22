@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Fri 11am-8pm, Sat 12pm-8pm, Sun 4pm-8pm
+hours: ''
 name: Baan Thai Restaurant
 neighborhood: Downtown
 notes: Closed
