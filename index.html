@@ -45,7 +45,7 @@ layout: default
   {% if place.active and place.active != "" and place.active != nil %}
         <tr class="bg-gray-100 hover:bg-blue-700 text-blue-800 hover:text-gray-200 align-top border-b border-gray-400">
           <td class="py-4 px-6 hover:text-gray-200 font-medium text-right">
-            {{ place.name }}
+            <a name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
           </td>
           <td class="py-4 px-6">
             {{ place.address }}
