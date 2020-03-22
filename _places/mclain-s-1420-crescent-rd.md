@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://order.mclainsbakerykc.com/mclains-lawrence/menu
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: McLain's
 neighborhood: KU Campus Area

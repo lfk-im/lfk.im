@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.ordernagoyasushi.com/#/
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence

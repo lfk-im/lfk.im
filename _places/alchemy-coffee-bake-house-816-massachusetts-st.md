@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
+giftcard: false
+giftcard_url: ''
 hours: 8am-3pm Daily
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown

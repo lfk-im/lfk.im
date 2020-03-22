@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Taco John’s (Haskell)
 neighborhood: ''

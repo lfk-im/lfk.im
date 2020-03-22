@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 12pm-8pm Daily
 name: Archibowls
 neighborhood: Downtown

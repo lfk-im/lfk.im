@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Biemer's BBQ
 neighborhood: 9th and Iowa Area

@@ -7,6 +7,8 @@ curbside_instructions: We will be setting up beer and wine on the patio for purc
   No need to drink on premise.
 delivery: false
 delivery_service_websites: ''
+giftcard: true
+giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
 hours: ''
 name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown

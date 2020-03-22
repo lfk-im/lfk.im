@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 4:30pm-6pm Daily
 name: Black Stag Brewery
 neighborhood: Downtown

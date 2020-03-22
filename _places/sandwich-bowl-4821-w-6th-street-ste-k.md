@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: jayhawk2go.com
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Sandwich Bowl
 neighborhood: West Lawrence

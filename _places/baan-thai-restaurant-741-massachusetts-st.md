@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Fri 11am-8pm, Sat 12pm-8pm, Sun 4pm-8pm
 name: Baan Thai Restaurant
 neighborhood: Downtown

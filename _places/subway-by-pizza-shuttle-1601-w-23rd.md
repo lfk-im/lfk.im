@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 11am-830pm Daily
 name: Subway (by Pizza Shuttle)
 neighborhood: ''

@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Sun 10am-9pm
 name: Yello Sub
 neighborhood: South Lawrence

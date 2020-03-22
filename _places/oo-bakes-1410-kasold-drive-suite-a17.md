@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Fri 9am - 6pm, Sat-Sun 10am - 3pm
 name: OO Bakes
 neighborhood: Bob Billings & Iowa

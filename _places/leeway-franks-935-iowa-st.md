@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Sat 11am-8pm, Sun 10am-3pm
 name: Leeway Franks
 neighborhood: 9th and Iowa Area

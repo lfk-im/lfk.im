@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: jasonsdeli.com
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Jason’s Deli
 neighborhood: South Lawrence

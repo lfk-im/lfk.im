@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: piefivepizza.com
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Pie Five Pizza
 neighborhood: South Lawrence

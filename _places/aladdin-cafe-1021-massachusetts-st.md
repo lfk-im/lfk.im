@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Sat 11am-8:30pm, Sun 11am-7:30pm
 name: Aladdin Cafe
 neighborhood: Downtown

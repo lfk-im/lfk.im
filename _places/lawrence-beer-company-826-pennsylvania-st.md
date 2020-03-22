@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 3pm-8pm Daily
 name: Lawrence Beer Company
 neighborhood: Downtown

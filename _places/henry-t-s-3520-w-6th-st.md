@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Henry T's
 neighborhood: Old West Lawrence

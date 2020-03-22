@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://repetitioncoffee.com/collections/repetition-coffee
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Repetition Coffee
 neighborhood: Downtown

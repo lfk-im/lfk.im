@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 11am-7pm Daily
 name: Subway (in the Walmart)
 neighborhood: ''

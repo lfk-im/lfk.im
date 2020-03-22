@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://lawrence.ordermiranchitokc.com/#/
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Mi Ranchito
 neighborhood: South Lawrence

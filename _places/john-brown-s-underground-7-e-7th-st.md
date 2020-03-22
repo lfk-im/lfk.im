@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: true
+giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
 hours: ''
 name: John Brown's Underground
 neighborhood: Downtown

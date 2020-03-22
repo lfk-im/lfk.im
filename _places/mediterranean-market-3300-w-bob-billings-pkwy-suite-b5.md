@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Mediterranean Market
 neighborhood: West Lawrence

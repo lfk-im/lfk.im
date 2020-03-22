@@ -7,6 +7,8 @@ curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at
   curbside on Saturday
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Saturday meal pickup
 name: Maceli’s
 neighborhood: Downtown

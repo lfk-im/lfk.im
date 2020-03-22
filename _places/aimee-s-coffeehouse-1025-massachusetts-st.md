@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Thu-Sat 8am-10pm, Sun-Wed 8am-3pm
 name: Aimee's Coffeehouse
 neighborhood: Downtown

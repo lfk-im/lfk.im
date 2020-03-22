@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: orientalbistrolawrence.com
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence

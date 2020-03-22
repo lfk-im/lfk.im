@@ -8,6 +8,8 @@ curbside_instructions: 'We ask that you pay for your order over the phone to avo
   us know you are there or you can pull into the alley and let us know you have arrived. '
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: The Mad Greek
 neighborhood: Downtown

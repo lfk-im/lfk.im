@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Jefferson's West Lawrence
 neighborhood: West Lawrence

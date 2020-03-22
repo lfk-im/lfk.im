@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+giftcard: true
+giftcard_url: ''
 hours: ''
 name: Sylas & Maddy's
 neighborhood: Downtown

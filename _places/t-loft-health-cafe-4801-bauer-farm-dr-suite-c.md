@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: Mon-Fri. 10am-5pm, Sat-Sun 10am-2pm
 name: T. Loft Health Cafe
 neighborhood: West Lawrence

@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: Drive Thru open!
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Hawaiian Bros.
 neighborhood: South Lawrence

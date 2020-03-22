@@ -6,6 +6,8 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://kobejapanesesteakhouselawrence.com/28634
+giftcard: false
+giftcard_url: ''
 hours: ''
 name: Kobe Japanese Steakhouse
 neighborhood: Old West Lawrence

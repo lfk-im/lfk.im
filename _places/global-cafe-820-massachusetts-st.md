@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: true
+giftcard_url: https://squareup.com/gift/CX2M2Z2679FX3/order
 hours: '8:00am-1:30pm Daily
 
   '

@@ -6,6 +6,8 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+giftcard: false
+giftcard_url: ''
 hours: 11am-8:30pm Daily
 name: Subway (6th and Wisconsin)
 neighborhood: ''
