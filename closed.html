@@ -28,9 +28,7 @@ permalink: /closed/
         <tr class="border-b border-gray-400 bg-gray-200">
           <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600 text-right">Name</th>
           <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Address</th>
-          {% comment %}
-          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Delivery</th>
-          {% endcomment %}
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Giftcard</th>
           <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Actions</th>
         </tr>
       </thead>
@@ -49,11 +47,9 @@ permalink: /closed/
             {% endif %}
             {% endcomment %}
           </td>
-          {% comment %}
           <td class="py-4 px-6 whitespace-no-wrap">
-            {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
+            {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
           </td>
-          {% endcomment %}
           <td class="py-4 px-6">
             {% comment %}
             {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
@@ -62,18 +58,16 @@ permalink: /closed/
             </a>
             {% endif %}
             {% endcomment %}
+            {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
+            <a href="{{ place.giftcard_url }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
+              🎁 giftcard
+            </a>
+            {% endif %}
             {% if place.website and place.website != "" and place.website != nil %}
             <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
               website
             </a>
             {% endif %}
-            {% comment %}
-            {% if place.delivery_service_websites %}
-            <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
-              Menu
-            </a>
-            {% endif %}
-            {% endcomment %}
           </td>
         </tr>
   {% endunless %}
