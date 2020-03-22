@@ -1,0 +1,137 @@
+---
+layout: default
+permalink: /closed/
+---
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3">
+    <h2 class="text-3xl font-bold leading-7 text-red-700 sm:text-2xl sm:leading-9 sm:truncate">
+      These businesses are closed.
+    </h2>
+    <h3>
+      <p>
+        Gift cards and other resources coming soon!
+      </p>
+      <p>
+        <a class="font-bold hover:text-blue-500 text-blue-800 underline" href="#add-your-business">
+          Add your business to the list
+        </a>
+      </p>
+    </h3>
+  </div>
+</div>
+
+<div class="w-full mx-auto">
+  <div class="shadow-md rounded my-6 overflow-hidden">
+    <table class="text-left w-full border-collapse"> <!--Border collapse doesn't work on this site yet but it's available in newer tailwind versions -->
+      <thead>
+        <tr class="border-b border-gray-400 bg-gray-200">
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600 text-right">Name</th>
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Address</th>
+          {% comment %}
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Delivery</th>
+          {% endcomment %}
+          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+{% for place in site.places %}
+  {% unless place.active %}
+        <tr class="bg-gray-100 hover:bg-blue-500 text-blue-800 hover:text-gray-200 align-top border-b border-gray-400">
+          <td class="py-4 px-6 hover:text-gray-200 font-medium text-right">
+            <a name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
+          </td>
+          <td class="py-4 px-6">
+            {{ place.address }}
+            {% comment %}
+            {% if place.hours and place.hours != "" and place.hours != nil %}
+              <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
+            {% endif %}
+            {% endcomment %}
+          </td>
+          {% comment %}
+          <td class="py-4 px-6 whitespace-no-wrap">
+            {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
+          </td>
+          {% endcomment %}
+          <td class="py-4 px-6">
+            {% comment %}
+            {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
+            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8 whitespace-no-wrap">
+              {{ place.restaurant_phone }}
+            </a>
+            {% endif %}
+            {% endcomment %}
+            {% if place.website and place.website != "" and place.website != nil %}
+            <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
+              website
+            </a>
+            {% endif %}
+            {% comment %}
+            {% if place.delivery_service_websites %}
+            <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
+              Menu
+            </a>
+            {% endif %}
+            {% endcomment %}
+          </td>
+        </tr>
+  {% endunless %}
+{% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3 py-4">
+    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
+      <a name="add-your-business"></a>
+      🍽 Add your business to the list
+    </h2>
+    <h3>
+      <p>
+        If you'd like to add your restaurant to the list or need to edit your listing, please
+        <a target="_blank" rel="nofollow" class="hover:text-blue-500 text-blue-700 font-bold underline" href="https://forms.gle/dcfNTcTqdT27BiL77">
+          fill out our form</a>
+          or
+        <a target="_blank" rel="nofollow" class="hover:text-blue-500 text-blue-700 font-medium underline" href="mailto:jeff.triplett@gmail.com">
+          email us</a>.
+      </p>
+    </h3>
+  </div>
+</div>
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3 py-4">
+    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
+      <a name="add-your-business"></a>
+        ❓ Looking for other ways to help?
+    </h2>
+    <h3>
+      <p>
+        👉
+        <a target="_blank" class="hover:text-red-500 text-red-700 underline text-2xl" href="https://serviceindustry.tips/en/ks/lawrence/">
+          Help the Lawrence Service Industry</a>
+      </p>
+    </h3>
+  </div>
+</div>
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3 py-4">
+    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
+      🙏 Thank you
+    </h2>
+    <p>
+      👉 <a target="_blank" rel="nofollow" class="hover:text-blue-500 text-blue-700 underline" href="https://www.curbsidekc.com/">
+          Curbside KC</a> for the inspiration.
+    </p>
+    <p>
+      👉 <a target="_blank" class="hover:text-blue-500 text-blue-700 underline" href="http://lawrenceforkingkansas.com/">
+           Lawrence Forking Kansas</a> for doubling our data and working with us and to
+        <a target="_blank" class="hover:text-blue-500 text-blue-700 underline" href="https://lawrencechamber.com/local-business-directory-for-covid-19/">
+          The Chamber of Lawrence, Kansas</a>.
+    </p>
+  </div>
+</div>
