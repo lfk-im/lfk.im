@@ -1,10 +1,10 @@
 ---
-active: true
+active: false
 address: 743 Massachusetts St
 cuisine: American
-curbside: true
+curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Jefferson's Downtown

@@ -1,10 +1,10 @@
 ---
-active: true
+active: false
 address: 1540 Wakarusa Dr
 cuisine: American
-curbside: true
+curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 hours: ''
 name: Jefferson's West Lawrence
