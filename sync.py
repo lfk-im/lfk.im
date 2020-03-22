@@ -124,6 +124,8 @@ def main(sheet_app_id, output_folder, sheet_name):
             "delivery_service_websites": item.get_field_value(
                 "delivery_service_websites"
             ),
+            "giftcard": string_to_boolean(item.get_field_value("giftcard")),
+            "giftcard_url": verify_http(item.get_field_value("giftcard_url")),
             "hours": item.get_field_value("hours"),
             "neighborhood": item.get_field_value("neighborhood"),
             "notes": item.get_field_value("notes"),
