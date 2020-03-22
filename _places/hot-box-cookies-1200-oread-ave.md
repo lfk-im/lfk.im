@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.hotboxcookies.com/order/restaurant/hotbox-cookies---oread-avenue-menu/18175
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Hot Box Cookies

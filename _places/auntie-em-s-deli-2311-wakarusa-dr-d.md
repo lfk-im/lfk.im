@@ -7,6 +7,7 @@ curbside_instructions: Call Deli direct to place order and pay.
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Tue-Thu 11am-6pm, Fri 11am-5pm & Sat 11am-4pm
 name: Auntie Em's Deli

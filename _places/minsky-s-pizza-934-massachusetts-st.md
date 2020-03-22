@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://minsky-pizza-store-lawrence.securebrygid.com/zgrid/proc/site/sitep.jsp
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Minsky's Pizza

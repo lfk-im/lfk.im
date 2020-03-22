@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Bayleaf Indian Restaurant

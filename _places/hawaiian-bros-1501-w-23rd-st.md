@@ -7,6 +7,7 @@ curbside_instructions: Drive Thru open!
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Hawaiian Bros.

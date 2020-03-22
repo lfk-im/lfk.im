@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Mon-Th 11am-2am,  Fri-Sat 11am-3am, Sun 11am-130am
 name: Pizza Shuttle

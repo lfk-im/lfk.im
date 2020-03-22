@@ -8,6 +8,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: 11am-9pm Daily
 name: Pita Pit

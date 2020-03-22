@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: 12pm - 7:30pm Daily
 name: Dempseys Burger Pub

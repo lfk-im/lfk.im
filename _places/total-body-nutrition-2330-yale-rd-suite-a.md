@@ -8,6 +8,7 @@ curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavo
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Mon-Fri 8am-2pm, Sat 8am-1pm
 name: 'Total Body Nutrition '

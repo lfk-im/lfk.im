@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 giftcard: true
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Sylas & Maddy's

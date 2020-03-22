@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: 11am-9:30pm Daily
 name: Fields & Ivy Brewery

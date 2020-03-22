@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Ondori Noodle

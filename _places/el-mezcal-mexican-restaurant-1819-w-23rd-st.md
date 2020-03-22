@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.elmezcaltogo.com/#/
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: El Mezcal Mexican Restaurant

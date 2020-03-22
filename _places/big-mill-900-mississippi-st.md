@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://bigmill.hrpos.heartland.us/
 giftcard: true
+giftcard_notes: ''
 giftcard_url: ''
 hours: 11am-9pm Daily
 name: Big Mill

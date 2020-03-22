@@ -8,6 +8,7 @@ curbside_instructions: Call (785)841-8226 when you arrive and we will bring your
 delivery: true
 delivery_service_websites: ''
 giftcard: true
+giftcard_notes: ''
 giftcard_url: https://fuzzystacoshop.cardfoundry.com/giftcards.php
 hours: 11am-9pm Daily
 name: Fuzzy's Taco Shop

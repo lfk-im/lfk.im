@@ -8,6 +8,7 @@ curbside_instructions: Call 785-856-0544 to order and again when you arrive and 
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: 8am - 10pm daily
 name: Orange Leaf

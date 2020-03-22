@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://papakenos.appfront.ai/
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Papa Keno’s

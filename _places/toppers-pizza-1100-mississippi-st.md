@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Sun-Thu 11am-12am, Fri-Sat 11am-3am
 name: Toppers Pizza

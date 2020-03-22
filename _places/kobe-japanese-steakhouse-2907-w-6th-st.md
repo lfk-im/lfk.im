@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://kobejapanesesteakhouselawrence.com/28634
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Kobe Japanese Steakhouse

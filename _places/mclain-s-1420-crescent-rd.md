@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://order.mclainsbakerykc.com/mclains-lawrence/menu
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: McLain's

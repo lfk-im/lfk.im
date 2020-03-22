@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Mon-Fri 6am-6pm, Sat 7am-6pm, Sun 9am-5pm
 name: Uplift Coffee Shop

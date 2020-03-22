@@ -7,15 +7,14 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 giftcard: true
+giftcard_notes: Gift cards available for purchase over the phone from 10-1 daily
 giftcard_url: ''
 hours: closed
 name: 715 Mass
 neighborhood: Downtown
-notes: Gift cards available for purchase over the phone from 10-1 daily
+notes: ''
 restaurant_phone: 785-856-7150
 social: https://www.instagram.com/715restaurant/
 takeout: false
 website: https://715mass.com/
 ---
-
-Gift cards available for purchase over the phone from 10-1 daily

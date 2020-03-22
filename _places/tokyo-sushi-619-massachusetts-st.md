@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.tokyosushilfk.com/#/
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Tokyo Sushi

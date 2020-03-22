@@ -8,6 +8,7 @@ curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: Saturday meal pickup
 name: Maceli’s

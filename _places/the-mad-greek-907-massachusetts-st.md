@@ -9,6 +9,7 @@ curbside_instructions: 'We ask that you pay for your order over the phone to avo
 delivery: true
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: The Mad Greek

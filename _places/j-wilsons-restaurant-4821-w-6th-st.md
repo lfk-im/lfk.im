@@ -7,6 +7,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 giftcard: false
+giftcard_notes: ''
 giftcard_url: ''
 hours: 12pm-8pm Daily
 name: J. Wilson’s Restaurant
