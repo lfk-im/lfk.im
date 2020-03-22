@@ -103,7 +103,8 @@ def main(sheet_app_id, output_folder, sheet_name):
 
     for item in table:
         name = item.get_field_value("name")
-        slug = slugify(name)
+        address = item.get_field_value("address")
+        slug = slugify(" ".join([name, address]))
         filename = f"{slug}.md"
 
         input_file = output_folder.joinpath(filename)
@@ -114,8 +115,8 @@ def main(sheet_app_id, output_folder, sheet_name):
 
         place = {
             "name": name,
+            "address": address,
             "active": string_to_boolean(item.get_field_value("active")),
-            "address": item.get_field_value("address"),
             "cuisine": item.get_field_value("cuisine"),
             "curbside": string_to_boolean(item.get_field_value("curbside")),
             "curbside_instructions": item.get_field_value("curbside_instructions"),
