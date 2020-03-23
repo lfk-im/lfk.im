@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 11am-7pm
+hours: Mon-Sat 3pm-8pm, Sun 12pm-8pm
 name: Paisano's Ristorante
 neighborhood: South Lawrence
 notes: ''
