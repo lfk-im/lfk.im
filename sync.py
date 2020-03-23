@@ -11,7 +11,7 @@ from typesystem.fields import Boolean
 
 Boolean.coerce_values.update({"n": False, "no": False, "y": True, "yes": True})
 
-
+# Don't customize these
 EXPECTED_ENV_VARS = [
     "LFK_GOOGLE_SHEET_APP_ID",
     "SHEETFU_CONFIG_AUTH_PROVIDER_URL",
@@ -24,6 +24,35 @@ EXPECTED_ENV_VARS = [
     "SHEETFU_CONFIG_PROJECT_ID",
     "SHEETFU_CONFIG_TOKEN_URI",
     "SHEETFU_CONFIG_TYPE",
+]
+
+# Feel free to customie everything below here
+
+SHEETS_BOOL_FIELDS = [
+    "active",
+    "curbside",
+    "delivery",
+    "giftcard",
+    "takeout",
+]
+
+SHEETS_STRING_FIELDS = [
+    "name",
+    "address",
+    "cuisine",
+    "curbside_instructions",
+    "delivery_service_websites",
+    "giftcard_notes",
+    "hours",
+    "neighborhood",
+    "notes",
+    "restaurant_phone",
+    "social",
+]
+
+SHEETS_URL_FIELDS = [
+    "giftcard_url",
+    "website",
 ]
 
 
@@ -113,28 +142,33 @@ def main(sheet_app_id, output_folder, sheet_name):
         else:
             post = frontmatter.loads("")
 
-        place = {
-            "name": name,
-            "address": address,
-            "active": string_to_boolean(item.get_field_value("active")),
-            "cuisine": item.get_field_value("cuisine"),
-            "curbside": string_to_boolean(item.get_field_value("curbside")),
-            "curbside_instructions": item.get_field_value("curbside_instructions"),
-            "delivery": string_to_boolean(item.get_field_value("delivery")),
-            "delivery_service_websites": item.get_field_value(
-                "delivery_service_websites"
-            ),
-            "giftcard": string_to_boolean(item.get_field_value("giftcard")),
-            "giftcard_url": verify_http(item.get_field_value("giftcard_url")),
-            "giftcard_notes": item.get_field_value("giftcard_notes"),
-            "hours": item.get_field_value("hours"),
-            "neighborhood": item.get_field_value("neighborhood"),
-            "notes": item.get_field_value("notes"),
-            "restaurant_phone": item.get_field_value("restaurant_phone"),
-            "social": item.get_field_value("social"),
-            "takeout": string_to_boolean(item.get_field_value("takeout")),
-            "website": verify_http(item.get_field_value("website")),
-        }
+        place = {}
+
+        # Our goal is to build a Place record without having to deal with
+        # annoying errors if a field doesn't exist. We will still let you
+        # know which field wasn't there though.
+
+        if SHEETS_BOOL_FIELDS:
+            for var in SHEETS_BOOL_FIELDS:
+                try:
+                    place[var] = string_to_boolean(item.get_field_value(var))
+                except ValueError:
+                    click.echo(f"A column named '{var}' was expected, but not found.")
+
+        if SHEETS_STRING_FIELDS:
+            for var in SHEETS_STRING_FIELDS:
+                try:
+                    place[var] = item.get_field_value(var)
+                except ValueError:
+                    click.echo(f"A column named '{var}' was expected, but not found.")
+
+        if SHEETS_URL_FIELDS:
+            for var in SHEETS_URL_FIELDS:
+                try:
+                    place[var] = verify_http(item.get_field_value(var))
+                except ValueError:
+                    click.echo(f"A column named '{var}' was expected, but not found.")
+
         post.content = item.get_field_value("notes")
 
         post.metadata.update(place)
