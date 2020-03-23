@@ -65,19 +65,16 @@ layout: default
           <td class="py-4 px-6">
             {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
             <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8 whitespace-no-wrap">
-              {{ place.restaurant_phone }}
-            </a>
+              {{ place.restaurant_phone }}</a>
             {% endif %}
             {% if place.website and place.website != "" and place.website != nil %}
             <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
-              website
-            </a>
+              website</a>
             {% endif %}
             {% comment %}
             {% if place.delivery_service_websites %}
             <a href="{{ place.delivery_service_websites }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
-              Menu
-            </a>
+              Menu</a>
             {% endif %}
             {% endcomment %}
           </td>
