@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1007 Massachusetts St
 cuisine: ''
 curbside: true
