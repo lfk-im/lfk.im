@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 3pm-3pm Daily
 name: Henry T's
 neighborhood: Old West Lawrence
 notes: Call or order online via EatStreet
