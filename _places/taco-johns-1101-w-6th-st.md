@@ -13,8 +13,8 @@ hours: ''
 name: Taco John’s
 neighborhood: ''
 notes: ''
-restaurant_phone: ''
+restaurant_phone: 785-843-0936
 social: ''
 takeout: true
-website: ''
+website: https://www.tacojohns.com
 ---
