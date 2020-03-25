@@ -1,20 +1,20 @@
 ---
-active: false
+active: true
 address: 925 Iowa St. Suite P
 cuisine: Mexcian
-curbside: false
+curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 5pm-11pm Daily
+hours: 5pm-11pm Mon-Thu, 5pm-12am Fri-Sat
 name: Tortas Jalisco
-neighborhood: ''
+neighborhood: 9th and Iowa Area
 notes: ''
 restaurant_phone: 785-691-8930
 social: ''
-takeout: false
+takeout: true
 website: https://tortasjaliscoks.com/
 ---
