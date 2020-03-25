@@ -15,7 +15,7 @@ neighborhood: South Lawrence
 notes: All you need to do is call us with your order and let us know what type of
   car you will be picking it up in. For now, we will only be accepting credit card
   payments over the phone at the time of your order
-restaurant_phone: (785) 841-2739
+restaurant_phone: 785-841-2739
 social: https://www.facebook.com/westcoastsaloon/
 takeout: false
 website: https://www.facebook.com/westcoastsaloon/

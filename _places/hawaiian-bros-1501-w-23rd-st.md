@@ -13,7 +13,7 @@ hours: ''
 name: Hawaiian Bros.
 neighborhood: South Lawrence
 notes: ''
-restaurant_phone: (785) 424-7525
+restaurant_phone: 785-424-7525
 social: https://www.facebook.com/hawaiianbroslawrence/
 takeout: true
 website: https://hawaiianbros.com/
