@@ -2,7 +2,7 @@
 active: true
 address: 3520 W 6th St
 cuisine: ''
-curbside: false
+curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
