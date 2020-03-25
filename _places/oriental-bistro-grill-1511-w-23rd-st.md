@@ -5,7 +5,7 @@ cuisine: Chinese, Korean, Thai, Japanese
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: orientalbistrolawrence.com
+delivery_service_websites: https://www.orientalbistrolawrence.com/#/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''

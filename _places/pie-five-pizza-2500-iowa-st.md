@@ -5,7 +5,7 @@ cuisine: Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: piefivepizza.com
+delivery_service_websites: https://www.piefivepizza.com/locations/lawrence-iowa-st/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''

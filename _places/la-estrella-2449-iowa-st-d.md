@@ -5,7 +5,7 @@ cuisine: ''
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: http://www.laestrellamexicana.com/orderonline
+delivery_service_websites: https://www.laestrellamexicana.com/orderonline
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''

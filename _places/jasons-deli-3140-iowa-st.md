@@ -5,7 +5,7 @@ cuisine: American
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: jasonsdeli.com
+delivery_service_websites: https://jasonsdeli.com
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
