@@ -9,7 +9,7 @@ delivery_service_websites: https://texasroadhouse.alohaorderonline.com/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 12pm-8pm Daily
+hours: 3pm-8:30pm Daily
 name: Texas Roadhouse
 neighborhood: South Lawrence
 notes: We recommend that guests call ahead or order online, but they are more than

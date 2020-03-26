@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Sun & Tue-Thur 11am-8pm, Fri-Sat 11am-9pm
+hours: Tue-Thur 11am-8pm, Fri-Sat 11am-9pm, Sun 12pm-9pm
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 notes: 'FREE DELIVERY if you call us direct.  '

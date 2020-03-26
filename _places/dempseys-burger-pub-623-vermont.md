@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 12pm - 7:30pm Daily
+hours: 12pm-7:30pm Daily
 name: Dempseys Burger Pub
 neighborhood: Downtown
 notes: Likely closing the restaurant if we can not drive enough pick-up and online
