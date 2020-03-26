@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 746 Massachusetts St
 cuisine: ''
 curbside: false
