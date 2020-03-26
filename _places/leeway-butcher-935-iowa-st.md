@@ -9,7 +9,7 @@ delivery_service_websites: ''
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Sat 11am-2pm, 5pm-8pm, Sun 10am-3pm
+hours: Tue-Sat 10am-6pm
 name: Leeway Butcher
 neighborhood: 9th and Iowa Area
 notes: Order by phone with delivery available, or pick up curbside
