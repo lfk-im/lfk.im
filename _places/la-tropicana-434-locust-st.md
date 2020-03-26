@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 434 Locust St
 cuisine: ''
 curbside: true
