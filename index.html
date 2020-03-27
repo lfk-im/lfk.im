@@ -80,14 +80,14 @@ layout: default
 
               {% if place.food_urls.size > 0 %}
               <div x-data="{ open: false }">
-                  <button
-                      class="p-2 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700"
-                      @click="open = true">Delivery Options</button>
+                <button
+                    class="p-2 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+                    @click="open = true">⬇ Delivery</button>
 
                   <div x-ref="dropdown" x-show="open" @click.away="open = false">
                     <ul>
                     {% for food in place.food_urls %}
-                      <li class="p-1"><a class="hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap underline"
+                      <li class="p-1"><a class="text-xs hover:bg-blue-300 text-blue-700 hover:text-blue-500 underline whitespace-no-wrap"
                           href="{{ food.url }}">
                         {{ food.name }}</a></li>
                     {% endfor %}
