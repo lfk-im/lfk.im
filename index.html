@@ -68,12 +68,12 @@ layout: default
           <td class="py-4 px-6">
             <span class="relative inline-flex shadow-sm">
               {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
-                <a class="p-2 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+                <a class="p-2 mr-1 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
                     href="tel:{{ place.restaurant_phone }}">
                   {{ place.restaurant_phone }}</a>
               {% endif %}
               {% if place.website and place.website != "" and place.website != nil %}
-                <a class="p-2 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+                <a class="p-2 mr-1 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
                     href="{{ place.website }}">
                   Website</a>
               {% endif %}
