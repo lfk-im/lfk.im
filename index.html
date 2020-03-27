@@ -47,7 +47,7 @@ layout: default
             x-data="{ 'is_{{ place.slug | replace: "-", "_" }}_open': false }"
             @keydown.escape="is_{{ place.slug | replace: "-", "_" }}_open = false"
         >
-          <td class="py-4 px-6 hover:text-gray-200 font-medium text-right">
+          <td class="py-4 px-6 font-medium text-right">
             <a name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
           </td>
           <td class="py-4 px-6">
