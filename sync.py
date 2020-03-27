@@ -41,7 +41,6 @@ SHEETS_STRING_FIELDS = [
     "address",
     "cuisine",
     "curbside_instructions",
-    "delivery_service_websites",
     "giftcard_notes",
     "hours",
     "neighborhood",
@@ -53,6 +52,34 @@ SHEETS_STRING_FIELDS = [
 SHEETS_URL_FIELDS = [
     "giftcard_url",
     "website",
+    "delivery_service_websites",
+]
+
+FOOD_SERVICE_DICT = {
+    # "chownow_url": "ChowNow",
+    # "doordash_url": "DoorDash",
+    # "eatstreet_url": "EatStreet",
+    # "grubhub_url": "Grubhub",
+    # "postmates_url": "Postmates",
+    # "seamless_url": "Seamless",
+    # "ubereats_url": "Ubereats",
+    "chownow_url": "chownow.com",
+    "doordash_url": "doordash.com",
+    "eatstreet_url": "eatstreet.com",
+    "grubhub_url": "grubhub.com",
+    "postmates_url": "postmates.com",
+    "seamless_url": "seamless.com",
+    "ubereats_url": "ubereats.com",
+}
+
+FOOD_SERVICE_URLS = [
+    "chownow_url",
+    "doordash_url",
+    "eatstreet_url",
+    "grubhub_url",
+    "postmates_url",
+    "seamless_url",
+    "ubereats_url",
 ]
 
 
@@ -143,6 +170,7 @@ def main(sheet_app_id, output_folder, sheet_name):
             post = frontmatter.loads("")
 
         place = {}
+        place["slug"] = slug
 
         # Our goal is to build a Place record without having to deal with
         # annoying errors if a field doesn't exist. We will still let you
@@ -168,6 +196,28 @@ def main(sheet_app_id, output_folder, sheet_name):
                     place[var] = verify_http(item.get_field_value(var))
                 except ValueError:
                     click.echo(f"A column named '{var}' was expected, but not found.")
+
+        food_urls = []
+
+        if "delivery_service_websites" in place and len(
+            place["delivery_service_websites"]
+        ):
+            food_urls.append(
+                {"name": "order online", "url": place["delivery_service_websites"]}
+            )
+
+        if FOOD_SERVICE_URLS:
+            for var in FOOD_SERVICE_URLS:
+                try:
+                    value = verify_http(item.get_field_value(var))
+                    if len(value):
+                        food_urls.append(
+                            {"name": FOOD_SERVICE_DICT.get(var), "url": value}
+                        )
+                except ValueError:
+                    click.echo(f"A column named '{var}' was expected, but not found.")
+
+            place["food_urls"] = [food_url for food_url in food_urls if food_url]
 
         post.content = item.get_field_value("notes")
 
