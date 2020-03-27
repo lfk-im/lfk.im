@@ -18,7 +18,7 @@ restaurant_phone: 785-856-3287
 slug: terrebonne-805-vermont-st
 social: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
 takeout: true
-website: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
+website: https://my-site-108190-101580.square.site/
 ---
 
 Order by phone and carry out
