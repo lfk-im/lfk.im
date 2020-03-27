@@ -5,8 +5,10 @@ cuisine: Gluten free
 curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true
-delivery_service_websites: ''
-food_urls: []
+delivery_service_websites: https://oobakes.com/order-retail/
+food_urls:
+- name: order online
+  url: https://oobakes.com/order-retail/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
