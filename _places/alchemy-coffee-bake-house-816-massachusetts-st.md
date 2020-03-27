@@ -6,6 +6,11 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
+food_urls:
+- name: order online
+  url: https://squareup.com/store/AlchemyOnline
+- name: postmates.com
+  url: https://postmates.com/merchant/alchemy-coffee-bake-house-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 notes: Order online or by phone and pick up curbside on Mass
 restaurant_phone: 785-424-5601
+slug: alchemy-coffee-bake-house-816-massachusetts-st
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: false
 website: http://www.alchemyks.com/

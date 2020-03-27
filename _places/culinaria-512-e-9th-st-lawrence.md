@@ -6,6 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Culinaria
 neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-766-8591
+slug: culinaria-512-e-9th-st-lawrence
 social: ''
 takeout: false
 website: https://www.culinariafoodandwine.com/

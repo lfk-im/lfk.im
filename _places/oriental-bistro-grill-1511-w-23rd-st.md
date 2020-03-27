@@ -6,6 +6,15 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.orientalbistrolawrence.com/#/
+food_urls:
+- name: order online
+  url: https://www.orientalbistrolawrence.com/#/
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/oriental-bistro-and-grill
+- name: grubhub.com
+  url: https://www.grubhub.com/restaurant/oriental-bistro-1511-w-23rd-st-lawrence/559940
+- name: seamless.com
+  url: https://www.seamless.com/menu/oriental-bistro-1511-w-23rd-st-lawrence/559940
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +23,7 @@ name: Oriental Bistro & Grill
 neighborhood: South Lawrence
 notes: Online options possible too for ordering
 restaurant_phone: 785-841-8881
+slug: oriental-bistro-grill-1511-w-23rd-st
 social: ''
 takeout: true
 website: https://orientalbistrolawrence.com

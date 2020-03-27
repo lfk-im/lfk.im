@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -16,6 +17,7 @@ notes: All you need to do is call us with your order and let us know what type o
   car you will be picking it up in. For now, we will only be accepting credit card
   payments over the phone at the time of your order
 restaurant_phone: 785-841-2739
+slug: west-coast-saloon-2222-iowa-st
 social: https://www.facebook.com/westcoastsaloon/
 takeout: false
 website: https://www.facebook.com/westcoastsaloon/

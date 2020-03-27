@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -31,6 +32,7 @@ notes: 'Pizzas 13” 12.00 8” 7.00
 
   Chocolate Chip Cookies 1.50'
 restaurant_phone: 785-331-5290
+slug: oo-bakes-1410-kasold-drive-suite-a17
 social: https://www.facebook.com/oobakeslawrence/
 takeout: true
 website: https://oobakes.com/

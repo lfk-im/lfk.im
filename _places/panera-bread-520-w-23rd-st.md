@@ -6,6 +6,11 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/panera-bread-charlotte-858247/en-US
+- name: grubhub.com
+  url: https://www.grubhub.com/restaurant/panera-bread-520-w-23rd-st-lawrence/1328445
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: Panera Bread
 neighborhood: KU Campus Area
 notes: Pull up to front door to be helped.
 restaurant_phone: ''
+slug: panera-bread-520-w-23rd-st
 social: ''
 takeout: true
 website: ''

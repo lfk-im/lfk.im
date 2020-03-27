@@ -6,6 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: The Jayhawker at the Eldridge Hotel
 neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: 785-749-1005
+slug: the-jayhawker-at-the-eldridge-hotel-701-massachusetts-st
 social: https://www.facebook.com/TheJayhawkerBar/
 takeout: false
 website: https://eldridgehotel.com/dining-service/thejayhawker/

@@ -7,6 +7,7 @@ curbside_instructions: We will be setting up beer and wine on the patio for purc
   No need to drink on premise.
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase online, online ordering is in the
   works
@@ -16,6 +17,7 @@ name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-330-5079
+slug: restaurant-pub-games-rpg-724-massachusetts-st
 social: https://www.facebook.com/RPGLawrence/
 takeout: false
 website: https://rpglawrence.com

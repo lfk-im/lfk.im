@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Free State Brewery
 neighborhood: Downtown
 notes: Order by phone and pick up, including bottled beers
 restaurant_phone: 785-843-4555
+slug: free-state-brewery-636-massachusetts-st
 social: ''
 takeout: true
 website: http://www.freestatebrewing.com/brewpub/

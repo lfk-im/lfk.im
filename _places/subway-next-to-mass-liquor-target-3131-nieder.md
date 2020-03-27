@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Subway (next to Mass Liquor/Target)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-842-2479
+slug: subway-next-to-mass-liquor-target-3131-nieder
 social: ''
 takeout: true
 website: ''

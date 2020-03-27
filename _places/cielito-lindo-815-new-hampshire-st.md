@@ -6,6 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Cielito Lindo
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-832-1545
+slug: cielito-lindo-815-new-hampshire-st
 social: https://www.facebook.com/cielitolindoks/
 takeout: false
 website: https://www.cielitolindoks.com/#/

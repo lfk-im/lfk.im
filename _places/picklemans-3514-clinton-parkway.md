@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: 'Please call when you arrive '
 delivery: true
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Pickleman’s
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-856-9060
+slug: picklemans-3514-clinton-parkway
 social: ''
 takeout: false
 website: https://picklemans.com

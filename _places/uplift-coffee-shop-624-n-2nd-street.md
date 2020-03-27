@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
+food_urls:
+- name: order online
+  url: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Uplift Coffee Shop
 neighborhood: North Lawrence
 notes: Download their app to order for pickup
 restaurant_phone: 785-424-0466
+slug: uplift-coffee-shop-624-n-2nd-street
 social: https://www.instagram.com/upliftcoffee.co/
 takeout: true
 website: https://www.upliftcoffeeshop.com

@@ -6,6 +6,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/toppers-pizza-lawrence-388425/en-US
+- name: seamless.com
+  url: https://www.seamless.com/menu/toppers-pizza-1100-mississippi-st-ste-c-lawrence/1424599
+- name: ubereats.com
+  url: https://www.ubereats.com/lawrence/food-delivery/toppers-pizza-lawrence-ku/_XYnzCY5SIOVgt4XLi8djA
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +21,7 @@ name: Toppers Pizza
 neighborhood: Downtown-Adjacent
 notes: ''
 restaurant_phone: 785-856-0058
+slug: toppers-pizza-1100-mississippi-st
 social: ''
 takeout: true
 website: https://order.toppers.com/

@@ -7,6 +7,15 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/pita-pit-lawrence-439686/en-US
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/pita-pit-lawrence
+- name: grubhub.com
+  url: https://www.grubhub.com/restaurant/pita-pit-1011-massachusetts-st-lawrence/336094
+- name: seamless.com
+  url: https://www.seamless.com/menu/pita-pit-1011-massachusetts-st-lawrence/336094
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -15,6 +24,7 @@ name: Pita Pit
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-2500
+slug: pita-pit-1011-massachusetts-st
 social: ''
 takeout: true
 website: ''

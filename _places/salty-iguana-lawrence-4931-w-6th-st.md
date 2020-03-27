@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/salty-iguana
 giftcard: true
 giftcard_notes: All Gift Card Proceeds Benefit Employees.  Buy one $50 Gift Card -
   Get one $25 Gift Card FREE.  Stockpile as many as you want.
@@ -15,6 +18,7 @@ name: Salty Iguana Lawrence
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-312-8100
+slug: salty-iguana-lawrence-4931-w-6th-st
 social: https://www.facebook.com/SaltyIguanaRestaurant/
 takeout: false
 website: https://saltyiguana.com

@@ -6,6 +6,11 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://papakenos.appfront.ai/
+food_urls:
+- name: order online
+  url: https://papakenos.appfront.ai/
+- name: postmates.com
+  url: https://postmates.com/merchant/papa-kenos-pizzeria-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: Papa Keno’s
 neighborhood: Downtown
 notes: Order online or call for delivery
 restaurant_phone: 785-841-7272
+slug: papa-kenos-1035-massachusetts-st
 social: ''
 takeout: true
 website: http://www.papakenos.com

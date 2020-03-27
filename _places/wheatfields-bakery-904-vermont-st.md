@@ -6,6 +6,11 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: chownow.com
+  url: https://direct.chownow.com/order/12797/locations/17922
+- name: postmates.com
+  url: https://postmates.com/merchant/wheatfields-bakery-cafe-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: Wheatfields Bakery
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-841-5553
+slug: wheatfields-bakery-904-vermont-st
 social: https://twitter.com/WheatfieldsBkry
 takeout: true
 website: http://wheatfieldsbakery.com/

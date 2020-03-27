@@ -6,6 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: PoorBoy Burrito Company
 neighborhood: Downtown-Adjacent
 notes: Unconfirmed
 restaurant_phone: 785-550-3317
+slug: poorboy-burrito-company-1900-massachusetts-s
 social: https://www.facebook.com/webuildyoueat/
 takeout: false
 website: https://www.facebook.com/webuildyoueat/

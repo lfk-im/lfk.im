@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 notes: Order by phone and pick up curbside
 restaurant_phone: 785-312-9057
+slug: j-wilsons-restaurant-4821-w-6th-st
 social: ''
 takeout: true
 website: https://jwilsonsrestaurant.com

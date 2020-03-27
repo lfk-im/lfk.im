@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: postmates.com
+  url: https://postmates.com/merchant/cosmic-cafe-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Cosmic Cafe
 neighborhood: South Lawrence
 notes: Closed
 restaurant_phone: 785-551-3347
+slug: cosmic-cafe-1910-haskell-ave-suite-2
 social: https://www.facebook.com/cosmiclawrence/
 takeout: false
 website: https://www.facebook.com/cosmiclawrence/

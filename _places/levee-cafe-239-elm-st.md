@@ -6,6 +6,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Levee Cafe
 neighborhood: North Lawrence
 notes: Heat and eat meals for pick-up. Check social media for times
 restaurant_phone: 785-856-3671
+slug: levee-cafe-239-elm-st
 social: https://www.facebook.com/TheLeveeCafe/
 takeout: true
 website: http://theleveecafe.com/

@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/basil-leaf-cafe
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-856-0459
+slug: basil-leaf-cafe-616-w-9th-st
 social: https://www.facebook.com/TheBasilLeafCafeKS/
 takeout: false
 website: https://www.facebook.com/TheBasilLeafCafeKS/?ref=br_rs

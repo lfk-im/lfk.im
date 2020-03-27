@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Terrebonne
 neighborhood: Downtown
 notes: Order by phone and carry out
 restaurant_phone: 785-856-3287
+slug: terrebonne-805-vermont-st
 social: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
 takeout: true
 website: https://www.facebook.com/Terrebonne-Cafe-129142333805332/

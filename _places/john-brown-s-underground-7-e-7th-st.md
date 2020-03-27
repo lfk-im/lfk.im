@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
@@ -14,6 +15,7 @@ name: John Brown's Underground
 neighborhood: Downtown
 notes: Curbside Cocktails
 restaurant_phone: 913-683-4774
+slug: john-brown-s-underground-7-e-7th-st
 social: https://www.instagram.com/johnbrownunderground/
 takeout: true
 website: http://www.freelawrence.com/

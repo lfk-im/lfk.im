@@ -6,6 +6,7 @@ curbside: true
 curbside_instructions: Call when you’re here
 delivery: true
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +15,7 @@ name: Pickleman’s Downtown
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-6700
+slug: picklemans-downtown-818-mass-st
 social: ''
 takeout: true
 website: https://picklemans.com

@@ -7,6 +7,7 @@ curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavo
   cash or card '
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -16,6 +17,7 @@ neighborhood: 9th and Iowa Area
 notes: 'We will have a curbside app next week.  Follow our Social media for updates
   and menu.  '
 restaurant_phone: 913-683-1604
+slug: total-body-nutrition-2330-yale-rd-suite-a
 social: ''
 takeout: true
 website: ''

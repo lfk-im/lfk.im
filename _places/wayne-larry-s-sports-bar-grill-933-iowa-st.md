@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/wayne-and-larrys-sports-bar-and-grill
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Wayne & Larry's Sports Bar & Grill
 neighborhood: 9th and Iowa Area
 notes: Call upon arrival and we will curbside deliver your order
 restaurant_phone: 785-856-7170
+slug: wayne-larry-s-sports-bar-grill-933-iowa-st
 social: ''
 takeout: true
 website: https://www.wayneandlarrys.com

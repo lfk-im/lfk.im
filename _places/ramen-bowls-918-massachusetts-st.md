@@ -6,6 +6,11 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: chownow.com
+  url: https://eat.chownow.com/discover/restaurant/9341
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/ramen-bowls
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: Ramen Bowls
 neighborhood: Downtown
 notes: Order by phone and pick up curbside or delivery
 restaurant_phone: 785-842-6957
+slug: ramen-bowls-918-massachusetts-st
 social: https://www.instagram.com/ramenbowlslawrence/
 takeout: true
 website: https://ramenbowls.com

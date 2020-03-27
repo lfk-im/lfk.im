@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.elmezcaltogo.com/#/
+food_urls:
+- name: order online
+  url: https://www.elmezcaltogo.com/#/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: El Mezcal Mexican Restaurant
 neighborhood: South Lawrence
 notes: Order online or call
 restaurant_phone: 785-856-3444
+slug: el-mezcal-mexican-restaurant-1819-w-23rd-st
 social: ''
 takeout: true
 website: https://www.elmezcaltogo.com/#menu

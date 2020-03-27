@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
+food_urls:
+- name: order online
+  url: https://ondorinoodleshopks.com/74250
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Ondori Noodle
 neighborhood: Downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
 restaurant_phone: 785-856-0210
+slug: ondori-noodle-1008-massachusetts-st
 social: https://www.facebook.com/OndorinoodleLFK/
 takeout: true
 website: https://www.facebook.com/OndorinoodleLFK/

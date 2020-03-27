@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: postmates.com
+  url: https://postmates.com/merchant/eileens-colossal-cookies-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Eileen's Colossal Cookies
 neighborhood: West Lawrence
 notes: Still open for now, also sells cookie dough to go
 restaurant_phone: 785-856-2253
+slug: eileen-s-colossal-cookies-4931-w-6th-st-124
 social: ''
 takeout: true
 website: https://www.eileenscookies.com/store/lawrence/

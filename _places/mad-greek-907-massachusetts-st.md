@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/the-mad-greek-lawrence-327564/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Mad Greek
 neighborhood: Downtown
 notes: Order by phone and pick up curbside, or use EatStreet
 restaurant_phone: 785-843-2441
+slug: mad-greek-907-massachusetts-st
 social: https://www.facebook.com/themadgreeklawrence/
 takeout: false
 website: https://www.themadgreeklawrence.com/

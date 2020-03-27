@@ -7,6 +7,7 @@ curbside_instructions: Call 785-856-0544 to order and again when you arrive and 
   will bring to your car
 delivery: false
 delivery_service_websites: ''
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -23,6 +24,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
 
   out.'
 restaurant_phone: 785-856-0544
+slug: orange-leaf-4801-bauer-farm-drive
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks

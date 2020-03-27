@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: postmates.com
+  url: https://postmates.com/merchant/stanley-james-smokehouse-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Stanley James Smokehouse
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-841-9691
+slug: stanley-james-smokehouse-1500-e-23rd-st
 social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true
 website: https://www.sjsmokehouse.com/

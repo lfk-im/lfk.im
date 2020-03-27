@@ -6,6 +6,11 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/business/t-loft-276104/menu/
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/t-loft
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: T. Loft Health Cafe
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-505-0770
+slug: t-loft-health-cafe-4801-bauer-farm-dr-suite-c
 social: ''
 takeout: true
 website: https://www.tloft.net

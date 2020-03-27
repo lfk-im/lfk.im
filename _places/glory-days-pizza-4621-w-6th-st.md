@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: 'Prepay over phone. No walk ins at this time. '
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/business/glory-days-pizza-186730/menu/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: 'Glory Days Pizza '
 neighborhood: West Lawrence
 notes: 'Prepay over phone. No walk ins at this time. '
 restaurant_phone: 786-841-5252
+slug: glory-days-pizza-4621-w-6th-st
 social: ''
 takeout: false
 website: https://www.glorydayspizza.com

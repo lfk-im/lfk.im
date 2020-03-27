@@ -6,6 +6,11 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/o-cafe-korean-restaurant
+- name: ubereats.com
+  url: https://www.ubereats.com/lawrence/food-delivery/o-cafe/2jYfpge_Q3KHWBolkq_3UA
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +19,7 @@ name: O Cafe
 neighborhood: Old West Lawrence
 notes: Unconfirmed
 restaurant_phone: 785-312-9211
+slug: o-cafe-1530-w-6th-st
 social: https://www.facebook.com/ocafelk/
 takeout: true
 website: http://ocafelk.com/

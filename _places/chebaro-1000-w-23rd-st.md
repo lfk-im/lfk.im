@@ -6,6 +6,15 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+food_urls:
+- name: chownow.com
+  url: http://bit.ly/39UJb26
+- name: eatstreet.com
+  url: http://bit.ly/2vXtVmF
+- name: grubhub.com
+  url: http://bit.ly/3d04lOh
+- name: ubereats.com
+  url: https://www.ubereats.com/lawrence/food-delivery/chebaro-mediterranean-grill/wPQgIwphTAiFfmavFtX3oA
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +23,7 @@ name: Chebaro
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-312-7660
+slug: chebaro-1000-w-23rd-st
 social: https://www.facebook.com/ChebaroMG/
 takeout: false
 website: https://www.facebook.com/ChebaroMG/

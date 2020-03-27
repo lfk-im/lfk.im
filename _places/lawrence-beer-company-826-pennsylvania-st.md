@@ -6,6 +6,9 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.toasttab.com/lawrencebeerco/v3
+food_urls:
+- name: order online
+  url: https://www.toasttab.com/lawrencebeerco/v3
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Lawrence Beer Company
 neighborhood: Downtown
 notes: Order online and pick up curbside (both locations)
 restaurant_phone: 785-856-0453
+slug: lawrence-beer-company-826-pennsylvania-st
 social: ''
 takeout: false
 website: https://www.lawrencebeerco.com

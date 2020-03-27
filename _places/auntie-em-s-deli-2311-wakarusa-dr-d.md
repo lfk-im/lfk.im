@@ -6,6 +6,9 @@ curbside: false
 curbside_instructions: Call Deli direct to place order and pay.
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/auntie-ems-deli-and-bakery
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +17,7 @@ name: Auntie Em's Deli
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-832-1333
+slug: auntie-em-s-deli-2311-wakarusa-dr-d
 social: https://www.facebook.com/AuntieEmsDeliandBakery
 takeout: true
 website: https://www.auntieemsdeli.com/home.html

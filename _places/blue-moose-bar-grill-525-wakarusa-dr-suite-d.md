@@ -6,6 +6,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/blue-moose-bar-grill-lawrence-788195/en-US
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/blue-moose-bar-and-grill?ref=google_action_link
+- name: postmates.com
+  url: https://postmates.com/merchant/blue-moose-lawrence
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
@@ -14,6 +21,7 @@ name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 notes: 'FREE DELIVERY if you call us direct.  '
 restaurant_phone: 785-727-4999
+slug: blue-moose-bar-grill-525-wakarusa-dr-suite-d
 social: ''
 takeout: true
 website: http://thebluemoosebarandgrill.com/lawrence/
