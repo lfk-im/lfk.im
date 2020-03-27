@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 12pm-8pm Daily
+hours: 12pm-8pm Tue-Sun
 name: Archibowls
 neighborhood: Downtown
 notes: offering free hot beans and rice meals at the window from noon to 8 every day.

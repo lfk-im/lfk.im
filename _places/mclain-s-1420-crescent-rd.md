@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1420 Crescent Rd
 cuisine: ''
 curbside: false

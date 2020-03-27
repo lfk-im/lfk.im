@@ -12,7 +12,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-9pm Daily
+hours: 4pm-9pm Daily
 name: Big Mill
 neighborhood: Downtown-Adjacent
 notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone

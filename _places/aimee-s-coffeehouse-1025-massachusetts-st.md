@@ -14,7 +14,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thu-Sat 8am-10pm, Sun-Wed 8am-3pm
+hours: Fri-Sun 8am-2pm
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 notes: Delivery through EatStreet, or curbside pickup of phone orders

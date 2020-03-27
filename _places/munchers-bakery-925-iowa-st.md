@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 925 Iowa St
 cuisine: ''
 curbside: true
