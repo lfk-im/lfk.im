@@ -1,0 +1,30 @@
+---
+layout: none
+---
+
+<div class="p-2">
+    <!-- content -->
+  <h4 class="font-bold text-2xl">{{ page.name }}</h4>
+  <aside class="mt-4 p-4 max-w-lg bg-yellow-100 border border-yellow-500">
+    <p>{{ page.curbside_instructions }}</p>
+  </aside>
+  <ul class="bg-gray-100 border">
+    <li class="my-4">
+      <a class="p-2 m-4 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+          href="tel:{{ page.restaurant_phone }}">
+        {{ page.restaurant_phone }}</a>
+    </li>
+    <li class="my-4">
+      <a class="p-2 m-4 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+          href="{{ page.delivery_service_websites }}">
+        order</a>
+    </li>
+    <li class="my-4">
+    {% for food in page.food_urls %}
+      <a class="hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap underline"
+          href="{{ food.url }}">
+        {{ food.name }}</a>
+    {% endfor %}
+    </li>
+  </ul>
+</div>
