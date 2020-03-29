@@ -1,7 +1,7 @@
 ---
 active: true
 address: 724 Massachusetts St
-cuisine: American, Burgers, Salads, Sandwiches
+cuisine: American, Burgers, Sandwiches
 curbside: true
 curbside_instructions: We will be setting up beer and wine on the patio for purchase.
   No need to drink on premise.
@@ -12,13 +12,15 @@ giftcard: true
 giftcard_notes: Gift cards available for purchase online, online ordering is in the
   works
 giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
-hours: ''
+hours: Wed-Sun, 4pm-8pm
 name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
-notes: ''
+notes: Online ordering & payment via the link at RPGLawrence.com
 restaurant_phone: 785-330-5079
 slug: restaurant-pub-games-rpg-724-massachusetts-st
 social: https://www.facebook.com/RPGLawrence/
-takeout: false
+takeout: true
 website: https://rpglawrence.com
 ---
+
+Online ordering & payment via the link at RPGLawrence.com
