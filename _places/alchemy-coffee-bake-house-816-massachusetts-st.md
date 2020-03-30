@@ -11,9 +11,9 @@ food_urls:
   url: https://squareup.com/store/AlchemyOnline
 - name: postmates.com
   url: https://postmates.com/merchant/alchemy-coffee-bake-house-lawrence
-giftcard: false
+giftcard: true
 giftcard_notes: ''
-giftcard_url: ''
+giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: ''
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
