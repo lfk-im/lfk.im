@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 814 Massachusetts St
 cuisine: ''
 curbside: true
