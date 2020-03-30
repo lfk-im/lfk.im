@@ -2,15 +2,16 @@
 active: true
 address: 1011 Massachusetts St
 cuisine: ''
-curbside: false
-curbside_instructions: ''
+curbside: true
+curbside_instructions: Call ahead and/or call upon arriving and someone will come
+  to your car to take your order
 delivery: false
 delivery_service_websites: ''
 food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 3-9pm Daily
 name: Sylas & Maddy's
 neighborhood: Downtown
 notes: Still open, with to-go pints/quarts available
