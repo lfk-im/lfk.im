@@ -1,9 +1,9 @@
 ---
 active: true
 address: 2329 Iowa Street, Suite T
-cuisine: Steakhouse, American
+cuisine: American, Barbecue, Burgers, Dessert, Fried Chicken, Salads, Seafood, Steakhouse
 curbside: true
-curbside_instructions: ''
+curbside_instructions: 'Order through mobile app and pay online '
 delivery: false
 delivery_service_websites: https://texasroadhouse.alohaorderonline.com/
 food_urls:
@@ -22,7 +22,7 @@ restaurant_phone: 785-312-7427
 slug: texas-roadhouse-2329-iowa-street-suite-t
 social: ''
 takeout: true
-website: https://www.facebook.com/txrhLawrenceKS/
+website: https://texasroadhouse.com
 ---
 
 We recommend that guests call ahead or order online, but they are more than welcome to pull up to the front door and we will have a server take their order right from their car.
