@@ -4,7 +4,7 @@ address: 807 Vermont St
 cuisine: Bakery
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 food_urls:
 - name: postmates.com
