@@ -7,16 +7,20 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 food_urls: []
-giftcard: false
+giftcard: true
 giftcard_notes: ''
-giftcard_url: ''
+giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: 7am-6pm Daily
 name: Alchemy Limited
 neighborhood: West Lawrence
-notes: ''
+notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety
+  reasons! Please call in your order, pay over the phone, and we will quickly deliver
+  it outside to you
 restaurant_phone: 785-856-0751
 slug: alchemy-limited-4000-w-6th-street
-social: ''
+social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
-website: ''
+website: http://www.alchemyks.com/
 ---
+
+FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety reasons! Please call in your order, pay over the phone, and we will quickly deliver it outside to you
