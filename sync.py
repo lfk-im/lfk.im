@@ -152,6 +152,7 @@ def sync_cuisines():
             post["name"] = cuisine
             post["slug"] = cuisine_slug
             post["active"] = False
+            post["sitemap"] = False
 
             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                 frontmatter.dumps(post)
@@ -185,6 +186,7 @@ def sync_neighborhoods():
             post["name"] = neighborhood
             post["slug"] = neighborhood_slug
             post["active"] = False
+            post["sitemap"] = False
 
             Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
                 frontmatter.dumps(post)
@@ -239,7 +241,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
             post = frontmatter.loads("")
 
         place = {}
+        place["sitemap"] = False
         place["slug"] = slug
+
 
         # Our goal is to build a Place record without having to deal with
         # annoying errors if a field doesn't exist. We will still let you
