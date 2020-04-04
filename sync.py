@@ -138,8 +138,6 @@ def sync_cuisines():
         post = frontmatter.loads(place.read_text())
         cuisines = post["cuisine"]
         if len(cuisines):
-            cuisines = cuisines.split(",")
-            cuisines = [cuisine.strip() for cuisine in cuisines]
             data += cuisines
 
     data = set(data)
@@ -269,6 +267,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
                     click.echo(f"A column named '{var}' was expected, but not found.")
 
         food_urls = []
+
+        if "cuisine" in place and len(place["cuisine"]):
+            place["cuisine"] = [cuisine.strip() for cuisine in place["cuisine"].split(",")]
 
         if "delivery_service_websites" in place and len(
             place["delivery_service_websites"]
