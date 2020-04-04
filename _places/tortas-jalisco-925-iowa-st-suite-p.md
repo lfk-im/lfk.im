@@ -1,7 +1,8 @@
 ---
 active: true
 address: 925 Iowa St. Suite P
-cuisine: Mexican
+cuisine:
+- Mexican
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,7 +1,10 @@
 ---
 active: true
 address: 701 W 23rd St
-cuisine: Sushi, Japanese, Asian
+cuisine:
+- Sushi
+- Japanese
+- Asian
 curbside: true
 curbside_instructions: All carryout/curbside is via drive-through.
 delivery: true

@@ -1,7 +1,9 @@
 ---
 active: true
 address: 2435 Iowa St
-cuisine: American, Chicken
+cuisine:
+- American
+- Chicken
 curbside: false
 curbside_instructions: ''
 delivery: false

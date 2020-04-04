@@ -1,7 +1,8 @@
 ---
 active: true
 address: 4811 Bob Billings Pkwy Ste C
-cuisine: American
+cuisine:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

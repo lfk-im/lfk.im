@@ -1,7 +1,9 @@
 ---
 active: true
 address: 907 Massachusetts St
-cuisine: Greek, Italian
+cuisine:
+- Greek
+- Italian
 curbside: true
 curbside_instructions: 'We ask that you pay for your order over the phone to avoid
   unnecessary contact.  If you opt for Curbside you can find a spot up front and let

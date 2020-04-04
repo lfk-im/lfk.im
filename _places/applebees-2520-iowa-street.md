@@ -1,7 +1,8 @@
 ---
 active: true
 address: '2520 Iowa street '
-cuisine: American
+cuisine:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

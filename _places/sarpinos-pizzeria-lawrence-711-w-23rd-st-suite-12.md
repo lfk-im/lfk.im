@@ -1,7 +1,9 @@
 ---
 active: true
 address: '711 W 23rd St. Suite 12 '
-cuisine: Pizza, Wings
+cuisine:
+- Pizza
+- Wings
 curbside: true
 curbside_instructions: 'Order online and prepay, call the store when you arrive with
   your order number. Your order will be brought out to you. '

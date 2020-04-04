@@ -1,7 +1,8 @@
 ---
 active: true
 address: 704 Massachusetts St
-cuisine: Pizza
+cuisine:
+- Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true

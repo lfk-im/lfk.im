@@ -1,7 +1,8 @@
 ---
 active: true
 address: 623 Vermont
-cuisine: American
+cuisine:
+- American
 curbside: false
 curbside_instructions: ''
 delivery: false

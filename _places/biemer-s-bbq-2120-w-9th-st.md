@@ -1,7 +1,8 @@
 ---
 active: true
 address: 2120 W 9th St
-cuisine: BBQ
+cuisine:
+- BBQ
 curbside: true
 curbside_instructions: ''
 delivery: false

@@ -1,7 +1,8 @@
 ---
 active: true
 address: 3140 Iowa Street, Ste 106
-cuisine: American
+cuisine:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: true

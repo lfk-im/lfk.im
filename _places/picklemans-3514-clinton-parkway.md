@@ -1,7 +1,10 @@
 ---
 active: true
 address: '3514 Clinton Parkway '
-cuisine: Pizza, Salads, Sandwiches
+cuisine:
+- Pizza
+- Salads
+- Sandwiches
 curbside: true
 curbside_instructions: 'Please call when you arrive '
 delivery: true

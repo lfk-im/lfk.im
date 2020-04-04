@@ -1,7 +1,8 @@
 ---
 active: true
 address: 2500 Iowa St
-cuisine: Pizza
+cuisine:
+- Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true

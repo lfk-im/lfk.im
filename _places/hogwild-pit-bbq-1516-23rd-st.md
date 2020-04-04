@@ -1,7 +1,9 @@
 ---
 active: true
 address: 1516 23rd St.
-cuisine: American, Barbecue
+cuisine:
+- American
+- Barbecue
 curbside: false
 curbside_instructions: ''
 delivery: true

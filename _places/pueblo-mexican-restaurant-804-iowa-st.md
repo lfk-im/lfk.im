@@ -1,7 +1,8 @@
 ---
 active: true
 address: 804 Iowa St
-cuisine: Mexican
+cuisine:
+- Mexican
 curbside: true
 curbside_instructions: ''
 delivery: true

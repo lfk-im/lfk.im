@@ -1,7 +1,8 @@
 ---
 active: true
 address: '1601 w 23rd #119'
-cuisine: Pizza
+cuisine:
+- Pizza
 curbside: false
 curbside_instructions: ''
 delivery: true

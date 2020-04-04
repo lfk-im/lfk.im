@@ -1,7 +1,12 @@
 ---
 active: true
 address: '2311 Wakarusa Dr #D '
-cuisine: Bakery, Dessert, Healthy, Salads, Sandwiches
+cuisine:
+- Bakery
+- Dessert
+- Healthy
+- Salads
+- Sandwiches
 curbside: false
 curbside_instructions: Call Deli direct to place order and pay.
 delivery: true

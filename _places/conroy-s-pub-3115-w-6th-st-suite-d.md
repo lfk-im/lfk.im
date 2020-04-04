@@ -1,7 +1,11 @@
 ---
 active: true
 address: 3115 W. 6th St Suite D
-cuisine: American, Burgers, Sandwiches, Pub/bar food
+cuisine:
+- American
+- Burgers
+- Sandwiches
+- Pub/bar food
 curbside: true
 curbside_instructions: Call when you arrive
 delivery: false

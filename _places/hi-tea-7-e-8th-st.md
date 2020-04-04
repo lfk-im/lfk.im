@@ -1,7 +1,8 @@
 ---
 active: true
 address: 7 E 8th St
-cuisine: Tea
+cuisine:
+- Tea
 curbside: false
 curbside_instructions: You can also opt to pick up in the front of the store
 delivery: true

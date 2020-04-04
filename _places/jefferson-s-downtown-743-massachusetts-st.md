@@ -1,7 +1,8 @@
 ---
 active: false
 address: 743 Massachusetts St
-cuisine: American
+cuisine:
+- American
 curbside: false
 curbside_instructions: ''
 delivery: false

@@ -1,7 +1,9 @@
 ---
 active: true
 address: 4821 W. 6th St
-cuisine: American, Steaks
+cuisine:
+- American
+- Steaks
 curbside: true
 curbside_instructions: ''
 delivery: false

@@ -1,7 +1,8 @@
 ---
 active: true
 address: 2112 W 25th St
-cuisine: Italian
+cuisine:
+- Italian
 curbside: true
 curbside_instructions: ''
 delivery: true

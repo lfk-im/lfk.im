@@ -1,7 +1,8 @@
 ---
 active: true
 address: 2223 Louisiana St
-cuisine: Thai
+cuisine:
+- Thai
 curbside: false
 curbside_instructions: ''
 delivery: true

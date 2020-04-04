@@ -1,7 +1,13 @@
 ---
 active: true
 address: 525 Wakarusa Dr., Suite D
-cuisine: American, Burgers, Dessert, Salads, Sandwiches, Wings
+cuisine:
+- American
+- Burgers
+- Dessert
+- Salads
+- Sandwiches
+- Wings
 curbside: true
 curbside_instructions: ''
 delivery: true

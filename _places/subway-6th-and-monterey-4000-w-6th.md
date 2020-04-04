@@ -1,7 +1,8 @@
 ---
 active: true
 address: 4000 W 6th
-cuisine: Sandwiches
+cuisine:
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

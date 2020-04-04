@@ -1,7 +1,8 @@
 ---
 active: true
 address: 904 Vermont St
-cuisine: Bakery
+cuisine:
+- Bakery
 curbside: false
 curbside_instructions: ''
 delivery: false

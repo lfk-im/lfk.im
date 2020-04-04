@@ -1,7 +1,11 @@
 ---
 active: true
 address: 636 Massachusetts St
-cuisine: American, Sandwiches, Pasta, Salads
+cuisine:
+- American
+- Sandwiches
+- Pasta
+- Salads
 curbside: true
 curbside_instructions: ''
 delivery: false

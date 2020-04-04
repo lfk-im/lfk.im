@@ -1,7 +1,8 @@
 ---
 active: true
 address: 3300 Iowa
-cuisine: Sandwiches
+cuisine:
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

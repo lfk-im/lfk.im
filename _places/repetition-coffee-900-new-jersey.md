@@ -1,7 +1,8 @@
 ---
 active: true
 address: 900 New Jersey
-cuisine: Coffee
+cuisine:
+- Coffee
 curbside: false
 curbside_instructions: ''
 delivery: true

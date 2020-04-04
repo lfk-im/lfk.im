@@ -1,7 +1,11 @@
 ---
 active: true
 address: 4621 W 6th St
-cuisine: Pizza, Salads, Sandwiches, Pasta
+cuisine:
+- Pizza
+- Salads
+- Sandwiches
+- Pasta
 curbside: true
 curbside_instructions: 'Prepay over phone. No walk ins at this time. '
 delivery: true

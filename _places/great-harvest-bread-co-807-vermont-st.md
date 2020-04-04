@@ -1,7 +1,8 @@
 ---
 active: true
 address: 807 Vermont St
-cuisine: Bakery
+cuisine:
+- Bakery
 curbside: true
 curbside_instructions: ''
 delivery: true

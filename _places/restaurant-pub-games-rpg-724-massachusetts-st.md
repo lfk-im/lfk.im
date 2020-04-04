@@ -1,7 +1,10 @@
 ---
 active: true
 address: 724 Massachusetts St
-cuisine: American, Burgers, Sandwiches
+cuisine:
+- American
+- Burgers
+- Sandwiches
 curbside: true
 curbside_instructions: We will be setting up beer and wine on the patio for purchase.
   No need to drink on premise.

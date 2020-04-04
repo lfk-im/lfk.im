@@ -1,7 +1,8 @@
 ---
 active: true
 address: 200 McDonald Dr
-cuisine: American
+cuisine:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

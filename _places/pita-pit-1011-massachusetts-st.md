@@ -1,8 +1,16 @@
 ---
 active: true
 address: 1011 Massachusetts St
-cuisine: Breakfast & Brunch, Global, Greek, Healthy, Mediterranean, Middle Eastern,
-  Salads, Sandwiches, Smoothies
+cuisine:
+- Breakfast & Brunch
+- Global
+- Greek
+- Healthy
+- Mediterranean
+- Middle Eastern
+- Salads
+- Sandwiches
+- Smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true

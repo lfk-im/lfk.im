@@ -1,7 +1,8 @@
 ---
 active: true
 address: 624 N. 2nd Street
-cuisine: Coffee
+cuisine:
+- Coffee
 curbside: true
 curbside_instructions: ''
 delivery: true

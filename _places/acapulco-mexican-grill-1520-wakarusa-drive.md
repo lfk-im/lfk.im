@@ -1,7 +1,8 @@
 ---
 active: true
 address: 1520 Wakarusa Drive
-cuisine: Mexican
+cuisine:
+- Mexican
 curbside: true
 curbside_instructions: ''
 delivery: true

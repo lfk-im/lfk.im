@@ -1,7 +1,9 @@
 ---
 active: true
 address: 4000 W. 6th Street
-cuisine: Coffee, Bakery
+cuisine:
+- Coffee
+- Bakery
 curbside: true
 curbside_instructions: ''
 delivery: false

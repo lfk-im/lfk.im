@@ -1,7 +1,8 @@
 ---
 active: true
 address: 4801 Bauer Farm Dr. Suite C
-cuisine: Healthy
+cuisine:
+- Healthy
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,7 +1,8 @@
 ---
 active: true
 address: 1900 Barker
-cuisine: Bakery
+cuisine:
+- Bakery
 curbside: true
 curbside_instructions: Order online - Pickup curbside
 delivery: false

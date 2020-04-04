@@ -1,7 +1,8 @@
 ---
 active: true
 address: 1035 Massachusetts St
-cuisine: Pizza
+cuisine:
+- Pizza
 curbside: false
 curbside_instructions: ''
 delivery: true
