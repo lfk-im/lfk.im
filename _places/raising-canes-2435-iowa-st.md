@@ -17,6 +17,7 @@ name: Raising Cane’s
 neighborhood: South Lawrence
 notes: Drive through also available
 restaurant_phone: 785-840-9800
+sitemap: false
 slug: raising-canes-2435-iowa-st
 social: ''
 takeout: true

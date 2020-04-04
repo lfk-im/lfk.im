@@ -20,6 +20,7 @@ name: Acapulco Mexican Grill
 neighborhood: West Lawrence
 notes: We will open for lunch, if people want us to do it. Or after the corona virus.
 restaurant_phone: 785-832-9400
+sitemap: false
 slug: acapulco-mexican-grill-1520-wakarusa-drive
 social: ''
 takeout: true

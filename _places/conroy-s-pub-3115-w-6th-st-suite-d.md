@@ -19,6 +19,7 @@ name: Conroy's Pub
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-856-3663
+sitemap: false
 slug: conroy-s-pub-3115-w-6th-st-suite-d
 social: https://www.facebook.com/ConroysPub/
 takeout: true

@@ -17,6 +17,7 @@ name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
 notes: Closed
 restaurant_phone: 785-843-1111
+sitemap: false
 slug: nagoya-japanese-cuisine-711-w-23rd-st-24
 social: https://www.facebook.com/nagoyalawrence/
 takeout: false

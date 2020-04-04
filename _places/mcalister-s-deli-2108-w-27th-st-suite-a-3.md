@@ -18,6 +18,7 @@ neighborhood: South Lawrence
 notes: Order online or with the app and head on over. Our team will prepare your meal
   and place it on the pickup station!
 restaurant_phone: 785-749-3354
+sitemap: false
 slug: mcalister-s-deli-2108-w-27th-st-suite-a-3
 social: https://www.facebook.com/McAlistersDeliLawrence/
 takeout: true

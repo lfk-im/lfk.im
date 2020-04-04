@@ -22,6 +22,7 @@ name: BellaRoca Cakes
 neighborhood: 9th and Iowa Area
 notes: fresh, made to order, local desserts
 restaurant_phone: 785-289-8947
+sitemap: false
 slug: bellaroca-cakes-200-mcdonald-dr
 social: ''
 takeout: false

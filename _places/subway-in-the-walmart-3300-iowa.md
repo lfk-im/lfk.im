@@ -16,6 +16,7 @@ name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-832-1199
+sitemap: false
 slug: subway-in-the-walmart-3300-iowa
 social: ''
 takeout: true

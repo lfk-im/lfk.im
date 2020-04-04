@@ -15,6 +15,7 @@ name: Moose McGuire's
 neighborhood: Downtown
 notes: Unconfirmed
 restaurant_phone: 785-856-0918
+sitemap: false
 slug: moose-mcguire-s-3320-mccarthy-rd
 social: https://www.facebook.com/moosemcguiresonmass/
 takeout: false

@@ -19,6 +19,7 @@ name: Sandwich Bowl
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-856-3675
+sitemap: false
 slug: sandwich-bowl-4821-w-6th-street-ste-k
 social: ''
 takeout: true

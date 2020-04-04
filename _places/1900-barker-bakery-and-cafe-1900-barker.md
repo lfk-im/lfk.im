@@ -24,6 +24,7 @@ notes: Today that looks like curbside - window pick up only — we have our enti
   Pastry, Coffee and Lunch Menu loaded to an online store where you can order from
   the safety of your home and then pick up at our window here at the Café.
 restaurant_phone: 785-424-7609
+sitemap: false
 slug: 1900-barker-bakery-and-cafe-1900-barker
 social: https://www.instagram.com/1900barker/
 takeout: true

@@ -16,6 +16,7 @@ name: Subway (6th and Monterey)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-841-1319
+sitemap: false
 slug: subway-6th-and-monterey-4000-w-6th
 social: ''
 takeout: true

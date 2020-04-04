@@ -17,6 +17,7 @@ name: Decade
 neighborhood: Downtown-Adjacent
 notes: Online ordering coming next week for to-go and curbside service
 restaurant_phone: 785-550-7944
+sitemap: false
 slug: decade-920-delaware-st
 social: https://www.instagram.com/decadelawrence/
 takeout: false

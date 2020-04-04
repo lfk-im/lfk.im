@@ -16,6 +16,7 @@ name: Thai-Siam Restaurant
 neighborhood: West Lawrence
 notes: "Order by phone or Delivery \nvia Starve Bird"
 restaurant_phone: 785-331-2525
+sitemap: false
 slug: thai-siam-restaurant-601-kasold-dr-c101
 social: ''
 takeout: true

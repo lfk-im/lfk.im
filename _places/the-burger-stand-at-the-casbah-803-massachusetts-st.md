@@ -15,6 +15,7 @@ name: The Burger Stand at The Casbah
 neighborhood: Downtown
 notes: Closed
 restaurant_phone: 785-856-0543
+sitemap: false
 slug: the-burger-stand-at-the-casbah-803-massachusetts-st
 social: https://www.facebook.com/casbahburgerstand/
 takeout: false

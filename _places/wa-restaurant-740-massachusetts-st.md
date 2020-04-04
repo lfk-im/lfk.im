@@ -17,6 +17,7 @@ name: Wa Restaurant
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-843-1990
+sitemap: false
 slug: wa-restaurant-740-massachusetts-st
 social: https://www.facebook.com/WaSushiLawrence/
 takeout: true

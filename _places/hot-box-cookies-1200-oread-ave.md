@@ -17,6 +17,7 @@ name: Hot Box Cookies
 neighborhood: KU Campus Area
 notes: Delivery as usual
 restaurant_phone: 785-856-8778
+sitemap: false
 slug: hot-box-cookies-1200-oread-ave
 social: ''
 takeout: true

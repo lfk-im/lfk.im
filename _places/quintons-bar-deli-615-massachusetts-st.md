@@ -25,6 +25,7 @@ name: Quinton’s Bar & Deli
 neighborhood: Downtown
 notes: Closed
 restaurant_phone: 785-842-6560
+sitemap: false
 slug: quintons-bar-deli-615-massachusetts-st
 social: ''
 takeout: false

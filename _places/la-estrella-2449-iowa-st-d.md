@@ -17,6 +17,7 @@ name: La Estrella
 neighborhood: South Lawrence
 notes: Order online, pick up in store
 restaurant_phone: 785-843-1595
+sitemap: false
 slug: la-estrella-2449-iowa-st-d
 social: https://www.instagram.com/laestrellamexicana/
 takeout: true

@@ -26,6 +26,7 @@ name: Yello Sub
 neighborhood: South Lawrence
 notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
 restaurant_phone: 785-843-6000
+sitemap: false
 slug: yello-sub-1814-w-23rd
 social: https://www.facebook.com/PlanetSub
 takeout: true

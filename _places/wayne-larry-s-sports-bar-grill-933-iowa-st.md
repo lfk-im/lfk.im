@@ -22,6 +22,7 @@ name: Wayne & Larry's Sports Bar & Grill
 neighborhood: 9th and Iowa Area
 notes: Call upon arrival and we will curbside deliver your order
 restaurant_phone: 785-856-7170
+sitemap: false
 slug: wayne-larry-s-sports-bar-grill-933-iowa-st
 social: ''
 takeout: true

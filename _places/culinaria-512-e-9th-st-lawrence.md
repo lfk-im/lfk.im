@@ -15,6 +15,7 @@ name: Culinaria
 neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-766-8591
+sitemap: false
 slug: culinaria-512-e-9th-st-lawrence
 social: ''
 takeout: false

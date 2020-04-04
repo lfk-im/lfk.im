@@ -25,6 +25,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
 
   out.'
 restaurant_phone: 785-856-0544
+sitemap: false
 slug: orange-leaf-4801-bauer-farm-drive
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false

@@ -20,6 +20,7 @@ name: Papa Keno’s
 neighborhood: Downtown
 notes: Order online or call for delivery
 restaurant_phone: 785-841-7272
+sitemap: false
 slug: papa-kenos-1035-massachusetts-st
 social: ''
 takeout: true

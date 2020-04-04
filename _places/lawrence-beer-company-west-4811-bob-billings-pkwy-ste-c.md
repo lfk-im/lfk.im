@@ -18,6 +18,7 @@ name: Lawrence Beer Company West
 neighborhood: West Lawrence
 notes: Order online and pick up curbside (both locations)
 restaurant_phone: 785-856-0596
+sitemap: false
 slug: lawrence-beer-company-west-4811-bob-billings-pkwy-ste-c
 social: ''
 takeout: false

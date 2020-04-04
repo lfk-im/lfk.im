@@ -16,6 +16,7 @@ name: Subway (by Pizza Shuttle)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-842-2479
+sitemap: false
 slug: subway-by-pizza-shuttle-1601-w-23rd
 social: ''
 takeout: true

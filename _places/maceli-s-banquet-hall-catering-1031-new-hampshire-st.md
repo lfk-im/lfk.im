@@ -18,6 +18,7 @@ neighborhood: Downtown
 notes: Our listing says "Saturday Meal Pickup" but we've changed to Friday afternoon
   pickup instead. Could you please change this information?
 restaurant_phone: 785-856-1841
+sitemap: false
 slug: maceli-s-banquet-hall-catering-1031-new-hampshire-st
 social: ''
 takeout: false

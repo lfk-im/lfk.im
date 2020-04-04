@@ -21,6 +21,7 @@ name: Aladdin Cafe
 neighborhood: Downtown
 notes: Call to order for pick-up
 restaurant_phone: 785-832-1100
+sitemap: false
 slug: aladdin-cafe-1021-massachusetts-st
 social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true

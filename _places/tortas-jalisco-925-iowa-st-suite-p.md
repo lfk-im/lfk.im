@@ -22,6 +22,7 @@ name: Tortas Jalisco
 neighborhood: 9th and Iowa Area
 notes: ''
 restaurant_phone: 785-691-8930
+sitemap: false
 slug: tortas-jalisco-925-iowa-st-suite-p
 social: ''
 takeout: true

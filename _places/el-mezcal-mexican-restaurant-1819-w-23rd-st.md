@@ -17,6 +17,7 @@ name: El Mezcal Mexican Restaurant
 neighborhood: South Lawrence
 notes: Order online or call
 restaurant_phone: 785-856-3444
+sitemap: false
 slug: el-mezcal-mexican-restaurant-1819-w-23rd-st
 social: ''
 takeout: true

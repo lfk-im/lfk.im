@@ -20,6 +20,7 @@ name: O Cafe
 neighborhood: Old West Lawrence
 notes: Unconfirmed
 restaurant_phone: 785-312-9211
+sitemap: false
 slug: o-cafe-1530-w-6th-st
 social: https://www.facebook.com/ocafelk/
 takeout: true

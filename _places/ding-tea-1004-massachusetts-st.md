@@ -18,6 +18,7 @@ name: Ding Tea
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 913-370-6594
+sitemap: false
 slug: ding-tea-1004-massachusetts-st
 social: https://www.facebook.com/dingtealawrence/
 takeout: true

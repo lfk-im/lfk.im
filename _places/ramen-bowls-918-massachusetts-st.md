@@ -21,6 +21,7 @@ name: Ramen Bowls
 neighborhood: Downtown
 notes: Order by phone and pick up curbside or delivery
 restaurant_phone: 785-842-6957
+sitemap: false
 slug: ramen-bowls-918-massachusetts-st
 social: https://www.instagram.com/ramenbowlslawrence/
 takeout: true

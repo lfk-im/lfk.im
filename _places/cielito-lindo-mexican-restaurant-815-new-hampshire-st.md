@@ -18,6 +18,7 @@ name: Cielito Lindo Mexican Restaurant
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-832-1545
+sitemap: false
 slug: cielito-lindo-mexican-restaurant-815-new-hampshire-st
 social: https://www.facebook.com/cielitolindoks/
 takeout: true

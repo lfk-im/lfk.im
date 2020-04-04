@@ -16,6 +16,7 @@ name: Subway (near 23rd and Harper)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-331-0030
+sitemap: false
 slug: subway-near-23rd-and-harper-1800-e-23rd
 social: ''
 takeout: true

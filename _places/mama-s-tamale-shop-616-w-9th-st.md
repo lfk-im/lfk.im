@@ -17,6 +17,7 @@ name: Mama's Tamale Shop
 neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-424-7565
+sitemap: false
 slug: mama-s-tamale-shop-616-w-9th-st
 social: https://www.facebook.com/mamastamaleshop/
 takeout: false

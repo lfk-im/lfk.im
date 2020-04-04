@@ -20,6 +20,7 @@ name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
 notes: Online ordering & payment via the link at RPGLawrence.com
 restaurant_phone: 785-330-5079
+sitemap: false
 slug: restaurant-pub-games-rpg-724-massachusetts-st
 social: https://www.facebook.com/RPGLawrence/
 takeout: true

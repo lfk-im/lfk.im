@@ -17,6 +17,7 @@ name: Encore Café
 neighborhood: Downtown
 notes: Order online or by phone, Sack lunches/dinners available
 restaurant_phone: 785-856-3682
+sitemap: false
 slug: encore-cafe-1007-massachusetts-st
 social: ''
 takeout: true

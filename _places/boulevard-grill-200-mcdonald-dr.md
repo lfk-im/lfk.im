@@ -16,6 +16,7 @@ name: Boulevard Grill
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-841-7077
+sitemap: false
 slug: boulevard-grill-200-mcdonald-dr
 social: https://www.facebook.com/BoulevardGrillLawrence
 takeout: true

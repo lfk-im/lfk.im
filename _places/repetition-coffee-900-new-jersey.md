@@ -18,6 +18,7 @@ name: Repetition Coffee
 neighborhood: Downtown
 notes: Free porch delivery within Lawrence
 restaurant_phone: ''
+sitemap: false
 slug: repetition-coffee-900-new-jersey
 social: ''
 takeout: false

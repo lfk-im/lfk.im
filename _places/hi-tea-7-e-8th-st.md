@@ -22,6 +22,7 @@ name: Hi Tea
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-424-7727
+sitemap: false
 slug: hi-tea-7-e-8th-st
 social: https://www.instagram.com/hitealawrence/
 takeout: true

@@ -15,6 +15,7 @@ name: 715 Mass
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-7150
+sitemap: false
 slug: 715-mass-715-massachusetts-st
 social: https://www.instagram.com/715restaurant/
 takeout: false

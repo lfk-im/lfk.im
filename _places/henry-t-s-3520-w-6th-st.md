@@ -17,6 +17,7 @@ name: Henry T's
 neighborhood: Old West Lawrence
 notes: Call or order online via EatStreet
 restaurant_phone: 785-749-2999
+sitemap: false
 slug: henry-t-s-3520-w-6th-st
 social: https://www.facebook.com/HenryTsLawrence/
 takeout: true

@@ -15,6 +15,7 @@ name: Bon Bon!
 neighborhood: Downtown-Adjacent
 notes: Closed
 restaurant_phone: 785-856-2275
+sitemap: false
 slug: bon-bon-804-pennsylvania-st
 social: https://www.instagram.com/bonbonlawrence/
 takeout: false

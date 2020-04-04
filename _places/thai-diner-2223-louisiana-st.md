@@ -16,6 +16,7 @@ name: Thai Diner
 neighborhood: South Lawrence
 notes: Unconfirmed
 restaurant_phone: 785-551-7528
+sitemap: false
 slug: thai-diner-2223-louisiana-st
 social: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/
 takeout: false

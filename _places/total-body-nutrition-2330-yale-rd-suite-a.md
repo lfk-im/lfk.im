@@ -17,6 +17,7 @@ neighborhood: 9th and Iowa Area
 notes: 'We will have a curbside app next week.  Follow our Social media for updates
   and menu.  '
 restaurant_phone: 913-683-1604
+sitemap: false
 slug: total-body-nutrition-2330-yale-rd-suite-a
 social: ''
 takeout: true

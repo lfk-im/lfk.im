@@ -19,6 +19,7 @@ name: Aimee's Coffeehouse
 neighborhood: Downtown
 notes: Delivery through EatStreet, or curbside pickup of phone orders
 restaurant_phone: 785-843-5173
+sitemap: false
 slug: aimee-s-coffeehouse-1025-massachusetts-st
 social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true

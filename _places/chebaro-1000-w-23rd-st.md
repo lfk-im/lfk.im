@@ -23,6 +23,7 @@ name: Chebaro
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-312-7660
+sitemap: false
 slug: chebaro-1000-w-23rd-st
 social: https://www.facebook.com/ChebaroMG/
 takeout: false

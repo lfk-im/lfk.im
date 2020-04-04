@@ -15,6 +15,7 @@ name: Little Saigon Cafe
 neighborhood: South Lawrence
 notes: Closed, but plan to reopen Tuesday March 31
 restaurant_phone: 785-856-8010
+sitemap: false
 slug: little-saigon-cafe-1524-w-23rd-st
 social: https://www.facebook.com/mamastamaleshop/
 takeout: true

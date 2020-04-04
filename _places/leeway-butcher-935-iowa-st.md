@@ -17,6 +17,7 @@ name: Leeway Butcher
 neighborhood: 9th and Iowa Area
 notes: Order by phone with delivery available, or pick up curbside
 restaurant_phone: 785-856-0890
+sitemap: false
 slug: leeway-butcher-935-iowa-st
 social: https://www.facebook.com/leewayfranksllc/
 takeout: true

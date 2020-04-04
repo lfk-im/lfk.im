@@ -17,6 +17,7 @@ name: Taco John’s (Haskell)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-842-5533
+sitemap: false
 slug: taco-johns-haskell-2309-haskell-ave
 social: ''
 takeout: true

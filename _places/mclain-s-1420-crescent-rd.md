@@ -19,6 +19,7 @@ name: McLain's
 neighborhood: KU Campus Area
 notes: Order online or by phone for delivery
 restaurant_phone: 785-371-9050
+sitemap: false
 slug: mclain-s-1420-crescent-rd
 social: https://www.instagram.com/mclainsmarketlawrence/
 takeout: false

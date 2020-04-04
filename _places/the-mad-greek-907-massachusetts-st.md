@@ -25,6 +25,7 @@ name: The Mad Greek
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 704-523-8296
+sitemap: false
 slug: the-mad-greek-907-massachusetts-st
 social: ''
 takeout: true

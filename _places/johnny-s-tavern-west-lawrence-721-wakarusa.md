@@ -21,6 +21,7 @@ name: Johnny's Tavern West Lawrence
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-843-0704
+sitemap: false
 slug: johnny-s-tavern-west-lawrence-721-wakarusa
 social: https://www.facebook.com/JohnnysTavernWestLawrence/
 takeout: true

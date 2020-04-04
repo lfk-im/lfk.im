@@ -16,6 +16,7 @@ name: Mass Street Fish House
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-1081
+sitemap: false
 slug: mass-street-fish-house-719-massachusetts-st
 social: https://www.instagram.com/massfishhouse/
 takeout: false

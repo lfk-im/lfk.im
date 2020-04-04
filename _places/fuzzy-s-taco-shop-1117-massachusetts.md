@@ -25,6 +25,7 @@ name: Fuzzy's Taco Shop
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-727-0527
+sitemap: false
 slug: fuzzy-s-taco-shop-1117-massachusetts
 social: https://www.facebook.com/FuzzysTacoShopLawrence/
 takeout: true

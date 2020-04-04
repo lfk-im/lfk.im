@@ -19,6 +19,7 @@ name: Free State Brewery
 neighborhood: Downtown
 notes: Order by phone and pick up, including bottled beers
 restaurant_phone: 785-843-4555
+sitemap: false
 slug: free-state-brewery-636-massachusetts-st
 social: ''
 takeout: true

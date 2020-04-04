@@ -17,6 +17,7 @@ name: Stanley James Smokehouse
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-841-9691
+sitemap: false
 slug: stanley-james-smokehouse-1500-e-23rd-st
 social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true

@@ -20,6 +20,7 @@ name: T. Loft Health Cafe
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-505-0770
+sitemap: false
 slug: t-loft-health-cafe-4801-bauer-farm-dr-suite-c
 social: ''
 takeout: true

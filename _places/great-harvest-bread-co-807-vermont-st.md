@@ -18,6 +18,7 @@ name: Great Harvest Bread Co.
 neighborhood: Downtown
 notes: Breads available to go and snacks for kids
 restaurant_phone: 785-749-2227
+sitemap: false
 slug: great-harvest-bread-co-807-vermont-st
 social: https://www.facebook.com/GreatHarvestLawrenceKs/
 takeout: true

@@ -15,6 +15,7 @@ name: Taco Zone
 neighborhood: Downtown
 notes: Closed
 restaurant_phone: 785-424-7123
+sitemap: false
 slug: taco-zone-13-e-8th-st
 social: ''
 takeout: false

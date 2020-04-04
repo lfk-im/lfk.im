@@ -16,6 +16,7 @@ name: Pizza Shuttle
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-842-1212
+sitemap: false
 slug: pizza-shuttle-1601-w-23rd-119
 social: ''
 takeout: true

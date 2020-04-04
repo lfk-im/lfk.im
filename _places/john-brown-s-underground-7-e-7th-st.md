@@ -16,6 +16,7 @@ name: John Brown's Underground
 neighborhood: Downtown
 notes: Curbside Cocktails
 restaurant_phone: 913-683-4774
+sitemap: false
 slug: john-brown-s-underground-7-e-7th-st
 social: https://www.instagram.com/johnbrownunderground/
 takeout: true

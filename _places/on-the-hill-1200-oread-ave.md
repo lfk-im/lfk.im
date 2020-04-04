@@ -15,6 +15,7 @@ name: On The Hill
 neighborhood: KU Campus Area
 notes: Unconfirmed
 restaurant_phone: 785-830-3998
+sitemap: false
 slug: on-the-hill-1200-oread-ave
 social: ''
 takeout: false

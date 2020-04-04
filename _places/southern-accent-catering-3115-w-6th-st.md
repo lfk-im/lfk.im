@@ -17,6 +17,7 @@ name: Southern Accent Catering
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-749-2770
+sitemap: false
 slug: southern-accent-catering-3115-w-6th-st
 social: ''
 takeout: true

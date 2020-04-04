@@ -18,6 +18,7 @@ name: Applebee’s
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-832-8338
+sitemap: false
 slug: applebees-2520-iowa-street
 social: ''
 takeout: true

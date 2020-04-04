@@ -23,6 +23,7 @@ name: Tokyo Sushi
 neighborhood: Downtown
 notes: Open w/ limited seating. Order online w/ pick up curbside or delivery
 restaurant_phone: 785-832-8040
+sitemap: false
 slug: tokyo-sushi-619-massachusetts-st
 social: ''
 takeout: true

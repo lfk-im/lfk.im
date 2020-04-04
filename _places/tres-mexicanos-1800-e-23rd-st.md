@@ -16,6 +16,7 @@ name: Tres Mexicanos
 neighborhood: East Lawrence
 notes: ''
 restaurant_phone: 785-830-8422
+sitemap: false
 slug: tres-mexicanos-1800-e-23rd-st
 social: ''
 takeout: true

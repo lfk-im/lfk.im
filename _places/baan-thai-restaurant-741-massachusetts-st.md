@@ -16,6 +16,7 @@ name: Baan Thai Restaurant
 neighborhood: Downtown
 notes: Closed
 restaurant_phone: 785-856-8424
+sitemap: false
 slug: baan-thai-restaurant-741-massachusetts-st
 social: https://www.facebook.com/Baan-Thai-Restaurant-Lawrence-KS-344278702411383/
 takeout: false

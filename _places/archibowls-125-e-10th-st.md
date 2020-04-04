@@ -24,6 +24,7 @@ name: Archibowls
 neighborhood: Downtown
 notes: offering free hot beans and rice meals at the window from noon to 8 every day.
 restaurant_phone: 785-424-7822
+sitemap: false
 slug: archibowls-125-e-10th-st
 social: https://www.facebook.com/sincerelyspicy/
 takeout: true

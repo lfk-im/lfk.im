@@ -35,6 +35,7 @@ notes: 'Pizzas 13” 12.00 8” 7.00
 
   Chocolate Chip Cookies 1.50'
 restaurant_phone: 785-331-5290
+sitemap: false
 slug: oo-bakes-1410-kasold-drive-suite-a17
 social: https://www.facebook.com/oobakeslawrence/
 takeout: true

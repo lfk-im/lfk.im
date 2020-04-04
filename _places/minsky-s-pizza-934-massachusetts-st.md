@@ -17,6 +17,7 @@ name: Minsky's Pizza
 neighborhood: Downtown
 notes: Call or order online
 restaurant_phone: 785-856-5252
+sitemap: false
 slug: minsky-s-pizza-934-massachusetts-st
 social: https://www.facebook.com/MinskysPizzaLawrence/
 takeout: true

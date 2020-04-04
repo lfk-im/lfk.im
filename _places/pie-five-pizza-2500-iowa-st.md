@@ -24,6 +24,7 @@ name: Pie Five Pizza
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-551-7170
+sitemap: false
 slug: pie-five-pizza-2500-iowa-st
 social: ''
 takeout: true

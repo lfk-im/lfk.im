@@ -17,6 +17,7 @@ name: S&S Artisan Pub & Coffeehouse
 neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-766-2355
+sitemap: false
 slug: s-s-artisan-pub-coffeehouse-2228-iowa-st
 social: https://www.facebook.com/SSArtisanPub/
 takeout: false

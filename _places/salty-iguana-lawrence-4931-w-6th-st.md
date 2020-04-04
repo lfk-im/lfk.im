@@ -19,6 +19,7 @@ name: Salty Iguana Lawrence
 neighborhood: West Lawrence
 notes: ''
 restaurant_phone: 785-312-8100
+sitemap: false
 slug: salty-iguana-lawrence-4931-w-6th-st
 social: https://www.facebook.com/SaltyIguanaRestaurant/
 takeout: false

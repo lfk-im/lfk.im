@@ -23,6 +23,7 @@ neighborhood: Downtown
 notes: Likely closing the restaurant if we can not drive enough pick-up and online
   orders.
 restaurant_phone: 785-856-5640
+sitemap: false
 slug: dempseys-burger-pub-623-vermont
 social: https://www.facebook.com/dempseysburgerpub/
 takeout: true

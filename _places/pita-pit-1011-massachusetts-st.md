@@ -32,6 +32,7 @@ name: Pita Pit
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-2500
+sitemap: false
 slug: pita-pit-1011-massachusetts-st
 social: ''
 takeout: true

@@ -16,6 +16,7 @@ name: Subway (6th and Wisconsin)
 neighborhood: ''
 notes: ''
 restaurant_phone: 785-832-9700
+sitemap: false
 slug: subway-6th-and-wisconsin-1530-w-6th
 social: ''
 takeout: true

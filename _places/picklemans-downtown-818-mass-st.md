@@ -18,6 +18,7 @@ name: Pickleman’s Downtown
 neighborhood: Downtown
 notes: ''
 restaurant_phone: 785-856-6700
+sitemap: false
 slug: picklemans-downtown-818-mass-st
 social: ''
 takeout: true

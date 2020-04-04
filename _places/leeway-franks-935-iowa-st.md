@@ -17,6 +17,7 @@ name: Leeway Franks
 neighborhood: 9th and Iowa Area
 notes: Order by phone with delivery available, or pick up curbside
 restaurant_phone: 785-856-0890
+sitemap: false
 slug: leeway-franks-935-iowa-st
 social: ''
 takeout: true

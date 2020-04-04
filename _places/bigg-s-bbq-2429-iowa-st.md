@@ -15,6 +15,7 @@ name: Bigg's BBQ
 neighborhood: South Lawrence
 notes: Closed until April 1st
 restaurant_phone: 785-856-2550
+sitemap: false
 slug: bigg-s-bbq-2429-iowa-st
 social: https://www.facebook.com/BiggsBBQ/
 takeout: false

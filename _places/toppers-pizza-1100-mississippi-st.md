@@ -22,6 +22,7 @@ name: Toppers Pizza
 neighborhood: Downtown-Adjacent
 notes: ''
 restaurant_phone: 785-856-0058
+sitemap: false
 slug: toppers-pizza-1100-mississippi-st
 social: ''
 takeout: true
