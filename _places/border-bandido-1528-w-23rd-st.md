@@ -1,7 +1,7 @@
 ---
 active: true
 address: 1528 W 23rd St
-cuisine: Mexcian
+cuisine: Mexican
 curbside: false
 curbside_instructions: ''
 delivery: true
