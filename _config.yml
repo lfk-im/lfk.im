@@ -3,6 +3,12 @@ url: "https://lfk.im"
 collections:  # process the _data folder
   components:
     output: false
+  cuisines:
+    output: true
+    permalink: /:collection/:name/
+  neighborhoods:
+    output: true
+    permalink: /:collection/:name/
   places:
     output: true
     permalink: /:collection/:name/
@@ -12,7 +18,7 @@ defaults:
       path: ""
       type: "cuisines"
     values:
-      layout: "cuisines"
+      layout: "cuisine"
   - scope:
       path: ""
       type: "places"
@@ -22,7 +28,7 @@ defaults:
       path: ""
       type: "neighborhoods"
     values:
-      layout: "neighborhoods"
+      layout: "neighborhood"
   - scope:
       path: ""
     values:
