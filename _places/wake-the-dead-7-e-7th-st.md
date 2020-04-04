@@ -1,10 +1,10 @@
 ---
-active: true
+active: false
 address: 7 E 7th St
 cuisine: ''
-curbside: true
+curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 food_urls:
 - name: eatstreet.com

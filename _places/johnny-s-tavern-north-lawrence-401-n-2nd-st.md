@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 401 N 2nd St
 cuisine: American, Sandwiches, Pizza, Salads
 curbside: true

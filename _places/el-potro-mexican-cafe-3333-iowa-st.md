@@ -4,7 +4,7 @@ address: 3333 Iowa St
 cuisine: Mexican
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 food_urls:
 - name: ubereats.com
