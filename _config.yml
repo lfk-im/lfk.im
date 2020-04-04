@@ -10,9 +10,19 @@ collections:  # process the _data folder
 defaults:
   - scope:
       path: ""
+      type: "cuisines"
+    values:
+      layout: "cuisines"
+  - scope:
+      path: ""
       type: "places"
     values:
       layout: "place"
+  - scope:
+      path: ""
+      type: "neighborhoods"
+    values:
+      layout: "neighborhoods"
   - scope:
       path: ""
     values:
