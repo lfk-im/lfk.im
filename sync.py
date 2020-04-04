@@ -3,6 +3,7 @@ import frontmatter
 import os
 import sys
 
+from click_default_group import DefaultGroup
 from pathlib import Path
 from sheetfu import SpreadsheetApp, Table
 from slugify import slugify
@@ -122,11 +123,81 @@ These are the values that you need to configure for the script to run:
     click.echo("")
 
 
-@click.command()
+@click.group(cls=DefaultGroup, default="sync-places", default_if_no_args=True)
+def cli():
+    pass
+
+
+@cli.command()
+def sync_cuisines():
+    click.echo("sync-cuisines")
+
+    data = []
+    places = Path("_places").glob("*.md")
+    for place in places:
+        post = frontmatter.loads(place.read_text())
+        cuisines = post["cuisine"]
+        if len(cuisines):
+            cuisines = cuisines.split(",")
+            cuisines = [cuisine.strip() for cuisine in cuisines]
+            data += cuisines
+
+    data = set(data)
+
+    if not Path("_cuisines").exists():
+        Path("_cuisines").mkdir()
+
+    for cuisine in data:
+        cuisine_slug = slugify(cuisine)
+        if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+            post = frontmatter.loads("")
+            post["name"] = cuisine
+            post["slug"] = cuisine_slug
+            post["active"] = False
+
+            Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+                frontmatter.dumps(post)
+            )
+
+
+@cli.command()
+def sync_neighborhoods():
+    click.echo("sync-neighborhoods")
+
+    data = []
+    places = Path("_places").glob("*.md")
+    for place in places:
+        post = frontmatter.loads(place.read_text())
+        neighborhood = post["neighborhood"]
+        if len(neighborhood):
+            data.append(neighborhood)
+
+    if not Path("_neighborhoods").exists():
+        Path("_neighborhoods").mkdir()
+
+    data = set(data)
+
+    if not Path("_neighborhoods").exists():
+        Path("_neighborhoods").mkdir()
+
+    for neighborhood in data:
+        neighborhood_slug = slugify(neighborhood)
+        if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
+            post = frontmatter.loads("")
+            post["name"] = neighborhood
+            post["slug"] = neighborhood_slug
+            post["active"] = False
+
+            Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
+                frontmatter.dumps(post)
+            )
+
+
+@cli.command()
 @click.option("--output-folder", default="_places")
 @click.option("--sheet-app-id", envvar="LFK_GOOGLE_SHEET_APP_ID")
 @click.option("--sheet-name", default="Sheet1", envvar="LFK_SHEET_NAME")
-def main(sheet_app_id, output_folder, sheet_name):
+def sync_places(sheet_app_id, output_folder, sheet_name):
 
     output_folder = Path(output_folder)
 
@@ -227,4 +298,4 @@ def main(sheet_app_id, output_folder, sheet_name):
 
 
 if __name__ == "__main__":
-    main()
+    cli()

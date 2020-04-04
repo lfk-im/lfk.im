@@ -34,7 +34,7 @@ jobs:
         run: |
           rm _places/*
 
-      - name: Sync Google Sheets Locally
+      - name: Sync Places (Google Sheets) locally
         env:
           LFK_GOOGLE_SHEET_APP_ID: ${{ secrets.LFK_GOOGLE_SHEET_APP_ID }}
           LFK_SHEET_NAME: ${{ secrets.LFK_SHEET_NAME }}
@@ -49,7 +49,15 @@ jobs:
           SHEETFU_CONFIG_TOKEN_URI: ${{ secrets.SHEETFU_CONFIG_TOKEN_URI }}
           SHEETFU_CONFIG_TYPE: ${{ secrets.SHEETFU_CONFIG_TYPE }}
         run: |
-          python sync.py
+          python sync.py sync-places
+
+      - name: Sync Cuisines locally
+        run: |
+          python sync.py sync-cuisines
+
+      - name: Sync Neighborhoods locally
+        run: |
+          python sync.py sync-neighborhoods
 
       - uses: mikeal/publish-to-github-action@master
         env:
