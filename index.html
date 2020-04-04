@@ -41,7 +41,11 @@ layout: default
             @keydown.escape="is_{{ place.slug | replace: "-", "_" }}_open = false"
         >
           <td class="py-4 px-6 font-medium text-right">
-            <a name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
+            {% comment %}
+            <a class="hover:text-blue-500 text-blue-700 underline" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">
+            {% endcomment %}
+            <a name="{{ place.name|slugify : 'latin' }}">
+              {{ place.name }}</a>
           </td>
           <td class="py-4 px-6">
             {{ place.address }}
