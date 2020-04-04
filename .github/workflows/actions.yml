@@ -53,10 +53,12 @@ jobs:
 
       - name: Sync Cuisines locally
         run: |
+          rm _cuisines/*
           python sync.py sync-cuisines
 
       - name: Sync Neighborhoods locally
         run: |
+          rm _neighborhoods/*
           python sync.py sync-neighborhoods
 
       - uses: mikeal/publish-to-github-action@master
