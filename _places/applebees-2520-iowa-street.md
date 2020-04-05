@@ -15,7 +15,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: 11am-9pm Daily
 name: Applebee’s
-neighborhood: ''
+neighborhood: South Lawrence
 notes: ''
 restaurant_phone: 785-832-8338
 sitemap: false
