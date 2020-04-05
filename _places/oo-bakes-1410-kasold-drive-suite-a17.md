@@ -3,6 +3,8 @@ active: true
 address: 1410 Kasold Drive, Suite A17
 cuisine:
 - Gluten free
+cuisine_slugs:
+- gluten-free
 curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: Mon-Fri 9am - 6pm, Sat-Sun 10am - 3pm
 name: OO Bakes
 neighborhood: Bob Billings & Iowa
+neighborhood_slug: bob-billings-iowa
 notes: 'Pizzas 13” 12.00 8” 7.00
 
   *Italian Sausage, Spinach and Artichoke with or without Organic Cheeses

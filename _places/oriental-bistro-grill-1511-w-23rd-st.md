@@ -6,6 +6,11 @@ cuisine:
 - Korean
 - Thai
 - Japanese
+cuisine_slugs:
+- chinese
+- korean
+- thai
+- japanese
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -25,6 +30,7 @@ giftcard_url: ''
 hours: ''
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Online options possible too for ordering
 restaurant_phone: 785-841-8881
 sitemap: false

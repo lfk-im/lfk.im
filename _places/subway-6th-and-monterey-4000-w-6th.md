@@ -3,6 +3,8 @@ active: true
 address: 4000 W 6th
 cuisine:
 - Sandwiches
+cuisine_slugs:
+- sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

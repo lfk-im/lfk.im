@@ -3,6 +3,8 @@ active: true
 address: 1814 W 23rd
 cuisine:
 - Sandwiches
+cuisine_slugs:
+- sandwiches
 curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: true
@@ -24,6 +26,7 @@ giftcard_url: ''
 hours: Mon-Sun 10am-9pm
 name: Yello Sub
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
 restaurant_phone: 785-843-6000
 sitemap: false

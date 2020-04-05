@@ -7,6 +7,12 @@ cuisine:
 - Healthy
 - Salads
 - Sandwiches
+cuisine_slugs:
+- bakery
+- dessert
+- healthy
+- salads
+- sandwiches
 curbside: false
 curbside_instructions: Call Deli direct to place order and pay.
 delivery: true
@@ -20,6 +26,7 @@ giftcard_url: ''
 hours: Tue-Thu 11am-6pm, Fri 11am-5pm & Sat 11am-4pm
 name: Auntie Em's Deli
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-832-1333
 sitemap: false

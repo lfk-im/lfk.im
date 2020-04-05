@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Limestone Pizza
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order by phone for carry out and limited local delivery
 restaurant_phone: 785-856-2825
 sitemap: false

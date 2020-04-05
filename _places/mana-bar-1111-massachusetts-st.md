@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Mana Bar
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Retail Only
 restaurant_phone: 785-856-8227
 sitemap: false

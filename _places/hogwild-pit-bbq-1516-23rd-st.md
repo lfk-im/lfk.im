@@ -4,6 +4,9 @@ address: 1516 23rd St.
 cuisine:
 - American
 - Barbecue
+cuisine_slugs:
+- american
+- barbecue
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: 11am-8pm Daily
 name: 'HogWild Pit BBQ '
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-842-4100
 sitemap: false

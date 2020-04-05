@@ -3,6 +3,8 @@ active: true
 address: '2520 Iowa street '
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: 11am-9pm Daily
 name: Applebee’s
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-832-8338
 sitemap: false

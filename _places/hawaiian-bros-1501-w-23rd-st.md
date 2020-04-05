@@ -3,6 +3,8 @@ active: true
 address: 1501 W 23rd St
 cuisine:
 - Hawaiian
+cuisine_slugs:
+- hawaiian
 curbside: true
 curbside_instructions: Drive Thru open!
 delivery: true
@@ -18,6 +20,7 @@ giftcard_url: ''
 hours: ''
 name: Hawaiian Bros.
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-424-7525
 sitemap: false

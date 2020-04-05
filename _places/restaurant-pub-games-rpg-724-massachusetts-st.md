@@ -5,6 +5,10 @@ cuisine:
 - American
 - Burgers
 - Sandwiches
+cuisine_slugs:
+- american
+- burgers
+- sandwiches
 curbside: true
 curbside_instructions: We will be setting up beer and wine on the patio for purchase.
   No need to drink on premise.
@@ -18,6 +22,7 @@ giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
 hours: Wed-Sun, 4pm-8pm
 name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Online ordering & payment via the link at RPGLawrence.com
 restaurant_phone: 785-330-5079
 sitemap: false

@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Mass Street Soda
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Evaluating and coming up with a plan for curbside service
 restaurant_phone: 785-615-0482
 sitemap: false

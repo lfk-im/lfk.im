@@ -16,6 +16,7 @@ giftcard_url: ''
 hours: ''
 name: Ladybird
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-856-5239
 sitemap: false

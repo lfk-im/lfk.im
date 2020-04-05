@@ -19,6 +19,7 @@ giftcard_url: ''
 hours: Sun-Sat 11:30am-2:30pm, 5pm-7:30pm
 name: Aladdin Cafe
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Call to order for pick-up
 restaurant_phone: 785-832-1100
 sitemap: false

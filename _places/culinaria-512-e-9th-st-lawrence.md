@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Culinaria
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Closed
 restaurant_phone: 785-766-8591
 sitemap: false

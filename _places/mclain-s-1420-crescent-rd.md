@@ -17,6 +17,7 @@ giftcard_url: ''
 hours: ''
 name: McLain's
 neighborhood: KU Campus Area
+neighborhood_slug: ku-campus-area
 notes: Order online or by phone for delivery
 restaurant_phone: 785-371-9050
 sitemap: false

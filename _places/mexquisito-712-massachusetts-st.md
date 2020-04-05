@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Mexquisito
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Unconfirmed
 restaurant_phone: 785-856-8226
 sitemap: false

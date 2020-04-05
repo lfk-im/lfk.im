@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Encore Café
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order online or by phone, Sack lunches/dinners available
 restaurant_phone: 785-856-3682
 sitemap: false

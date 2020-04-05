@@ -4,6 +4,9 @@ address: '4931 W 6th St #118A'
 cuisine:
 - American
 - Tacos
+cuisine_slugs:
+- american
+- tacos
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: 11am-6:30pm Daily
 name: Twisted Fresh
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-856-0689
 sitemap: false

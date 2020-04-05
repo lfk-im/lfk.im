@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Wa Restaurant
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-843-1990
 sitemap: false

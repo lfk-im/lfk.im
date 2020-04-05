@@ -5,6 +5,10 @@ cuisine:
 - Pizza
 - Salads
 - Sandwiches
+cuisine_slugs:
+- pizza
+- salads
+- sandwiches
 curbside: true
 curbside_instructions: Call when you’re here
 delivery: true
@@ -16,6 +20,7 @@ giftcard_url: ''
 hours: 10am-10pm Daily
 name: Pickleman’s Downtown
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-856-6700
 sitemap: false

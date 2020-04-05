@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: 10am-1pm Daily for Gift Card orders over the phone
 name: 715 Mass
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-856-7150
 sitemap: false

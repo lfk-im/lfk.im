@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Bon Bon!
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Closed
 restaurant_phone: 785-856-2275
 sitemap: false

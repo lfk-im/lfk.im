@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Milton's Café
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed
 restaurant_phone: 785-856-0663
 sitemap: false

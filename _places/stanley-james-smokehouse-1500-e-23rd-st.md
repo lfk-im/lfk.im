@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Stanley James Smokehouse
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-841-9691
 sitemap: false

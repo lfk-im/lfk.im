@@ -17,6 +17,7 @@ giftcard_url: ''
 hours: ''
 name: Mediterranean Market
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-842-9383
 sitemap: false

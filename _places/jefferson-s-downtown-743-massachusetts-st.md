@@ -3,6 +3,8 @@ active: false
 address: 743 Massachusetts St
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: Jefferson's Downtown
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-832-2000
 sitemap: false

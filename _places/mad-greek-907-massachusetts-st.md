@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Mad Greek
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, or use EatStreet
 restaurant_phone: 785-843-2441
 sitemap: false

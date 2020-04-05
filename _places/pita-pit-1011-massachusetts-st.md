@@ -11,6 +11,16 @@ cuisine:
 - Salads
 - Sandwiches
 - Smoothies
+cuisine_slugs:
+- breakfast-brunch
+- global
+- greek
+- healthy
+- mediterranean
+- middle-eastern
+- salads
+- sandwiches
+- smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -30,6 +40,7 @@ giftcard_url: ''
 hours: 11am-9pm Daily
 name: Pita Pit
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-856-2500
 sitemap: false

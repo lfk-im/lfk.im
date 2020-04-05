@@ -3,6 +3,8 @@ active: true
 address: 2120 W 9th St
 cuisine:
 - BBQ
+cuisine_slugs:
+- bbq
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: ''
 name: Biemer's BBQ
 neighborhood: 9th and Iowa Area
+neighborhood_slug: 9th-and-iowa-area
 notes: ''
 restaurant_phone: 785-842-0800
 sitemap: false

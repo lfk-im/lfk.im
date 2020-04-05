@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Mi Ranchito
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Call or order online
 restaurant_phone: 785-749-5600
 sitemap: false

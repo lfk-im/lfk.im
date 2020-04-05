@@ -4,6 +4,9 @@ address: 615 Massachusetts St
 cuisine:
 - American
 - Sandwiches
+cuisine_slugs:
+- american
+- sandwiches
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -23,6 +26,7 @@ giftcard_url: ''
 hours: ''
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed
 restaurant_phone: 785-842-6560
 sitemap: false

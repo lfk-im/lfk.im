@@ -3,6 +3,8 @@ active: true
 address: 624 N. 2nd Street
 cuisine:
 - Coffee
+cuisine_slugs:
+- coffee
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: Mon-Fri 6am-6pm, Sat 7am-6pm, Sun 9am-5pm
 name: Uplift Coffee Shop
 neighborhood: North Lawrence
+neighborhood_slug: north-lawrence
 notes: Download their app to order for pickup
 restaurant_phone: 785-424-0466
 sitemap: false

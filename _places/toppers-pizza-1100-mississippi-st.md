@@ -3,6 +3,8 @@ active: true
 address: 1100 Mississippi St
 cuisine:
 - Pizza
+cuisine_slugs:
+- pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -20,6 +22,7 @@ giftcard_url: ''
 hours: Sun-Thu 11am-12am, Fri-Sat 11am-3am
 name: Toppers Pizza
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: ''
 restaurant_phone: 785-856-0058
 sitemap: false

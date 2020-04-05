@@ -3,6 +3,8 @@ active: true
 address: 4801 Bauer Farm Dr. Suite C
 cuisine:
 - Healthy
+cuisine_slugs:
+- healthy
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -18,6 +20,7 @@ giftcard_url: ''
 hours: Mon-Fri. 10am-5pm, Sat-Sun 10am-2pm
 name: T. Loft Health Cafe
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-505-0770
 sitemap: false

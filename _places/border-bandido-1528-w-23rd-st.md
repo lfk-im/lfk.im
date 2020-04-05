@@ -3,6 +3,8 @@ active: true
 address: 1528 W 23rd St
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: Tue-Fri 11am-2pm, 5pm-8pm, Sat 11am-8pm
 name: Border Bandido
 neighborhood: Southwest Lawrence
+neighborhood_slug: southwest-lawrence
 notes: ''
 restaurant_phone: 785-842-8861
 sitemap: false

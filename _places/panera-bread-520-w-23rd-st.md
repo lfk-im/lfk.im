@@ -9,6 +9,14 @@ cuisine:
 - Salads
 - Sandwiches
 - Smoothies
+cuisine_slugs:
+- bakery
+- breakfast-brunch
+- coffee
+- dessert
+- salads
+- sandwiches
+- smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -24,6 +32,7 @@ giftcard_url: ''
 hours: Mon-Sat 7am-8pm, Sun 7:30am-7:30am
 name: Panera Bread
 neighborhood: KU Campus Area
+neighborhood_slug: ku-campus-area
 notes: Pull up to front door to be helped.
 restaurant_phone: ''
 sitemap: false

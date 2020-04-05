@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: McAlister's Deli
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Order online or with the app and head on over. Our team will prepare your meal
   and place it on the pickup station!
 restaurant_phone: 785-749-3354

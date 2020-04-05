@@ -17,6 +17,7 @@ giftcard_url: https://squareup.com/gift/CX2M2Z2679FX3/order
 hours: Th-Sat 8:00am-1:30pm
 name: Global Cafe
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Open w/ limited hours, can order online or on the phone for delivery/carry
   out
 restaurant_phone: 785-838-4600

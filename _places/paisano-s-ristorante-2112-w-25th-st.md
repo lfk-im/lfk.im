@@ -3,6 +3,8 @@ active: true
 address: 2112 W 25th St
 cuisine:
 - Italian
+cuisine_slugs:
+- italian
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -18,6 +20,7 @@ giftcard_url: ''
 hours: Mon-Sat 3pm-8pm, Sun 12pm-8pm
 name: Paisano's Ristorante
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-838-3500
 sitemap: false

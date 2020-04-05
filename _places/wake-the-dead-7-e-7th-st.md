@@ -17,6 +17,7 @@ giftcard_url: ''
 hours: ''
 name: Wake The Dead
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, or order through EatStreet
 restaurant_phone: 303-588-4678
 sitemap: false

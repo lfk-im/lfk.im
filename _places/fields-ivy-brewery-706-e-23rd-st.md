@@ -6,6 +6,11 @@ cuisine:
 - Sandwiches
 - Pizza
 - Salads
+cuisine_slugs:
+- american
+- sandwiches
+- pizza
+- salads
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -19,6 +24,7 @@ giftcard_url: ''
 hours: 11am-9:30pm Daily
 name: Fields & Ivy Brewery
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Growlers or 6-pack available for curbside pick-up. ID required.
 restaurant_phone: 785-274-8429
 sitemap: false

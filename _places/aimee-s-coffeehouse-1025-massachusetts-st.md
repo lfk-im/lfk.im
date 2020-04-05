@@ -17,6 +17,7 @@ giftcard_url: ''
 hours: Fri-Sun 8am-2pm
 name: Aimee's Coffeehouse
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Delivery through EatStreet, or curbside pickup of phone orders
 restaurant_phone: 785-843-5173
 sitemap: false

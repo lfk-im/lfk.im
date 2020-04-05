@@ -3,6 +3,8 @@ active: false
 address: 7 E 7th St
 cuisine:
 - Cocktail Bar
+cuisine_slugs:
+- cocktail-bar
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -14,6 +16,7 @@ giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
 hours: ''
 name: John Brown's Underground
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Curbside Cocktails
 restaurant_phone: 913-683-4774
 sitemap: false

@@ -3,6 +3,8 @@ active: true
 address: 1900 Barker
 cuisine:
 - Bakery
+cuisine_slugs:
+- bakery
 curbside: true
 curbside_instructions: Order online - Pickup curbside
 delivery: false
@@ -20,6 +22,7 @@ giftcard_url: ''
 hours: Sun 8am-2pm, Mon-Fri 7am-5pm, Sat 7am-2pm
 name: 1900 Barker - Bakery and Café
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Today that looks like curbside - window pick up only — we have our entire Bread,
   Pastry, Coffee and Lunch Menu loaded to an online store where you can order from
   the safety of your home and then pick up at our window here at the Café.

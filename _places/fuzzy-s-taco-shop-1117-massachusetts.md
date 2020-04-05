@@ -3,6 +3,8 @@ active: true
 address: 1117 Massachusetts
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: true
 curbside_instructions: Call (785)841-8226 when you arrive and we will bring your food
   out to you.
@@ -23,6 +25,7 @@ giftcard_url: https://fuzzystacoshop.cardfoundry.com/giftcards.php
 hours: 11am-9pm Daily
 name: Fuzzy's Taco Shop
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-727-0527
 sitemap: false

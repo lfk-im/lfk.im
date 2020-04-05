@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Minsky's Pizza
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Call or order online
 restaurant_phone: 785-856-5252
 sitemap: false

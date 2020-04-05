@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: The Burger Stand at The Casbah
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed
 restaurant_phone: 785-856-0543
 sitemap: false

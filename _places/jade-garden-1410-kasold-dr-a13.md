@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Jade Garden
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-843-8650
 sitemap: false

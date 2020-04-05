@@ -3,6 +3,8 @@ active: true
 address: 1520 Wakarusa Drive
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -18,6 +20,7 @@ giftcard_url: ''
 hours: 4pm-9pm Daily
 name: Acapulco Mexican Grill
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: We will open for lunch, if people want us to do it. Or after the corona virus.
 restaurant_phone: 785-832-9400
 sitemap: false

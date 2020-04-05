@@ -4,6 +4,9 @@ address: 623 Massachusetts St
 cuisine:
 - Steakhouse
 - American
+cuisine_slugs:
+- steakhouse
+- american
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: 4:30pm-6pm Daily
 name: Black Stag Brewery
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Call 785-764-1628 when you arrive or 10-15 mins ahead to have your order ready
 restaurant_phone: 785-766-1163
 sitemap: false

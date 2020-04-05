@@ -6,6 +6,11 @@ cuisine:
 - Sandwiches
 - Pizza
 - Salads
+cuisine_slugs:
+- american
+- sandwiches
+- pizza
+- salads
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -19,6 +24,7 @@ giftcard_url: ''
 hours: ''
 name: Johnny's Tavern West Lawrence
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-843-0704
 sitemap: false

@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Levee Cafe
 neighborhood: North Lawrence
+neighborhood_slug: north-lawrence
 notes: Heat and eat meals for pick-up. Check social media for times
 restaurant_phone: 785-856-3671
 sitemap: false

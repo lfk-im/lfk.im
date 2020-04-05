@@ -14,6 +14,7 @@ giftcard_url: ''
 hours: 3-9pm Daily
 name: Sylas & Maddy's
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Still open, with to-go pints/quarts available
 restaurant_phone: 785-832-8323
 sitemap: false

@@ -4,6 +4,9 @@ address: 900 Mississippi St
 cuisine:
 - American
 - Pizza
+cuisine_slugs:
+- american
+- pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: 4pm-9pm Daily
 name: Big Mill
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
 restaurant_phone: 785-856-0101
 sitemap: false

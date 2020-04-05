@@ -3,6 +3,8 @@ active: true
 address: 3512 Clinton Pkwy
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: https://onelink.quickgifts.com/merchant/23rd-street-brewery-ks/?fb
 hours: 12pm-9pm Daily
 name: 23rd Street Brewery
 neighborhood: Southwest Lawrence
+neighborhood_slug: southwest-lawrence
 notes: ''
 restaurant_phone: 785-856-2337
 sitemap: false

@@ -17,6 +17,7 @@ giftcard_url: ''
 hours: ''
 name: Bayleaf Indian Restaurant
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Not confirmed
 restaurant_phone: 785-840-0855
 sitemap: false

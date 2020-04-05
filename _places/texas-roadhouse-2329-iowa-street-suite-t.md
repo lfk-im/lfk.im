@@ -10,6 +10,15 @@ cuisine:
 - Salads
 - Seafood
 - Steakhouse
+cuisine_slugs:
+- american
+- barbecue
+- burgers
+- dessert
+- fried-chicken
+- salads
+- seafood
+- steakhouse
 curbside: true
 curbside_instructions: 'Order through mobile app and pay online '
 delivery: false
@@ -23,6 +32,7 @@ giftcard_url: ''
 hours: 3pm-8:30pm Daily
 name: Texas Roadhouse
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: We recommend that guests call ahead or order online, but they are more than
   welcome to pull up to the front door and we will have a server take their order
   right from their car.

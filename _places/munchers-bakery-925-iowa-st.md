@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Munchers Bakery
 neighborhood: 9th and Iowa Area
+neighborhood_slug: 9th-and-iowa-area
 notes: Dining area closed, but open for takeout
 restaurant_phone: 785-749-4324
 sitemap: false

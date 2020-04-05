@@ -4,6 +4,9 @@ address: 4821 W 6th Street Ste K
 cuisine:
 - Sandwiches
 - Soup
+cuisine_slugs:
+- sandwiches
+- soup
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: ''
 name: Sandwich Bowl
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-856-3675
 sitemap: false

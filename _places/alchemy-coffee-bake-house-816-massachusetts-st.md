@@ -3,6 +3,8 @@ active: false
 address: 816 Massachusetts St
 cuisine:
 - Coffee
+cuisine_slugs:
+- coffee
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -18,6 +20,7 @@ giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: ''
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order online or by phone and pick up curbside on Mass
 restaurant_phone: 785-424-5601
 sitemap: false

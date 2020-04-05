@@ -3,6 +3,8 @@ active: false
 address: 741 Massachusetts St
 cuisine:
 - Thai
+cuisine_slugs:
+- thai
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: ''
 name: Baan Thai Restaurant
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed
 restaurant_phone: 785-856-8424
 sitemap: false

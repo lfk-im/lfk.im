@@ -3,6 +3,8 @@ active: true
 address: 807 Vermont St
 cuisine:
 - Bakery
+cuisine_slugs:
+- bakery
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: Great Harvest Bread Co.
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Breads available to go and snacks for kids
 restaurant_phone: 785-749-2227
 sitemap: false

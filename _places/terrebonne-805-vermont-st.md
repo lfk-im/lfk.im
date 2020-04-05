@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Terrebonne
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order by phone and carry out
 restaurant_phone: 785-856-3287
 sitemap: false

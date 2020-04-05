@@ -3,6 +3,8 @@ active: true
 address: 2223 Louisiana St
 cuisine:
 - Thai
+cuisine_slugs:
+- thai
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: 11am-9pm Tue-Fri, 12pm-9pm Sat, 12pm-8pm Sun
 name: Thai Diner
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Unconfirmed
 restaurant_phone: 785-551-7528
 sitemap: false

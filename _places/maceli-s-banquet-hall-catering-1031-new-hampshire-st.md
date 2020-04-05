@@ -3,6 +3,8 @@ active: true
 address: 1031 New Hampshire St
 cuisine:
 - Heat & Eat
+cuisine_slugs:
+- heat-eat
 curbside: true
 curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at Maceli’s
   curbside on Friday
@@ -15,6 +17,7 @@ giftcard_url: ''
 hours: Saturday meal pickup
 name: Maceli's Banquet Hall & Catering
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Our listing says "Saturday Meal Pickup" but we've changed to Friday afternoon
   pickup instead. Could you please change this information?
 restaurant_phone: 785-856-1841

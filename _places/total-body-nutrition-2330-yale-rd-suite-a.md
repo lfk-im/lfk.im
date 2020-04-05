@@ -14,6 +14,7 @@ giftcard_url: ''
 hours: Mon-Fri 8am-2pm, Sat 8am-1pm
 name: 'Total Body Nutrition '
 neighborhood: 9th and Iowa Area
+neighborhood_slug: 9th-and-iowa-area
 notes: 'We will have a curbside app next week.  Follow our Social media for updates
   and menu.  '
 restaurant_phone: 913-683-1604

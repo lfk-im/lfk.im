@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: Mon-Sat 12pm-7pm
 name: La Tropicana
 neighborhood: North Lawrence
+neighborhood_slug: north-lawrence
 notes: ''
 restaurant_phone: 785-749-3550
 sitemap: false

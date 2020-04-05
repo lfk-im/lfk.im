@@ -4,6 +4,9 @@ address: 616 W 9th St
 cuisine:
 - American
 - Italian
+cuisine_slugs:
+- american
+- italian
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: ''
 name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Closed
 restaurant_phone: 785-856-0459
 sitemap: false

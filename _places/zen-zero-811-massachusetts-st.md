@@ -4,6 +4,9 @@ address: 811 Massachusetts St
 cuisine:
 - Asian
 - Thai
+cuisine_slugs:
+- asian
+- thai
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -17,6 +20,7 @@ giftcard_url: ''
 hours: 11am-9pm Daily
 name: Zen Zero
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Delivery through EatStreet, or call to order and carry out
 restaurant_phone: 785-832-0001
 sitemap: false

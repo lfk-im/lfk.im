@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: Tue-Fri 10am-7pm
 name: Little Saigon Cafe
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Closed, but plan to reopen Tuesday March 31
 restaurant_phone: 785-856-8010
 sitemap: false

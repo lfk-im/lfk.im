@@ -4,6 +4,9 @@ address: 4821 W 6th St
 cuisine:
 - Breakfast
 - American
+cuisine_slugs:
+- breakfast
+- american
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -15,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: Big Biscuit
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-856-0496
 sitemap: false

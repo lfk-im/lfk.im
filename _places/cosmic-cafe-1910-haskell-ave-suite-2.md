@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Cosmic Cafe
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Closed
 restaurant_phone: 785-551-3347
 sitemap: false

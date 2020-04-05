@@ -4,6 +4,9 @@ address: 907 Massachusetts St
 cuisine:
 - Greek
 - Italian
+cuisine_slugs:
+- greek
+- italian
 curbside: true
 curbside_instructions: 'We ask that you pay for your order over the phone to avoid
   unnecessary contact.  If you opt for Curbside you can find a spot up front and let
@@ -23,6 +26,7 @@ giftcard_url: ''
 hours: ''
 name: The Mad Greek
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 704-523-8296
 sitemap: false

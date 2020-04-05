@@ -3,6 +3,8 @@ active: false
 address: 4931 W 6th St
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -17,6 +19,7 @@ giftcard_url: https://www.saltyiguanagiftcard.com/ordernow
 hours: 11am-8:45pm Daily
 name: Salty Iguana Lawrence
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-312-8100
 sitemap: false

@@ -6,6 +6,11 @@ cuisine:
 - Sandwiches
 - Pizza
 - Salads
+cuisine_slugs:
+- american
+- sandwiches
+- pizza
+- salads
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -19,6 +24,7 @@ giftcard_url: ''
 hours: ''
 name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence
+neighborhood_slug: north-lawrence
 notes: ''
 restaurant_phone: 785-842-0377
 sitemap: false

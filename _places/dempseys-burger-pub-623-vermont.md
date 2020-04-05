@@ -3,6 +3,8 @@ active: true
 address: 623 Vermont
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -20,6 +22,7 @@ giftcard_url: ''
 hours: 4pm-8pm Daily
 name: Dempseys Burger Pub
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Likely closing the restaurant if we can not drive enough pick-up and online
   orders.
 restaurant_phone: 785-856-5640

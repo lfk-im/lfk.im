@@ -3,6 +3,8 @@ active: true
 address: 100 Riverfront Drive, Suite B
 cuisine:
 - Farm
+cuisine_slugs:
+- farm
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: 11am-1pm, 4pm-6pm Tue & Fri
 name: Sunflower Provisions
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-840-4892
 sitemap: false

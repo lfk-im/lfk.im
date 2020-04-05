@@ -13,6 +13,7 @@ giftcard_url: https://www.merchantsonmass.com/store/category/gift-cards/
 hours: ''
 name: Merchants
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Family style orders by phone, online ordering is a work in progress
 restaurant_phone: 785-843-4111
 sitemap: false

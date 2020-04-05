@@ -3,6 +3,8 @@ active: true
 address: 1800 E. 23rd St.
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: ''
 name: Tres Mexicanos
 neighborhood: East Lawrence
+neighborhood_slug: east-lawrence
 notes: ''
 restaurant_phone: 785-830-8422
 sitemap: false

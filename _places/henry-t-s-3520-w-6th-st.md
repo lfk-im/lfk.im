@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: 3pm-3pm Daily
 name: Henry T's
 neighborhood: Old West Lawrence
+neighborhood_slug: old-west-lawrence
 notes: Call or order online via EatStreet
 restaurant_phone: 785-749-2999
 sitemap: false

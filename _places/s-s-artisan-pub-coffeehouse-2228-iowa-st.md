@@ -4,6 +4,9 @@ address: 2228 Iowa St
 cuisine:
 - Coffee
 - cafe
+cuisine_slugs:
+- coffee
+- cafe
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -15,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: S&S Artisan Pub & Coffeehouse
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-766-2355
 sitemap: false

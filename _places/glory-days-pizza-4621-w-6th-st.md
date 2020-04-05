@@ -6,6 +6,11 @@ cuisine:
 - Salads
 - Sandwiches
 - Pasta
+cuisine_slugs:
+- pizza
+- salads
+- sandwiches
+- pasta
 curbside: true
 curbside_instructions: 'Prepay over phone. No walk ins at this time. '
 delivery: true
@@ -19,6 +24,7 @@ giftcard_url: ''
 hours: 11am-9pm Daily
 name: 'Glory Days Pizza '
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: 'Prepay over phone. No walk ins at this time. '
 restaurant_phone: 786-841-5252
 sitemap: false

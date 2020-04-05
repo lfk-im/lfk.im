@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Cheesy Street @ Lucia
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-865-4055
 sitemap: false

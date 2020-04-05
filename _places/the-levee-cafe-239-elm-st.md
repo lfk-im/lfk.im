@@ -5,6 +5,10 @@ cuisine:
 - American
 - Breakfast
 - Sandwiches
+cuisine_slugs:
+- american
+- breakfast
+- sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -16,6 +20,7 @@ giftcard_url: ''
 hours: ''
 name: The Levee Cafe
 neighborhood: North Lawrence
+neighborhood_slug: north-lawrence
 notes: ''
 restaurant_phone: 785-856-3671
 sitemap: false

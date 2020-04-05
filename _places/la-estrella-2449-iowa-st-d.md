@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: La Estrella
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Order online, pick up in store
 restaurant_phone: 785-843-1595
 sitemap: false

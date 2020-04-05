@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Taco Zone
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed
 restaurant_phone: 785-424-7123
 sitemap: false

@@ -5,6 +5,10 @@ cuisine:
 - Sushi
 - Japanese
 - Asian
+cuisine_slugs:
+- sushi
+- japanese
+- asian
 curbside: true
 curbside_instructions: All carryout/curbside is via drive-through.
 delivery: true
@@ -24,6 +28,7 @@ giftcard_url: ''
 hours: ''
 name: Tryyaki
 neighborhood: 701 W 23rd St
+neighborhood_slug: 701-w-23rd-st
 notes: ''
 restaurant_phone: 785-842-6688
 sitemap: false

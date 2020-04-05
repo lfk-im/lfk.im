@@ -3,6 +3,8 @@ active: true
 address: 900 New Jersey
 cuisine:
 - Coffee
+cuisine_slugs:
+- coffee
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: Repetition Coffee
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Free porch delivery within Lawrence
 restaurant_phone: ''
 sitemap: false

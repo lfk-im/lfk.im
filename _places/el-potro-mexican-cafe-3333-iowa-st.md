@@ -3,6 +3,8 @@ active: true
 address: 3333 Iowa St
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: ''
 name: El Potro Mexican Cafe
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-331-2500
 sitemap: false

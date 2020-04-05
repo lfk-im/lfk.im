@@ -3,6 +3,8 @@ active: true
 address: 2222 Iowa St
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -14,6 +16,7 @@ giftcard_url: ''
 hours: ''
 name: West Coast Saloon
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: All you need to do is call us with your order and let us know what type of
   car you will be picking it up in. For now, we will only be accepting credit card
   payments over the phone at the time of your order

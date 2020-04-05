@@ -5,6 +5,10 @@ cuisine:
 - Pizza
 - Salads
 - Sandwiches
+cuisine_slugs:
+- pizza
+- salads
+- sandwiches
 curbside: true
 curbside_instructions: 'Please call when you arrive '
 delivery: true
@@ -16,6 +20,7 @@ giftcard_url: ''
 hours: 10am-10pm Daily
 name: Pickleman’s
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 restaurant_phone: 785-856-9060
 sitemap: false

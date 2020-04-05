@@ -3,6 +3,8 @@ active: true
 address: 1800 E 23rd
 cuisine:
 - Sandwiches
+cuisine_slugs:
+- sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

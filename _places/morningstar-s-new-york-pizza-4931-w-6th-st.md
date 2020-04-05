@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Morningstar's New York Pizza
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: Order online or call
 restaurant_phone: 785-856-6973
 sitemap: false

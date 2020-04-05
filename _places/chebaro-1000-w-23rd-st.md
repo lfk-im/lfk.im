@@ -21,6 +21,7 @@ giftcard_url: ''
 hours: ''
 name: Chebaro
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-312-7660
 sitemap: false

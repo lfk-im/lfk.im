@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: Moose McGuire's
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Unconfirmed
 restaurant_phone: 785-856-0918
 sitemap: false

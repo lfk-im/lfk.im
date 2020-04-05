@@ -15,6 +15,7 @@ giftcard_url: https://decadecafe.square.site/
 hours: ''
 name: Decade
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Online ordering coming next week for to-go and curbside service
 restaurant_phone: 785-550-7944
 sitemap: false

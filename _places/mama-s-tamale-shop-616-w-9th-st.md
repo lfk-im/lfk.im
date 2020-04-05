@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Mama's Tamale Shop
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Closed
 restaurant_phone: 785-424-7565
 sitemap: false

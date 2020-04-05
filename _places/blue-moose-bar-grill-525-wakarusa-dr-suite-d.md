@@ -8,6 +8,13 @@ cuisine:
 - Salads
 - Sandwiches
 - Wings
+cuisine_slugs:
+- american
+- burgers
+- dessert
+- salads
+- sandwiches
+- wings
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -25,6 +32,7 @@ giftcard_url: ''
 hours: Tue-Thur 11am-8pm, Fri-Sat 11am-9pm, Sun 12pm-9pm
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: 'FREE DELIVERY if you call us direct.  '
 restaurant_phone: 785-727-4999
 sitemap: false

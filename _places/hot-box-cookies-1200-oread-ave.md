@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Hot Box Cookies
 neighborhood: KU Campus Area
+neighborhood_slug: ku-campus-area
 notes: Delivery as usual
 restaurant_phone: 785-856-8778
 sitemap: false

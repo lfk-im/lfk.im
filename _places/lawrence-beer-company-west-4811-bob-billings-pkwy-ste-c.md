@@ -3,6 +3,8 @@ active: true
 address: 4811 Bob Billings Pkwy Ste C
 cuisine:
 - American
+cuisine_slugs:
+- american
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -16,6 +18,7 @@ giftcard_url: ''
 hours: 3pm-8pm Daily
 name: Lawrence Beer Company West
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: Order online and pick up curbside (both locations)
 restaurant_phone: 785-856-0596
 sitemap: false

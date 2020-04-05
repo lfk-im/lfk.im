@@ -3,6 +3,8 @@ active: true
 address: 125 E. 10th St
 cuisine:
 - Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: true
@@ -22,6 +24,7 @@ giftcard_url: ''
 hours: 12pm-8pm Tue-Sun
 name: Archibowls
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: offering free hot beans and rice meals at the window from noon to 8 every day.
 restaurant_phone: 785-424-7822
 sitemap: false

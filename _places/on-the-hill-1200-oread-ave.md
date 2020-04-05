@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: On The Hill
 neighborhood: KU Campus Area
+neighborhood_slug: ku-campus-area
 notes: Unconfirmed
 restaurant_phone: 785-830-3998
 sitemap: false

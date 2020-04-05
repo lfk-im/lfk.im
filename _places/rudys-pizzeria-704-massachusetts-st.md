@@ -3,6 +3,8 @@ active: true
 address: 704 Massachusetts St
 cuisine:
 - Pizza
+cuisine_slugs:
+- pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -22,6 +24,7 @@ giftcard_url: ''
 hours: ''
 name: Rudy’s Pizzeria
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order online or call to prepay
 restaurant_phone: 785-749-0055
 sitemap: false

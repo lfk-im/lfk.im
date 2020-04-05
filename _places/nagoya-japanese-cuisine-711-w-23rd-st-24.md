@@ -15,6 +15,7 @@ giftcard_url: ''
 hours: ''
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: Closed
 restaurant_phone: 785-843-1111
 sitemap: false

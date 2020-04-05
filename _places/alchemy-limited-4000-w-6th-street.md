@@ -4,6 +4,9 @@ address: 4000 W. 6th Street
 cuisine:
 - Coffee
 - Bakery
+cuisine_slugs:
+- coffee
+- bakery
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -15,6 +18,7 @@ giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: 7am-6pm Daily
 name: Alchemy Limited
 neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety
   reasons! Please call in your order, pay over the phone, and we will quickly deliver
   it outside to you

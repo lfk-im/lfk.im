@@ -3,6 +3,8 @@ active: true
 address: 2500 Iowa St
 cuisine:
 - Pizza
+cuisine_slugs:
+- pizza
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -22,6 +24,7 @@ giftcard_url: ''
 hours: ''
 name: Pie Five Pizza
 neighborhood: South Lawrence
+neighborhood_slug: south-lawrence
 notes: ''
 restaurant_phone: 785-551-7170
 sitemap: false

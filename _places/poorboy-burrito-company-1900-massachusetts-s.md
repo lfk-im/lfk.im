@@ -13,6 +13,7 @@ giftcard_url: ''
 hours: ''
 name: PoorBoy Burrito Company
 neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Unconfirmed
 restaurant_phone: 785-550-3317
 sitemap: false

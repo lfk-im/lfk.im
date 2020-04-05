@@ -3,6 +3,8 @@ active: true
 address: 7 E 8th St
 cuisine:
 - Tea
+cuisine_slugs:
+- tea
 curbside: false
 curbside_instructions: You can also opt to pick up in the front of the store
 delivery: true
@@ -20,6 +22,7 @@ giftcard_url: ''
 hours: 12-9:30pm Daily
 name: Hi Tea
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 restaurant_phone: 785-424-7727
 sitemap: false

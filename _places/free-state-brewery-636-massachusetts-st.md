@@ -6,6 +6,11 @@ cuisine:
 - Sandwiches
 - Pasta
 - Salads
+cuisine_slugs:
+- american
+- sandwiches
+- pasta
+- salads
 curbside: true
 curbside_instructions: ''
 delivery: false
@@ -17,6 +22,7 @@ giftcard_url: ''
 hours: 12pm-8pm Daily (feel free to call before noon)
 name: Free State Brewery
 neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Order by phone and pick up, including bottled beers
 restaurant_phone: 785-843-4555
 sitemap: false
