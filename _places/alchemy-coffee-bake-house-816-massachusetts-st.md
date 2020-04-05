@@ -27,7 +27,7 @@ sitemap: false
 slug: alchemy-coffee-bake-house-816-massachusetts-st
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: false
-website: http://www.alchemyks.com/
+website: https://www.alchemyks.com/
 ---
 
 Order online or by phone and pick up curbside on Mass

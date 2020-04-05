@@ -27,7 +27,7 @@ sitemap: false
 slug: alchemy-limited-4000-w-6th-street
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
-website: http://www.alchemyks.com/
+website: https://www.alchemyks.com/
 ---
 
 FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety reasons! Please call in your order, pay over the phone, and we will quickly deliver it outside to you
