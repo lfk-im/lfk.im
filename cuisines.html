@@ -5,15 +5,15 @@ permalink: /cuisines/
 
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 py-3 px-3">
-    <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
-      Cuisines
-    </h2>
+    <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
+      <a href="{% link cuisines.html %}">Cuisines</a>
+    </h1>
   </div>
 </div>
 
 <div class="w-full mx-auto">
-  <div class="shadow-md rounded my-6 overflow-hidden">
-    <ul>
+  <ul class="p-2">
+    <ul class="p-2">
     {% for cuisine in site.cuisines %}
         <li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }}</a></li>
     {% endfor %}

@@ -3,7 +3,16 @@ layout: default
 ---
 
 <div class="p-2">
-    <!-- content -->
-  <h1 class="font-bold text 4xl">{{ page.name }}</h1>
-  <h2 class="font-bold text-2xl">{{ page.slug }}</h2>
+    <h1 class="font-bold text-3xl">
+        <a href="{% link cuisines.html %}">Cuisines</a> |
+        {{ page.name }}
+    </h1>
 </div>
+
+<ul class="p-2">
+{% for post in site.places %}
+{% if post.cuisine contains page.name %}
+    <li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ post.url }}">{{ post.name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
