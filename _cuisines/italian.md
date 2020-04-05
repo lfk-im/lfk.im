@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Italian
-sitemap: false
+sitemap: true
 slug: italian
 ---

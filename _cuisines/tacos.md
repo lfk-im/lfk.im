@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Tacos
-sitemap: false
+sitemap: true
 slug: tacos
 ---

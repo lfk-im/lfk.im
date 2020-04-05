@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Heat & Eat
-sitemap: false
+sitemap: true
 slug: heat-eat
 ---

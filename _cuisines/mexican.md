@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Mexican
-sitemap: false
+sitemap: true
 slug: mexican
 ---

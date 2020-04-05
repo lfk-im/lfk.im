@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: birthday cakes
-sitemap: false
+sitemap: true
 slug: birthday-cakes
 ---

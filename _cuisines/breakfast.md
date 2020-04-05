@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Breakfast
-sitemap: false
+sitemap: true
 slug: breakfast
 ---

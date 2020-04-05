@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Pub/bar food
-sitemap: false
+sitemap: true
 slug: pub-bar-food
 ---

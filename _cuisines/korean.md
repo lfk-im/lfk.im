@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Korean
-sitemap: false
+sitemap: true
 slug: korean
 ---

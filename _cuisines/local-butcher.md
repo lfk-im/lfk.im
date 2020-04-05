@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Local Butcher
-sitemap: false
+sitemap: true
 slug: local-butcher
 ---

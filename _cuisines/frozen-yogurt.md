@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Frozen yogurt
-sitemap: false
+sitemap: true
 slug: frozen-yogurt
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Healthy
-sitemap: false
+sitemap: true
 slug: healthy
 ---

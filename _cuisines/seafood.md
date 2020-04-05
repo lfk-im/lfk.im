@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Seafood
-sitemap: false
+sitemap: true
 slug: seafood
 ---

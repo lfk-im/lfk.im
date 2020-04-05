@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Catering
-sitemap: false
+sitemap: true
 slug: catering
 ---

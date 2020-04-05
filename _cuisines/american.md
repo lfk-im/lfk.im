@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: American
-sitemap: false
+sitemap: true
 slug: american
 ---

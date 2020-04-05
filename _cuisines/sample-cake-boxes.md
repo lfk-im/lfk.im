@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: sample cake boxes
-sitemap: false
+sitemap: true
 slug: sample-cake-boxes
 ---

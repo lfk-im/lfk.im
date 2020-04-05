@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Dessert
-sitemap: false
+sitemap: true
 slug: dessert
 ---

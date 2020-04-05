@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Bob Billings & Iowa
-sitemap: false
+sitemap: true
 slug: bob-billings-iowa
 ---

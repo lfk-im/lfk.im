@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Soup
-sitemap: false
+sitemap: true
 slug: soup
 ---

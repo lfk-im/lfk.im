@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Gluten free
-sitemap: false
+sitemap: true
 slug: gluten-free
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Smoothies
-sitemap: false
+sitemap: true
 slug: smoothies
 ---

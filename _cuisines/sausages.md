@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Sausages
-sitemap: false
+sitemap: true
 slug: sausages
 ---

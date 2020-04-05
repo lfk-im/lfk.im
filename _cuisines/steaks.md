@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Steaks
-sitemap: false
+sitemap: true
 slug: steaks
 ---

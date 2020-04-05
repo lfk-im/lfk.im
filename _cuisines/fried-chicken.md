@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Fried Chicken
-sitemap: false
+sitemap: true
 slug: fried-chicken
 ---

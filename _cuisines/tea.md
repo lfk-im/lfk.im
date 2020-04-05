@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Tea
-sitemap: false
+sitemap: true
 slug: tea
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: cake pops
-sitemap: false
+sitemap: true
 slug: cake-pops
 ---

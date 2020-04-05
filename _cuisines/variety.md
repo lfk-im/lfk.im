@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Variety
-sitemap: false
+sitemap: true
 slug: variety
 ---

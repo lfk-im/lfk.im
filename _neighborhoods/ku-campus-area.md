@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: KU Campus Area
-sitemap: false
+sitemap: true
 slug: ku-campus-area
 ---

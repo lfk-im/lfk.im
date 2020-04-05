@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: East Lawrence
-sitemap: false
+sitemap: true
 slug: east-lawrence
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Pasta
-sitemap: false
+sitemap: true
 slug: pasta
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Asian
-sitemap: false
+sitemap: true
 slug: asian
 ---

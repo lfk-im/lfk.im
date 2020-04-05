@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Thai
-sitemap: false
+sitemap: true
 slug: thai
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Sandwiches
-sitemap: false
+sitemap: true
 slug: sandwiches
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Farm
-sitemap: false
+sitemap: true
 slug: farm
 ---

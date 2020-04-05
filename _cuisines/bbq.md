@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: BBQ
-sitemap: false
+sitemap: true
 slug: bbq
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: cafe
-sitemap: false
+sitemap: true
 slug: cafe
 ---

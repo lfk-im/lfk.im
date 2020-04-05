@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Eggs
-sitemap: false
+sitemap: true
 slug: eggs
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Mediterranean
-sitemap: false
+sitemap: true
 slug: mediterranean
 ---

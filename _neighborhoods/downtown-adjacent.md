@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Downtown-Adjacent
-sitemap: false
+sitemap: true
 slug: downtown-adjacent
 ---

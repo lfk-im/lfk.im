@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: cupcakes
-sitemap: false
+sitemap: true
 slug: cupcakes
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: DIY cupcake kits
-sitemap: false
+sitemap: true
 slug: diy-cupcake-kits
 ---

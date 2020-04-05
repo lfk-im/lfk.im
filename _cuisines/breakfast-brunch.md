@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Breakfast & Brunch
-sitemap: false
+sitemap: true
 slug: breakfast-brunch
 ---

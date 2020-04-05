@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Pizza
-sitemap: false
+sitemap: true
 slug: pizza
 ---

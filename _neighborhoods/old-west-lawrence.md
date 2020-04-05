@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Old West Lawrence
-sitemap: false
+sitemap: true
 slug: old-west-lawrence
 ---

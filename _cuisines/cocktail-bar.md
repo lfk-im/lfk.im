@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Cocktail Bar
-sitemap: false
+sitemap: true
 slug: cocktail-bar
 ---

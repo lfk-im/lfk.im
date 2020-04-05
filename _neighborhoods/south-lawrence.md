@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: South Lawrence
-sitemap: false
+sitemap: true
 slug: south-lawrence
 ---

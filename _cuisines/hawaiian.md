@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Hawaiian
-sitemap: false
+sitemap: true
 slug: hawaiian
 ---

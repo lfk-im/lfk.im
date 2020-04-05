@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Japanese
-sitemap: false
+sitemap: true
 slug: japanese
 ---

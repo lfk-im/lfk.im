@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Global
-sitemap: false
+sitemap: true
 slug: global
 ---

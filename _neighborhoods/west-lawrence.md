@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: West Lawrence
-sitemap: false
+sitemap: true
 slug: west-lawrence
 ---

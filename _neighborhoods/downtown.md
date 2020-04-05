@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Downtown
-sitemap: false
+sitemap: true
 slug: downtown
 ---

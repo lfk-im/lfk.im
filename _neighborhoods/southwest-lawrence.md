@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Southwest Lawrence
-sitemap: false
+sitemap: true
 slug: southwest-lawrence
 ---

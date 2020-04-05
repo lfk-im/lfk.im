@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: North Lawrence
-sitemap: false
+sitemap: true
 slug: north-lawrence
 ---

@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Wings
-sitemap: false
+sitemap: true
 slug: wings
 ---

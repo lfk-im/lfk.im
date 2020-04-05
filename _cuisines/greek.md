@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Greek
-sitemap: false
+sitemap: true
 slug: greek
 ---

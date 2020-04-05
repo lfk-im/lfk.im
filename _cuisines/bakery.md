@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Bakery
-sitemap: false
+sitemap: true
 slug: bakery
 ---

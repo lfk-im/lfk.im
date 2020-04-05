@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Sushi
-sitemap: false
+sitemap: true
 slug: sushi
 ---

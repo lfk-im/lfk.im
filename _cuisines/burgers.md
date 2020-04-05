@@ -1,6 +1,6 @@
 ---
-active: false
+active: true
 name: Burgers
-sitemap: false
+sitemap: true
 slug: burgers
 ---
