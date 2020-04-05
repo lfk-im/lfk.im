@@ -11,7 +11,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-830pm Daily
+hours: 11am-8:30pm Daily
 name: Subway (6th and Monterey)
 neighborhood: ''
 notes: ''
