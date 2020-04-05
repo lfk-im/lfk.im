@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: /debug/
+---
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 py-3 px-3">
+    <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
+      <a href="{% link neighborhoods.html %}">Neighborhoods</a>
+    </h1>
+  </div>
+</div>
+
+<div class="w-full mx-auto">
+<h3 class="text-2xl font-bold p-2">Cuisine</h3>
+
+<ul class="p-2">
+{% for cuisine in site.cuisines %}
+{% unless cuisine.active %}
+{% assign places = site.places | where:"cuisine", cuisine.name %}
+<li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a></li>
+{% endunless %}
+{% endfor %}
+</ul>
+</div>
+
+<hr>
+
+<div class="w-full mx-auto">
+<h3 class="text-2xl font-bold p-2">Neighborhood</h3>
+
+<ul class="p-2">
+{% for neighborhood in site.neighborhoods %}
+{% unless neighborhood.active %}
+{% assign places = site.places | where:"neighborhood", neighborhood.name %}
+<li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a></li>
+{% endunless %}
+{% endfor %}
+</ul>
+</div>
