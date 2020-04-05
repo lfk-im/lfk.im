@@ -336,6 +336,10 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
 
         if "cuisine" in place and len(place["cuisine"]):
             place["cuisine"] = [cuisine.strip() for cuisine in place["cuisine"].split(",")]
+            place["cuisine_slugs"] = [slugify(cuisine) for cuisine in place["cuisine"]]
+
+        if "neighborhood" in place and len(place["neighborhood"]):
+            place["neighborhood_slug"] = slugify(place["neighborhood"])
 
         if "delivery_service_websites" in place and len(
             place["delivery_service_websites"]
