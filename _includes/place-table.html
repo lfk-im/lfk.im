@@ -5,6 +5,9 @@
         <tr class="border-b border-gray-400 bg-gray-200">
           <th class="py-2 px-4 font-bold uppercase text-sm text-gray-600 text-right">Name</th>
           <th class="py-2 px-4 font-bold uppercase text-sm text-gray-600">Neighborhood</th>
+          {% comment %}
+          <th class="py-2 px-4 font-bold uppercase text-sm text-gray-600">Cuisine</th>
+          {% endcomment %}
 
           {% case include.active %}
             {% when true %}
@@ -37,8 +40,14 @@
             {% endif %}
           </td>
           <td class="py-2 px-4">
-            {{ place.neighborhood }}
+            <a class="hover:text-blue-500 text-blue-700 underline" href="/neighborhoods/{{ place.neighborhood_slug }}/">
+              {{ place.neighborhood }}</a>
           </td>
+          {% comment %}
+          <td class="py-2 px-4">
+            {% for cuisine in place.cuisine %}<span class="underline"><a href="">{{ cuisine }}</a></span> {% endfor %}
+          </td>
+          {% endcomment %}
           {% case include.active %}
             {% when true %}
               <td class="py-2 px-4 whitespace-no-wrap">
