@@ -9,10 +9,7 @@ layout: default
     </h1>
 </div>
 
-<ul class="p-2">
-{% for post in site.places %}
-{% if post.cuisine contains page.name %}
-    <li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ post.url }}">{{ post.name }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+<hr>
+
+{% assign places = site.places | where:"cuisine", page.name | where:"active", true  %}
+{% include place-table.html places=places active=true %}

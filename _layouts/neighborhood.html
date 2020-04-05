@@ -11,10 +11,5 @@ layout: default
 
 <hr>
 
-<ul class="p-2">
-{% for post in site.places %}
-{% if post.neighborhood == page.name %}
-    <li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ post.url }}">{{ post.name }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+{% assign places = site.places | where:"neighborhood", page.name | where:"active", true %}
+{% include place-table.html places=places active=true %}

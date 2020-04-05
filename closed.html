@@ -21,64 +21,9 @@ permalink: /closed/
   </div>
 </div>
 
-<div class="w-full mx-auto">
-  <div class="shadow-md rounded my-6 overflow-hidden">
-    <table class="text-left w-full border-collapse"> <!--Border collapse doesn't work on this site yet but it's available in newer tailwind versions -->
-      <thead>
-        <tr class="border-b border-gray-400 bg-gray-200">
-          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600 text-right">Name</th>
-          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Address</th>
-          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Giftcard</th>
-          <th class="py-4 px-6 font-bold uppercase text-sm text-gray-600">Actions</th>
-        </tr>
-      </thead>
-      <tbody>
-{% for place in site.places %}
-  {% unless place.active %}
-        <tr class="bg-gray-100 hover:bg-blue-500 text-blue-800 hover:text-gray-200 align-top border-b border-gray-400">
-          <td class="py-4 px-6 hover:text-gray-200 font-medium text-right">
-            <a name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
-          </td>
-          <td class="py-4 px-6">
-            {{ place.address }}
-            {% if place.hours and place.hours != "" and place.hours != nil %}
-              <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
-            {% endif %}
-          </td>
-          <td class="py-4 px-6 whitespace-no-wrap">
-            {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
-          </td>
-          <td class="py-4 px-6">
-            {% comment %}
-            {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
-            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8 whitespace-no-wrap">
-              {{ place.restaurant_phone }}
-            </a>
-            {% endif %}
-            {% endcomment %}
 
-            {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
-            <a href="{{ place.giftcard_url }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
-              🎁 giftcard</a>
-            {% endif %}
-
-            {% if place.giftcard and place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
-            <a href="tel:{{ place.restaurant_phone }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8 whitespace-no-wrap">
-              {{ place.restaurant_phone }}</a>
-            {% endif %}
-
-            {% if place.website and place.website != "" and place.website != nil %}
-            <a href="{{ place.website }}" class="text-gray-800 py-1 px-3 rounded text-xs bg-gray-300 hover:bg-blue-300 hover:text-blue-700 mb-8">
-              website</a>
-            {% endif %}
-          </td>
-        </tr>
-  {% endunless %}
-{% endfor %}
-      </tbody>
-    </table>
-  </div>
-</div>
+{% assign places = site.places | where:"active", false  %}
+{% include place-table.html places=places active=false %}
 
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 py-3 px-3 py-4">
