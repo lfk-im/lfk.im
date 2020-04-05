@@ -1,7 +1,12 @@
 ---
 active: true
 address: 1500 E 23rd St
-cuisine: ''
+cuisine:
+- Barbeque
+- BBQ
+cuisine_slugs:
+- barbeque
+- bbq
 curbside: true
 curbside_instructions: ''
 delivery: true

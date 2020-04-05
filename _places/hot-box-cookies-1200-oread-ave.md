@@ -1,7 +1,14 @@
 ---
 active: true
 address: 1200 Oread Ave
-cuisine: ''
+cuisine:
+- Bakery
+- Cookies
+- Desserts
+cuisine_slugs:
+- bakery
+- cookies
+- desserts
 curbside: true
 curbside_instructions: ''
 delivery: true

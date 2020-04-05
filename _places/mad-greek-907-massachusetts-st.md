@@ -1,7 +1,12 @@
 ---
 active: true
 address: 907 Massachusetts St
-cuisine: ''
+cuisine:
+- Greek
+- Italian
+cuisine_slugs:
+- greek
+- italian
 curbside: true
 curbside_instructions: ''
 delivery: true

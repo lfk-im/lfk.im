@@ -1,7 +1,10 @@
 ---
 active: true
 address: 934 Massachusetts St
-cuisine: ''
+cuisine:
+- Pizza
+cuisine_slugs:
+- pizza
 curbside: false
 curbside_instructions: ''
 delivery: true

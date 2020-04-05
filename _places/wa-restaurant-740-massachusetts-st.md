@@ -1,7 +1,10 @@
 ---
 active: true
 address: 740 Massachusetts St
-cuisine: ''
+cuisine:
+- Sushi
+cuisine_slugs:
+- sushi
 curbside: false
 curbside_instructions: ''
 delivery: true

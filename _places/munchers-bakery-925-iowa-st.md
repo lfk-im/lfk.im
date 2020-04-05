@@ -1,7 +1,14 @@
 ---
 active: false
 address: 925 Iowa St
-cuisine: ''
+cuisine:
+- Bakery
+- Desserts
+- Donuts
+cuisine_slugs:
+- bakery
+- desserts
+- donuts
 curbside: true
 curbside_instructions: ''
 delivery: false

@@ -1,7 +1,10 @@
 ---
 active: false
 address: 712 Massachusetts St
-cuisine: ''
+cuisine:
+- Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: false

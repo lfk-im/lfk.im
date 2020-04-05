@@ -1,7 +1,10 @@
 ---
 active: false
 address: 434 Locust St
-cuisine: ''
+cuisine:
+- Mexican
+cuisine_slugs:
+- mexican
 curbside: true
 curbside_instructions: ''
 delivery: false

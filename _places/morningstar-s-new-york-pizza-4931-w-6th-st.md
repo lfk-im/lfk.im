@@ -1,7 +1,10 @@
 ---
 active: true
 address: 4931 W 6th St
-cuisine: ''
+cuisine:
+- Pizza
+cuisine_slugs:
+- pizza
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,7 +1,10 @@
 ---
 active: true
 address: 1819 W 23rd St
-cuisine: ''
+cuisine:
+- Mexican
+cuisine_slugs:
+- mexican
 curbside: false
 curbside_instructions: ''
 delivery: true

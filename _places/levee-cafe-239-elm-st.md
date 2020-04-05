@@ -1,7 +1,12 @@
 ---
 active: true
 address: 239 Elm St
-cuisine: ''
+cuisine:
+- Breakfast
+- Diner
+cuisine_slugs:
+- breakfast
+- diner
 curbside: false
 curbside_instructions: ''
 delivery: false

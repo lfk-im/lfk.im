@@ -1,7 +1,10 @@
 ---
 active: false
 address: 1111 Massachusetts St
-cuisine: ''
+cuisine:
+- Seafood
+cuisine_slugs:
+- seafood
 curbside: false
 curbside_instructions: ''
 delivery: false

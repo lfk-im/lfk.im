@@ -1,6 +1,6 @@
 ---
 active: false
-name: Coffees
+name: Cookies
 sitemap: false
-slug: coffees
+slug: cookies
 ---

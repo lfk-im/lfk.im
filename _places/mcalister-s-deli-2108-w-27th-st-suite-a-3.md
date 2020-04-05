@@ -1,7 +1,10 @@
 ---
 active: true
 address: 2108 W 27th St Suite A-3
-cuisine: ''
+cuisine:
+- Deli
+cuisine_slugs:
+- deli
 curbside: true
 curbside_instructions: ''
 delivery: true

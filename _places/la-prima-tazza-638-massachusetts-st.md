@@ -1,7 +1,12 @@
 ---
 active: false
 address: 638 Massachusetts St
-cuisine: ''
+cuisine:
+- Coffee
+- Tea
+cuisine_slugs:
+- coffee
+- tea
 curbside: false
 curbside_instructions: ''
 delivery: false
