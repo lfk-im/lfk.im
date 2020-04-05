@@ -140,19 +140,19 @@ def sync_cuisines():
         if len(cuisines):
             data += cuisines
 
-    data = set(data)
-
     if not Path("_cuisines").exists():
         Path("_cuisines").mkdir()
+
+    data = set(data)
 
     for cuisine in data:
         cuisine_slug = slugify(cuisine)
         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
             post = frontmatter.loads("")
+            post["active"] = True
             post["name"] = cuisine
+            post["sitemap"] = True
             post["slug"] = cuisine_slug
-            post["active"] = False
-            post["sitemap"] = False
 
             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                 frontmatter.dumps(post)
@@ -176,17 +176,14 @@ def sync_neighborhoods():
 
     data = set(data)
 
-    if not Path("_neighborhoods").exists():
-        Path("_neighborhoods").mkdir()
-
     for neighborhood in data:
         neighborhood_slug = slugify(neighborhood)
         if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
             post = frontmatter.loads("")
+            post["active"] = True
             post["name"] = neighborhood
+            post["sitemap"] = True
             post["slug"] = neighborhood_slug
-            post["active"] = False
-            post["sitemap"] = False
 
             Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
                 frontmatter.dumps(post)
