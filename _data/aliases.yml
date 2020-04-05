@@ -1,0 +1,24 @@
+cuisines:
+  - name: BBQ
+    cuisine: Barbecue
+
+  - name: birthday cakes
+    cuisine: Dessert
+
+  - name: cake pops
+    cuisine: Dessert
+
+  - name: cakes
+    cuisine: Dessert
+
+  - name: cupcakes
+    cuisine: Dessert
+
+  - name: DIY cupcake kits
+    cuisine: Dessert
+
+  - name: sample cake boxes
+    cuisine: Dessert
+
+neighborhoods:
+  - name: 701 W 23rd St

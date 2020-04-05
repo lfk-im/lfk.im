@@ -2,5 +2,6 @@ click-default-group~=1.2.2
 click~=7.1.1
 python-frontmatter~=0.5.0
 python-slugify~=4.0.0
+PyYAML~=5.3.1
 sheetfu~=1.5.2
 typesystem~=0.2.4

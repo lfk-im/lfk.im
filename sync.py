@@ -2,6 +2,7 @@ import click
 import frontmatter
 import os
 import sys
+import yaml
 
 from click_default_group import DefaultGroup
 from pathlib import Path
@@ -11,6 +12,41 @@ from typesystem.fields import Boolean
 
 
 Boolean.coerce_values.update({"n": False, "no": False, "y": True, "yes": True})
+
+CUISINE_INITIAL = [
+    "American",
+    "Asian",
+    "Bakeries",
+    "Barbecue",
+    "Bar & Grill",
+    "Breakfast",
+    "Breweries",
+    "Burgers",
+    "Cajun",
+    "Chinese",
+    "Coffee and Tea",
+    "Deli",
+    "Ethiopian",
+    "Fast Food",
+    "Fine Dining",
+    "Greek",
+    "Homestyle Cookin'",
+    "Ice Cream / Juice",
+    "Indian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Latin American",
+    "Mexican",
+    "Middle-Eastern",
+    "Pizza",
+    "Sandwiches/Subs",
+    "Seafood",
+    "Spanish",
+    "Steak",
+    "Sushi",
+    "Thai",
+]
 
 # Don't customize these
 EXPECTED_ENV_VARS = [
@@ -84,6 +120,15 @@ FOOD_SERVICE_URLS = [
 ]
 
 
+def load_aliases():
+    if Path("_data", "aliases.yml").exists():
+        input_file = Path("_data", "aliases.yml").read_text()
+        data = yaml.load(input_file, Loader=yaml.FullLoader)
+    else:
+        data = dict()
+    return data
+
+
 def string_to_boolean(value):
     validator = Boolean()
     value, error = validator.validate_or_error(value)
@@ -132,6 +177,9 @@ def cli():
 def sync_cuisines():
     click.echo("sync-cuisines")
 
+    aliases = load_aliases()
+    cuisine_aliases = aliases["cuisines"]
+
     data = []
     places = Path("_places").glob("*.md")
     for place in places:
@@ -143,9 +191,7 @@ def sync_cuisines():
     if not Path("_cuisines").exists():
         Path("_cuisines").mkdir()
 
-    data = set(data)
-
-    for cuisine in data:
+    for cuisine in CUISINE_INITIAL:
         cuisine_slug = slugify(cuisine)
         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
             post = frontmatter.loads("")
@@ -158,10 +204,29 @@ def sync_cuisines():
                 frontmatter.dumps(post)
             )
 
+    # data = set(data)
+
+    # for cuisine in data:
+    #     cuisine_slug = slugify(cuisine)
+    #     if not any([alias for alias in cuisine_aliases if cuisine in alias["name"]]):
+    #         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+    #             post = frontmatter.loads("")
+    #             post["active"] = False
+    #             post["name"] = cuisine
+    #             post["sitemap"] = False
+    #             post["slug"] = cuisine_slug
+
+    #             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+    #                 frontmatter.dumps(post)
+    #             )
+
 
 @cli.command()
 def sync_neighborhoods():
     click.echo("sync-neighborhoods")
+
+    aliases = load_aliases()
+    neighborhood_aliases = aliases["neighborhoods"]
 
     data = []
     places = Path("_places").glob("*.md")
@@ -178,16 +243,17 @@ def sync_neighborhoods():
 
     for neighborhood in data:
         neighborhood_slug = slugify(neighborhood)
-        if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
-            post = frontmatter.loads("")
-            post["active"] = True
-            post["name"] = neighborhood
-            post["sitemap"] = True
-            post["slug"] = neighborhood_slug
+        if not any([alias for alias in neighborhood_aliases if neighborhood in alias["name"]]):
+            if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
+                post = frontmatter.loads("")
+                post["active"] = True
+                post["name"] = neighborhood
+                post["sitemap"] = True
+                post["slug"] = neighborhood_slug
 
-            Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
-                frontmatter.dumps(post)
-            )
+                Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
+                    frontmatter.dumps(post)
+                )
 
 
 @cli.command()
@@ -240,7 +306,6 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         place = {}
         place["sitemap"] = False
         place["slug"] = slug
-
 
         # Our goal is to build a Place record without having to deal with
         # annoying errors if a field doesn't exist. We will still let you
