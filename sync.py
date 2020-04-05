@@ -204,21 +204,21 @@ def sync_cuisines():
                 frontmatter.dumps(post)
             )
 
-    # data = set(data)
+    data = set(data)
 
-    # for cuisine in data:
-    #     cuisine_slug = slugify(cuisine)
-    #     if not any([alias for alias in cuisine_aliases if cuisine in alias["name"]]):
-    #         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
-    #             post = frontmatter.loads("")
-    #             post["active"] = False
-    #             post["name"] = cuisine
-    #             post["sitemap"] = False
-    #             post["slug"] = cuisine_slug
+    for cuisine in data:
+        cuisine_slug = slugify(cuisine)
+        if not any([alias for alias in cuisine_aliases if cuisine in alias["name"]]):
+            if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+                post = frontmatter.loads("")
+                post["active"] = False
+                post["name"] = cuisine
+                post["sitemap"] = False
+                post["slug"] = cuisine_slug
 
-    #             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
-    #                 frontmatter.dumps(post)
-    #             )
+                Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+                    frontmatter.dumps(post)
+                )
 
 
 @cli.command()
