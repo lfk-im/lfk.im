@@ -1,6 +1,6 @@
 ---
 active: true
-name: cupcakes
+name: Deli
 sitemap: true
-slug: cupcakes
+slug: deli
 ---

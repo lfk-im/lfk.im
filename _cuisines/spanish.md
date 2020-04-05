@@ -1,6 +1,6 @@
 ---
 active: true
-name: Smoothies
+name: Spanish
 sitemap: true
-slug: smoothies
+slug: spanish
 ---

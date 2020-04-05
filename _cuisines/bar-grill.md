@@ -1,6 +1,6 @@
 ---
 active: true
-name: Bakery
+name: Bar & Grill
 sitemap: true
-slug: bakery
+slug: bar-grill
 ---

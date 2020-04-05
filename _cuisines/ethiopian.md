@@ -1,6 +1,6 @@
 ---
 active: true
-name: Eggs
+name: Ethiopian
 sitemap: true
-slug: eggs
+slug: ethiopian
 ---

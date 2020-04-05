@@ -1,6 +1,6 @@
 ---
 active: true
-name: Steaks
+name: Indian
 sitemap: true
-slug: steaks
+slug: indian
 ---

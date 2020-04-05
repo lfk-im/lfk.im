@@ -1,6 +1,6 @@
 ---
 active: true
-name: Salads
+name: Breweries
 sitemap: true
-slug: salads
+slug: breweries
 ---

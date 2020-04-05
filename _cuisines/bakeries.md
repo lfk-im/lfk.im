@@ -1,6 +1,6 @@
 ---
 active: true
-name: Global
+name: Bakeries
 sitemap: true
-slug: global
+slug: bakeries
 ---

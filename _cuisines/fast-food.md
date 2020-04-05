@@ -1,6 +1,6 @@
 ---
 active: true
-name: Variety
+name: Fast Food
 sitemap: true
-slug: variety
+slug: fast-food
 ---

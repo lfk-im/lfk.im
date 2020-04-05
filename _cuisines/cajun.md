@@ -1,6 +1,6 @@
 ---
 active: true
-name: Dessert
+name: Cajun
 sitemap: true
-slug: dessert
+slug: cajun
 ---

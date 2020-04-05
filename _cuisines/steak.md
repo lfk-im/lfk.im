@@ -1,6 +1,6 @@
 ---
 active: true
-name: Steakhouse
+name: Steak
 sitemap: true
-slug: steakhouse
+slug: steak
 ---

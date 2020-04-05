@@ -1,6 +1,6 @@
 ---
 active: true
-name: Middle Eastern
+name: Middle-Eastern
 sitemap: true
 slug: middle-eastern
 ---
