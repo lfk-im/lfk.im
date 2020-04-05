@@ -1,7 +1,10 @@
 ---
 active: true
 address: '947 New Hampshire St #120'
-cuisine: ''
+cuisine:
+- Thai
+cuisine_slugs:
+- thai
 curbside: false
 curbside_instructions: ''
 delivery: false

@@ -1,7 +1,12 @@
 ---
 active: true
 address: '4931 W 6th St # 124'
-cuisine: ''
+cuisine:
+- Bakery
+- Coffees
+cuisine_slugs:
+- bakery
+- coffees
 curbside: false
 curbside_instructions: ''
 delivery: false

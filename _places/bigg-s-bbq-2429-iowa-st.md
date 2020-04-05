@@ -1,7 +1,12 @@
 ---
 active: false
 address: 2429 Iowa St
-cuisine: ''
+cuisine:
+- Barbeque
+- BBQ
+cuisine_slugs:
+- barbeque
+- bbq
 curbside: false
 curbside_instructions: ''
 delivery: false

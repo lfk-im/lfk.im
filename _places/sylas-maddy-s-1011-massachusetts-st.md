@@ -1,7 +1,10 @@
 ---
 active: true
 address: 1011 Massachusetts St
-cuisine: ''
+cuisine:
+- Dessert
+cuisine_slugs:
+- dessert
 curbside: true
 curbside_instructions: Call ahead and/or call upon arriving and someone will come
   to your car to take your order

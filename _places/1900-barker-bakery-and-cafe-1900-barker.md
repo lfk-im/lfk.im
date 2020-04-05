@@ -3,8 +3,10 @@ active: true
 address: 1900 Barker
 cuisine:
 - Bakery
+- Coffee
 cuisine_slugs:
 - bakery
+- coffee
 curbside: true
 curbside_instructions: Order online - Pickup curbside
 delivery: false

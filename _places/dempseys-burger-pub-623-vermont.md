@@ -3,8 +3,10 @@ active: true
 address: 623 Vermont
 cuisine:
 - American
+- Burgers
 cuisine_slugs:
 - american
+- burgers
 curbside: false
 curbside_instructions: ''
 delivery: false

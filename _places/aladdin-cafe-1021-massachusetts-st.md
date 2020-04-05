@@ -1,7 +1,12 @@
 ---
 active: true
 address: 1021 Massachusetts St
-cuisine: ''
+cuisine:
+- Mediterranean
+- Greek
+cuisine_slugs:
+- mediterranean
+- greek
 curbside: true
 curbside_instructions: ''
 delivery: false
