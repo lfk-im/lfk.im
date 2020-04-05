@@ -15,7 +15,14 @@ permalink: /neighborhoods/
   <ul class="p-2">
     <ul class="p-2">
     {% for neighborhood in site.neighborhoods %}
-        <li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ neighborhood.url }}">{{ neighborhood.name }}</a></li>
+      {% if neighborhood.active == true %}
+        {% assign places = site.places | where:"neighborhood", neighborhood.name | where:"active", true  %}
+        {% if places.size > 1 %}
+          <li>
+            <a class="hover:text-blue-500 text-blue-700 underline" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a>
+          </li>
+        {% endif %}
+      {% endif %}
     {% endfor %}
     </ul>
   </div>
