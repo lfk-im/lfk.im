@@ -1,12 +1,13 @@
 ---
 active: true
 address: '4931 W 6th St #118A'
-cuisine:
-- American
-- Tacos
+cuisine: American, Tacos
 cuisine_slugs:
 - american
 - tacos
+cuisines:
+- American
+- Tacos
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1103 Massachusetts St
-cuisine:
-- Soda
+cuisine: Soda
 cuisine_slugs:
 - soda
+cuisines:
+- Soda
 curbside: true
 curbside_instructions: ''
 delivery: false

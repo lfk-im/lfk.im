@@ -1,12 +1,13 @@
 ---
 active: false
 address: 816 Massachusetts St
-cuisine:
-- Bakery
-- Coffee
+cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
 - coffee
+cuisines:
+- Bakery
+- Coffee
 curbside: false
 curbside_instructions: ''
 delivery: false

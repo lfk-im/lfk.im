@@ -1,10 +1,11 @@
 ---
 active: true
 address: 2222 Iowa St
-cuisine:
-- American
+cuisine: American
 cuisine_slugs:
 - american
+cuisines:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

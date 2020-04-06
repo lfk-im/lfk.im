@@ -1,12 +1,13 @@
 ---
 active: false
 address: 13 E 8th St
-cuisine:
-- Mexican
-- Tacos
+cuisine: Mexican, Tacos
 cuisine_slugs:
 - mexican
 - tacos
+cuisines:
+- Mexican
+- Tacos
 curbside: false
 curbside_instructions: ''
 delivery: false

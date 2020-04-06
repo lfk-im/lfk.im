@@ -1,16 +1,17 @@
 ---
 active: true
 address: 706 E 23rd St
-cuisine:
-- American
-- Sandwiches
-- Pizza
-- Salads
+cuisine: American, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american
 - sandwiches
 - pizza
 - salads
+cuisines:
+- American
+- Sandwiches
+- Pizza
+- Salads
 curbside: true
 curbside_instructions: ''
 delivery: false

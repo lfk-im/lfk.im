@@ -1,10 +1,11 @@
 ---
 active: false
 address: 719 Massachusetts St
-cuisine:
-- Seafood
+cuisine: Seafood
 cuisine_slugs:
 - seafood
+cuisines:
+- Seafood
 curbside: false
 curbside_instructions: ''
 delivery: false

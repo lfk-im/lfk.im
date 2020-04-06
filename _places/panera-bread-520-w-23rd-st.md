@@ -1,14 +1,7 @@
 ---
 active: true
 address: 520 W 23rd St
-cuisine:
-- Bakery
-- Breakfast & Brunch
-- Coffee
-- Dessert
-- Salads
-- Sandwiches
-- Smoothies
+cuisine: Bakery, Breakfast & Brunch, Coffee, Dessert, Salads, Sandwiches, Smoothies
 cuisine_slugs:
 - bakery
 - breakfast-brunch
@@ -17,6 +10,14 @@ cuisine_slugs:
 - salads
 - sandwiches
 - smoothies
+cuisines:
+- Bakery
+- Breakfast & Brunch
+- Coffee
+- Dessert
+- Salads
+- Sandwiches
+- Smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true

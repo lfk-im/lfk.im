@@ -1,10 +1,11 @@
 ---
 active: false
 address: 4931 W 6th St
-cuisine:
-- Steakhouse
+cuisine: Steakhouse
 cuisine_slugs:
 - steakhouse
+cuisines:
+- Steakhouse
 curbside: false
 curbside_instructions: ''
 delivery: false

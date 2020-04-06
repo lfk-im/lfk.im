@@ -1,12 +1,13 @@
 ---
 active: true
 address: 1025 Massachusetts St
-cuisine:
-- Bakery
-- Coffee
+cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
 - coffee
+cuisines:
+- Bakery
+- Coffee
 curbside: true
 curbside_instructions: ''
 delivery: true

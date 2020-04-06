@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1530 W 6th St
-cuisine:
-- Korean
+cuisine: Korean
 cuisine_slugs:
 - korean
+cuisines:
+- Korean
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1800 E. 23rd St.
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false

@@ -2,6 +2,8 @@
 active: true
 address: 2309 Haskell Ave.
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: true
 curbside_instructions: ''
 delivery: true

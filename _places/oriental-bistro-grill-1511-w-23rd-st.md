@@ -1,16 +1,17 @@
 ---
 active: true
 address: 1511 W. 23rd St.
-cuisine:
-- Chinese
-- Korean
-- Thai
-- Japanese
+cuisine: Chinese, Korean, Thai, Japanese
 cuisine_slugs:
 - chinese
 - korean
 - thai
 - japanese
+cuisines:
+- Chinese
+- Korean
+- Thai
+- Japanese
 curbside: true
 curbside_instructions: ''
 delivery: true

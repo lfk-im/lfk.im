@@ -2,6 +2,8 @@
 active: true
 address: 1410 Kasold Dr A13
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,10 +1,11 @@
 ---
 active: false
 address: '711 W 23rd St #24'
-cuisine:
-- Japanese
+cuisine: Japanese
 cuisine_slugs:
 - japanese
+cuisines:
+- Japanese
 curbside: false
 curbside_instructions: ''
 delivery: false

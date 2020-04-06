@@ -1,14 +1,8 @@
 ---
 active: true
 address: 200 McDonald Dr
-cuisine:
-- Dessert
-- cakes
-- cupcakes
-- cake pops
-- DIY cupcake kits
-- sample cake boxes
-- birthday cakes
+cuisine: Dessert, cakes, cupcakes, cake pops, DIY cupcake kits, sample cake boxes,
+  birthday cakes
 cuisine_slugs:
 - dessert
 - cakes
@@ -17,6 +11,14 @@ cuisine_slugs:
 - diy-cupcake-kits
 - sample-cake-boxes
 - birthday-cakes
+cuisines:
+- Dessert
+- cakes
+- cupcakes
+- cake pops
+- DIY cupcake kits
+- sample cake boxes
+- birthday cakes
 curbside: true
 curbside_instructions: ''
 delivery: true

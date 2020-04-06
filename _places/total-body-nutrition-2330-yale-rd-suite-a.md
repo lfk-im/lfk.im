@@ -1,10 +1,11 @@
 ---
 active: true
 address: '2330 Yale Rd Suite A '
-cuisine:
-- Healthy
+cuisine: Healthy
 cuisine_slugs:
 - healthy
+cuisines:
+- Healthy
 curbside: false
 curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavor,
   cash or card '

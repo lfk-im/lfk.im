@@ -1,15 +1,7 @@
 ---
 active: true
 address: 2329 Iowa Street, Suite T
-cuisine:
-- American
-- Barbecue
-- Burgers
-- Dessert
-- Fried Chicken
-- Salads
-- Seafood
-- Steakhouse
+cuisine: American, Barbecue, Burgers, Dessert, Fried Chicken, Salads, Seafood, Steakhouse
 cuisine_slugs:
 - american
 - barbecue
@@ -19,6 +11,15 @@ cuisine_slugs:
 - salads
 - seafood
 - steakhouse
+cuisines:
+- American
+- Barbecue
+- Burgers
+- Dessert
+- Fried Chicken
+- Salads
+- Seafood
+- Steakhouse
 curbside: true
 curbside_instructions: 'Order through mobile app and pay online '
 delivery: false

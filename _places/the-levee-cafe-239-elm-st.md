@@ -1,14 +1,15 @@
 ---
 active: true
 address: 239 Elm St
-cuisine:
-- American
-- Breakfast
-- Sandwiches
+cuisine: American, Breakfast, Sandwiches
 cuisine_slugs:
 - american
 - breakfast
 - sandwiches
+cuisines:
+- American
+- Breakfast
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: false

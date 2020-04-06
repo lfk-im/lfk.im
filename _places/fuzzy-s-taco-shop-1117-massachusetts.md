@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1117 Massachusetts
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: true
 curbside_instructions: Call (785)841-8226 when you arrive and we will bring your food
   out to you.

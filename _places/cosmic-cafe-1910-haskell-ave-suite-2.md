@@ -2,6 +2,8 @@
 active: false
 address: 1910 Haskell Ave Suite 2
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false

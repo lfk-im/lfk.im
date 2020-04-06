@@ -1,12 +1,13 @@
 ---
 active: false
 address: 7 E 7th St
-cuisine:
-- Breakfast
-- Donuts
+cuisine: Breakfast, Donuts
 cuisine_slugs:
 - breakfast
 - donuts
+cuisines:
+- Breakfast
+- Donuts
 curbside: false
 curbside_instructions: ''
 delivery: false

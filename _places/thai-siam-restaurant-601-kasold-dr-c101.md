@@ -1,10 +1,11 @@
 ---
 active: true
 address: '601 Kasold Dr # C101'
-cuisine:
-- Thai
+cuisine: Thai
 cuisine_slugs:
 - thai
+cuisines:
+- Thai
 curbside: false
 curbside_instructions: ''
 delivery: true

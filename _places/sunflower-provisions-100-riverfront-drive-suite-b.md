@@ -1,10 +1,11 @@
 ---
 active: true
 address: 100 Riverfront Drive, Suite B
-cuisine:
-- Farm
+cuisine: Farm
 cuisine_slugs:
 - farm
+cuisines:
+- Farm
 curbside: false
 curbside_instructions: ''
 delivery: true

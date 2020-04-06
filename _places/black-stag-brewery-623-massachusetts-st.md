@@ -1,12 +1,13 @@
 ---
 active: true
 address: 623 Massachusetts St
-cuisine:
-- Steakhouse
-- American
+cuisine: Steakhouse, American
 cuisine_slugs:
 - steakhouse
 - american
+cuisines:
+- Steakhouse
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

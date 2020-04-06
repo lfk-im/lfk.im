@@ -1,10 +1,11 @@
 ---
 active: false
 address: 920 Delaware St
-cuisine:
-- Coffee
+cuisine: Coffee
 cuisine_slugs:
 - coffee
+cuisines:
+- Coffee
 curbside: false
 curbside_instructions: ''
 delivery: false

@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1814 W 23rd
-cuisine:
-- Sandwiches
+cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+cuisines:
+- Sandwiches
 curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: true

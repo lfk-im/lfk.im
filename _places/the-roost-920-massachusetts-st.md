@@ -1,10 +1,11 @@
 ---
 active: true
 address: 920 Massachusetts St
-cuisine:
-- Breakfast
+cuisine: Breakfast
 cuisine_slugs:
 - breakfast
+cuisines:
+- Breakfast
 curbside: true
 curbside_instructions: ''
 delivery: false

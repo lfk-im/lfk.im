@@ -2,6 +2,8 @@
 active: false
 address: 1420 Crescent Rd
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: true

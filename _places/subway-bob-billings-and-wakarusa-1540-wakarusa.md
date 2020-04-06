@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1540 Wakarusa
-cuisine:
-- Sandwiches
+cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+cuisines:
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

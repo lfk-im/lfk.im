@@ -2,6 +2,8 @@
 active: false
 address: 1900 Massachusetts S
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false

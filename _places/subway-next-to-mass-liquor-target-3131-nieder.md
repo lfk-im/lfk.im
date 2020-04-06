@@ -1,10 +1,11 @@
 ---
 active: true
 address: 3131 Nieder
-cuisine:
-- Sandwiches
+cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+cuisines:
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

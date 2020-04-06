@@ -1,12 +1,13 @@
 ---
 active: true
 address: 935 Iowa St
-cuisine:
-- Local Butcher
-- Eggs
+cuisine: Local Butcher, Eggs
 cuisine_slugs:
 - local-butcher
 - eggs
+cuisines:
+- Local Butcher
+- Eggs
 curbside: true
 curbside_instructions: ''
 delivery: true

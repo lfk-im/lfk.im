@@ -2,6 +2,8 @@
 active: false
 address: 701 Massachusetts St
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false

@@ -1,10 +1,11 @@
 ---
 active: true
 address: 815 New Hampshire St
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: true
 curbside_instructions: Call and let us know
 delivery: true

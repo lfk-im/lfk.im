@@ -1,10 +1,11 @@
 ---
 active: true
 address: 3512 Clinton Pkwy
-cuisine:
-- American
+cuisine: American
 cuisine_slugs:
 - american
+cuisines:
+- American
 curbside: true
 curbside_instructions: ''
 delivery: true

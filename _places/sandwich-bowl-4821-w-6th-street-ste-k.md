@@ -1,12 +1,13 @@
 ---
 active: true
 address: 4821 W 6th Street Ste K
-cuisine:
-- Sandwiches
-- Soup
+cuisine: Sandwiches, Soup
 cuisine_slugs:
 - sandwiches
 - soup
+cuisines:
+- Sandwiches
+- Soup
 curbside: true
 curbside_instructions: ''
 delivery: true

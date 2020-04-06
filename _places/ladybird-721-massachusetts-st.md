@@ -1,14 +1,15 @@
 ---
 active: false
 address: 721 Massachusetts St
-cuisine:
-- American
-- Diner
-- Breakfast
+cuisine: American, Diner, Breakfast
 cuisine_slugs:
 - american
 - diner
 - breakfast
+cuisines:
+- American
+- Diner
+- Breakfast
 curbside: false
 curbside_instructions: ''
 delivery: false

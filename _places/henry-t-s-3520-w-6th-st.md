@@ -1,12 +1,13 @@
 ---
 active: true
 address: 3520 W 6th St
-cuisine:
-- American
-- Wings
+cuisine: American, Wings
 cuisine_slugs:
 - american
 - wings
+cuisines:
+- American
+- Wings
 curbside: true
 curbside_instructions: ''
 delivery: true

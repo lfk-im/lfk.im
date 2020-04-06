@@ -1,11 +1,12 @@
 ---
 active: false
 address: 2228 Iowa St
-cuisine:
-- Coffee
-- cafe
+cuisine: Coffee, cafe
 cuisine_slugs:
 - coffee
+- cafe
+cuisines:
+- Coffee
 - cafe
 curbside: false
 curbside_instructions: ''

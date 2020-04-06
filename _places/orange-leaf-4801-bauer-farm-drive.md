@@ -1,10 +1,11 @@
 ---
 active: true
 address: 4801 Bauer Farm Drive
-cuisine:
-- Frozen yogurt
+cuisine: Frozen yogurt
 cuisine_slugs:
 - frozen-yogurt
+cuisines:
+- Frozen yogurt
 curbside: true
 curbside_instructions: Call 785-856-0544 to order and again when you arrive and they
   will bring to your car

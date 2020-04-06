@@ -1,10 +1,11 @@
 ---
 active: false
 address: 741 Massachusetts St
-cuisine:
-- Thai
+cuisine: Thai
 cuisine_slugs:
 - thai
+cuisines:
+- Thai
 curbside: false
 curbside_instructions: ''
 delivery: false

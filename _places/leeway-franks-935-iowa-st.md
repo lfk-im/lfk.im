@@ -1,12 +1,13 @@
 ---
 active: true
 address: 935 Iowa St
-cuisine:
-- American
-- Sausages
+cuisine: American, Sausages
 cuisine_slugs:
 - american
 - sausages
+cuisines:
+- American
+- Sausages
 curbside: true
 curbside_instructions: ''
 delivery: true

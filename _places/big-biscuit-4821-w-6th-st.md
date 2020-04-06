@@ -1,12 +1,13 @@
 ---
 active: false
 address: 4821 W 6th St
-cuisine:
-- Breakfast
-- American
+cuisine: Breakfast, American
 cuisine_slugs:
 - breakfast
 - american
+cuisines:
+- Breakfast
+- American
 curbside: true
 curbside_instructions: ''
 delivery: false

@@ -1,14 +1,15 @@
 ---
 active: true
 address: '818 Mass st '
-cuisine:
-- Pizza
-- Salads
-- Sandwiches
+cuisine: Pizza, Salads, Sandwiches
 cuisine_slugs:
 - pizza
 - salads
 - sandwiches
+cuisines:
+- Pizza
+- Salads
+- Sandwiches
 curbside: true
 curbside_instructions: Call when you’re here
 delivery: true

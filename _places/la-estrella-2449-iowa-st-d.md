@@ -1,10 +1,11 @@
 ---
 active: true
 address: 2449 Iowa St D
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false

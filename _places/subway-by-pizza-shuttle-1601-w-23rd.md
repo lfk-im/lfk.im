@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1601 W 23rd
-cuisine:
-- Sandwiches
+cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+cuisines:
+- Sandwiches
 curbside: true
 curbside_instructions: ''
 delivery: true

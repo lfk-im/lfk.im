@@ -1,10 +1,11 @@
 ---
 active: true
 address: 805 Vermont St
-cuisine:
-- Cajun
+cuisine: Cajun
 cuisine_slugs:
 - cajun
+cuisines:
+- Cajun
 curbside: true
 curbside_instructions: ''
 delivery: false

@@ -1,10 +1,11 @@
 ---
 active: true
 address: 707 W 23rd St
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: true

@@ -1,14 +1,15 @@
 ---
 active: true
 address: '4931 W 6th St # 124'
-cuisine:
-- Bakery
-- Cookies
-- Desserts
+cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
 - cookies
 - desserts
+cuisines:
+- Bakery
+- Cookies
+- Desserts
 curbside: false
 curbside_instructions: ''
 delivery: false

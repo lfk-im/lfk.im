@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1100 Mississippi St
-cuisine:
-- Pizza
+cuisine: Pizza
 cuisine_slugs:
 - pizza
+cuisines:
+- Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true

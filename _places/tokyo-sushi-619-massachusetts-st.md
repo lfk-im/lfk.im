@@ -1,12 +1,13 @@
 ---
 active: true
 address: 619 Massachusetts St
-cuisine:
-- Sushi
-- Japanese
+cuisine: Sushi, Japanese
 cuisine_slugs:
 - sushi
 - japanese
+cuisines:
+- Sushi
+- Japanese
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -1,12 +1,13 @@
 ---
 active: true
 address: 811 Massachusetts St
-cuisine:
-- Asian
-- Thai
+cuisine: Asian, Thai
 cuisine_slugs:
 - asian
 - thai
+cuisines:
+- Asian
+- Thai
 curbside: true
 curbside_instructions: ''
 delivery: true

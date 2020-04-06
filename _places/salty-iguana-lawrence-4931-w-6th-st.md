@@ -1,10 +1,11 @@
 ---
 active: false
 address: 4931 W 6th St
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false

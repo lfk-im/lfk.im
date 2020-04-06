@@ -1,12 +1,13 @@
 ---
 active: true
 address: 4801 Bauer Farm Dr. Suite C
-cuisine:
-- Healthy
-- Tea
+cuisine: Healthy, Tea
 cuisine_slugs:
 - healthy
 - tea
+cuisines:
+- Healthy
+- Tea
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -2,6 +2,8 @@
 active: false
 address: 804 Pennsylvania St
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false

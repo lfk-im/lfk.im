@@ -1,12 +1,13 @@
 ---
 active: true
 address: 801 Massachusetts St
-cuisine:
-- Mexican
-- Tacos
+cuisine: Mexican, Tacos
 cuisine_slugs:
 - mexican
 - tacos
+cuisines:
+- Mexican
+- Tacos
 curbside: false
 curbside_instructions: ''
 delivery: true

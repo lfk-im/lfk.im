@@ -1,12 +1,13 @@
 ---
 active: false
 address: 803 Massachusetts St
-cuisine:
-- American
-- Burgers
+cuisine: American, Burgers
 cuisine_slugs:
 - american
 - burgers
+cuisines:
+- American
+- Burgers
 curbside: false
 curbside_instructions: ''
 delivery: false

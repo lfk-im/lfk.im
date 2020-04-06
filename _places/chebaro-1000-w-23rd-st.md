@@ -2,6 +2,8 @@
 active: false
 address: 1000 W 23rd St
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false

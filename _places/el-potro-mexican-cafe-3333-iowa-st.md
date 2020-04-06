@@ -1,10 +1,11 @@
 ---
 active: true
 address: 3333 Iowa St
-cuisine:
-- Mexican
+cuisine: Mexican
 cuisine_slugs:
 - mexican
+cuisines:
+- Mexican
 curbside: true
 curbside_instructions: ''
 delivery: true

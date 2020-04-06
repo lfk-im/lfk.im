@@ -1,10 +1,11 @@
 ---
 active: false
 address: 1004 Massachusetts St
-cuisine:
-- Tea
+cuisine: Tea
 cuisine_slugs:
 - tea
+cuisines:
+- Tea
 curbside: false
 curbside_instructions: ''
 delivery: true

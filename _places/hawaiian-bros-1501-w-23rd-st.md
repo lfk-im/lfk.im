@@ -1,10 +1,11 @@
 ---
 active: true
 address: 1501 W 23rd St
-cuisine:
-- Hawaiian
+cuisine: Hawaiian
 cuisine_slugs:
 - hawaiian
+cuisines:
+- Hawaiian
 curbside: true
 curbside_instructions: Drive Thru open!
 delivery: true

@@ -2,6 +2,8 @@
 active: false
 address: 1007 Massachusetts St
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: true
 curbside_instructions: ''
 delivery: true

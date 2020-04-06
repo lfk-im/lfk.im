@@ -2,6 +2,8 @@
 active: true
 address: 1524 W 23rd St
 cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: true
 curbside_instructions: ''
 delivery: false

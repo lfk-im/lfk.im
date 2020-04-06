@@ -1,10 +1,11 @@
 ---
 active: false
 address: 814 Massachusetts St
-cuisine:
-- Pizza
+cuisine: Pizza
 cuisine_slugs:
 - pizza
+cuisines:
+- Pizza
 curbside: true
 curbside_instructions: ''
 delivery: true

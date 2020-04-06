@@ -1,10 +1,11 @@
 ---
 active: false
 address: 1540 Wakarusa Dr
-cuisine:
-- American
+cuisine: American
 cuisine_slugs:
 - american
+cuisines:
+- American
 curbside: false
 curbside_instructions: ''
 delivery: false
