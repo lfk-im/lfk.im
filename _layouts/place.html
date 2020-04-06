@@ -4,13 +4,17 @@ layout: default
 
 <div class="p-2">
     <!-- content -->
-  <h1 class="font-bold text 4xl">{{ page.name }}</h1>
+  <h1 class="font-bold text-4xl {% unless page.active %}text-red-700{% endunless %}">
+    {{ page.name }}
+    {% unless page.active %}<small class="text-red-900">- Closed</small>{% endunless %}
+  </h1>
   <h2 class="font-bold text-2xl">{{ page.address }}</h2>
 
+  <a class="hover:text-blue-500 text-blue-700 underline" href="{{ page.website }}">Visit website</a>
 
   {% if page.neighborhood %}
   <div>
-  Neighborhood: {{ page.neighborhood }}
+  Neighborhood: <a class="hover:text-blue-500 text-blue-700 underline" href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a>
   </div>
   {% endif %}
 
@@ -20,42 +24,45 @@ layout: default
   </div>
   {% endif %}
 
-  {% if page.cuisine %}
+  {% if page.cuisines %}
   <div>
-  Cuisine: {{ page.cuisine }}
+  Cuisine:
+  {% for cuisine in page.cuisines %}
+  <a class="hover:text-blue-500 text-blue-700 underline" href="/cuisines/{{ cuisine|slugify }}/">{{ cuisine }}</a>
+  {% endfor %}
   </div>
   {% endif %}
 
 
-  <div class="py-4 px-6 whitespace-no-wrap">
+  <div class="whitespace-no-wrap">
     Takeout: {% if page.takeout %}✅ Yes{% else %}❌ No{% endif %}
   </div>
-  <div class="py-4 px-6 whitespace-no-wrap">
+  <div class="whitespace-no-wrap">
     Curbside: {% if page.curbside %}✅ Yes{% else %}❌ No{% endif %}
   </div>
-  <div class="py-4 px-6 whitespace-no-wrap">
+  <div class="whitespace-no-wrap">
     Delivery: {% if page.delivery %}✅ Yes{% else %}❌ No{% endif %}
   </div>
 
-  {% if page.curbside %}
+  {% if page.curbside_instructions and page.curbside_instructions != "" and page.curbside_instructions != nil %}
+  <h2 class="font-bold text-2xl">Curbside Instructions</h2>
   <aside class="mt-4 p-4 max-w-lg bg-yellow-100 border border-yellow-500">
     <p>{{ page.curbside_instructions }}</p>
   </aside>
   {% endif %}
 
-
-  {% if page.giftcard %}
+  {% if page.giftcard and page.giftcard != "" and page.giftcard != nil %}
+  <h2 class="font-bold text-2xl">Giftcard Options</h2>
   <aside class="mt-4 p-4 max-w-lg bg-yellow-100 border border-yellow-500">
     <p>{{ page.giftcard_notes }}</p>
     {% if page.giftcard_url %}
-      {{ page.giftcard_url }}
+      <a class="hover:text-blue-500 text-blue-700 underline"
+          href="{{ page.giftcard_url }}">{{ page.giftcard_url }}</a>
     {% endif %}
   </aside>
   {% endif %}
 
-
-
-
+  <h2 class="font-bold text-2xl">Ordering Options</h2>
 
   <ul class="bg-gray-100 border">
     <li class="my-4">
@@ -68,16 +75,12 @@ layout: default
           href="{{ page.delivery_service_websites }}">
         order</a>
     </li>
+    {% for food in page.food_urls %}
     <li class="my-4">
-      <ul>
-      {% for food in page.food_urls %}
-        <li>
-          <a class="hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap underline"
-              href="{{ food.url }}">
-            order via {{ food.name }}</a>
-          </li>
-      {% endfor %}
-      </ul>
+      <a class="p-2 m-4 border text-xs bg-gray-300 hover:bg-blue-300 text-gray-800 hover:text-blue-700 whitespace-no-wrap"
+          href="{{ food.url }}">
+        order via {{ food.name }}</a>
     </li>
+    {% endfor %}
   </ul>
 </div>
