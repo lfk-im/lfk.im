@@ -18,7 +18,9 @@ permalink: /debug/
 {% for cuisine in site.cuisines %}
 {% unless cuisine.active %}
 {% assign places = site.places | where:"cuisine", cuisine.name %}
-<li><a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a></li>
+<li>
+    <a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
+</li>
 {% endunless %}
 {% endfor %}
 </ul>

@@ -15,7 +15,7 @@ permalink: /cuisines/
   <ul class="p-4">
     {% for cuisine in site.cuisines %}
       {% if cuisine.active == true %}
-        {% assign places = site.places | where:"cuisine", cuisine.name | where:"active", true  %}
+        {% assign places = site.places | where:"cuisine_slugs", cuisine.slug | where:"active", true  %}
         {% if places.size > 0 %}
           <li>
             <a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
