@@ -1,7 +1,12 @@
 ---
 active: true
 address: 2907 W 6th St
-cuisine: ''
+cuisine:
+- Japanese
+- Steakhouse
+cuisine_slugs:
+- japanese
+- steakhouse
 curbside: false
 curbside_instructions: ''
 delivery: true
