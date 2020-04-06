@@ -2,6 +2,9 @@ cuisines:
   - name: BBQ
     cuisine: Barbecue
 
+  - name: Bakery
+    cuisine: Bakeries
+
   - name: birthday cakes
     cuisine: Dessert
 
