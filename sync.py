@@ -184,8 +184,8 @@ def sync_cuisines():
     places = Path("_places").glob("*.md")
     for place in places:
         post = frontmatter.loads(place.read_text())
-        cuisines = post["cuisine"]
-        if len(cuisines):
+        cuisines = post["cuisines"]
+        if cuisines and len(cuisines):
             data += cuisines
 
     if not Path("_cuisines").exists():
@@ -233,7 +233,7 @@ def sync_neighborhoods():
     for place in places:
         post = frontmatter.loads(place.read_text())
         neighborhood = post["neighborhood"]
-        if len(neighborhood):
+        if neighborhood and len(neighborhood):
             data.append(neighborhood)
 
     if not Path("_neighborhoods").exists():
@@ -335,8 +335,14 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         food_urls = []
 
         if "cuisine" in place and len(place["cuisine"]):
-            place["cuisine"] = [cuisine.strip() for cuisine in place["cuisine"].split(",")]
-            place["cuisine_slugs"] = [slugify(cuisine) for cuisine in place["cuisine"]]
+            place["cuisines"] = [cuisine.strip() for cuisine in place["cuisine"].split(",")]
+        else:
+            place["cuisines"] = None
+
+        if place["cuisines"] and len(place["cuisines"]):
+            place["cuisine_slugs"] = [slugify(cuisine) for cuisine in place["cuisines"]]
+        else:
+            place["cuisine_slugs"] = None
 
         if "neighborhood" in place and len(place["neighborhood"]):
             place["neighborhood_slug"] = slugify(place["neighborhood"])
