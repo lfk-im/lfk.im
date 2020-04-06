@@ -11,5 +11,5 @@ layout: default
 
 <hr>
 
-{% assign places = site.places | where:"cuisine", page.name | where:"active", true  %}
+{% assign places = site.places | where:"cuisine_slugs", page.slug | where:"active", true  %}
 {% include place-table.html places=places active=true %}

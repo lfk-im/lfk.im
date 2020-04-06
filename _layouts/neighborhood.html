@@ -11,5 +11,5 @@ layout: default
 
 <hr>
 
-{% assign places = site.places | where:"neighborhood", page.name | where:"active", true %}
+{% assign places = site.places | where:"neighborhood_slug", page.slug | where:"active", true %}
 {% include place-table.html places=places active=true %}
