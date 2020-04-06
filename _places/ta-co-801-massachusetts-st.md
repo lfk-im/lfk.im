@@ -23,7 +23,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mon-Sat 11am-8pm
 name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -33,7 +33,7 @@ sitemap: false
 slug: ta-co-801-massachusetts-st
 social: ''
 takeout: true
-website: https://www.tacolawrence.com/
+website: https://www.tacolawrence.com
 ---
 
 Order by phone for takeout or delivery, or order through EatStreet
