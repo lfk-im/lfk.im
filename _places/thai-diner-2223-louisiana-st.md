@@ -13,7 +13,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-9pm Tue-Fri, 12pm-9pm Sat, 12pm-8pm Sun
+hours: Tue-Fri 11am-9pm, Sat 12pm-9pm, Sun 12pm-8pm
 name: Thai Diner
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

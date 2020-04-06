@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 8am - 10pm daily
+hours: 8am - 10pm Daily
 name: Orange Leaf
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

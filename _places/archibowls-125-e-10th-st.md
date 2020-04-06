@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 12pm-8pm Tue-Sun
+hours: Tue-Sun 12pm-8pm
 name: Archibowls
 neighborhood: Downtown
 neighborhood_slug: downtown
