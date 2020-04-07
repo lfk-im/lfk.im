@@ -1,9 +1,19 @@
 ---
-active: false
+active: true
 address: 901 New Hampshire St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Breakfast & Brunch, Coffee, Healthy, Salads, Sandwiches
+cuisine_slugs:
+- breakfast-brunch
+- coffee
+- healthy
+- salads
+- sandwiches
+cuisines:
+- Breakfast & Brunch
+- Coffee
+- Healthy
+- Salads
+- Sandwiches
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -14,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mon-Sat 7am-2pm, Sun 8am-2pm
 name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -23,7 +33,7 @@ restaurant_phone: 785-856-0663
 sitemap: false
 slug: milton-s-cafe-901-new-hampshire-st
 social: https://www.facebook.com/miltonslawrenceks/
-takeout: false
+takeout: true
 website: https://www.facebook.com/miltonslawrenceks/
 ---
 
