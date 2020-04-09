@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2429 Iowa St
 cuisine: Barbeque, BBQ
 cuisine_slugs:
@@ -8,15 +8,17 @@ cuisine_slugs:
 cuisines:
 - Barbeque
 - BBQ
-curbside: false
+curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
-food_urls: []
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/biggs-bbq
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 11am-8pm Daily
 name: Bigg's BBQ
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -25,7 +27,7 @@ restaurant_phone: 785-856-2550
 sitemap: false
 slug: bigg-s-bbq-2429-iowa-st
 social: https://www.facebook.com/BiggsBBQ/
-takeout: false
+takeout: true
 website: https://www.biggsribs.com/
 ---
 
