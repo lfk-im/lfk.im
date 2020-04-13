@@ -8,7 +8,7 @@ cuisines:
 - Soda
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 food_urls: []
 giftcard: false
