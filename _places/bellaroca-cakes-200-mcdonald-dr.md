@@ -36,8 +36,8 @@ restaurant_phone: 785-289-8947
 sitemap: false
 slug: bellaroca-cakes-200-mcdonald-dr
 social: ''
-takeout: false
-website: https://bellarocacakes.com
+takeout: true
+website: https://www.bellarocacakes.com/
 ---
 
 fresh, made to order, local desserts
