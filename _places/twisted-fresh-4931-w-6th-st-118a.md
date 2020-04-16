@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: '4931 W 6th St #118A'
 cuisine: American, Tacos
 cuisine_slugs:
@@ -8,9 +8,9 @@ cuisine_slugs:
 cuisines:
 - American
 - Tacos
-curbside: true
+curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 food_urls:
 - name: doordash.com
@@ -27,6 +27,6 @@ restaurant_phone: 785-856-0689
 sitemap: false
 slug: twisted-fresh-4931-w-6th-st-118a
 social: ''
-takeout: true
+takeout: false
 website: http://www.twistedfresh.com
 ---
