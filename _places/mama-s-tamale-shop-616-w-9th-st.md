@@ -1,14 +1,14 @@
 ---
-active: false
+active: true
 address: 616 W 9th St
 cuisine: Mexican
 cuisine_slugs:
 - mexican
 cuisines:
 - Mexican
-curbside: false
+curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 food_urls:
 - name: eatstreet.com
