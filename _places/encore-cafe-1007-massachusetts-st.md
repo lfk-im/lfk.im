@@ -1,11 +1,13 @@
 ---
-active: false
+active: true
 address: 1007 Massachusetts St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Asian
+cuisine_slugs:
+- asian
+cuisines:
+- Asian
 curbside: true
-curbside_instructions: ''
+curbside_instructions: Text (785) 727-6268 when you arrive
 delivery: true
 delivery_service_websites: ''
 food_urls:
@@ -14,11 +16,11 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 4pm-9pm Daily
 name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order online or by phone, Sack lunches/dinners available
+notes: Order online or by phone
 restaurant_phone: 785-856-3682
 sitemap: false
 slug: encore-cafe-1007-massachusetts-st
@@ -27,4 +29,4 @@ takeout: true
 website: https://www.encorecafeks.com/
 ---
 
-Order online or by phone, Sack lunches/dinners available
+Order online or by phone
