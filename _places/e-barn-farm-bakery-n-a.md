@@ -13,8 +13,10 @@ cuisines:
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: ''
-food_urls: []
+delivery_service_websites: https://ebarnfarm.org/order-online!
+food_urls:
+- name: order online
+  url: https://ebarnfarm.org/order-online!
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
