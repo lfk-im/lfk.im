@@ -18,13 +18,11 @@ hours: ''
 name: Terrebonne
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone and carry out
+notes: ''
 restaurant_phone: 785-856-3287
 sitemap: false
 slug: terrebonne-805-vermont-st
 social: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
 takeout: true
-website: https://my-site-108190-101580.square.site/
+website: https://www.terrebonnelfk.com/
 ---
-
-Order by phone and carry out
