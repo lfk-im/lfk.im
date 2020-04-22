@@ -8,13 +8,13 @@ cuisines:
 - Pizza
 curbside: true
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 4pm-9pm Daily
 name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -23,7 +23,7 @@ restaurant_phone: 785-856-2825
 sitemap: false
 slug: limestone-pizza-814-massachusetts-st
 social: https://www.facebook.com/limestonepkb/
-takeout: true
+takeout: false
 website: http://www.limestonepkb.com/
 ---
 
