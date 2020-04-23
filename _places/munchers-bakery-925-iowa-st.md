@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 925 Iowa St
 cuisine: Bakery, Desserts, Donuts
 cuisine_slugs:

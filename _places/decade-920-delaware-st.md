@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 920 Delaware St
 cuisine: Coffee
 cuisine_slugs:
@@ -8,9 +8,11 @@ cuisines:
 - Coffee
 curbside: false
 curbside_instructions: ''
-delivery: false
-delivery_service_websites: ''
+delivery: true
+delivery_service_websites: https://decadecafe.square.site/s/order
 food_urls:
+- name: order online
+  url: https://decadecafe.square.site/s/order
 - name: postmates.com
   url: https://postmates.com/merchant/decade-lawrence
 giftcard: true
@@ -25,7 +27,7 @@ restaurant_phone: 785-550-7944
 sitemap: false
 slug: decade-920-delaware-st
 social: https://www.instagram.com/decadelawrence/
-takeout: false
+takeout: true
 website: http://www.decadelawrence.com/
 ---
 
