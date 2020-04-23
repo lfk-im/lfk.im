@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 17 E. 7th St
 cuisine: Coffee, Dessert, Sandwiches
 cuisine_slugs:
