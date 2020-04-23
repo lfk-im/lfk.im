@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 7 E 7th St
 cuisine: Cocktail Bar
 cuisine_slugs:
