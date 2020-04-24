@@ -4,7 +4,7 @@ permalink: /neighborhoods/
 ---
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 py-3 px-3">
+  <div class="flex-1 min-w-0 px-3 py-3">
     <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
       <a href="{% link neighborhoods.html %}">Neighborhoods</a>
     </h1>
@@ -18,7 +18,7 @@ permalink: /neighborhoods/
         {% assign places = site.places | where:"neighborhood_slug", neighborhood.slug | where:"active", true  %}
         {% if places.size > 0 %}
           <li>
-            <a class="hover:text-blue-500 text-blue-700 underline" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a>
+            <a class="text-blue-700 underline hover:text-blue-500" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a>
           </li>
         {% endif %}
       {% endif %}

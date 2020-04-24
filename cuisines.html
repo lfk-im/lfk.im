@@ -4,7 +4,7 @@ permalink: /cuisines/
 ---
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 py-3 px-3">
+  <div class="flex-1 min-w-0 px-3 py-3">
     <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
       <a href="{% link cuisines.html %}">Cuisines</a>
     </h1>
@@ -18,7 +18,7 @@ permalink: /cuisines/
         {% assign places = site.places | where:"cuisine_slugs", cuisine.slug | where:"active", true  %}
         {% if places.size > 0 %}
           <li>
-            <a class="hover:text-blue-500 text-blue-700 underline" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
+            <a class="text-blue-700 underline hover:text-blue-500" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
           </li>
         {% endif %}
       {% endif %}
