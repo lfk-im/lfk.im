@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 814 Massachusetts St
 cuisine: Pizza
 cuisine_slugs:
