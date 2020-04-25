@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 444 Locust
 cuisine: Cocktails & Beer
 cuisine_slugs:
@@ -7,7 +7,8 @@ cuisine_slugs:
 cuisines:
 - Cocktails & Beer
 curbside: true
-curbside_instructions: ''
+curbside_instructions: Order via Facebook Messenger with name and time you want to
+  pick up
 delivery: false
 delivery_service_websites: ''
 food_urls: []
