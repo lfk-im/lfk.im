@@ -1,14 +1,18 @@
 ---
 active: true
 address: 1016 Massachusetts St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Gourmet Grilled Cheese
+cuisine_slugs:
+- gourmet-grilled-cheese
+cuisines:
+- Gourmet Grilled Cheese
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-food_urls: []
+food_urls:
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/cheesy-street
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''

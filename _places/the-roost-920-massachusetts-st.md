@@ -7,14 +7,22 @@ cuisine_slugs:
 cuisines:
 - Breakfast
 curbside: true
-curbside_instructions: ''
+curbside_instructions: 'Step 1 call (785) 843-1110 or (785) 841-1149
+
+  Step 2 place your order
+
+  Step 3 head on down
+
+  Step 4 we''ll make sure you are out front somewhere
+
+  Step 5 we''ll place your order outside on a patio table with your name on it'
 delivery: false
 delivery_service_websites: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 8am - 1pm
 name: The Roost
 neighborhood: Downtown
 neighborhood_slug: downtown
