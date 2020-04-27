@@ -11,8 +11,12 @@ curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
 food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/cheesy-street-lawrence-940500/en-US
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/cheesy-street
+- name: grubhub.com
+  url: https://www.grubhub.com/restaurant/cheesy-street-1016-massachusetts-st-lawrence/2091461
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
