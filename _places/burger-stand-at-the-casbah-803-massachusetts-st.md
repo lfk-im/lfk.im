@@ -22,7 +22,7 @@ notes: ''
 restaurant_phone: 785-856-0543
 sitemap: false
 slug: burger-stand-at-the-casbah-803-massachusetts-st
-social: ''
+social: https://www.facebook.com/casbahburgerstand/
 takeout: false
 website: https://www.burgerstandrestaurants.com/
 ---
