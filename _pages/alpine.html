@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: /alpine/
+---
+
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 px-3 py-3">
+    <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
+      <a href="{% link _pages/debug.html %}">Alpine Demo</a>
+    </h1>
+  </div>
+</div>
+
+<div class="w-full mx-auto">
+
+<div x-data="{ tab: 'foo' }">
+  {% for neighborhood in site.neighborhoods %}
+  <button class="underline" :class="{ 'active': tab === '{{ neighborhood.slug }}' }"
+    @click="tab = '{{ neighborhood.slug }}'">{{ neighborhood.name }}</button>
+  {% endfor %}
+
+  {% for neighborhood in site.neighborhoods %}
+  <div class="text-3xl" x-show="tab === '{{ neighborhood.slug }}'">{{ neighborhood.name }}</div>
+  {% endfor %}
+</div>
+
+<hr>
+
+<div x-data="{ open: false }">
+  <button @click="open = true">Open Dropdown</button>
+
+  <ul x-show="open"
+      @click.away="open = false">
+    {% for cuisine in site.cuisines %}
+    <li>{{ cuisine.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+</div>

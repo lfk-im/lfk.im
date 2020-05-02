@@ -1,6 +1,7 @@
 url: "https://lfk.im"
 
-collections:  # process the _data folder
+# process the _data folder
+collections:
   components:
     output: false
   cuisines:
@@ -34,9 +35,6 @@ defaults:
     values:
       layout: "default"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - "*.conf"
   - "*.json"
@@ -51,3 +49,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+include:
+  - _pages

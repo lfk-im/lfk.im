@@ -6,13 +6,13 @@ permalink: /debug/
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 px-3 py-3">
     <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
-      <a href="{% link debug.html %}">Debug</a>
+      <a href="{% link _pages/debug.html %}">Debug</a>
     </h1>
   </div>
 </div>
 
 <div class="w-full mx-auto">
-<h3 class="p-2 text-2xl font-bold"><a href="{% link cuisines.html %}">Cuisines</a></h3>
+<h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/cuisines.html %}">Cuisines</a></h3>
 
 <ul class="p-2">
 {% for cuisine in site.cuisines %}
@@ -29,7 +29,7 @@ permalink: /debug/
 <hr>
 
 <div class="w-full mx-auto">
-<h3 class="p-2 text-2xl font-bold"><a href="{% link neighborhoods.html %}">Neighborhoods</a></h3>
+<h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/neighborhoods.html %}">Neighborhoods</a></h3>
 
 <ul class="p-2">
 {% for neighborhood in site.neighborhoods %}
