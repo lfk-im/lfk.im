@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: cafe
 sitemap: false
 slug: cafe

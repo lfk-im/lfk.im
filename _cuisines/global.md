@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: Global
 sitemap: false
 slug: global

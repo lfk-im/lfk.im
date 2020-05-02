@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: Steakhouse
 sitemap: false
 slug: steakhouse

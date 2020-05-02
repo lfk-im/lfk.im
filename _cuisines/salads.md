@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: Salads
 sitemap: false
 slug: salads

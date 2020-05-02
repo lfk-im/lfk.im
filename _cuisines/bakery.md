@@ -1,6 +1,6 @@
 ---
 active: true
-name: Coffee
+name: Bakery
 sitemap: false
-slug: coffee
+slug: bakery
 ---

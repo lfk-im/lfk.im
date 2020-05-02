@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: Chicken
 sitemap: false
 slug: chicken

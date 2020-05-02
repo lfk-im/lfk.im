@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 name: Soda
 sitemap: false
 slug: soda
