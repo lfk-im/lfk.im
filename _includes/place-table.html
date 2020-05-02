@@ -1,105 +1,107 @@
-<div class="w-full mx-auto">
-  <div class="my-6 overflow-hidden rounded shadow-md">
-    <table class="w-full text-left border-collapse"> <!--Border collapse doesn't work on this site yet but it's available in newer tailwind versions -->
-      <thead>
-        <tr class="bg-gray-200 border-b border-gray-400">
-          <th class="px-4 py-2 text-sm font-bold text-right text-gray-600 uppercase priority-1" width="40%">Name</th>
-          <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-4" width="*">Neighborhood</th>
-          <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-5" width="10%">Cuisine</th>
-          {% case include.active %}
-            {% when true %}
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Takeout</th>
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Curbside</th>
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Delivery</th>
-            {% else %}
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Giftcard</th>
-          {% endcase %}
-          <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Actions</th>
-        </tr>
-      </thead>
-      <tbody>
+<div class="flex flex-col">
+  <div class="-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
+    <div class="align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200">
+      <table class="min-w-full">
+        <thead>
+          <tr class="bg-gray-200 border-b border-gray-400">
+            <th class="px-4 py-2 text-sm font-bold text-right text-gray-600 uppercase" width="40%">Name</th>
+            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Neighborhood</th>
+            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="10%">Cuisine</th>
+            {% case include.active %}
+              {% when true %}
+                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Takeout</th>
+                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Curbside</th>
+                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Delivery</th>
+              {% else %}
+                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Giftcard</th>
+            {% endcase %}
+            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
 {% for place in include.places %}
-        <tr class="text-blue-800 align-middle bg-gray-100 border-b border-gray-400"
-            x-data="{ 'is_{{ place.slug | replace: "-", "_" }}_open': false }"
-            @keydown.escape="is_{{ place.slug | replace: "-", "_" }}_open = false">
-          <td class="px-4 py-2 text-right priority-1">
-            <div class="font-medium">
-              {% comment %}
-              <a class="text-blue-700 underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">
-              {% endcomment %}
-              <a class="text-blue-700" name="{{ place.name|slugify : 'latin' }}">
-              {{ place.name }}</a></div>
-            {% if place.address %}
-            <address>{{ place.address }}</address>
-            {% endif %}
-            {% if place.hours and place.hours != "" and place.hours != nil %}
-              <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
-            {% endif %}
-          </td>
-          <td class="px-4 py-2 priority-4">
-            <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ place.neighborhood_slug }}/">
-              {{ place.neighborhood }}</a>
-          </td>
-          <td class="px-4 py-2 priority-5">
-            {% for cuisine in place.cuisines %}<span class="underline"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endfor %}
-          </td>
-          {% case include.active %}
-            {% when true %}
-              <td class="px-4 py-2 whitespace-no-wrap priority-2">
-                {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
-              </td>
-              <td class="px-4 py-2 whitespace-no-wrap priority-2">
-                {% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}
-              </td>
-              <td class="px-4 py-2 whitespace-no-wrap priority-2">
-                {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
-              </td>
-            {% else %}
-              <td class="px-4 py-2 whitespace-no-wrap priority-2">
-                {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
-              </td>
-          {% endcase %}
-          <td class="px-4 py-2 priority-2">
-            <span class="relative inline-flex shadow-sm">
-              {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
-                <a class="p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
-                    href="tel:{{ place.restaurant_phone }}">
-                  {{ place.restaurant_phone }}</a>
+          <tr class="text-blue-800 align-middle bg-gray-100 border-b border-gray-400"
+              x-data="{ 'is_{{ place.slug | replace: "-", "_" }}_open': false }"
+              @keydown.escape="is_{{ place.slug | replace: "-", "_" }}_open = false">
+            <td class="px-4 py-2 text-right">
+              <div class="font-medium">
+                {% comment %}
+                <a class="text-blue-700 underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">
+                {% endcomment %}
+                <a class="text-blue-700" name="{{ place.name|slugify : 'latin' }}">
+                {{ place.name }}</a></div>
+              {% if place.address %}
+              <address>{{ place.address }}</address>
               {% endif %}
-              {% if place.website and place.website != "" and place.website != nil %}
-                <a class="p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
-                    href="{{ place.website }}">
-                  Website</a>
+              {% if place.hours and place.hours != "" and place.hours != nil %}
+                <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
               {% endif %}
-              {% case include.active %}
-                {% when true %}
-                  {% if place.food_urls.size > 0 %}
-                    <div x-data="{ open: false }">
-                      <button
-                          class="p-2 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
-                          @click="open = true">⬇ Order/Delivery</button>
-                      <div x-ref="dropdown" x-show="open" @click.away="open = false">
-                        <ul>
-                        {% for food in place.food_urls %}
-                          <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
-                              href="{{ food.url }}">
-                            {{ food.name }}</a></li>
-                        {% endfor %}
-                        </ul>
+            </td>
+            <td class="px-4 py-2">
+              <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ place.neighborhood_slug }}/">
+                {{ place.neighborhood }}</a>
+            </td>
+            <td class="px-4 py-2">
+              {% for cuisine in place.cuisines %}<span class="underline"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endfor %}
+            </td>
+            {% case include.active %}
+              {% when true %}
+                <td class="px-4 py-2 whitespace-no-wrap">
+                  {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
+                </td>
+                <td class="px-4 py-2 whitespace-no-wrap">
+                  {% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}
+                </td>
+                <td class="px-4 py-2 whitespace-no-wrap">
+                  {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
+                </td>
+              {% else %}
+                <td class="px-4 py-2 whitespace-no-wrap">
+                  {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
+                </td>
+            {% endcase %}
+            <td class="px-4 py-2">
+              <span class="relative inline-flex shadow-sm">
+                {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
+                  <a class="p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
+                      href="tel:{{ place.restaurant_phone }}">
+                    {{ place.restaurant_phone }}</a>
+                {% endif %}
+                {% if place.website and place.website != "" and place.website != nil %}
+                  <a class="p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
+                      href="{{ place.website }}">
+                    Website</a>
+                {% endif %}
+                {% case include.active %}
+                  {% when true %}
+                    {% if place.food_urls.size > 0 %}
+                      <div x-data="{ open: false }">
+                        <button
+                            class="p-2 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
+                            @click="open = true">⬇ Order</button>
+                        <div x-ref="dropdown" x-show="open" @click.away="open = false">
+                          <ul>
+                          {% for food in place.food_urls %}
+                            <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
+                                href="{{ food.url }}">
+                              {{ food.name }}</a></li>
+                          {% endfor %}
+                          </ul>
+                        </div>
                       </div>
-                    </div>
-                  {% endif %}
-                {% else %}
-                  {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
-                    <a href="{{ place.giftcard_url }}" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
-                      🎁 giftcard</a>
-                  {% endif %}
-              {% endcase %}
-            </span>
-          </td>
-        </tr>
+                    {% endif %}
+                  {% else %}
+                    {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
+                      <a href="{{ place.giftcard_url }}" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
+                        🎁 giftcard</a>
+                    {% endif %}
+                {% endcase %}
+              </span>
+            </td>
+          </tr>
 {% endfor %}
-      </tbody>
-    </table>
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>
