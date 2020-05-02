@@ -199,6 +199,16 @@ def sync_cuisines():
             post["name"] = cuisine
             post["sitemap"] = True
             post["slug"] = cuisine_slug
+            try:
+                aliases = [
+                    alias["aliases"]
+                    for alias in cuisine_aliases
+                    if cuisine == alias["name"]
+                ][0]
+                aliases = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
+                post["redirect_from"] = aliases
+            except IndexError:
+                pass
 
             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                 frontmatter.dumps(post)
@@ -206,15 +216,30 @@ def sync_cuisines():
 
     data = set(data)
 
+    alias_data = []
+    aliases = [alias["aliases"] for alias in cuisine_aliases]
+    for alias in aliases:
+        alias_data += alias
+
     for cuisine in data:
         cuisine_slug = slugify(cuisine)
-        if not any([alias for alias in cuisine_aliases if cuisine in alias["name"]]):
+        if cuisine not in alias_data:
             if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
                 post = frontmatter.loads("")
-                post["active"] = False
+                post["active"] = True
                 post["name"] = cuisine
                 post["sitemap"] = False
                 post["slug"] = cuisine_slug
+                # try:
+                #     aliases = [
+                #         alias["aliases"]
+                #         for alias in cuisine_aliases
+                #         if cuisine == alias["name"]
+                #     ][0]
+                #     aliases = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
+                #     post["redirect_from"] = aliases
+                # except IndexError:
+                #     pass
 
                 Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                     frontmatter.dumps(post)
@@ -243,7 +268,9 @@ def sync_neighborhoods():
 
     for neighborhood in data:
         neighborhood_slug = slugify(neighborhood)
-        if not any([alias for alias in neighborhood_aliases if neighborhood in alias["name"]]):
+        if not any(
+            [alias for alias in neighborhood_aliases if neighborhood in alias["name"]]
+        ):
             if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
                 post = frontmatter.loads("")
                 post["active"] = True
@@ -335,7 +362,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         food_urls = []
 
         if "cuisine" in place and len(place["cuisine"]):
-            place["cuisines"] = [cuisine.strip() for cuisine in place["cuisine"].split(",")]
+            place["cuisines"] = [
+                cuisine.strip() for cuisine in place["cuisine"].split(",")
+            ]
         else:
             place["cuisines"] = None
 
