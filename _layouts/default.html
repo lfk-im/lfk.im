@@ -18,6 +18,51 @@ layout: none
     <meta property="og:url" content="https://lfk.im" />
     <link href="https://unpkg.com/tailwindcss@^1.2/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<style>
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
+  .priority-5{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 640px) and (min-width: 300px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+  .priority-3{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+  .priority-3{
+    display:none;
+  }
+  .priority-2{
+    display:none;
+  }
+
+}
+</style>
 </head>
 <body>
 
@@ -39,7 +84,7 @@ layout: none
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 px-3 py-3 py-8">
     <div class="py-4 text-center border-t-2">
-      <a target="_blank" class="text-blue-700 text-lg underline hover:text-blue-500" href="https://forms.gle/dcfNTcTqdT27BiL77">
+      <a target="_blank" class="text-lg text-blue-700 underline hover:text-blue-500" href="https://forms.gle/dcfNTcTqdT27BiL77">
         Suggest a New Business
       </a>
     </div>
