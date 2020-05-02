@@ -203,7 +203,7 @@ def sync_cuisines():
                 aliases = [
                     alias["aliases"]
                     for alias in cuisine_aliases
-                    if cuisine == alias["name"]
+                    if cuisine.lower() == alias["name"].lower()
                 ][0]
                 aliases = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
                 post["redirect_from"] = aliases
