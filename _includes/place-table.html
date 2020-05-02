@@ -8,9 +8,9 @@
           <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-5" width="10%">Cuisine</th>
           {% case include.active %}
             {% when true %}
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-3" width="*">Takeout</th>
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-3" width="*">Curbside</th>
-              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-3" width="*">Delivery</th>
+              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Takeout</th>
+              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Curbside</th>
+              <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Delivery</th>
             {% else %}
               <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase priority-2" width="*">Giftcard</th>
           {% endcase %}
@@ -45,17 +45,17 @@
           </td>
           {% case include.active %}
             {% when true %}
-              <td class="px-4 py-2 whitespace-no-wrap priority-3">
+              <td class="px-4 py-2 whitespace-no-wrap priority-2">
                 {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
               </td>
-              <td class="px-4 py-2 whitespace-no-wrap priority-3">
+              <td class="px-4 py-2 whitespace-no-wrap priority-2">
                 {% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}
               </td>
-              <td class="px-4 py-2 whitespace-no-wrap priority-3">
+              <td class="px-4 py-2 whitespace-no-wrap priority-2">
                 {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
               </td>
             {% else %}
-              <td class="px-4 py-2 whitespace-no-wrap priority-3">
+              <td class="px-4 py-2 whitespace-no-wrap priority-2">
                 {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
               </td>
           {% endcase %}
