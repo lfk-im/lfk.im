@@ -41,7 +41,7 @@
               {{ place.neighborhood }}</a>
           </td>
           <td class="px-4 py-2 priority-5">
-            {% for cuisine in place.cuisine %}<span class="underline"><a href="">{{ cuisine }}</a></span> {% endfor %}
+            {% for cuisine in place.cuisines %}<span class="underline"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endfor %}
           </td>
           {% case include.active %}
             {% when true %}
