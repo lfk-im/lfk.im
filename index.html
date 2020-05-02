@@ -19,7 +19,7 @@ layout: default
   </div>
 </div>
 
-{% assign places = site.places | where:"active", true %}
+{% assign places = site.places | where:"active", true | order: "slug" %}
 {% include place-table.html places=places active=true %}
 
 <div class="lg:flex lg:items-center lg:justify-between">
