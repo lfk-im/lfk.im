@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 746 Massachusetts St
 cuisine: Gastropub
 cuisine_slugs:
@@ -9,8 +9,10 @@ cuisines:
 curbside: true
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: ''
-food_urls: []
+delivery_service_websites: https://app.upserve.com/s/merchants-pub-and-plate-lawrence
+food_urls:
+- name: order online
+  url: https://app.upserve.com/s/merchants-pub-and-plate-lawrence
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://www.merchantsonmass.com/store/category/gift-cards/
