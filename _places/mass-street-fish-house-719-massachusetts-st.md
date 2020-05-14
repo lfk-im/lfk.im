@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 719 Massachusetts St
 cuisine: Seafood
 cuisine_slugs:
@@ -14,7 +14,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/C1GYHZ9MTG3S3/order
-hours: ''
+hours: 2-8pm daily
 name: Mass Street Fish House
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -23,6 +23,6 @@ restaurant_phone: 785-856-1081
 sitemap: false
 slug: mass-street-fish-house-719-massachusetts-st
 social: https://www.instagram.com/massfishhouse/
-takeout: false
+takeout: true
 website: https://massfishhouse.com/
 ---

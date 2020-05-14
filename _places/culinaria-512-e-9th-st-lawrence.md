@@ -1,10 +1,12 @@
 ---
-active: false
+active: true
 address: 512 E 9th St, Lawrence
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
-curbside: false
+cuisine: Mediterranean
+cuisine_slugs:
+- mediterranean
+cuisines:
+- Mediterranean
+curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
@@ -12,17 +14,15 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Thursday - Saturday 3:30-8pm
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Closed
+notes: ''
 restaurant_phone: 785-766-8591
 sitemap: false
 slug: culinaria-512-e-9th-st-lawrence
-social: ''
-takeout: false
+social: https://www.facebook.com/pg/CulinariaKS
+takeout: true
 website: https://www.culinariafoodandwine.com/
 ---
-
-Closed
