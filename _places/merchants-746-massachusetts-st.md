@@ -16,7 +16,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://www.merchantsonmass.com/store/category/gift-cards/
-hours: Tuesday - Saturday 12pm - 8pm
+hours: Tue-Sat 12pm-8pm, Sun Brunch
 name: Merchants
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -1,9 +1,11 @@
 ---
 active: true
 address: 17 E 8th St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Bar
+cuisine_slugs:
+- bar
+cuisines:
+- Bar
 curbside: true
 curbside_instructions: ''
 delivery: false
