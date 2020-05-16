@@ -1,9 +1,11 @@
 ---
-active: false
+active: true
 address: 715 Massachusetts St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: American
+cuisine_slugs:
+- american
+cuisines:
+- American
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -12,7 +14,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
-hours: 10am-1pm Daily for Gift Card orders over the phone
+hours: 10am-1pm Daily for carryout cocktails
 name: 715 Mass
 neighborhood: Downtown
 neighborhood_slug: downtown
