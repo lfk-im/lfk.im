@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 616 W 9th St
 cuisine: American, Italian
 cuisine_slugs:
@@ -8,8 +8,8 @@ cuisine_slugs:
 cuisines:
 - American
 - Italian
-curbside: false
-curbside_instructions: ''
+curbside: true
+curbside_instructions: Call to order
 delivery: false
 delivery_service_websites: ''
 food_urls:
@@ -18,17 +18,17 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: 4pm-9pm Daily
 name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Closed
+notes: Re-opened
 restaurant_phone: 785-856-0459
 sitemap: false
 slug: basil-leaf-cafe-616-w-9th-st
 social: https://www.facebook.com/TheBasilLeafCafeKS/
-takeout: false
+takeout: true
 website: https://www.facebook.com/TheBasilLeafCafeKS/?ref=br_rs
 ---
 
-Closed
+Re-opened
