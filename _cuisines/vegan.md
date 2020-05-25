@@ -1,6 +1,6 @@
 ---
 active: true
-name: cafe
+name: Vegan
 sitemap: false
-slug: cafe
+slug: vegan
 ---
