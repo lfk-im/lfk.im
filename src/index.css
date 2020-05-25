@@ -1,0 +1,48 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/*@media screen and (max-width: 1280px) and (min-width: 1024px) {
+  .priority-5{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 640px) and (min-width: 300px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+  .priority-3{
+    display:none;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .priority-5{
+    display:none;
+  }
+  .priority-4{
+    display:none;
+  }
+  .priority-3{
+    display:none;
+  }
+  .priority-2{
+    display:none;
+  }
+
+}*/
