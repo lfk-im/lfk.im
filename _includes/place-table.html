@@ -28,8 +28,7 @@
                 {% comment %}
                 <a class="text-blue-700 underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">
                 {% endcomment %}
-                <a class="text-blue-700" name="{{ place.name|slugify : 'latin' }}">
-                {{ place.name }}</a></div>
+                <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a></div>
               {% if place.address %}
               <address>{{ place.address }}</address>
               {% endif %}
