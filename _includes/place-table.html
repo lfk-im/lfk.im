@@ -49,21 +49,21 @@
             </td>
             {% case include.active %}
               {% when true %}
-                <td class="px-4 py-2 whitespace-no-wrap">
-                  {% if place.takeout %}✅ Yes{% else %}❌ No{% endif %}
+                <td class="px-4 py-2 whitespace-no-wrap text-center">
+                  {% if place.takeout %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
-                <td class="px-4 py-2 whitespace-no-wrap">
-                  {% if place.curbside %}✅ Yes{% else %}❌ No{% endif %}
+                <td class="px-4 py-2 whitespace-no-wrap text-center">
+                  {% if place.curbside %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
-                <td class="px-4 py-2 whitespace-no-wrap">
-                  {% if place.delivery %}✅ Yes{% else %}❌ No{% endif %}
+                <td class="px-4 py-2 whitespace-no-wrap text-center">
+                  {% if place.delivery %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
               {% else %}
-                <td class="px-4 py-2 whitespace-no-wrap">
-                  {% if place.giftcard %}✅ Yes{% else %}❌ No{% endif %}
+                <td class="px-4 py-2 whitespace-no-wrap text-center">
+                  {% if place.giftcard %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
             {% endcase %}
-            <td class="px-4 py-2">
+            <td class="px-4 py-2 md:table-cell md:align-middle flex">
               <span class="relative inline-flex shadow-sm">
                 {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
                   <a class="p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
