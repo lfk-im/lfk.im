@@ -4,18 +4,18 @@
       <table class="min-w-full">
         <thead>
           <tr class="bg-gray-200 border-b border-gray-400">
-            <th class="px-4 py-2 text-sm font-bold text-right text-gray-600 uppercase" width="40%">Name</th>
-            <th class="hidden px-4 py-2 text-sm font-bold text-gray-600 uppercase md:table-cell md:align-middle" width="*">Neighborhood</th>
-            <th class="hidden px-4 py-2 text-sm font-bold text-gray-600 uppercase md:table-cell md:align-middle" width="10%">Cuisine</th>
+            <th class="px-4 py-2 text-xs font-bold text-right text-gray-600 uppercase" width="40%">Name</th>
+            <th class="hidden px-4 py-2 text-xs font-bold text-gray-600 uppercase md:table-cell md:align-middle" width="*">Neighborhood</th>
+            <th class="hidden px-4 py-2 text-xs font-bold text-gray-600 uppercase md:table-cell md:align-middle" width="10%">Cuisine</th>
             {% case include.active %}
               {% when true %}
-                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Takeout</th>
-                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Curbside</th>
-                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Delivery</th>
+                <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Takeout</th>
+                <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Curbside</th>
+                <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Delivery</th>
               {% else %}
-                <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Giftcard</th>
+                <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Giftcard</th>
             {% endcase %}
-            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Actions</th>
+            <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Actions</th>
           </tr>
         </thead>
         <tbody>
