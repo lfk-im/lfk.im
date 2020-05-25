@@ -5,7 +5,7 @@
         <thead>
           <tr class="bg-gray-200 border-b border-gray-400">
             <th class="px-4 py-2 text-sm font-bold text-right text-gray-600 uppercase" width="40%">Name</th>
-            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase" width="*">Neighborhood</th>
+            <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase hidden md:table-cell md:align-middle" width="*">Neighborhood</th>
             <th class="px-4 py-2 text-sm font-bold text-gray-600 uppercase hidden md:table-cell md:align-middle" width="10%">Cuisine</th>
             {% case include.active %}
               {% when true %}
@@ -37,11 +37,11 @@
                 <div class="pt-2"><small class="text-blue-700">Open: {{ place.hours }}</small></div>
               {% endif %}
             </td>
-            <td class="px-4 py-2">
+            <td class="px-4 py-2 hidden md:table-cell md:align-middle">
               <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ place.neighborhood_slug }}/">
                 {{ place.neighborhood }}</a>
             </td>
-            <td class="px-4 py-2 md:table-cell md:align-middle">
+            <td class="px-4 py-2 hidden md:table-cell md:align-middle">
               {% for cuisine in place.cuisines %}
                 {% if forloop.index <= 3 %}<span class="underline"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endif %}
               {% endfor %}
