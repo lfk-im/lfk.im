@@ -1,6 +1,6 @@
 <div class="flex flex-col">
-  <div class="-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
-    <div class="align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200">
+  <div class="py-2 -my-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
+    <div class="inline-block min-w-full overflow-hidden align-middle border-b border-gray-200 shadow sm:rounded-lg">
       <table class="min-w-full">
         <thead>
           <tr class="bg-gray-200 border-b border-gray-400">
@@ -33,14 +33,14 @@
               <address class="pt-1 text-sm">{{ place.address }}</address>
               {% endif %}
               {% if place.hours and place.hours != "" and place.hours != nil %}
-                <div class="pt-1 text-blue-700 text-xs">Open: {{ place.hours }}</div>
+                <div class="pt-1 text-xs text-blue-700">Open: {{ place.hours }}</div>
               {% endif %}
             </td>
-            <td class="hidden px-4 py-2 md:table-cell md:align-middle">
+            <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
               <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ place.neighborhood_slug }}/">
                 {{ place.neighborhood }}</a>
             </td>
-            <td class="hidden px-4 py-2 md:table-cell md:align-middle">
+            <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
               {% for cuisine in place.cuisines %}
                 {% if forloop.index <= 3 %}<span class="text-blue-700 underline hover:text-blue-500"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endif %}
               {% endfor %}
@@ -48,17 +48,17 @@
             </td>
             {% case include.active %}
               {% when true %}
-                <td class="px-4 py-2 text-center whitespace-no-wrap">
+                <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
                   {% if place.takeout %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
-                <td class="px-4 py-2 text-center whitespace-no-wrap">
+                <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
                   {% if place.curbside %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
-                <td class="px-4 py-2 text-center whitespace-no-wrap">
+                <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
                   {% if place.delivery %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
               {% else %}
-                <td class="px-4 py-2 text-center whitespace-no-wrap">
+                <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
                   {% if place.giftcard %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
                 </td>
             {% endcase %}
