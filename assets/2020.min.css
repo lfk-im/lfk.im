@@ -480,10 +480,6 @@ textarea {
   resize: vertical;
 }
 
-input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-  color: #a0aec0;
-}
-
 input::-moz-placeholder, textarea::-moz-placeholder {
   color: #a0aec0;
 }
@@ -627,6 +623,12 @@ video {
 
 /*tailwind end components */
 
+.bg-white {
+  --bg-opacity: 1;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, var(--bg-opacity));
+}
+
 .bg-gray-100 {
   --bg-opacity: 1;
   background-color: #f7fafc;
@@ -715,10 +717,6 @@ video {
   display: flex;
 }
 
-.inline-flex {
-  display: inline-flex;
-}
-
 .table {
   display: table;
 }
@@ -794,16 +792,20 @@ video {
   margin-bottom: -0.5rem;
 }
 
-.mr-1 {
-  margin-right: 0.25rem;
-}
-
 .mt-4 {
   margin-top: 1rem;
 }
 
 .mb-8 {
   margin-bottom: 2rem;
+}
+
+.-mt-10 {
+  margin-top: -2.5rem;
+}
+
+.-ml-32 {
+  margin-left: -8rem;
 }
 
 .max-w-lg {
@@ -873,24 +875,41 @@ video {
   padding-bottom: 2rem;
 }
 
-.pt-2 {
-  padding-top: 0.5rem;
+.pt-1 {
+  padding-top: 0.25rem;
 }
 
 .pt-8 {
   padding-top: 2rem;
 }
 
+.absolute {
+  position: absolute;
+}
+
 .relative {
   position: relative;
 }
 
-.shadow-sm {
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.top-0 {
+  top: 0;
 }
 
 .shadow {
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.text-left {
+  text-align: left;
 }
 
 .text-center {
@@ -899,6 +918,12 @@ video {
 
 .text-right {
   text-align: right;
+}
+
+.text-black {
+  --text-opacity: 1;
+  color: #000;
+  color: rgba(0, 0, 0, var(--text-opacity));
 }
 
 .text-gray-100 {
@@ -1001,8 +1026,20 @@ video {
   white-space: nowrap;
 }
 
+.w-40 {
+  width: 10rem;
+}
+
 .w-full {
   width: 100%;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.z-30 {
+  z-index: 30;
 }
 
 /*@media screen and (max-width: 1280px) and (min-width: 1024px) {
@@ -1105,6 +1142,10 @@ video {
 
   .md\:justify-between {
     justify-content: space-between;
+  }
+
+  .md\:text-lg {
+    font-size: 1.125rem;
   }
 
   .md\:text-right {
