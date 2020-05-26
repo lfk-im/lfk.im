@@ -26,7 +26,7 @@
             <td class="px-4 py-2 text-right">
               <div class="font-medium">
                 {% comment %}
-                <a class="text-blue-700 whitespace-no-wrap underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">{{ place.name }}</a>
+                <a class="text-blue-700 underline whitespace-no-wrap hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">{{ place.name }}</a>
                 {% endcomment %}
                 <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
               </div>
@@ -69,11 +69,11 @@
                   {% when true %}
                     <div x-data="{ open: false }">
                       <button
-                          class="h-8 p-2 hover:text-blue-700 text-black font-bold"
+                          class="h-8 p-2 font-bold text-black hover:text-blue-700"
                           @click="open = true">&ctdot;</button>
 
                       <div x-ref="dropdown" x-show="open" @click.away="open = false">
-                        <ul class="absolute border bg-white shadow-md text-left -mt-10 -ml-32 z-10 rounded rounded-xl w-40 p-1" x-cloak>
+                        <ul class="absolute z-10 w-40 p-1 -mt-10 -ml-32 text-left bg-white border rounded shadow-md rounded-xl" x-cloak>
                         {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
                           <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
                               href="tel:{{ place.restaurant_phone }}">
