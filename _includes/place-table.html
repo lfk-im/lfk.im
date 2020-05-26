@@ -15,7 +15,7 @@
               {% else %}
                 <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Giftcard</th>
             {% endcase %}
-            <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*">Actions</th>
+            <th class="px-4 py-2 text-xs font-bold text-gray-600 uppercase" width="*"></th>
           </tr>
         </thead>
         <tbody>
@@ -26,9 +26,10 @@
             <td class="px-4 py-2 text-right">
               <div class="font-medium">
                 {% comment %}
-                <a class="text-blue-700 underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">
+                <a class="text-blue-700 whitespace-no-wrap underline hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">{{ place.name }}</a>
                 {% endcomment %}
-                <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a></div>
+                <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
+              </div>
               {% if place.address %}
               <address class="pt-1 text-sm">{{ place.address }}</address>
               {% endif %}
@@ -63,35 +64,37 @@
                 </td>
             {% endcase %}
             <td class="px-4 py-2 md:table-cell md:align-middle">
-              <span class="relative inline-flex shadow-sm">
-                {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
-                  <a class="h-8 p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 rounded rounded-xl hover:bg-blue-300 hover:text-blue-700"
-                      href="tel:{{ place.restaurant_phone }}">
-                    {{ place.restaurant_phone }}</a>
-                {% endif %}
-                {% if place.website and place.website != "" and place.website != nil %}
-                  <a class="h-8 p-2 mr-1 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 rounded rounded-xl hover:bg-blue-300 hover:text-blue-700"
-                      href="{{ place.website }}">
-                    Website</a>
-                {% endif %}
+              <span class="relative">
                 {% case include.active %}
                   {% when true %}
-                    {% if place.food_urls.size > 0 %}
-                      <div x-data="{ open: false }">
-                        <button
-                            class="h-8 p-2 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 rounded rounded-xl hover:bg-blue-300 hover:text-blue-700"
-                            @click="open = true">Order</button>
-                        <div x-ref="dropdown" x-show="open" @click.away="open = false">
-                          <ul>
+                    <div x-data="{ open: false }">
+                      <button
+                          class="h-8 p-2 hover:text-blue-700 text-black font-bold"
+                          @click="open = true">&ctdot;</button>
+
+                      <div x-ref="dropdown" x-show="open" @click.away="open = false">
+                        <ul class="absolute border bg-white shadow-md text-left -mt-10 -ml-32 z-10 rounded rounded-xl w-40 p-1" x-cloak>
+                        {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
+                          <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
+                              href="tel:{{ place.restaurant_phone }}">
+                            {{ place.restaurant_phone }}</a></li>
+                        {% endif %}
+                        {% if place.website and place.website != "" and place.website != nil %}
+                          <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
+                              href="{{ place.website }}">
+                            visit website</a></li>
+                        {% endif %}
+
+                        {% if place.food_urls.size > 0 %}
                           {% for food in place.food_urls %}
                             <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
                                 href="{{ food.url }}">
-                              {{ food.name }}</a></li>
+                              order {{ food.name }}</a></li>
                           {% endfor %}
-                          </ul>
-                        </div>
+                        {% endif %}
+                        </ul>
                       </div>
-                    {% endif %}
+                    </div>
                   {% else %}
                     {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
                       <a href="{{ place.giftcard_url }}" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
