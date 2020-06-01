@@ -1,9 +1,9 @@
 name: Sync Downtown Lawrence
 
 on:
-  push:
-    branches:
-      - master
+  #push:
+  #  branches:
+  #    - master
 
   schedule:
   # every 2 hours - https://crontab.guru/#*_*/2_*_*_*
