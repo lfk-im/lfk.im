@@ -22,10 +22,6 @@ jobs:
           python-version: "3.7"
           architecture: "x64"
 
-      - name: Upgrade pip
-        run: |
-          pip install -U pip
-
       - name: Cache pip
         id: cache-pip
         uses: actions/cache@v2
@@ -36,8 +32,9 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Install our project requirements
-        # if: steps.cache-pip.outputs.cache-hit != 'true'
+        if: steps.cache-pip.outputs.cache-hit != 'true'
         run: |
+          pip install -U pip
           python -m pip install -r requirements.txt
 
       - name: Sync Downtown Lawrence locally
