@@ -37,9 +37,12 @@ jobs:
           pip install -U pip
           python -m pip install -r requirements.txt
 
-      - name: Sync Downtown Lawrence locally
+      - name: Clean up old Downtown Lawrence places
         run: |
           rm -rf _downtown/*
+
+      - name: Sync Downtown Lawrence places
+        run: |
           python sync.py sync-downtownlawrence
 
       - uses: mikeal/publish-to-github-action@master
