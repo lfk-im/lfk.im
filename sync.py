@@ -1,9 +1,11 @@
 import click
 import frontmatter
 import os
+import requests
 import sys
 import yaml
 
+from bs4 import BeautifulSoup
 from click_default_group import DefaultGroup
 from pathlib import Path
 from sheetfu import SpreadsheetApp, Table
@@ -244,6 +246,37 @@ def sync_cuisines():
                 Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                     frontmatter.dumps(post)
                 )
+
+
+@cli.command()
+def sync_downtownlawrence():
+    click.echo("sync-downtownlawrence")
+
+    if not Path("_downtown").exists():
+        Path("_downtown").mkdir()
+
+    url = requests.get("https://www.downtownlawrence.com/2020/04/list-business-temporary-closingsreduced-hours/")
+    soup = BeautifulSoup(url.text, "html.parser")
+    table = soup.find("table")
+
+    rows = table.find_all("tr")
+    for row in rows[1:]:
+        name, address, services = row.find_all("td")
+        place_slug = slugify(name.text)
+        # if not Path("_downtown").joinpath(f"{place_slug}.md").exists():
+        post = frontmatter.loads("")
+        post["active"] = False if "Closed" in services.text else True
+        post["address"] = address.text
+        post["name"] = name.text
+        post["neighborhood"] = "Downtown"
+        post["notes"] = services.text
+        post["sitemap"] = False
+        post["slug"] = place_slug
+        post["url"] = name.find("a").get("href")
+
+        Path("_downtown").joinpath(f"{place_slug}.md").write_text(
+            frontmatter.dumps(post)
+        )
 
 
 @cli.command()
