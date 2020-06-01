@@ -6,8 +6,8 @@ on:
       - master
 
   schedule:
-  # * is a special character in YAML so you have to quote this string
-  - cron:  '*/30 * * * *'
+  # every 2 hours - https://crontab.guru/#*_*/2_*_*_*
+  - cron:  '* */2 * * *'
 
 jobs:
   downtownlawrence:
