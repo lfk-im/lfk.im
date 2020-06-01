@@ -42,7 +42,7 @@ jobs:
 
       - name: Sync Downtown Lawrence locally
         run: |
-          rm _downtown/*
+          rm -rf _downtown/*
           python sync.py sync-downtownlawrence
 
       - uses: mikeal/publish-to-github-action@master
