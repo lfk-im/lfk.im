@@ -1,0 +1,9 @@
+bs4
+click
+click-default-group
+python-frontmatter
+python-slugify
+PyYAML
+requests
+sheetfu
+typesystem
