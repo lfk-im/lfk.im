@@ -22,7 +22,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 8am - 1pm
+hours: 8am-1pm Daily
 name: The Roost
 neighborhood: Downtown
 neighborhood_slug: downtown

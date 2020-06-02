@@ -24,11 +24,12 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mon-Thu 11am-8pm, Fri-Sat 11am-8:30pm, Sun 11am-8pm
 name: The Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: ''
+notes: Open for in person dining, Curbside Pickup & Delivery, Family Meals available,
+  Open 7 days
 restaurant_phone: 704-523-8296
 sitemap: false
 slug: the-mad-greek-907-massachusetts-st
@@ -36,3 +37,5 @@ social: ''
 takeout: true
 website: http://www.themadgreeklawrence.com
 ---
+
+Open for in person dining, Curbside Pickup & Delivery, Family Meals available, Open 7 days
