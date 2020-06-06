@@ -1,5 +1,9 @@
 cuisines:
 
+  - name: Bars
+    aliases:
+      - bar
+
   - name: Barbecue
     aliases:
       - BBQ
@@ -15,9 +19,14 @@ cuisines:
       - cake pops
       - cakes
       - cupcakes
-      - Dessert
+      - dessert
       - DIY cupcake kits
       - sample cake boxes
+
+  - name: Mexican
+    aliases:
+      - taco
+      - tacos
 
 neighborhoods:
   - name: 701 W 23rd St

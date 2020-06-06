@@ -19,8 +19,9 @@ CUISINE_INITIAL = [
     "American",
     "Asian",
     "Bakeries",
-    "Barbecue",
     "Bar & Grill",
+    "Barbecue",
+    "Bars",
     "Breakfast",
     "Breweries",
     "Burgers",
@@ -176,7 +177,8 @@ def cli():
 
 
 @cli.command()
-def sync_cuisines():
+@click.option("--overwrite", is_flag=True)
+def sync_cuisines(overwrite):
     click.echo("sync-cuisines")
 
     aliases = load_aliases()
@@ -195,7 +197,7 @@ def sync_cuisines():
 
     for cuisine in CUISINE_INITIAL:
         cuisine_slug = slugify(cuisine)
-        if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+        if (not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
             post = frontmatter.loads("")
             post["active"] = True
             post["description"] = f"{cuisine} restaurants offering curbside, takeout, and delivery food in Lawrence, Kansas"
