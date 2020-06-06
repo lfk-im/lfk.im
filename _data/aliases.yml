@@ -1,29 +1,34 @@
 cuisines:
 
-  - name: Bars
+  - name: bars
     aliases:
       - bar
 
-  - name: Barbecue
+  - name: barbecue
     aliases:
-      - BBQ
-      - Barbeque
+      - bbq
+      - barbeque
 
-  - name: Bakery
+  - name: bakeries
     aliases:
-      - Bakeries
+      - bakery
 
-  - name: Desserts
+  - name: desserts
     aliases:
       - birthday cakes
       - cake pops
       - cakes
       - cupcakes
       - dessert
-      - DIY cupcake kits
+      - diy cupcake kits
       - sample cake boxes
 
-  - name: Mexican
+  - name: fried chicken
+    aliases:
+      - chicken
+      - chickens
+
+  - name: mexican
     aliases:
       - taco
       - tacos
