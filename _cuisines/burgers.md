@@ -5,5 +5,5 @@ description: Burgers restaurants offering curbside, takeout, and delivery food i
 name: Burgers
 sitemap: true
 slug: burgers
-title: Burgers Food in Lawrence, Kansas
+title: Burgers in Lawrence, Kansas
 ---

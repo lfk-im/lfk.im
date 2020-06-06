@@ -5,5 +5,5 @@ description: Breweries restaurants offering curbside, takeout, and delivery food
 name: Breweries
 sitemap: true
 slug: breweries
-title: Breweries Food in Lawrence, Kansas
+title: Breweries in Lawrence, Kansas
 ---

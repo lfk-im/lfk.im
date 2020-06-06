@@ -17,5 +17,5 @@ redirect_from:
 - /cuisines/cocktails-beer/
 sitemap: true
 slug: bars
-title: Bars Food in Lawrence, Kansas
+title: Bars in Lawrence, Kansas
 ---

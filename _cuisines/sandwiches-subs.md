@@ -5,5 +5,5 @@ description: Sandwiches/Subs restaurants offering curbside, takeout, and deliver
 name: Sandwiches/Subs
 sitemap: true
 slug: sandwiches-subs
-title: Sandwiches/Subs Food in Lawrence, Kansas
+title: Sandwiches/Subs in Lawrence, Kansas
 ---

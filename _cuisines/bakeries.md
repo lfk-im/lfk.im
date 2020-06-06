@@ -9,5 +9,5 @@ redirect_from:
 - /cuisines/bakery/
 sitemap: true
 slug: bakeries
-title: Bakeries Food in Lawrence, Kansas
+title: Bakeries in Lawrence, Kansas
 ---
