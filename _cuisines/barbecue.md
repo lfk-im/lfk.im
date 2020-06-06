@@ -1,8 +1,8 @@
 ---
 active: true
 aliases:
-- BBQ
-- Barbeque
+- bbq
+- barbeque
 description: Barbecue restaurants offering curbside, takeout, and delivery food in
   Lawrence, Kansas
 name: Barbecue
