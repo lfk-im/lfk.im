@@ -1,14 +1,14 @@
 ---
 active: true
 address: 2223 Louisiana St
-cuisine: Asian, Seasfood, Sushi
+cuisine: Asian, Seafood, Sushi
 cuisine_slugs:
 - asian
-- seasfood
+- seafood
 - sushi
 cuisines:
 - Asian
-- Seasfood
+- Seafood
 - Sushi
 curbside: true
 curbside_instructions: ''
