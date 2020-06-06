@@ -201,6 +201,8 @@ def sync_cuisines():
             post["name"] = cuisine
             post["sitemap"] = True
             post["slug"] = cuisine_slug
+            post["title"] = f"{cuisine} Restaurants in Lawrence, Kansas"
+
             try:
                 aliases = [
                     alias["aliases"]
