@@ -198,6 +198,7 @@ def sync_cuisines():
         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
             post = frontmatter.loads("")
             post["active"] = True
+            post["description"] = f"{cuisine} restaurants offering curbside, takeout, and delivery food in Lawrence, Kansas"
             post["name"] = cuisine
             post["sitemap"] = True
             post["slug"] = cuisine_slug
@@ -209,8 +210,9 @@ def sync_cuisines():
                     for alias in cuisine_aliases
                     if cuisine.lower() == alias["name"].lower()
                 ][0]
-                aliases = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
-                post["redirect_from"] = aliases
+                redirect_from = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
+                post["aliases"] = aliases
+                post["redirect_from"] = redirect_from
             except IndexError:
                 pass
 
