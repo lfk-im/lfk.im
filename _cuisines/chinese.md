@@ -3,5 +3,5 @@ active: true
 name: Chinese
 sitemap: true
 slug: chinese
-title: Chinese Restaurants in Lawrence, Kansas
+title: Chinese Food in Lawrence, Kansas
 ---

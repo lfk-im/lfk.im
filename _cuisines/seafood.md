@@ -3,5 +3,5 @@ active: true
 name: Seafood
 sitemap: true
 slug: seafood
-title: Seafood Restaurants in Lawrence, Kansas
+title: Seafood Food in Lawrence, Kansas
 ---

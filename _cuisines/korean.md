@@ -3,5 +3,5 @@ active: true
 name: Korean
 sitemap: true
 slug: korean
-title: Korean Restaurants in Lawrence, Kansas
+title: Korean Food in Lawrence, Kansas
 ---

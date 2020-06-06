@@ -3,5 +3,5 @@ active: true
 name: Burgers
 sitemap: true
 slug: burgers
-title: Burgers Restaurants in Lawrence, Kansas
+title: Burgers Food in Lawrence, Kansas
 ---

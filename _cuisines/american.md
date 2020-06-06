@@ -3,5 +3,5 @@ active: true
 name: American
 sitemap: true
 slug: american
-title: American Restaurants in Lawrence, Kansas
+title: American Food in Lawrence, Kansas
 ---

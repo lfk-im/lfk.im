@@ -3,5 +3,5 @@ active: true
 name: Sushi
 sitemap: true
 slug: sushi
-title: Sushi Restaurants in Lawrence, Kansas
+title: Sushi Food in Lawrence, Kansas
 ---

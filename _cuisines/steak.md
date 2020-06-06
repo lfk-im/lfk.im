@@ -3,5 +3,5 @@ active: true
 name: Steak
 sitemap: true
 slug: steak
-title: Steak Restaurants in Lawrence, Kansas
+title: Steak Food in Lawrence, Kansas
 ---
