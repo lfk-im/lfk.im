@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: N/A
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
@@ -22,9 +22,8 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: E Barn Farm Bakery
-neighborhood: N/A
-neighborhood_slug: n-a
-notes: Deliveries happen following business day
+neighborhood: ''
+notes: Closed through June 8th - Deliveries happen following business day
 restaurant_phone: 785-836-4100
 sitemap: false
 slug: e-barn-farm-bakery-n-a
@@ -33,4 +32,4 @@ takeout: false
 website: https://ebarnfarm.org/
 ---
 
-Deliveries happen following business day
+Closed through June 8th - Deliveries happen following business day
