@@ -1,10 +1,12 @@
 ---
 active: true
 address: 7 E 7th St
-cuisine: Cocktail Bar
+cuisine: Bars, Cocktail Bar
 cuisine_slugs:
+- bars
 - cocktail-bar
 cuisines:
+- Bars
 - Cocktail Bar
 curbside: true
 curbside_instructions: ''

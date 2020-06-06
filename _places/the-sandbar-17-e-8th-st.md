@@ -1,11 +1,11 @@
 ---
 active: true
 address: 17 E 8th St
-cuisine: Bar
+cuisine: Bars
 cuisine_slugs:
-- bar
+- bars
 cuisines:
-- Bar
+- Bars
 curbside: true
 curbside_instructions: ''
 delivery: false
