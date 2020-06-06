@@ -204,7 +204,11 @@ def sync_cuisines(overwrite):
             post["name"] = cuisine
             post["sitemap"] = True
             post["slug"] = cuisine_slug
-            post["title"] = f"{cuisine} Food in Lawrence, Kansas"
+
+            if cuisine.endswith("s"):
+                post["title"] = f"{cuisine} in Lawrence, Kansas"
+            else:
+                post["title"] = f"{cuisine} Food in Lawrence, Kansas"
 
             try:
                 aliases = [
