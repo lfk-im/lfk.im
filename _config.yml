@@ -52,3 +52,12 @@ exclude:
 
 include:
   - _pages
+
+plugins:
+  - jekyll-seo-tag
+
+author: "@webology"
+
+twitter:
+  card: summary
+  username: "@webology"
