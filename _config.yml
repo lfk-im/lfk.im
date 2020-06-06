@@ -54,6 +54,7 @@ include:
   - _pages
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-seo-tag
 
 author: "@webology"
