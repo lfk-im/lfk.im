@@ -231,23 +231,13 @@ def sync_cuisines(overwrite):
 
     for cuisine in data:
         cuisine_slug = slugify(cuisine)
-        if cuisine not in alias_data:
+        if cuisine.lower() not in alias_data:
             if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
                 post = frontmatter.loads("")
                 post["active"] = True
                 post["name"] = cuisine
                 post["sitemap"] = False
                 post["slug"] = cuisine_slug
-                # try:
-                #     aliases = [
-                #         alias["aliases"]
-                #         for alias in cuisine_aliases
-                #         if cuisine == alias["name"]
-                #     ][0]
-                #     aliases = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
-                #     post["redirect_from"] = aliases
-                # except IndexError:
-                #     pass
 
                 Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                     frontmatter.dumps(post)

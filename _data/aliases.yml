@@ -3,6 +3,10 @@ cuisines:
   - name: bars
     aliases:
       - bar
+      - beer
+      - cocktails
+      - cocktails beer
+      - cocktails & beer
 
   - name: barbecue
     aliases:
