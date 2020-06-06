@@ -6,4 +6,5 @@ redirect_from:
 - /cuisines/barbeque/
 sitemap: true
 slug: barbecue
+title: Barbecue Restaurants in Lawrence, Kansas
 ---
