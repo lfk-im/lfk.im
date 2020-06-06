@@ -1,13 +1,13 @@
 ---
 active: true
 address: 715 Massachusetts St
-cuisine: American, Bar
+cuisine: American, Bars
 cuisine_slugs:
 - american
-- bar
+- bars
 cuisines:
 - American
-- Bar
+- Bars
 curbside: false
 curbside_instructions: ''
 delivery: false
