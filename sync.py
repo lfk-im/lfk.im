@@ -312,6 +312,7 @@ def sync_neighborhoods():
                 post["name"] = neighborhood
                 post["sitemap"] = True
                 post["slug"] = neighborhood_slug
+                post["title"] = f"{neighborhood} Restaurants"
 
                 Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
                     frontmatter.dumps(post)
