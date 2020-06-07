@@ -30,7 +30,7 @@ cuisines:
   - chickens
   - fried-chicken
   - wings
-  name: fried chicken
+  name: fried-chicken
 - aliases:
   - taco
   - tacos
