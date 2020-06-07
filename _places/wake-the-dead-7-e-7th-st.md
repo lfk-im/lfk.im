@@ -5,6 +5,7 @@ cuisine: Breakfast, Donuts
 cuisine_slugs:
 - breakfast
 - donuts
+- desserts
 cuisines:
 - Breakfast
 - Donuts

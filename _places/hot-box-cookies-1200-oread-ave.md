@@ -7,6 +7,7 @@ cuisine_slugs:
 - bakeries
 - cookies
 - desserts
+- desserts
 cuisines:
 - Bakery
 - Cookies

@@ -5,6 +5,7 @@ cuisine: Breakfast & Brunch, Global, Greek, Healthy, Mediterranean, Middle Easte
   Salads, Sandwiches, Smoothies
 cuisine_slugs:
 - breakfast-brunch
+- breakfast
 - global
 - greek
 - healthy

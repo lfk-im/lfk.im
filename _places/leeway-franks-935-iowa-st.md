@@ -5,6 +5,7 @@ cuisine: American, Sausages
 cuisine_slugs:
 - american
 - sausages
+- butcher
 cuisines:
 - American
 - Sausages

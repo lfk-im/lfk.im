@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 239 Elm St
 cuisine: Breakfast, Diner
 cuisine_slugs:
@@ -20,7 +20,7 @@ hours: ''
 name: Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
-notes: Heat and eat meals for pick-up. Check social media for times
+notes: 'Permanently closed. '
 restaurant_phone: 785-856-3671
 sitemap: false
 slug: levee-cafe-239-elm-st
@@ -29,4 +29,4 @@ takeout: true
 website: http://theleveecafe.com/
 ---
 
-Heat and eat meals for pick-up. Check social media for times
+Permanently closed.

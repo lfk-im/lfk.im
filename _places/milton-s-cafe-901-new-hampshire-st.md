@@ -4,6 +4,7 @@ address: 901 New Hampshire St
 cuisine: Breakfast & Brunch, Coffee, Healthy, Salads, Sandwiches
 cuisine_slugs:
 - breakfast-brunch
+- breakfast
 - coffee
 - coffee-and-tea
 - healthy

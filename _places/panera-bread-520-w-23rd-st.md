@@ -6,6 +6,7 @@ cuisine_slugs:
 - bakery
 - bakeries
 - breakfast-brunch
+- breakfast
 - coffee
 - coffee-and-tea
 - dessert

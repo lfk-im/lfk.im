@@ -4,6 +4,7 @@ address: 935 Iowa St
 cuisine: Local Butcher, Eggs
 cuisine_slugs:
 - local-butcher
+- butcher
 - eggs
 cuisines:
 - Local Butcher

@@ -9,6 +9,7 @@ cuisine_slugs:
 - sandwiches
 - deli
 - wings
+- fried chicken
 cuisines:
 - American
 - Burgers

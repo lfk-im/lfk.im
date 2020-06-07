@@ -10,6 +10,7 @@ cuisine_slugs:
 - deli
 - seafood
 - wings
+- fried chicken
 cuisines:
 - American
 - Burgers

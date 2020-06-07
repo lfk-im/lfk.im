@@ -5,6 +5,7 @@ cuisine: American, Wings
 cuisine_slugs:
 - american
 - wings
+- fried chicken
 cuisines:
 - American
 - Wings
