@@ -98,9 +98,11 @@ cuisines:
 - aliases: []
   name: spanish
 - aliases:
+  - steak
   - steakhouse
+  - steakhouses
   - steaks
-  name: steak
+  name: steakhouse
 - aliases: []
   name: sushi
 - aliases: []

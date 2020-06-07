@@ -48,7 +48,7 @@ CUISINE_INITIAL = [
     "Sandwiches/Subs",
     "Seafood",
     "Spanish",
-    "Steak",
+    "Steakhouse",
     "Sushi",
     "Thai",
 ]
