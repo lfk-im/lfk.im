@@ -385,7 +385,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
     output_folder = Path(output_folder)
     cuisine_aliases = aliases_to_cuisine()
 
-    aliases =  load_aliases()
+    aliases = load_aliases()
     try:
         unknown_cuisines = aliases["unknown-cuisines"][0]["aliases"]
     except:
@@ -466,7 +466,11 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
                 cuisine.strip() for cuisine in place["cuisine"].split(",")
             ]
             if unknown_cuisines:
-                place["cuisines"] = [cuisine for cuisine in place["cuisines"] if slugify(cuisine) not in unknown_cuisines]
+                place["cuisines"] = [
+                    cuisine
+                    for cuisine in place["cuisines"]
+                    if slugify(cuisine) not in unknown_cuisines
+                ]
 
         else:
             place["cuisines"] = None
