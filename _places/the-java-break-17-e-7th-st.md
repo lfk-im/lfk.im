@@ -4,8 +4,11 @@ address: 17 E. 7th St
 cuisine: Coffee, Dessert, Sandwiches
 cuisine_slugs:
 - coffee
+- coffee-and-tea
 - dessert
+- desserts
 - sandwiches
+- deli
 cuisines:
 - Coffee
 - Dessert

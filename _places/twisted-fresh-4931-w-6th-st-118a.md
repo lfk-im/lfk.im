@@ -5,6 +5,7 @@ cuisine: American, Tacos
 cuisine_slugs:
 - american
 - tacos
+- mexican
 cuisines:
 - American
 - Tacos

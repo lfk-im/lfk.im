@@ -4,6 +4,7 @@ address: 1004 Massachusetts St
 cuisine: Tea
 cuisine_slugs:
 - tea
+- coffee-and-tea
 cuisines:
 - Tea
 curbside: false

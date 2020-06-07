@@ -4,6 +4,7 @@ address: 638 Massachusetts St
 cuisine: Coffee, Tea
 cuisine_slugs:
 - coffee
+- coffee-and-tea
 - tea
 cuisines:
 - Coffee

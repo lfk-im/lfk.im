@@ -4,10 +4,13 @@ address: '2311 Wakarusa Dr #D '
 cuisine: Bakery, Dessert, Healthy, Salads, Sandwiches
 cuisine_slugs:
 - bakery
+- bakeries
 - dessert
+- desserts
 - healthy
 - salads
 - sandwiches
+- deli
 cuisines:
 - Bakery
 - Dessert

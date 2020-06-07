@@ -4,6 +4,7 @@ address: 4821 W 6th Street Ste K
 cuisine: Sandwiches, Soup
 cuisine_slugs:
 - sandwiches
+- deli
 - soup
 cuisines:
 - Sandwiches

@@ -5,6 +5,7 @@ cuisine: American, Sandwiches
 cuisine_slugs:
 - american
 - sandwiches
+- deli
 cuisines:
 - American
 - Sandwiches

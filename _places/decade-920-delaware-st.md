@@ -4,6 +4,7 @@ address: 920 Delaware St
 cuisine: Coffee
 cuisine_slugs:
 - coffee
+- coffee-and-tea
 cuisines:
 - Coffee
 curbside: false

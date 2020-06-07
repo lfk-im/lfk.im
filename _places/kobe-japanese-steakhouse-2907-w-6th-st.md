@@ -5,6 +5,7 @@ cuisine: Japanese, Steakhouse
 cuisine_slugs:
 - japanese
 - steakhouse
+- steak
 cuisines:
 - Japanese
 - Steakhouse

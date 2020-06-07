@@ -4,6 +4,7 @@ address: 1601 W 23rd
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

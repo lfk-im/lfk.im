@@ -4,6 +4,7 @@ address: 3131 Nieder
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

@@ -4,6 +4,7 @@ address: 624 N. 2nd Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee
+- coffee-and-tea
 cuisines:
 - Coffee
 curbside: true

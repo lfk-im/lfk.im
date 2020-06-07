@@ -4,6 +4,7 @@ address: 3300 Iowa
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

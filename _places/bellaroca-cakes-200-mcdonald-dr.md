@@ -4,6 +4,7 @@ address: 200 McDonald Dr
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
+- bakeries
 - cookies
 - desserts
 cuisines:

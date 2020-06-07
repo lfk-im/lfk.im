@@ -4,6 +4,7 @@ address: 17 E 7th Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee
+- coffee-and-tea
 cuisines:
 - Coffee
 curbside: true

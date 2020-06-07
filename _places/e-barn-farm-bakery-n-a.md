@@ -4,6 +4,7 @@ address: N/A
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
+- bakeries
 - cookies
 - desserts
 cuisines:

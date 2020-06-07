@@ -6,6 +6,7 @@ cuisine_slugs:
 - american
 - breakfast
 - sandwiches
+- deli
 cuisines:
 - American
 - Breakfast

@@ -6,6 +6,7 @@ cuisine_slugs:
 - pizza
 - salads
 - sandwiches
+- deli
 - pasta
 cuisines:
 - Pizza

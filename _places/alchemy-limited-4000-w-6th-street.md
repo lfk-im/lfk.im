@@ -4,7 +4,9 @@ address: 4000 W. 6th Street
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
+- bakeries
 - coffee
+- coffee-and-tea
 cuisines:
 - Bakery
 - Coffee

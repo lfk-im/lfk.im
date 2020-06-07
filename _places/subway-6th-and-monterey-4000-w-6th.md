@@ -4,6 +4,7 @@ address: 4000 W 6th
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

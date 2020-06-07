@@ -7,10 +7,13 @@ cuisine_slugs:
 - barbecue
 - burgers
 - dessert
+- desserts
 - fried-chicken
+- fried chicken
 - salads
 - seafood
 - steakhouse
+- steak
 cuisines:
 - American
 - Barbecue

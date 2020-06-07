@@ -6,8 +6,10 @@ cuisine_slugs:
 - american
 - burgers
 - dessert
+- desserts
 - salads
 - sandwiches
+- deli
 - wings
 cuisines:
 - American

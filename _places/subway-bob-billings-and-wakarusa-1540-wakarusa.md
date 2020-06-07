@@ -4,6 +4,7 @@ address: 1540 Wakarusa
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

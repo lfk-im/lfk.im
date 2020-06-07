@@ -7,6 +7,7 @@ cuisine_slugs:
 - burgers
 - salads
 - sandwiches
+- deli
 - wings
 cuisines:
 - American

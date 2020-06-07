@@ -4,6 +4,7 @@ address: 807 Vermont St
 cuisine: Bakery
 cuisine_slugs:
 - bakery
+- bakeries
 cuisines:
 - Bakery
 curbside: true

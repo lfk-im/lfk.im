@@ -5,6 +5,7 @@ cuisine: American, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american
 - sandwiches
+- deli
 - pizza
 - salads
 cuisines:

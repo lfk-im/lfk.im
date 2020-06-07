@@ -5,9 +5,11 @@ cuisine: 'American, Coffee, Healthy, Salads, Sandwiches, Smoothies, Vegan, Veget
 cuisine_slugs:
 - american
 - coffee
+- coffee-and-tea
 - healthy
 - salads
 - sandwiches
+- deli
 - smoothies
 - vegan
 - vegetarian

@@ -4,6 +4,7 @@ address: 1530 W 6th
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
+- deli
 cuisines:
 - Sandwiches
 curbside: true

@@ -4,6 +4,7 @@ address: 2120 W 9th St
 cuisine: BBQ
 cuisine_slugs:
 - bbq
+- barbecue
 cuisines:
 - BBQ
 curbside: true

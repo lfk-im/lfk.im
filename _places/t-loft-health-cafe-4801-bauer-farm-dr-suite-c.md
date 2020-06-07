@@ -5,6 +5,7 @@ cuisine: Healthy, Tea
 cuisine_slugs:
 - healthy
 - tea
+- coffee-and-tea
 cuisines:
 - Healthy
 - Tea

@@ -4,7 +4,9 @@ address: 1900 Barker
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
+- bakeries
 - coffee
+- coffee-and-tea
 cuisines:
 - Bakery
 - Coffee

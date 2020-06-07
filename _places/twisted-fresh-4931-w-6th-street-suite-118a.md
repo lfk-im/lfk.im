@@ -7,7 +7,9 @@ cuisine_slugs:
 - burgers
 - salads
 - sandwiches
+- deli
 - tacos
+- mexican
 - wraps
 - salads-and-sandwiches
 cuisines:

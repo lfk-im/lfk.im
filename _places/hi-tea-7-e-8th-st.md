@@ -4,6 +4,7 @@ address: 7 E 8th St
 cuisine: Tea
 cuisine_slugs:
 - tea
+- coffee-and-tea
 cuisines:
 - Tea
 curbside: false

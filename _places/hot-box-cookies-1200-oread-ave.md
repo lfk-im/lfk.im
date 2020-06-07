@@ -4,6 +4,7 @@ address: 1200 Oread Ave
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
+- bakeries
 - cookies
 - desserts
 cuisines:

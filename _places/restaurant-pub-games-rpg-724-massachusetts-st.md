@@ -6,6 +6,7 @@ cuisine_slugs:
 - american
 - burgers
 - sandwiches
+- deli
 cuisines:
 - American
 - Burgers

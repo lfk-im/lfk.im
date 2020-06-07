@@ -4,6 +4,7 @@ address: 746 Massachusetts St
 cuisine: Gastropub
 cuisine_slugs:
 - gastropub
+- breweries
 cuisines:
 - Gastropub
 curbside: true

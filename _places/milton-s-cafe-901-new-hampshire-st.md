@@ -5,9 +5,11 @@ cuisine: Breakfast & Brunch, Coffee, Healthy, Salads, Sandwiches
 cuisine_slugs:
 - breakfast-brunch
 - coffee
+- coffee-and-tea
 - healthy
 - salads
 - sandwiches
+- deli
 cuisines:
 - Breakfast & Brunch
 - Coffee

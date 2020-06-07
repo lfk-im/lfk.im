@@ -12,6 +12,7 @@ cuisine_slugs:
 - middle-eastern
 - salads
 - sandwiches
+- deli
 - smoothies
 cuisines:
 - Breakfast & Brunch
