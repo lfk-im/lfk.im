@@ -659,6 +659,12 @@ video {
   background-color: rgba(255, 255, 240, var(--bg-opacity));
 }
 
+.bg-yellow-300 {
+  --bg-opacity: 1;
+  background-color: #faf089;
+  background-color: rgba(250, 240, 137, var(--bg-opacity));
+}
+
 .bg-yellow-400 {
   --bg-opacity: 1;
   background-color: #f6e05e;
@@ -769,8 +775,8 @@ video {
   font-size: 0.875rem;
 }
 
-.text-lg {
-  font-size: 1.125rem;
+.text-xl {
+  font-size: 1.25rem;
 }
 
 .text-2xl {
@@ -814,6 +820,10 @@ video {
 
 .mt-4 {
   margin-top: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
 .mb-8 {
