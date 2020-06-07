@@ -9,7 +9,6 @@ cuisine_slugs:
 - dessert
 - desserts
 - fried-chicken
-- fried chicken
 - seafood
 - steakhouse
 cuisines:

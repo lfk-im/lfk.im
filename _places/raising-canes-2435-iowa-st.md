@@ -5,7 +5,7 @@ cuisine: American, Chicken
 cuisine_slugs:
 - american
 - chicken
-- fried chicken
+- fried-chicken
 cuisines:
 - American
 - Chicken

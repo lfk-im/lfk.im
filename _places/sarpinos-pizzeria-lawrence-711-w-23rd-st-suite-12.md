@@ -5,7 +5,7 @@ cuisine: Pizza, Wings
 cuisine_slugs:
 - pizza
 - wings
-- fried chicken
+- fried-chicken
 cuisines:
 - Pizza
 - Wings
