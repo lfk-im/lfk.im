@@ -7,15 +7,11 @@ cuisine_slugs:
 - bakeries
 - dessert
 - desserts
-- healthy
-- salads
 - sandwiches
 - deli
 cuisines:
 - Bakery
 - Dessert
-- Healthy
-- Salads
 - Sandwiches
 curbside: false
 curbside_instructions: Call Deli direct to place order and pay.

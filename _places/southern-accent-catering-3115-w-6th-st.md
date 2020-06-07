@@ -2,12 +2,8 @@
 active: true
 address: 3115 W 6th St
 cuisine: Catering, Variety
-cuisine_slugs:
-- catering
-- variety
-cuisines:
-- Catering
-- Variety
+cuisine_slugs: null
+cuisines: []
 curbside: false
 curbside_instructions: ''
 delivery: true

@@ -2,10 +2,8 @@
 active: true
 address: 1826 East 1150 Rd
 cuisine: Winery
-cuisine_slugs:
-- winery
-cuisines:
-- Winery
+cuisine_slugs: null
+cuisines: []
 curbside: true
 curbside_instructions: Call ahead or come in for take out.
 delivery: false

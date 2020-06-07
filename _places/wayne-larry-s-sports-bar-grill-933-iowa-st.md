@@ -5,7 +5,6 @@ cuisine: American, Burgers, Salads, Sandwiches, Wings
 cuisine_slugs:
 - american
 - burgers
-- salads
 - sandwiches
 - deli
 - wings
@@ -13,7 +12,6 @@ cuisine_slugs:
 cuisines:
 - American
 - Burgers
-- Salads
 - Sandwiches
 - Wings
 curbside: true

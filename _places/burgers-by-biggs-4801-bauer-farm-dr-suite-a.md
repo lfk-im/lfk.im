@@ -5,7 +5,6 @@ cuisine: American, Burgers, Salads, Sandwiches, Seafood, Wings
 cuisine_slugs:
 - american
 - burgers
-- salads
 - sandwiches
 - deli
 - seafood
@@ -14,7 +13,6 @@ cuisine_slugs:
 cuisines:
 - American
 - Burgers
-- Salads
 - Sandwiches
 - Seafood
 - Wings

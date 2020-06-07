@@ -2,10 +2,8 @@
 active: true
 address: 512 E 9th St, Lawrence
 cuisine: Mediterranean
-cuisine_slugs:
-- mediterranean
-cuisines:
-- Mediterranean
+cuisine_slugs: null
+cuisines: []
 curbside: true
 curbside_instructions: ''
 delivery: false

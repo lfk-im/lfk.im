@@ -6,13 +6,9 @@ cuisine_slugs:
 - american
 - sandwiches
 - deli
-- pasta
-- salads
 cuisines:
 - American
 - Sandwiches
-- Pasta
-- Salads
 curbside: true
 curbside_instructions: ''
 delivery: false

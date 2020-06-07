@@ -4,12 +4,10 @@ address: '3514 Clinton Parkway '
 cuisine: Pizza, Salads, Sandwiches
 cuisine_slugs:
 - pizza
-- salads
 - sandwiches
 - deli
 cuisines:
 - Pizza
-- Salads
 - Sandwiches
 curbside: true
 curbside_instructions: 'Please call when you arrive '

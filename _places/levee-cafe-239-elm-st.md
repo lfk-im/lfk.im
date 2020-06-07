@@ -4,10 +4,8 @@ address: 239 Elm St
 cuisine: Breakfast, Diner
 cuisine_slugs:
 - breakfast
-- diner
 cuisines:
 - Breakfast
-- Diner
 curbside: false
 curbside_instructions: ''
 delivery: false

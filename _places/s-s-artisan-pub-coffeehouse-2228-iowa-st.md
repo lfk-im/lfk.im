@@ -6,22 +6,12 @@ cuisine_slugs:
 - american
 - coffee
 - coffee-and-tea
-- healthy
-- salads
 - sandwiches
 - deli
-- smoothies
-- vegan
-- vegetarian
 cuisines:
 - American
 - Coffee
-- Healthy
-- Salads
 - Sandwiches
-- Smoothies
-- Vegan
-- Vegetarian
 curbside: true
 curbside_instructions: 'Order online at Shaunandsonsartisanpub.com or call us at 785-766-2355.
   We will bring your order to you via curbside. '

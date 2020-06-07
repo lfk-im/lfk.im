@@ -3,10 +3,8 @@ active: true
 address: 1021 Massachusetts St
 cuisine: Mediterranean, Greek
 cuisine_slugs:
-- mediterranean
 - greek
 cuisines:
-- Mediterranean
 - Greek
 curbside: true
 curbside_instructions: ''

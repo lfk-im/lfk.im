@@ -11,18 +11,14 @@ cuisine_slugs:
 - coffee-and-tea
 - dessert
 - desserts
-- salads
 - sandwiches
 - deli
-- smoothies
 cuisines:
 - Bakery
 - Breakfast & Brunch
 - Coffee
 - Dessert
-- Salads
 - Sandwiches
-- Smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -7,15 +7,11 @@ cuisine_slugs:
 - breakfast
 - coffee
 - coffee-and-tea
-- healthy
-- salads
 - sandwiches
 - deli
 cuisines:
 - Breakfast & Brunch
 - Coffee
-- Healthy
-- Salads
 - Sandwiches
 curbside: false
 curbside_instructions: ''

@@ -4,10 +4,8 @@ address: 918 Massachusetts St
 cuisine: Asian, Ramen
 cuisine_slugs:
 - asian
-- ramen
 cuisines:
 - Asian
-- Ramen
 curbside: true
 curbside_instructions: ''
 delivery: true
