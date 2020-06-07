@@ -1,41 +1,139 @@
 cuisines:
-
-  - name: bars
-    aliases:
-      - bar
-      - beer
-      - cocktails
-      - cocktails beer
-      - cocktails & beer
-
-  - name: barbecue
-    aliases:
-      - bbq
-      - barbeque
-
-  - name: bakeries
-    aliases:
-      - bakery
-
-  - name: desserts
-    aliases:
-      - birthday cakes
-      - cake pops
-      - cakes
-      - cupcakes
-      - dessert
-      - diy cupcake kits
-      - sample cake boxes
-
-  - name: fried chicken
-    aliases:
-      - chicken
-      - chickens
-
-  - name: mexican
-    aliases:
-      - taco
-      - tacos
-
+- aliases:
+  - bar
+  - beer
+  - cocktail-bar
+  - cocktails
+  - cocktails-beer
+  name: bars
+- aliases:
+  - bbq
+  - barbeque
+  name: barbecue
+- aliases:
+  - bakery
+  name: bakeries
+- aliases:
+  - birthday cakes
+  - cake pops
+  - cakes
+  - cupcakes
+  - dessert
+  - diy cupcake kits
+  - sample cake boxes
+  name: desserts
+- aliases:
+  - chicken
+  - chickens
+  - fried-chicken
+  name: fried chicken
+- aliases:
+  - taco
+  - tacos
+  name: mexican
+- aliases: []
+  name: american
+- aliases: []
+  name: asian
+- aliases: []
+  name: bar-grill
+- aliases: []
+  name: breakfast
+- aliases:
+  - brewery
+  - gastropub
+  - pub-bar-food
+  name: breweries
+- aliases: []
+  name: burgers
+- aliases: []
+  name: cajun
+- aliases: []
+  name: chinese
+- aliases:
+  - coffee
+  - tea
+  - teas
+  name: coffee-and-tea
+- aliases:
+  - sandwich
+  - sandwiches
+  name: deli
+- aliases: []
+  name: ethiopian
+- aliases: []
+  name: fast-food
+- aliases: []
+  name: fine-dining
+- aliases: []
+  name: greek
+- aliases: []
+  name: homestyle-cookin
+- aliases: []
+  name: ice-cream-juice
+- aliases: []
+  name: indian
+- aliases: []
+  name: italian
+- aliases: []
+  name: japanese
+- aliases: []
+  name: korean
+- aliases: []
+  name: latin-american
+- aliases: []
+  name: middle-eastern
+- aliases: []
+  name: pizza
+- aliases: []
+  name: sandwiches-subs
+- aliases:
+  - seasfood
+  name: seafood
+- aliases: []
+  name: spanish
+- aliases:
+  - steakhouse
+  - steaks
+  name: steak
+- aliases: []
+  name: sushi
+- aliases: []
+  name: thai
 neighborhoods:
-  - name: 701 W 23rd St
+- name: 701 W 23rd St
+unknown-cuisines:
+- aliases:
+  - pasta
+  - hawaiian
+  - wraps
+  - smoothies
+  - global
+  - farm
+  - diner
+  - heat-eat
+  - salads-and-sandwiches
+  - popcorn
+  - soup
+  - variety
+  - salads
+  - gourmet-grilled-cheese
+  - soda
+  - sausages
+  - frozen-yogurt
+  - vegan
+  - donuts
+  - eggs
+  - gluten-free
+  - winery
+  - mediterranean
+  - wings
+  - cookies
+  - local-butcher
+  - vegetarian
+  - british-and-irish-groceries-and-tea
+  - healthy
+  - ramen
+  - breakfast-brunch
+  - catering
+  name: unknown-cuisines

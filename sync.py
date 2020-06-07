@@ -29,6 +29,7 @@ CUISINE_INITIAL = [
     "Chinese",
     "Coffee and Tea",
     "Deli",
+    "Desserts",
     "Ethiopian",
     "Fast Food",
     "Fine Dining",
@@ -50,6 +51,8 @@ CUISINE_INITIAL = [
     "Sushi",
     "Thai",
 ]
+
+CUISINE_INITIAL_SLUGS = [slugify(cuisine) for cuisine in CUISINE_INITIAL]
 
 # Don't customize these
 EXPECTED_ENV_VARS = [
@@ -132,6 +135,19 @@ def load_aliases():
     return data
 
 
+def aliases_to_cuisine():
+    aliases = load_aliases()
+
+    data = {}
+    cuisines = aliases["cuisines"]
+    for cuisine in cuisines:
+        cuisine_aliases = cuisine["aliases"]
+        if len(cuisine_aliases):
+            for cuisine_alias in cuisine_aliases:
+                data[cuisine_alias] = cuisine["name"]
+    return data
+
+
 def string_to_boolean(value):
     validator = Boolean()
     value, error = validator.validate_or_error(value)
@@ -177,6 +193,40 @@ def cli():
 
 
 @cli.command()
+def sync_cuisines_to_aliases():
+    click.echo("sync-cuisines-to-aliases")
+
+    aliases = load_aliases()
+    cuisine_aliases = aliases["cuisines"]
+
+    data = []
+    places = Path("_places").glob("*.md")
+    for place in places:
+        post = frontmatter.loads(place.read_text())
+        cuisines = post["cuisines"]
+        if cuisines and len(cuisines):
+            data += cuisines
+
+    for cuisine in CUISINE_INITIAL:
+        cuisine_slug = slugify(cuisine)
+        if not any([True for alias in cuisine_aliases if cuisine_slug == alias["name"].lower()]):
+            aliases["cuisines"].append({"name": cuisine_slug, "aliases": list()})
+
+
+    data = set([slugify(item) for item in data])
+    unknown_cuisines = []
+    for cuisine in data:
+        if not any([True for alias in cuisine_aliases if cuisine in alias["aliases"]]):
+            if cuisine not in CUISINE_INITIAL_SLUGS:
+                unknown_cuisines.append(cuisine)
+
+    aliases["unknown-cuisines"] = list()
+    aliases["unknown-cuisines"].append({"name": "unknown-cuisines", "aliases": unknown_cuisines})
+
+    Path("_data", "aliases.yml").write_text(yaml.dump(aliases))
+
+
+@cli.command()
 @click.option("--overwrite", is_flag=True)
 def sync_cuisines(overwrite):
     click.echo("sync-cuisines")
@@ -214,7 +264,7 @@ def sync_cuisines(overwrite):
                 aliases = [
                     alias["aliases"]
                     for alias in cuisine_aliases
-                    if cuisine.lower() == alias["name"].lower()
+                    if cuisine_slug == alias["name"].lower()
                 ][0]
                 redirect_from = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
                 post["aliases"] = aliases
@@ -226,26 +276,26 @@ def sync_cuisines(overwrite):
                 frontmatter.dumps(post)
             )
 
-    data = set(data)
+    # data = set(data)
 
-    alias_data = []
-    aliases = [alias["aliases"] for alias in cuisine_aliases]
-    for alias in aliases:
-        alias_data += alias
+    # alias_data = []
+    # aliases = [alias["aliases"] for alias in cuisine_aliases]
+    # for alias in aliases:
+    #     alias_data += alias
 
-    for cuisine in data:
-        cuisine_slug = slugify(cuisine)
-        if cuisine.lower() not in alias_data:
-            if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
-                post = frontmatter.loads("")
-                post["active"] = True
-                post["name"] = cuisine
-                post["sitemap"] = False
-                post["slug"] = cuisine_slug
+    # for cuisine in data:
+    #     cuisine_slug = slugify(cuisine)
+    #     if cuisine.lower() not in alias_data:
+    #         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+    #             post = frontmatter.loads("")
+    #             post["active"] = True
+    #             post["name"] = cuisine
+    #             post["sitemap"] = False
+    #             post["slug"] = cuisine_slug
 
-                Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
-                    frontmatter.dumps(post)
-                )
+    #             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+    #                 frontmatter.dumps(post)
+    #             )
 
 
 @cli.command()
@@ -324,6 +374,7 @@ def sync_neighborhoods():
 def sync_places(sheet_app_id, output_folder, sheet_name):
 
     output_folder = Path(output_folder)
+    cuisine_aliases = aliases_to_cuisine()
 
     try:
         sa = SpreadsheetApp(from_env=True)
@@ -403,7 +454,13 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
             place["cuisines"] = None
 
         if place["cuisines"] and len(place["cuisines"]):
-            place["cuisine_slugs"] = [slugify(cuisine) for cuisine in place["cuisines"]]
+            place["cuisine_slugs"] = []
+            for cuisine in place["cuisines"]:
+                cuisine_slug = slugify(cuisine)
+                place["cuisine_slugs"].append(cuisine_slug)
+                if cuisine_slug in cuisine_aliases and cuisine_aliases[cuisine_slug] not in place["cuisine_slugs"]:
+                    place["cuisine_slugs"].append(cuisine_aliases[cuisine_slug])
+
         else:
             place["cuisine_slugs"] = None
 
