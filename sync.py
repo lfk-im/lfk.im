@@ -34,6 +34,7 @@ CUISINE_INITIAL = [
     "Ethiopian",
     "Fast Food",
     "Fine Dining",
+    "Fried Chicken",
     "Greek",
     "Homestyle Cookin'",
     "Ice Cream / Juice",
