@@ -17,15 +17,19 @@ cuisines:
   - birthday cakes
   - cake pops
   - cakes
+  - cookies
   - cupcakes
   - dessert
   - diy cupcake kits
+  - donuts
+  - frozen-yogurt
   - sample cake boxes
   name: desserts
 - aliases:
   - chicken
   - chickens
   - fried-chicken
+  - wings
   name: fried chicken
 - aliases:
   - taco
@@ -37,7 +41,8 @@ cuisines:
   name: asian
 - aliases: []
   name: bar-grill
-- aliases: []
+- aliases:
+  - breakfast-brunch
   name: breakfast
 - aliases:
   - brewery
@@ -100,40 +105,37 @@ cuisines:
   name: sushi
 - aliases: []
   name: thai
+- aliases:
+  - eggs
+  - local-butcher
+  - sausages
+  name: butcher
 neighborhoods:
 - name: 701 W 23rd St
 unknown-cuisines:
 - aliases:
-  - pasta
-  - hawaiian
-  - wraps
-  - smoothies
-  - global
-  - farm
+  - british-and-irish-groceries-and-tea
+  - catering
   - diner
+  - farm
+  - global
+  - gluten-free
+  - gourmet-grilled-cheese
+  - hawaiian
+  - healthy
   - heat-eat
-  - salads-and-sandwiches
+  - mediterranean
+  - pasta
   - popcorn
+  - ramen
+  - salads
+  - salads-and-sandwiches
+  - smoothies
+  - soda
   - soup
   - variety
-  - salads
-  - gourmet-grilled-cheese
-  - soda
-  - sausages
-  - frozen-yogurt
   - vegan
-  - donuts
-  - eggs
-  - gluten-free
-  - winery
-  - mediterranean
-  - wings
-  - cookies
-  - local-butcher
   - vegetarian
-  - british-and-irish-groceries-and-tea
-  - healthy
-  - ramen
-  - breakfast-brunch
-  - catering
+  - winery
+  - wraps
   name: unknown-cuisines
