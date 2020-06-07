@@ -25,6 +25,7 @@ CUISINE_INITIAL = [
     "Breakfast",
     "Breweries",
     "Burgers",
+    "Butcher",
     "Cajun",
     "Chinese",
     "Coffee and Tea",
@@ -281,26 +282,26 @@ def sync_cuisines(overwrite):
                 frontmatter.dumps(post)
             )
 
-    # data = set(data)
+    data = set(data)
 
-    # alias_data = []
-    # aliases = [alias["aliases"] for alias in cuisine_aliases]
-    # for alias in aliases:
-    #     alias_data += alias
+    alias_data = []
+    aliases = [alias["aliases"] for alias in cuisine_aliases]
+    for alias in aliases:
+        alias_data += alias
 
-    # for cuisine in data:
-    #     cuisine_slug = slugify(cuisine)
-    #     if cuisine.lower() not in alias_data:
-    #         if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
-    #             post = frontmatter.loads("")
-    #             post["active"] = True
-    #             post["name"] = cuisine
-    #             post["sitemap"] = False
-    #             post["slug"] = cuisine_slug
+    for cuisine in data:
+        cuisine_slug = slugify(cuisine)
+        if cuisine.lower() not in alias_data:
+            if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+                post = frontmatter.loads("")
+                post["active"] = False
+                post["name"] = cuisine
+                post["sitemap"] = False
+                post["slug"] = cuisine_slug
 
-    #             Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
-    #                 frontmatter.dumps(post)
-    #             )
+                Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+                    frontmatter.dumps(post)
+                )
 
 
 @cli.command()
@@ -383,6 +384,12 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
     output_folder = Path(output_folder)
     cuisine_aliases = aliases_to_cuisine()
 
+    aliases =  load_aliases()
+    try:
+        unknown_cuisines = aliases["unknown-cuisines"][0]["aliases"]
+    except:
+        unknown_cuisines = None
+
     try:
         sa = SpreadsheetApp(from_env=True)
     except AttributeError:
@@ -457,6 +464,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
             place["cuisines"] = [
                 cuisine.strip() for cuisine in place["cuisine"].split(",")
             ]
+            if unknown_cuisines:
+                place["cuisines"] = [cuisine for cuisine in place["cuisines"] if slugify(cuisine) not in unknown_cuisines]
+
         else:
             place["cuisines"] = None
 
