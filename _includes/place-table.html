@@ -76,19 +76,19 @@
                         <ul class="absolute z-10 w-40 p-1 -mt-10 -ml-32 text-left bg-white border rounded shadow-md rounded-xl" x-cloak>
                         {% if place.restaurant_phone and place.restaurant_phone != "" and place.restaurant_phone != nil %}
                           <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
-                              href="tel:{{ place.restaurant_phone }}">
+                              href="tel:{{ place.restaurant_phone }}" rel="nofollow">
                             {{ place.restaurant_phone }}</a></li>
                         {% endif %}
                         {% if place.website and place.website != "" and place.website != nil %}
                           <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
-                              href="{{ place.website }}">
+                              href="{{ place.website }}" rel="nofollow">
                             visit website</a></li>
                         {% endif %}
 
                         {% if place.food_urls.size > 0 %}
                           {% for food in place.food_urls %}
                             <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
-                                href="{{ food.url }}">
+                                href="{{ food.url }}" rel="nofollow">
                               order {{ food.name }}</a></li>
                           {% endfor %}
                         {% endif %}
@@ -97,7 +97,7 @@
                     </div>
                   {% else %}
                     {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
-                      <a href="{{ place.giftcard_url }}" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
+                      <a href="{{ place.giftcard_url }}" rel="nofollow" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
                         🎁 giftcard</a>
                     {% endif %}
                 {% endcase %}
