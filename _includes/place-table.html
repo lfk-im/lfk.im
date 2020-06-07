@@ -65,8 +65,6 @@
             {% endcase %}
             <td class="px-4 py-2 md:table-cell md:align-middle">
               <span class="relative">
-                {% case include.active %}
-                  {% when true %}
                     <div x-data="{ open: false }">
                       <button
                           class="h-8 p-2 font-bold text-black hover:text-blue-700"
@@ -79,10 +77,17 @@
                               href="tel:{{ place.restaurant_phone }}" rel="nofollow">
                             {{ place.restaurant_phone }}</a></li>
                         {% endif %}
+
                         {% if place.website and place.website != "" and place.website != nil %}
                           <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
                               href="{{ place.website }}" rel="nofollow">
                             visit website</a></li>
+                        {% endif %}
+
+                        {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
+                          <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:bg-blue-300 hover:text-blue-500"
+                              href="{{ place.giftcard_url }}" rel="nofollow">
+                            🎁 giftcard</a></li>
                         {% endif %}
 
                         {% if place.food_urls.size > 0 %}
@@ -95,12 +100,6 @@
                         </ul>
                       </div>
                     </div>
-                  {% else %}
-                    {% if place.giftcard_url and place.giftcard_url != "" and place.giftcard_url != nil %}
-                      <a href="{{ place.giftcard_url }}" rel="nofollow" class="px-3 py-1 mb-8 text-xs text-gray-800 bg-gray-300 rounded hover:bg-blue-300 hover:text-blue-700">
-                        🎁 giftcard</a>
-                    {% endif %}
-                {% endcase %}
               </span>
             </td>
           </tr>
