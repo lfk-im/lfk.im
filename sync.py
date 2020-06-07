@@ -209,9 +209,10 @@ def sync_cuisines_to_aliases():
 
     for cuisine in CUISINE_INITIAL:
         cuisine_slug = slugify(cuisine)
-        if not any([True for alias in cuisine_aliases if cuisine_slug == alias["name"].lower()]):
+        if not any(
+            [True for alias in cuisine_aliases if cuisine_slug == alias["name"].lower()]
+        ):
             aliases["cuisines"].append({"name": cuisine_slug, "aliases": list()})
-
 
     data = set([slugify(item) for item in data])
     unknown_cuisines = []
@@ -221,7 +222,9 @@ def sync_cuisines_to_aliases():
                 unknown_cuisines.append(cuisine)
 
     aliases["unknown-cuisines"] = list()
-    aliases["unknown-cuisines"].append({"name": "unknown-cuisines", "aliases": unknown_cuisines})
+    aliases["unknown-cuisines"].append(
+        {"name": "unknown-cuisines", "aliases": unknown_cuisines}
+    )
 
     Path("_data", "aliases.yml").write_text(yaml.dump(aliases))
 
@@ -250,7 +253,9 @@ def sync_cuisines(overwrite):
         if (not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
             post = frontmatter.loads("")
             post["active"] = True
-            post["description"] = f"{cuisine} restaurants offering curbside, takeout, and delivery food in Lawrence, Kansas"
+            post[
+                "description"
+            ] = f"{cuisine} restaurants offering curbside, takeout, and delivery food in Lawrence, Kansas"
             post["name"] = cuisine
             post["sitemap"] = True
             post["slug"] = cuisine_slug
@@ -305,7 +310,9 @@ def sync_downtownlawrence():
     if not Path("_downtown").exists():
         Path("_downtown").mkdir()
 
-    url = requests.get("https://www.downtownlawrence.com/2020/04/list-business-temporary-closingsreduced-hours/")
+    url = requests.get(
+        "https://www.downtownlawrence.com/2020/04/list-business-temporary-closingsreduced-hours/"
+    )
     soup = BeautifulSoup(url.text, "html.parser")
     table = soup.find("table")
 
@@ -458,7 +465,10 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
             for cuisine in place["cuisines"]:
                 cuisine_slug = slugify(cuisine)
                 place["cuisine_slugs"].append(cuisine_slug)
-                if cuisine_slug in cuisine_aliases and cuisine_aliases[cuisine_slug] not in place["cuisine_slugs"]:
+                if (
+                    cuisine_slug in cuisine_aliases
+                    and cuisine_aliases[cuisine_slug] not in place["cuisine_slugs"]
+                ):
                     place["cuisine_slugs"].append(cuisine_aliases[cuisine_slug])
 
         else:
