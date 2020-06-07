@@ -29,7 +29,7 @@ hours: ''
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Closed
+notes: Closed until August or September
 restaurant_phone: 785-842-6560
 sitemap: false
 slug: quintons-bar-deli-615-massachusetts-st
@@ -38,4 +38,4 @@ takeout: false
 website: https://www.snappyeats.com/Order/menudetail.aspx?restaurantID=5020#!/category/
 ---
 
-Closed
+Closed until August or September

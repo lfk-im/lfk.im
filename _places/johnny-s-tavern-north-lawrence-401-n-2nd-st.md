@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 401 N 2nd St
 cuisine: American, Sandwiches, Pizza, Salads
 cuisine_slugs:
@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Thr-Sun 4pm-8pm, June 12th full hours
 name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
