@@ -4,7 +4,6 @@ address: 4931 W 6th St
 cuisine: Steakhouse
 cuisine_slugs:
 - steakhouse
-- steak
 cuisines:
 - Steakhouse
 curbside: true

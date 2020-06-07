@@ -12,7 +12,6 @@ cuisine_slugs:
 - fried chicken
 - seafood
 - steakhouse
-- steak
 cuisines:
 - American
 - Barbecue

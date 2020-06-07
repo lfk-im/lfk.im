@@ -4,7 +4,6 @@ address: 623 Massachusetts St
 cuisine: Steakhouse, American
 cuisine_slugs:
 - steakhouse
-- steak
 - american
 cuisines:
 - Steakhouse

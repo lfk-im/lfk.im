@@ -5,7 +5,7 @@ cuisine: American, Steaks
 cuisine_slugs:
 - american
 - steaks
-- steak
+- steakhouse
 cuisines:
 - American
 - Steaks
