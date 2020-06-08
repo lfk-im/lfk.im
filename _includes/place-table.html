@@ -25,10 +25,14 @@
               @keydown.escape="is_{{ place.slug | replace: "-", "_" }}_open = false">
             <td class="px-4 py-2 text-right">
               <div class="font-medium">
-                {% comment %}
-                <a class="text-blue-700 underline whitespace-no-wrap hover:text-blue-500" name="{{ place.name|slugify : 'latin' }}" href="{{ place.url }}">{{ place.name }}</a>
-                {% endcomment %}
-                <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
+                {% case site.show_place_details %}
+                  {% when true %}
+                    <a class="text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
+                        name="{{ place.name|slugify : 'latin' }}"
+                        href="{{ place.url }}">{{ place.name }}</a>
+                  {% else %}
+                    <a class="text-blue-700 whitespace-no-wrap" name="{{ place.name|slugify : 'latin' }}">{{ place.name }}</a>
+                {% endcase %}
               </div>
               {% if place.address %}
               <address class="pt-1 text-sm">{{ place.address }}</address>
