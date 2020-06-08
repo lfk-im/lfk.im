@@ -1,16 +1,16 @@
 ---
 active: true
 aliases:
-- birthday cakes
-- cake pops
+- birthday-cakes
+- cake-pops
 - cakes
 - cookies
 - cupcakes
 - dessert
-- diy cupcake kits
+- diy-cupcake-kits
 - donuts
 - frozen-yogurt
-- sample cake boxes
+- sample-cake-boxes
 description: Desserts restaurants offering curbside, takeout, and delivery food in
   Lawrence, Kansas
 name: Desserts
