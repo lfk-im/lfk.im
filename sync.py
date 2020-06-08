@@ -343,7 +343,7 @@ def sync_neighborhoods():
     click.echo("sync-neighborhoods")
 
     aliases = load_aliases()
-    neighborhood_aliases = aliases["neighborhoods"]
+    neighborhood_aliases = aliases.get("neighborhoods", list())
 
     data = []
     places = Path("_places").glob("*.md")

@@ -112,8 +112,8 @@ cuisines:
   - local-butcher
   - sausages
   name: butcher
-neighborhoods:
-- name: 701 W 23rd St
+# neighborhoods:
+# - name: 701 W 23rd St
 unknown-cuisines:
 - aliases:
   - british-and-irish-groceries-and-tea
