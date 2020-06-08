@@ -1,6 +1,6 @@
 ---
 active: false
-address: N/A
+address: ''
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
@@ -28,7 +28,7 @@ neighborhood: ''
 notes: Closed through June 8th - Deliveries happen following business day
 restaurant_phone: 785-836-4100
 sitemap: false
-slug: e-barn-farm-bakery-n-a
+slug: e-barn-farm-bakery
 social: https://www.instagram.com/ebarnfarmlf
 takeout: false
 website: https://ebarnfarm.org/
