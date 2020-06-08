@@ -7,12 +7,14 @@ cuisines: []
 curbside: true
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: ''
-food_urls: []
+delivery_service_websites: https://culinariaks.square.site/
+food_urls:
+- name: order online
+  url: https://culinariaks.square.site/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thursday - Saturday 3:30-8pm
+hours: Thr-Sat 3:30pm-8pm
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
