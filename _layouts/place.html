@@ -10,77 +10,102 @@ layout: default
   </h1>
   <h2 class="text-2xl font-bold">{{ page.address }}</h2>
 
-  <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}">Visit website</a>
-
   {% if page.neighborhood %}
-  <div>
-  Neighborhood: <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a>
-  </div>
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Neighborhood</dt>
+    <dd><a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a></dd>
+  </dl>
   {% endif %}
 
-  {% if page.hours %}
-  <div>
-  Hours: {{ page.hours }}
-  </div>
-  {% endif %}
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Hours</dt>
+    <dd>{{ page.hours }}</dd>
+  </dl>
 
   {% if page.cuisines %}
-  <div>
-  Cuisine:
-  {% for cuisine in page.cuisines %}
-  <a class="text-blue-700 underline hover:text-blue-500" href="/cuisines/{{ cuisine|slugify }}/">{{ cuisine }}</a>
-  {% endfor %}
-  </div>
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Cuisine</dt>
+    <dd>
+    {% for cuisine in page.cuisines %}
+      <a class="text-blue-700 underline hover:text-blue-500" href="/cuisines/{{ cuisine|slugify }}/">{{ cuisine }}</a>
+    {% endfor %}
+    </dd>
+  </dl>
   {% endif %}
 
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Website</dt>
+    <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}">website</a></dd>
+  </dl>
 
-  <div class="whitespace-no-wrap">
-    Takeout: {% if page.takeout %}✅ Yes{% else %}❌ No{% endif %}
-  </div>
-  <div class="whitespace-no-wrap">
-    Curbside: {% if page.curbside %}✅ Yes{% else %}❌ No{% endif %}
-  </div>
-  <div class="whitespace-no-wrap">
-    Delivery: {% if page.delivery %}✅ Yes{% else %}❌ No{% endif %}
-  </div>
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Takeout</dt>
+    <dd>{% if page.takeout %}✅ Yes{% else %}❌ No{% endif %}</dd>
+  </dl>
+
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Delivery</dt>
+    <dd>{% if page.delivery %}✅ Yes{% else %}❌ No{% endif %}</dd>
+  </dl>
+
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Curbside</dt>
+    <dd>{% if page.curbside %}✅ Yes{% else %}❌ No{% endif %}</dd>
+  </dl>
 
   {% if page.curbside_instructions and page.curbside_instructions != "" and page.curbside_instructions != nil %}
-  <h2 class="text-2xl font-bold">Curbside Instructions</h2>
-  <aside class="max-w-lg p-4 mt-4 bg-yellow-100 border border-yellow-500">
-    <p>{{ page.curbside_instructions }}</p>
-  </aside>
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Curbside Instructions</dt>
+    <dd>{{ page.curbside_instructions }}</dd>
+  </dl>
   {% endif %}
+
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Social</dt>
+    <dd><a href="{{ page.social }}">{{ page.social }}</a></dd>
+  </dl>
 
   {% if page.giftcard and page.giftcard != "" and page.giftcard != nil %}
-  <h2 class="text-2xl font-bold">Giftcard Options</h2>
-  <aside class="max-w-lg p-4 mt-4 bg-yellow-100 border border-yellow-500">
-    <p>{{ page.giftcard_notes }}</p>
-    {% if page.giftcard_url %}
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Giftcard Options</dt>
+    <dd>
       <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ page.giftcard_url }}">{{ page.giftcard_url }}</a>
-    {% endif %}
-  </aside>
+    </dd>
+  </dl>
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Giftcard Notes</dt>
+    <dd>
+      {{ page.giftcard_notes }}
+    </dd>
+  </dl>
   {% endif %}
 
-  <h2 class="text-2xl font-bold">Ordering Options</h2>
+  <h2 class="text-2xl font-bold pt-8">Ordering Options</h2>
 
-  <ul class="bg-gray-100 border">
-    <li class="my-4">
-      <a class="p-2 m-4 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Phone</dt>
+    <dd>
+      <a class="text-blue-700 underline hover:text-blue-500"
           href="tel:{{ page.restaurant_phone }}">
         {{ page.restaurant_phone }}</a>
-    </li>
-    <li class="my-4">
-      <a class="p-2 m-4 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
-          href="{{ page.delivery_service_websites }}">
-        order</a>
-    </li>
-    {% for food in page.food_urls %}
-    <li class="my-4">
-      <a class="p-2 m-4 text-xs text-gray-800 whitespace-no-wrap bg-gray-300 border hover:bg-blue-300 hover:text-blue-700"
+    </dd>
+  </dl>
+
+  {% for food in page.food_urls %}
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Order</dt>
+    <dd>
+      <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ food.url }}">
-        order via {{ food.name }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+        {{ food.name }}</a>
+    </dd>
+  </dl>
+  {% endfor %}
+
+  {% if page.notes and page.notes != "" and page.notes != nil %}
+  <h2 class="text-2xl font-bold pt-8">Notes</h2>
+  <div>{{ page.notes }}</div>
+  {% endif %}
+
 </div>
