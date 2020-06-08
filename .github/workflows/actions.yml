@@ -1,0 +1,73 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+  # every 15 minutes - https://crontab.guru/#*/15_*_*_*_*
+  - cron:  '*/15 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Setup python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.7"
+          architecture: "x64"
+
+      - name: Cache pip
+        id: cache-pip
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install our project requirements
+        # if: steps.cache-pip.outputs.cache-hit != 'true'
+        run: |
+          pip install -U pip
+          python -m pip install -r requirements.txt
+
+      - name: Clean up old Places to avoid duplicates
+        run: |
+          rm _places/*
+
+      - name: Sync Places (Google Sheets) locally
+        env:
+          LFK_GOOGLE_SHEET_APP_ID: ${{ secrets.LFK_GOOGLE_SHEET_APP_ID }}
+          LFK_SHEET_NAME: ${{ secrets.LFK_SHEET_NAME }}
+          SHEETFU_CONFIG_AUTH_PROVIDER_URL: ${{ secrets.SHEETFU_CONFIG_AUTH_PROVIDER_URL }}
+          SHEETFU_CONFIG_AUTH_URI: ${{ secrets.SHEETFU_CONFIG_AUTH_URI }}
+          SHEETFU_CONFIG_CLIENT_CERT_URL: ${{ secrets.SHEETFU_CONFIG_CLIENT_CERT_URL }}
+          SHEETFU_CONFIG_CLIENT_EMAIL: ${{ secrets.SHEETFU_CONFIG_CLIENT_EMAIL }}
+          SHEETFU_CONFIG_CLIENT_ID: ${{ secrets.SHEETFU_CONFIG_CLIENT_ID }}
+          SHEETFU_CONFIG_PRIVATE_KEY: ${{ secrets.SHEETFU_CONFIG_PRIVATE_KEY }}
+          SHEETFU_CONFIG_PRIVATE_KEY_ID: ${{ secrets.SHEETFU_CONFIG_PRIVATE_KEY_ID }}
+          SHEETFU_CONFIG_PROJECT_ID: ${{ secrets.SHEETFU_CONFIG_PROJECT_ID }}
+          SHEETFU_CONFIG_TOKEN_URI: ${{ secrets.SHEETFU_CONFIG_TOKEN_URI }}
+          SHEETFU_CONFIG_TYPE: ${{ secrets.SHEETFU_CONFIG_TYPE }}
+        run: |
+          python sync.py sync-places
+
+      - name: Sync Cuisines locally
+        run: |
+          rm _cuisines/*
+          python sync.py sync-cuisines
+
+      - name: Sync Neighborhoods locally
+        run: |
+          rm _neighborhoods/*
+          python sync.py sync-neighborhoods
+
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
