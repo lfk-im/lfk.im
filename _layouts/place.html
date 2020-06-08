@@ -20,10 +20,12 @@ layout: default
   </dl>
   {% endif %}
 
+  {% if page.hours and page.hours != "" and page.hours != nil %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Hours</dt>
     <dd>{{ page.hours }}</dd>
   </dl>
+  {% endif %}
 
   {% if page.cuisines %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
