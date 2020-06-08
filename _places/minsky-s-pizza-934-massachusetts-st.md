@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Thr 11am-9pm, Fri 11am-10pm, Sat 12pm-9pm, Sun 12pm-9pm
+hours: Mon-Thr 11am-9pm, Fri 11am-10pm, Sat 12pm-10pm, Sun 12pm-9pm
 name: Minsky's Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
