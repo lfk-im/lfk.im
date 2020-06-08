@@ -1,50 +1,50 @@
-name: Sync Downtown Lawrence
+# name: Sync Downtown Lawrence
 
-on:
-  #push:
-  #  branches:
-  #    - master
+# on:
+#   #push:
+#   #  branches:
+#   #    - master
 
-  schedule:
-  # every 2 hours - https://crontab.guru/#*_*/2_*_*_*
-  - cron:  '* */2 * * *'
+#   schedule:
+#   # every 2 hours - https://crontab.guru/#*_*/2_*_*_*
+#   - cron:  '* */2 * * *'
 
-jobs:
-  downtownlawrence:
-    runs-on: ubuntu-latest
+# jobs:
+#   downtownlawrence:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@master
+#     steps:
+#       - uses: actions/checkout@master
 
-      - name: Setup python
-        uses: actions/setup-python@v1
-        with:
-          python-version: "3.7"
-          architecture: "x64"
+#       - name: Setup python
+#         uses: actions/setup-python@v1
+#         with:
+#           python-version: "3.7"
+#           architecture: "x64"
 
-      - name: Cache pip
-        id: cache-pip
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+#       - name: Cache pip
+#         id: cache-pip
+#         uses: actions/cache@v2
+#         with:
+#           path: ~/.cache/pip
+#           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+#           restore-keys: |
+#             ${{ runner.os }}-pip-
 
-      - name: Install our project requirements
-        # if: steps.cache-pip.outputs.cache-hit != 'true'
-        run: |
-          pip install -U pip
-          python -m pip install -r requirements.txt
+#       - name: Install our project requirements
+#         # if: steps.cache-pip.outputs.cache-hit != 'true'
+#         run: |
+#           pip install -U pip
+#           python -m pip install -r requirements.txt
 
-      - name: Clean up old Downtown Lawrence places
-        run: |
-          rm -rf _downtown/*
+#       - name: Clean up old Downtown Lawrence places
+#         run: |
+#           rm -rf _downtown/*
 
-      - name: Sync Downtown Lawrence places
-        run: |
-          python sync.py sync-downtownlawrence
+#       - name: Sync Downtown Lawrence places
+#         run: |
+#           python sync.py sync-downtownlawrence
 
-      - uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       - uses: mikeal/publish-to-github-action@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
