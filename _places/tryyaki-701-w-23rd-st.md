@@ -28,8 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 name: Tryyaki
-neighborhood: 701 W 23rd St
-neighborhood_slug: 701-w-23rd-st
+neighborhood: ''
 notes: ''
 restaurant_phone: 785-842-6688
 sitemap: false
