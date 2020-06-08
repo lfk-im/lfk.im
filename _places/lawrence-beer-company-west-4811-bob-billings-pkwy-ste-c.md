@@ -1,11 +1,14 @@
 ---
 active: true
 address: 4811 Bob Billings Pkwy Ste C
-cuisine: American
+cuisine: American, Brewery
 cuisine_slugs:
 - american
+- brewery
+- breweries
 cuisines:
 - American
+- Brewery
 curbside: true
 curbside_instructions: ''
 delivery: false

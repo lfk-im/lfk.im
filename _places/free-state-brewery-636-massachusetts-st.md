@@ -1,13 +1,16 @@
 ---
 active: true
 address: 636 Massachusetts St
-cuisine: American, Sandwiches, Pasta, Salads
+cuisine: American, Brewery, Sandwiches, Pasta, Salads
 cuisine_slugs:
 - american
+- brewery
+- breweries
 - sandwiches
 - deli
 cuisines:
 - American
+- Brewery
 - Sandwiches
 curbside: true
 curbside_instructions: ''

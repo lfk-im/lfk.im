@@ -1,11 +1,14 @@
 ---
 active: true
 address: 826 Pennsylvania St
-cuisine: American
+cuisine: American, Brewery
 cuisine_slugs:
 - american
+- brewery
+- breweries
 cuisines:
 - American
+- Brewery
 curbside: true
 curbside_instructions: ''
 delivery: false

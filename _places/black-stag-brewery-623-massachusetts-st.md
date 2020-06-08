@@ -1,13 +1,16 @@
 ---
 active: true
 address: 623 Massachusetts St
-cuisine: Steakhouse, American
+cuisine: American, Brewery, Steakhouse
 cuisine_slugs:
-- steakhouse
 - american
+- brewery
+- breweries
+- steakhouse
 cuisines:
-- Steakhouse
 - American
+- Brewery
+- Steakhouse
 curbside: true
 curbside_instructions: ''
 delivery: false

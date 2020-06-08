@@ -1,14 +1,17 @@
 ---
 active: true
 address: 706 E 23rd St
-cuisine: American, Sandwiches, Pizza, Salads
+cuisine: American, Brewery, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american
+- brewery
+- breweries
 - sandwiches
 - deli
 - pizza
 cuisines:
 - American
+- Brewery
 - Sandwiches
 - Pizza
 curbside: true
