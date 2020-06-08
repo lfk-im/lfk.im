@@ -8,7 +8,7 @@ layout: default
     {{ page.name }}
     {% unless page.active %}<small class="text-red-900">- Closed</small>{% endunless %}
   </h1>
-  <h2 class="text-2xl font-bold">{{ page.address }}</h2>
+  <h2 class="text-2xl text-gray-800 font-bold">{{ page.address }}</h2>
 
   {% if page.neighborhood %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
@@ -65,10 +65,12 @@ layout: default
   </dl>
   {% endif %}
 
+  {% if page.social and page.social != "" and page.social != nil %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Social</dt>
     <dd><a href="{{ page.social }}">{{ page.social }}</a></dd>
   </dl>
+  {% endif %}
 
   {% if page.giftcard and page.giftcard != "" and page.giftcard != nil %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
@@ -108,7 +110,7 @@ layout: default
 
   {% if page.notes and page.notes != "" and page.notes != nil %}
   <h2 class="text-2xl font-bold pt-8">Notes</h2>
-  <div>{{ page.notes }}</div>
+  <div class="text-lg">{{ page.notes }}</div>
   {% endif %}
 
 </div>
