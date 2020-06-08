@@ -62,3 +62,5 @@ author: "@webology"
 twitter:
   card: summary
   username: "@webology"
+
+show_place_details: false
