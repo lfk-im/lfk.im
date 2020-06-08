@@ -13,7 +13,10 @@ layout: default
   {% if page.neighborhood %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Neighborhood</dt>
-    <dd><a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a></dd>
+    <dd>
+      <a class="text-blue-700 underline hover:text-blue-500"
+          href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a>
+    </dd>
   </dl>
   {% endif %}
 
@@ -35,7 +38,9 @@ layout: default
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Website</dt>
-    <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}">website</a></dd>
+    <dd>
+      <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}">website</a>
+    </dd>
   </dl>
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
@@ -75,9 +80,7 @@ layout: default
   </dl>
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Giftcard Notes</dt>
-    <dd>
-      {{ page.giftcard_notes }}
-    </dd>
+    <dd>{{ page.giftcard_notes }}</dd>
   </dl>
   {% endif %}
 
