@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thr-Fri 4pm-8pm, Sat 3pm-8pm (check their social media)
+hours: Mon-Fri 3pm-2am, Sat 1pm-2am, Sun 5pm-2am
 name: The Sandbar
 neighborhood: Downtown
 neighborhood_slug: downtown
