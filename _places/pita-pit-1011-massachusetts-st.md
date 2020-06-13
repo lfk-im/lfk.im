@@ -36,6 +36,7 @@ name: Pita Pit
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-856-2500
 sitemap: false
 slug: pita-pit-1011-massachusetts-st

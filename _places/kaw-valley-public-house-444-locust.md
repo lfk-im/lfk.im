@@ -22,6 +22,7 @@ name: Kaw Valley Public House
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+place_type: BarOrPub
 restaurant_phone: 785-424-7249
 sitemap: false
 slug: kaw-valley-public-house-444-locust

@@ -26,6 +26,7 @@ name: Hi Tea
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-424-7727
 sitemap: false
 slug: hi-tea-7-e-8th-st

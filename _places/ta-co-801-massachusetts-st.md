@@ -29,6 +29,7 @@ name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone for takeout or delivery, or order through EatStreet
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-856-2170
 sitemap: false
 slug: ta-co-801-massachusetts-st

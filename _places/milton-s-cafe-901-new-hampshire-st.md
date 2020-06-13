@@ -28,6 +28,7 @@ name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed
+place_type: Restaurant
 restaurant_phone: 785-856-0663
 sitemap: false
 slug: milton-s-cafe-901-new-hampshire-st

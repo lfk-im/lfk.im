@@ -32,6 +32,7 @@ name: Burgers by Biggs
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-2233
 sitemap: false
 slug: burgers-by-biggs-4801-bauer-farm-dr-suite-a

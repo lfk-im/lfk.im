@@ -17,6 +17,7 @@ name: Moose McGuire's
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
+place_type: Restaurant
 restaurant_phone: 785-856-0918
 sitemap: false
 slug: moose-mcguire-s-3320-mccarthy-rd

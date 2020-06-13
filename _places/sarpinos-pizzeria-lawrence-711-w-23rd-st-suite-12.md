@@ -28,6 +28,7 @@ hours: Sun-Th 10am-2am, Fri-Sat 10am-3am
 name: 'Sarpino’s Pizzeria Lawrence '
 neighborhood: ''
 notes: Free delivery
+place_type: Restaurant
 restaurant_phone: 785-727-7770
 sitemap: false
 slug: sarpinos-pizzeria-lawrence-711-w-23rd-st-suite-12

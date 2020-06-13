@@ -19,6 +19,7 @@ name: Bon Bon!
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Re-opened
+place_type: Restaurant
 restaurant_phone: 785-856-2275
 sitemap: false
 slug: bon-bon-804-pennsylvania-st

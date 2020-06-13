@@ -29,6 +29,7 @@ name: Jason’s Deli
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-5600
 sitemap: false
 slug: jasons-deli-3140-iowa-st

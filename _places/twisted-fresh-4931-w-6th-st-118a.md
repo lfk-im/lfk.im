@@ -32,6 +32,7 @@ name: Twisted Fresh
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-0689
 sitemap: false
 slug: twisted-fresh-4931-w-6th-st-118a

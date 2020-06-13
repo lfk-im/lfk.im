@@ -22,6 +22,7 @@ name: Pickleman’s
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-856-9060
 sitemap: false
 slug: picklemans-3514-clinton-parkway

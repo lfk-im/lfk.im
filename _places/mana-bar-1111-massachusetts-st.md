@@ -19,6 +19,7 @@ name: Mana Bar
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Retail Only
+place_type: Restaurant
 restaurant_phone: 785-856-8227
 sitemap: false
 slug: mana-bar-1111-massachusetts-st

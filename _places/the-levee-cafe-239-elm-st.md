@@ -24,6 +24,7 @@ name: The Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-3671
 sitemap: false
 slug: the-levee-cafe-239-elm-st

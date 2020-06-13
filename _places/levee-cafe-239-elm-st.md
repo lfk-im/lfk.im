@@ -19,6 +19,7 @@ name: Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: 'Permanently closed. '
+place_type: Restaurant
 restaurant_phone: 785-856-3671
 sitemap: false
 slug: levee-cafe-239-elm-st

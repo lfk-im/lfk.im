@@ -23,6 +23,7 @@ name: Jefferson's West Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-1558
 sitemap: false
 slug: jefferson-s-west-lawrence-1540-wakarusa-dr

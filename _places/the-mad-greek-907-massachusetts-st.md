@@ -30,6 +30,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Open for in person dining, Curbside Pickup & Delivery, Family Meals available,
   Open 7 days
+place_type: Restaurant
 restaurant_phone: 704-523-8296
 sitemap: false
 slug: the-mad-greek-907-massachusetts-st

@@ -30,6 +30,7 @@ hours: ''
 name: Tryyaki
 neighborhood: ''
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-6688
 sitemap: false
 slug: tryyaki-701-w-23rd-st

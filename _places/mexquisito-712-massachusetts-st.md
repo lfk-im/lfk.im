@@ -21,6 +21,7 @@ name: Mexquisito
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
+place_type: Restaurant
 restaurant_phone: 785-856-8226
 sitemap: false
 slug: mexquisito-712-massachusetts-st

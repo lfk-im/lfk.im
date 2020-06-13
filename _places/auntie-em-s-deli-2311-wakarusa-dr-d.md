@@ -28,6 +28,7 @@ name: Auntie Em's Deli
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-832-1333
 sitemap: false
 slug: auntie-em-s-deli-2311-wakarusa-dr-d

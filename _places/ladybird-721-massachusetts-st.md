@@ -24,6 +24,7 @@ name: Ladybird
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-5239
 sitemap: false
 slug: ladybird-721-massachusetts-st

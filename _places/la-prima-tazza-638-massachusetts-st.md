@@ -22,6 +22,7 @@ name: La Prima Tazza
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Currently closed, working on delivery options
+place_type: Restaurant
 restaurant_phone: 785-832-2233
 sitemap: false
 slug: la-prima-tazza-638-massachusetts-st

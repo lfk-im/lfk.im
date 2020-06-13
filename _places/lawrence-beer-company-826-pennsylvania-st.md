@@ -24,6 +24,7 @@ name: Lawrence Beer Company
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online and pick up curbside (both locations)
+place_type: Brewery
 restaurant_phone: 785-856-0453
 sitemap: false
 slug: lawrence-beer-company-826-pennsylvania-st

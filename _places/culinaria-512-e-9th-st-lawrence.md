@@ -19,6 +19,7 @@ name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-766-8591
 sitemap: false
 slug: culinaria-512-e-9th-st-lawrence

@@ -16,6 +16,7 @@ hours: Thu-Sun 12pm-6pm
 name: Trivedi Wine
 neighborhood: ''
 notes: ''
+place_type: Winery
 restaurant_phone: 785-856-0156
 sitemap: false
 slug: trivedi-wine-1826-east-1150-rd

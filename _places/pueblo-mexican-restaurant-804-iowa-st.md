@@ -19,6 +19,7 @@ name: Pueblo Mexican Restaurant
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-331-2710
 sitemap: false
 slug: pueblo-mexican-restaurant-804-iowa-st

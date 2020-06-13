@@ -19,6 +19,7 @@ name: Cosmic Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed
+place_type: Restaurant
 restaurant_phone: 785-551-3347
 sitemap: false
 slug: cosmic-cafe-1910-haskell-ave-suite-2

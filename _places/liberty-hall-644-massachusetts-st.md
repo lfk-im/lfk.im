@@ -19,6 +19,7 @@ name: Liberty Hall
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: MovieRentalStore
 restaurant_phone: 785-749-1972
 sitemap: false
 slug: liberty-hall-644-massachusetts-st

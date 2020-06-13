@@ -19,6 +19,7 @@ name: La Tropicana
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-749-3550
 sitemap: false
 slug: la-tropicana-434-locust-st

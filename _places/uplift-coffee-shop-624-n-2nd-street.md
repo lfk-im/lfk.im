@@ -22,6 +22,7 @@ name: Uplift Coffee Shop
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: Download their app to order for pickup
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-424-0466
 sitemap: false
 slug: uplift-coffee-shop-624-n-2nd-street

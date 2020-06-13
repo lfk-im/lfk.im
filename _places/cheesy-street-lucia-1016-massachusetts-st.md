@@ -23,6 +23,7 @@ name: Cheesy Street @ Lucia
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-865-4055
 sitemap: false
 slug: cheesy-street-lucia-1016-massachusetts-st

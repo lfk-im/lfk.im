@@ -29,6 +29,7 @@ name: Burger IM
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: People can order bottles of beer and pick up
+place_type: FastFoodRestaurant
 restaurant_phone: 785-856-1010
 sitemap: false
 slug: burger-im-3140-iowa-street-ste-106

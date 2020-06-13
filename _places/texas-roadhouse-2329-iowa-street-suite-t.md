@@ -36,6 +36,7 @@ neighborhood_slug: south-lawrence
 notes: We recommend that guests call ahead or order online, but they are more than
   welcome to pull up to the front door and we will have a server take their order
   right from their car.
+place_type: Restaurant
 restaurant_phone: 785-312-7427
 sitemap: false
 slug: texas-roadhouse-2329-iowa-street-suite-t

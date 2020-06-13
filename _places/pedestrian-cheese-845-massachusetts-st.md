@@ -22,6 +22,7 @@ name: Pedestrian Cheese
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-424-7089
 sitemap: false
 slug: pedestrian-cheese-845-massachusetts-st

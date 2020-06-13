@@ -23,6 +23,7 @@ name: Big Mill
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
+place_type: Restaurant
 restaurant_phone: 785-856-0101
 sitemap: false
 slug: big-mill-900-mississippi-st

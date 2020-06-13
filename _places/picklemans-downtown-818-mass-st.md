@@ -22,6 +22,7 @@ name: Pickleman’s Downtown
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-856-6700
 sitemap: false
 slug: picklemans-downtown-818-mass-st

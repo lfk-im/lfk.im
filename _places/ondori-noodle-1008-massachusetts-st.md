@@ -19,6 +19,7 @@ name: Ondori Noodle
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
+place_type: Restaurant
 restaurant_phone: 785-856-0210
 sitemap: false
 slug: ondori-noodle-1008-massachusetts-st

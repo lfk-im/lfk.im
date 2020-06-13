@@ -25,6 +25,7 @@ name: 'HogWild Pit BBQ '
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-4100
 sitemap: false
 slug: hogwild-pit-bbq-1516-23rd-st

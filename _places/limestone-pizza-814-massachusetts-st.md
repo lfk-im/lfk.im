@@ -19,6 +19,7 @@ name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone for carry out and limited local delivery
+place_type: Restaurant
 restaurant_phone: 785-856-2825
 sitemap: false
 slug: limestone-pizza-814-massachusetts-st

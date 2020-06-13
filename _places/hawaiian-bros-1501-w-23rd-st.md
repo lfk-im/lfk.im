@@ -21,6 +21,7 @@ name: Hawaiian Bros.
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-424-7525
 sitemap: false
 slug: hawaiian-bros-1501-w-23rd-st

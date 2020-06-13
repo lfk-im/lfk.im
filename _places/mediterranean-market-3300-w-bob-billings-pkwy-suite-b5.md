@@ -21,6 +21,7 @@ name: Mediterranean Market
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-9383
 sitemap: false
 slug: mediterranean-market-3300-w-bob-billings-pkwy-suite-b5

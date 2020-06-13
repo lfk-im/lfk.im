@@ -17,6 +17,7 @@ name: Mass Street Soda
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Evaluating and coming up with a plan for curbside service
+place_type: Store
 restaurant_phone: 785-615-0482
 sitemap: false
 slug: mass-street-soda-1103-massachusetts-st

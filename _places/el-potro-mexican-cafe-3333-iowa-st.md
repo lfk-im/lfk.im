@@ -21,6 +21,7 @@ name: El Potro Mexican Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-331-2500
 sitemap: false
 slug: el-potro-mexican-cafe-3333-iowa-st

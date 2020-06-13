@@ -22,6 +22,7 @@ name: Five Guys Burger and Fries
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-749-3400
 sitemap: false
 slug: five-guys-burger-and-fries-2040-31st-st-suite-b

@@ -19,6 +19,7 @@ hours: 11am-830pm Daily
 name: Subway (by Pizza Shuttle)
 neighborhood: ''
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-842-2479
 sitemap: false
 slug: subway-by-pizza-shuttle-1601-w-23rd

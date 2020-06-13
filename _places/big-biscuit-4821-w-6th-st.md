@@ -21,6 +21,7 @@ name: Big Biscuit
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-0496
 sitemap: false
 slug: big-biscuit-4821-w-6th-st

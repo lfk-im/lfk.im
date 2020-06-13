@@ -19,6 +19,7 @@ hours: 11am-8:30pm Daily
 name: Subway (Bob Billings and Wakarusa)
 neighborhood: ''
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-312-7766
 sitemap: false
 slug: subway-bob-billings-and-wakarusa-1540-wakarusa

@@ -22,6 +22,7 @@ name: Java Break
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-749-5282
 sitemap: false
 slug: java-break-17-e-7th-street

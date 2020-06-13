@@ -27,6 +27,7 @@ name: Rudy’s Pizzeria
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or call to prepay
+place_type: Restaurant
 restaurant_phone: 785-749-0055
 sitemap: false
 slug: rudys-pizzeria-704-massachusetts-st

@@ -29,6 +29,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
   3- Call us when you get here and we will bring your order right
 
   out.'
+place_type: Restaurant
 restaurant_phone: 785-856-0544
 sitemap: false
 slug: orange-leaf-4801-bauer-farm-drive

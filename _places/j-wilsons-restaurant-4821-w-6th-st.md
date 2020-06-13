@@ -22,6 +22,7 @@ name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order by phone and pick up curbside
+place_type: Restaurant
 restaurant_phone: 785-312-9057
 sitemap: false
 slug: j-wilsons-restaurant-4821-w-6th-st

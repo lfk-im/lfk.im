@@ -24,6 +24,7 @@ name: 23rd Street Brewery
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
+place_type: Brewery
 restaurant_phone: 785-856-2337
 sitemap: false
 slug: 23rd-street-brewery-3512-clinton-pkwy

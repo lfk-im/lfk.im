@@ -19,6 +19,7 @@ hours: 11am-8:30pm Daily
 name: Subway (6th and Monterey)
 neighborhood: ''
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-841-1319
 sitemap: false
 slug: subway-6th-and-monterey-4000-w-6th

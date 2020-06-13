@@ -23,6 +23,7 @@ name: Bayleaf Indian Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Not confirmed
+place_type: Restaurant
 restaurant_phone: 785-840-0855
 sitemap: false
 slug: bayleaf-indian-restaurant-947-new-hampshire-st-120

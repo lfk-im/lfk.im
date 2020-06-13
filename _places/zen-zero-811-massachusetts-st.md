@@ -23,6 +23,7 @@ name: Zen Zero
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Delivery through EatStreet, or call to order and carry out
+place_type: Restaurant
 restaurant_phone: 785-832-0001
 sitemap: false
 slug: zen-zero-811-massachusetts-st

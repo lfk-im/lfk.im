@@ -30,6 +30,7 @@ name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed until August or September
+place_type: BarOrPub
 restaurant_phone: 785-842-6560
 sitemap: false
 slug: quintons-bar-deli-615-massachusetts-st

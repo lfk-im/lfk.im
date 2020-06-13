@@ -17,6 +17,7 @@ name: Game Nut Entertainment
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: 'TODO: Add a non-restaurant section'
+place_type: Store
 restaurant_phone: 785-856-1540
 sitemap: false
 slug: game-nut-entertainment-844-massachusetts-st

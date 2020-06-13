@@ -33,6 +33,7 @@ name: Oriental Bistro & Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Online options possible too for ordering
+place_type: Restaurant
 restaurant_phone: 785-841-8881
 sitemap: false
 slug: oriental-bistro-grill-1511-w-23rd-st

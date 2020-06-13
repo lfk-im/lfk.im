@@ -21,6 +21,7 @@ name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or by phone
+place_type: Restaurant
 restaurant_phone: 785-856-3682
 sitemap: false
 slug: encore-cafe-1007-massachusetts-st

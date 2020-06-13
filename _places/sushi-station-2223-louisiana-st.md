@@ -25,6 +25,7 @@ name: Sushi Station
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-856-3330
 sitemap: false
 slug: sushi-station-2223-louisiana-st

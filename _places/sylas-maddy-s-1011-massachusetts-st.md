@@ -20,6 +20,7 @@ name: Sylas & Maddy's
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Still open, with to-go pints/quarts available
+place_type: IceCreamShop
 restaurant_phone: 785-832-8323
 sitemap: false
 slug: sylas-maddy-s-1011-massachusetts-st

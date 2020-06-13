@@ -19,6 +19,7 @@ hours: 11am-8:30pm Daily
 name: Subway (6th and Wisconsin)
 neighborhood: ''
 notes: ''
+place_type: FastFoodRestaurant
 restaurant_phone: 785-832-9700
 sitemap: false
 slug: subway-6th-and-wisconsin-1530-w-6th

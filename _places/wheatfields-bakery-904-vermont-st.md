@@ -24,6 +24,7 @@ name: Wheatfields Bakery
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Bakery
 restaurant_phone: 785-841-5553
 sitemap: false
 slug: wheatfields-bakery-904-vermont-st

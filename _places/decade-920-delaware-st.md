@@ -24,6 +24,7 @@ name: Decade
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Online ordering coming next week for to-go and curbside service
+place_type: Restaurant
 restaurant_phone: 785-550-7944
 sitemap: false
 slug: decade-920-delaware-st

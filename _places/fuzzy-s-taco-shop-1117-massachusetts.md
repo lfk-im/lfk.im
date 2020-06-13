@@ -28,6 +28,7 @@ name: Fuzzy's Taco Shop
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-727-0527
 sitemap: false
 slug: fuzzy-s-taco-shop-1117-massachusetts

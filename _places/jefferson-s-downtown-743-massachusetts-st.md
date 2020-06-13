@@ -23,6 +23,7 @@ name: Jefferson's Downtown
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-832-2000
 sitemap: false
 slug: jefferson-s-downtown-743-massachusetts-st

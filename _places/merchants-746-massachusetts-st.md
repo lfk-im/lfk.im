@@ -22,6 +22,7 @@ name: Merchants
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Family style orders by phone, online ordering is a work in progress
+place_type: Restaurant
 restaurant_phone: 785-843-4111
 sitemap: false
 slug: merchants-746-massachusetts-st

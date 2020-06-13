@@ -19,6 +19,7 @@ name: Jade Garden
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-843-8650
 sitemap: false
 slug: jade-garden-1410-kasold-dr-a13

@@ -36,6 +36,7 @@ name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Pull up to front door to be helped.
+place_type: Bakery
 restaurant_phone: ''
 sitemap: false
 slug: panera-bread-520-w-23rd-st

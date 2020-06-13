@@ -17,6 +17,7 @@ name: Sunflower Provisions
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Store
 restaurant_phone: 785-840-4892
 sitemap: false
 slug: sunflower-provisions-100-riverfront-drive-suite-b

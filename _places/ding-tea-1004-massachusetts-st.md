@@ -22,6 +22,7 @@ name: Ding Tea
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 913-370-6594
 sitemap: false
 slug: ding-tea-1004-massachusetts-st

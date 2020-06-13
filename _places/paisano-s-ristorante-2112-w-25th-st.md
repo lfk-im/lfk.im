@@ -23,6 +23,7 @@ name: Paisano's Ristorante
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-838-3500
 sitemap: false
 slug: paisano-s-ristorante-2112-w-25th-st

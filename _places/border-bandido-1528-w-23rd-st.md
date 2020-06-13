@@ -21,6 +21,7 @@ name: Border Bandido
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-8861
 sitemap: false
 slug: border-bandido-1528-w-23rd-st

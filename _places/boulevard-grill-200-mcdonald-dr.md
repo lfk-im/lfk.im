@@ -18,6 +18,7 @@ hours: 11am-2pm, 4pm-10pm Daily
 name: Boulevard Grill
 neighborhood: ''
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-841-7077
 sitemap: false
 slug: boulevard-grill-200-mcdonald-dr

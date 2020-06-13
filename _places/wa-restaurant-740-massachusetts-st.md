@@ -23,6 +23,7 @@ name: Wa Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-843-1990
 sitemap: false
 slug: wa-restaurant-740-massachusetts-st

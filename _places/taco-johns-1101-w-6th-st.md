@@ -18,6 +18,7 @@ hours: ''
 name: Taco John’s
 neighborhood: ''
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-843-0936
 sitemap: false
 slug: taco-johns-1101-w-6th-st

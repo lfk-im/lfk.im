@@ -25,6 +25,7 @@ neighborhood_slug: west-lawrence
 notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety
   reasons! Please call in your order, pay over the phone, and we will quickly deliver
   it outside to you
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-856-0751
 sitemap: false
 slug: alchemy-limited-4000-w-6th-street

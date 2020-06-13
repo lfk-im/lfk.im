@@ -20,6 +20,7 @@ name: Biemer's BBQ
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: ''
+place_type: Restaurant
 restaurant_phone: 785-842-0800
 sitemap: false
 slug: biemer-s-bbq-2120-w-9th-st

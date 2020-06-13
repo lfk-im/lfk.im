@@ -24,6 +24,7 @@ name: 'Glory Days Pizza '
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: 'Prepay over phone. No walk ins at this time. '
+place_type: Restaurant
 restaurant_phone: 786-841-5252
 sitemap: false
 slug: glory-days-pizza-4621-w-6th-st

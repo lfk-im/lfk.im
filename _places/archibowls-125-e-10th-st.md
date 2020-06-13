@@ -27,6 +27,7 @@ name: Archibowls
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: offering free hot beans and rice meals at the window from noon to 8 every day.
+place_type: Restaurant
 restaurant_phone: 785-424-7822
 sitemap: false
 slug: archibowls-125-e-10th-st

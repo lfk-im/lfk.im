@@ -21,6 +21,7 @@ name: John Brown's Underground
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Curbside Cocktails
+place_type: BarOrPub
 restaurant_phone: 913-683-4774
 sitemap: false
 slug: john-brown-s-underground-7-e-7th-st
