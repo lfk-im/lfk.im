@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 4-9pm
+hours: Mo-Su 4-9pm
 name: Six Mile Chophouse
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

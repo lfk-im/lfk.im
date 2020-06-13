@@ -27,7 +27,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 11am-8pm, Sun 11am-3pm
+hours: Mo-Sa 11am-8pm, Su 11am-3pm
 name: Twisted Fresh
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

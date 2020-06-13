@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thu-Sat 10am-4pm (pickup), Mon-Sat (delivery)
+hours: Th-Sa 10am-4pm (pickup), Mo-Sa (delivery)
 name: Brits
 neighborhood: Downtown
 neighborhood_slug: downtown

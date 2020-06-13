@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Sat 4pm-8pm
+hours: Tu-Sa 4-8pm
 name: Dempseys Burger Pub
 neighborhood: Downtown
 neighborhood_slug: downtown

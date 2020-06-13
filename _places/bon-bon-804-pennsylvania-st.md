@@ -14,7 +14,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Sat 3pm-8pm
+hours: Tu-Sa 3-8pm
 name: Bon Bon!
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

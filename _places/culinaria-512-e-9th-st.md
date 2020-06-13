@@ -14,7 +14,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thr-Sat 3:30pm-8pm
+hours: Th-Sa 3:30-8pm
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

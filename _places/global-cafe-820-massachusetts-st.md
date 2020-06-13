@@ -16,7 +16,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/CX2M2Z2679FX3/order
-hours: Th-Sat 8:00am-1:30pm
+hours: Th-Sa 8am-1:30pm
 name: Global Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown

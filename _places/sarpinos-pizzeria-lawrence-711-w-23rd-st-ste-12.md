@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Sun-Th 10am-2am, Fri-Sat 10am-3am
+hours: Su-Th 10am-2am, Fr-Sa 10am-3am
 name: 'Sarpino’s Pizzeria Lawrence '
 neighborhood: ''
 notes: Free delivery

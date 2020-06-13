@@ -25,7 +25,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sun 10am-9pm
+hours: Mo-Su 10am-9pm
 name: Yello Sub
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

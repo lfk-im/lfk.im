@@ -20,7 +20,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Sun 11:30am-9pm, Fri-Sat bar open until 10pm
+hours: Tu-Su 11:30am-9pm, Fr-Sa bar open until 10pm
 name: Free State Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown

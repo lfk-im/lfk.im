@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Thu 11am-8pm, Fri-Sat 11am-8:30pm, Sun 11am-8pm
+hours: Mo-Th 11am-8pm, Fr-Sa 11am-8:30pm, Su 11am-8pm
 name: The Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-9pm Daily
+hours: Mo-Su 11am-9pm
 name: Zen Zero
 neighborhood: Downtown
 neighborhood_slug: downtown

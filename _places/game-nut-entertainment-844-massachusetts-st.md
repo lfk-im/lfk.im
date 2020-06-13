@@ -12,7 +12,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 10am-6pm Daily
+hours: Mo-Su 10am-6pm
 name: Game Nut Entertainment
 neighborhood: Downtown
 neighborhood_slug: downtown

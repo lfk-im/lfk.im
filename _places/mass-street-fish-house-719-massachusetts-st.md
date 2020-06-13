@@ -14,7 +14,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/C1GYHZ9MTG3S3/order
-hours: 2-8pm daily
+hours: Mo-Su 2-8pm
 name: Mass Street Fish House
 neighborhood: Downtown
 neighborhood_slug: downtown

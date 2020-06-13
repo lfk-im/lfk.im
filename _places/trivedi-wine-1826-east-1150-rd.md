@@ -12,7 +12,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Thu-Sun 12pm-6pm
+hours: Th-Su 12-6pm
 name: Trivedi Wine
 neighborhood: ''
 notes: ''

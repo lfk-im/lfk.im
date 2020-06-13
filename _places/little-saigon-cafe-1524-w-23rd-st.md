@@ -12,7 +12,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Fri 10am-7pm
+hours: Tu-Fr 10am-7pm
 name: Little Saigon Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

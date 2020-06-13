@@ -15,7 +15,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
-hours: 3-9pm Daily
+hours: Mo-Su 3-9pm
 name: Sylas & Maddy's
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 12pm-7pm
+hours: Mo-Sa 12-7pm
 name: La Tropicana
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence

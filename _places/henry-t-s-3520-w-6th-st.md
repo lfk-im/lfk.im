@@ -19,7 +19,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 4pm-8:30pm Daily, (last taken orders at 8pm)
+hours: Mo-Su 4-8:30pm (last taken orders at 8pm)
 name: Henry T's
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence

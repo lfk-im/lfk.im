@@ -17,7 +17,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 'Tue-Sun 12pm-8pm '
+hours: 'Tu-Su 12-8pm '
 name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

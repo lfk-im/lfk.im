@@ -19,7 +19,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 3pm-8pm Daily
+hours: Mo-Su 3-8pm
 name: Lawrence Beer Company West
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

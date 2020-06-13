@@ -17,7 +17,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Wed-Sun 10am-6pm
+hours: We-Su 10am-6pm
 name: Pedestrian Cheese
 neighborhood: Downtown
 neighborhood_slug: downtown

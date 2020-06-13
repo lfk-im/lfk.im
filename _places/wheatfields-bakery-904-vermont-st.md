@@ -19,7 +19,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Fri 7:30am-6:30pm, Sat 7:30am-5pm, Sun 8:30am-4pm
+hours: Mo-Fr 7:30am-6:30pm, Sa 7:30am-5pm, Su 8:30am-4pm
 name: Wheatfields Bakery
 neighborhood: Downtown
 neighborhood_slug: downtown

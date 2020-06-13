@@ -18,7 +18,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
-hours: 7am-6pm Daily
+hours: Mo-Su 7am-6pm
 name: Alchemy Limited
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

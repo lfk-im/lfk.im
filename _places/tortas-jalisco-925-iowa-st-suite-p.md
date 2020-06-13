@@ -20,7 +20,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Thu 5pm-11pm, Fri-Sat 5pm-12am
+hours: Mo-Th 5-11pm, Fr-Sa 5pm-12am
 name: Tortas Jalisco
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

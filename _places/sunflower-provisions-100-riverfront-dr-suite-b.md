@@ -12,7 +12,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue & Fri 11am-1pm, 4pm-6pm
+hours: Tu,Fr 11am-1pm, 4-6pm
 name: Sunflower Provisions
 neighborhood: Downtown
 neighborhood_slug: downtown

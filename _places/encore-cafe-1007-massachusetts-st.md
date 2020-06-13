@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 4pm-9pm Daily
+hours: Mo-Su 4-9pm
 name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown

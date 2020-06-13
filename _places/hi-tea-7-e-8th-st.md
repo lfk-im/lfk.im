@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 12-9:30pm Daily
+hours: Mo-Su 12-9:30pm
 name: Hi Tea
 neighborhood: Downtown
 neighborhood_slug: downtown

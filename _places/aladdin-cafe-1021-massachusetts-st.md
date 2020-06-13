@@ -20,7 +20,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Sun-Sat 11:30am-2:30pm, 5pm-7:30pm
+hours: Su-Sa 11:30am-2:30pm, 5-7:30pm
 name: Aladdin Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown

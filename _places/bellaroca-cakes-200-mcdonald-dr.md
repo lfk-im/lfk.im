@@ -20,7 +20,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sun 10am-6pm
+hours: Mo-Su 10am-6pm
 name: BellaRoca Cakes
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

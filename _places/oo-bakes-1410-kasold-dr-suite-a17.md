@@ -14,7 +14,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Fri 9am - 6pm, Sat-Sun 10am - 3pm
+hours: Mo-Fr 9am-6pm, Sa-Su 10am-3pm
 name: OO Bakes
 neighborhood: Bob Billings & Iowa
 neighborhood_slug: bob-billings-iowa

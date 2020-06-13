@@ -17,7 +17,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 10am-10pm Daily
+hours: Mo-Su 10am-10pm
 name: Pickleman’s
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

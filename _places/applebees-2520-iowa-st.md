@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-9pm Daily
+hours: Mo-Su 11am-9pm
 name: Applebee’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

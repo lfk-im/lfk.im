@@ -21,7 +21,7 @@ giftcard: true
 giftcard_notes: Gift cards available for purchase online, online ordering is in the
   works
 giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
-hours: Wed-Sun, 4pm-8pm
+hours: We-Su 4-8pm
 name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -17,12 +17,12 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-9pm
+hours: Mo-Su 11am-9pm
 name: Five Guys Burger and Fries
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
-place_type: Restaurant
+place_type: FastFoodRestaurant
 restaurant_phone: 785-749-3400
 sitemap: false
 slug: five-guys-burger-and-fries-2040-31st-st-suite-b

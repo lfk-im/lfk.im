@@ -23,7 +23,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Thu 11am-6pm, Fri 11am-5pm & Sat 11am-4pm
+hours: Tu-Th 11am-6pm, Fr 11am-5pm, Sa 11am-4pm
 name: Auntie Em's Deli
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

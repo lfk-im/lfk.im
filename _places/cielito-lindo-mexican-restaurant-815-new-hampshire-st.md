@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Sun-Wed 11am-9pm, Th-Sat 11am-10pm
+hours: Su-We 11am-9pm, Th-Sat 11am-10pm
 name: Cielito Lindo Mexican Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown

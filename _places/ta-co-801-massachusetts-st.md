@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 11am-8pm
+hours: Mo-Sa 11am-8pm
 name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown

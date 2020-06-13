@@ -15,7 +15,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-8:30pm Daily
+hours: Mo-Su 11am-8:30pm
 name: Subway (near 23rd and Harper)
 neighborhood: ''
 notes: ''

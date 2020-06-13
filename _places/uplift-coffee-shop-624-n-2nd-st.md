@@ -17,7 +17,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Fri 6am-6pm, Sat 7am-6pm, Sun 9am-5pm
+hours: Mo-Fr 6am-6pm, Sa 7am-6pm, Su 9am-5pm
 name: Uplift Coffee Shop
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence

@@ -17,7 +17,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Thurs 11am-9:30pm, Fri-Sun 11am-10:30pm
+hours: Mo-Th 11am-9:30pm, Fr-Su 11am-10:30pm
 name: Ding Tea
 neighborhood: Downtown
 neighborhood_slug: downtown

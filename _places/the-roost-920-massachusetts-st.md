@@ -22,7 +22,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 8am-1pm Daily
+hours: Mo-Su 8am-1pm
 name: The Roost
 neighborhood: Downtown
 neighborhood_slug: downtown

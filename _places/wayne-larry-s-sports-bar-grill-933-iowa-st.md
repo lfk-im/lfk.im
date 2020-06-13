@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-7:30pm Daily
+hours: Mo-Su 11am-7:30pm
 name: Wayne & Larry's Sports Bar & Grill
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

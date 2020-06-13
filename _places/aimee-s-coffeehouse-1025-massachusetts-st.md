@@ -22,7 +22,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Fri-Sun 8am-2pm
+hours: Fr-Su 8am-2pm
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown

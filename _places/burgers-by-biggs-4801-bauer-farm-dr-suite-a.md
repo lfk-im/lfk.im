@@ -27,7 +27,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-8pm Daily
+hours: Mo-Su 11am-8pm
 name: Burgers by Biggs
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

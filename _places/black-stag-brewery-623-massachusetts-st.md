@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 4:30pm-6pm Daily
+hours: Mo-Su 4:30-6pm
 name: Black Stag Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown

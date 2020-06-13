@@ -23,7 +23,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 7am-2pm, Sun 8am-2pm
+hours: Mo-Sa 7am-2pm, Su 8am-2pm
 name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown

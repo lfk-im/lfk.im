@@ -23,7 +23,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://fuzzystacoshop.cardfoundry.com/giftcards.php
-hours: 11am-9pm Daily
+hours: Mo-Su 11am-9pm
 name: Fuzzy's Taco Shop
 neighborhood: Downtown
 neighborhood_slug: downtown

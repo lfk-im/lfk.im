@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tuesday - Saturday 4 - 8:30pm
+hours: Tu-Sa 4-8:30pm
 name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -22,7 +22,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 8am-6pm Daily
+hours: Mo-Su 8am-6pm
 name: The Java Break
 neighborhood: Downtown
 neighborhood_slug: downtown

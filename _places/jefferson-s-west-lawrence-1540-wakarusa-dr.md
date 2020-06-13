@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Thr 4pm-9pm, Fri-Sun 11am-9pm
+hours: Mo-Th 4-9pm, Fr-Su 11am-9pm
 name: Jefferson's West Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

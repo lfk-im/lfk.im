@@ -31,7 +31,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mon-Sat 7am-8pm, Sun 7:30am-7:30am
+hours: Mo-Sa 7am-8pm, Su 7:30am-7:30pm
 name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area

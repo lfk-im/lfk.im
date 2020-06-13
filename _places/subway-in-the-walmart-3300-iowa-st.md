@@ -15,7 +15,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-7pm Daily
+hours: Mo-Su 11am-7pm
 name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''

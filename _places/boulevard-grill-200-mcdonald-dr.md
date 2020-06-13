@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-2pm, 4pm-10pm Daily
+hours: Mo-Su 11am-2pm, 4-10pm
 name: Boulevard Grill
 neighborhood: ''
 notes: ''
