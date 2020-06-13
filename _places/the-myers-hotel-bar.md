@@ -1,11 +1,9 @@
 ---
-active: true
-address: 1800 E. 23rd St
-cuisine: Mexican
-cuisine_slugs:
-- mexican
-cuisines:
-- Mexican
+active: false
+address: ''
+cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -18,17 +16,16 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
-name: Tres Mexicanos
-neighborhood: East Lawrence
-neighborhood_slug: east-lawrence
+name: The Myers Hotel Bar
+neighborhood: ''
 notes: ''
-place_type: Restaurant
-region: KS
-restaurant_phone: 785-830-8422
+place_type: ''
+region: ''
+restaurant_phone: ''
 sitemap: false
-slug: tres-mexicanos-east-lawrence
+slug: the-myers-hotel-bar
 social: ''
-takeout: true
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''

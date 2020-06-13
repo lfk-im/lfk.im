@@ -28,6 +28,7 @@ neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3671
 sitemap: false
 slug: the-levee-cafe-north-lawrence

@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-832-8338
 sitemap: false
 slug: applebees-south-lawrence

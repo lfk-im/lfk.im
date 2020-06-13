@@ -23,6 +23,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-843-8650
 sitemap: false
 slug: jade-garden-west-lawrence

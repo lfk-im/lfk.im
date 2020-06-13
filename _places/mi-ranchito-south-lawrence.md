@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Call or order online
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-5600
 sitemap: false
 slug: mi-ranchito-south-lawrence

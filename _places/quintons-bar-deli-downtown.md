@@ -34,6 +34,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed until August or September
 place_type: BarOrPub
+region: KS
 restaurant_phone: 785-842-6560
 sitemap: false
 slug: quintons-bar-deli-downtown

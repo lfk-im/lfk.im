@@ -25,6 +25,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0496
 sitemap: false
 slug: big-biscuit-west-lawrence

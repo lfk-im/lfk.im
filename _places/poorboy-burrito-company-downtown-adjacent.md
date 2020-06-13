@@ -21,6 +21,7 @@ neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-550-3317
 sitemap: false
 slug: poorboy-burrito-company-downtown-adjacent

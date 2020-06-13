@@ -26,6 +26,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Free porch delivery within Lawrence
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: ''
 sitemap: false
 slug: repetition-coffee-downtown

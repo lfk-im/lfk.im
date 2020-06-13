@@ -27,6 +27,7 @@ neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Re-opened
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0459
 sitemap: false
 slug: basil-leaf-cafe-downtown-adjacent

@@ -21,6 +21,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Store
+region: KS
 restaurant_phone: 785-840-4892
 sitemap: false
 slug: sunflower-provisions-downtown

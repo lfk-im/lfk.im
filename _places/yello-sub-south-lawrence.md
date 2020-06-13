@@ -34,6 +34,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-843-6000
 sitemap: false
 slug: yello-sub-south-lawrence

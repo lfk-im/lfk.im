@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-832-2000
 sitemap: false
 slug: jefferson-s-downtown-downtown

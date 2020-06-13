@@ -23,6 +23,7 @@ neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-331-2710
 sitemap: false
 slug: pueblo-mexican-restaurant-9th-and-iowa-area

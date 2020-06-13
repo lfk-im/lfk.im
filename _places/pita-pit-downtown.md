@@ -40,6 +40,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-856-2500
 sitemap: false
 slug: pita-pit-downtown

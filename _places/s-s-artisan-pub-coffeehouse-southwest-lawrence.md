@@ -30,6 +30,7 @@ neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: 785-766-2355
 sitemap: false
 slug: s-s-artisan-pub-coffeehouse-southwest-lawrence

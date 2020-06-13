@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-424-7525
 sitemap: false
 slug: hawaiian-bros-south-lawrence

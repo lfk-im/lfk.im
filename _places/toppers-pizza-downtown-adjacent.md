@@ -29,6 +29,7 @@ neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: ''
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-856-0058
 sitemap: false
 slug: toppers-pizza-downtown-adjacent

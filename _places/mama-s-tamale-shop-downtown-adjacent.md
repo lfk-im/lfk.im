@@ -25,6 +25,7 @@ neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Re-opened
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-424-7565
 sitemap: false
 slug: mama-s-tamale-shop-downtown-adjacent

@@ -23,6 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3287
 sitemap: false
 slug: terrebonne-downtown

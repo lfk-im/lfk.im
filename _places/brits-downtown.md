@@ -23,6 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Store
+region: KS
 restaurant_phone: 785-843-2288
 sitemap: false
 slug: brits-downtown

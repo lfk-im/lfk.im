@@ -26,6 +26,7 @@ neighborhood_slug: south-lawrence
 notes: Order online or with the app and head on over. Our team will prepare your meal
   and place it on the pickup station!
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-3354
 sitemap: false
 slug: mcalister-s-deli-south-lawrence

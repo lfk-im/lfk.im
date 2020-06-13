@@ -25,6 +25,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0543
 sitemap: false
 slug: the-burger-stand-at-the-casbah-downtown

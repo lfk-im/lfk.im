@@ -30,6 +30,7 @@ neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-842-0377
 sitemap: false
 slug: johnny-s-tavern-north-lawrence-north-lawrence

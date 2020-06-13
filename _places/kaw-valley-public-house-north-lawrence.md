@@ -26,6 +26,7 @@ neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
 place_type: BarOrPub
+region: KS
 restaurant_phone: 785-424-7249
 sitemap: false
 slug: kaw-valley-public-house-north-lawrence

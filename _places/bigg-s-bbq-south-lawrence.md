@@ -27,6 +27,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed until April 1st
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-2550
 sitemap: false
 slug: bigg-s-bbq-south-lawrence

@@ -26,6 +26,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-856-9060
 sitemap: false
 slug: picklemans-west-lawrence

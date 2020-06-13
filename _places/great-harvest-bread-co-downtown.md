@@ -26,6 +26,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Breads available to go and snacks for kids
 place_type: Bakery
+region: KS
 restaurant_phone: 785-749-2227
 sitemap: false
 slug: great-harvest-bread-co-downtown

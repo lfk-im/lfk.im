@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-331-2500
 sitemap: false
 slug: el-potro-mexican-cafe-south-lawrence

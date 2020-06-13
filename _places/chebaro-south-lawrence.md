@@ -29,6 +29,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-312-7660
 sitemap: false
 slug: chebaro-south-lawrence

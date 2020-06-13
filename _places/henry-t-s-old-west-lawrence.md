@@ -28,6 +28,7 @@ neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
 notes: Call or order online via EatStreet
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-2999
 sitemap: false
 slug: henry-t-s-old-west-lawrence

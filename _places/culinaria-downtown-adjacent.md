@@ -23,6 +23,7 @@ neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-766-8591
 sitemap: false
 slug: culinaria-downtown-adjacent

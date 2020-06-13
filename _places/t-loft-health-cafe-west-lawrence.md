@@ -28,6 +28,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-505-0770
 sitemap: false
 slug: t-loft-health-cafe-west-lawrence

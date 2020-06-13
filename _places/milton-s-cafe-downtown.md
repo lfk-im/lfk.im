@@ -32,6 +32,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0663
 sitemap: false
 slug: milton-s-cafe-downtown

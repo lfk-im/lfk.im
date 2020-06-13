@@ -32,6 +32,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-832-1333
 sitemap: false
 slug: auntie-em-s-deli-west-lawrence

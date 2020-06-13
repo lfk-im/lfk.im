@@ -26,6 +26,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3675
 sitemap: false
 slug: sandwich-bowl-west-lawrence

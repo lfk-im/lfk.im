@@ -24,6 +24,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Still open, with to-go pints/quarts available
 place_type: IceCreamShop
+region: KS
 restaurant_phone: 785-832-8323
 sitemap: false
 slug: sylas-maddy-s-downtown

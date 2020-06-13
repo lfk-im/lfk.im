@@ -27,6 +27,7 @@ neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-312-9211
 sitemap: false
 slug: o-cafe-old-west-lawrence

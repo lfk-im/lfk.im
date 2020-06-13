@@ -23,6 +23,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-551-3347
 sitemap: false
 slug: cosmic-cafe-south-lawrence

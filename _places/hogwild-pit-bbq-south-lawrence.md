@@ -29,6 +29,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-842-4100
 sitemap: false
 slug: hogwild-pit-bbq-south-lawrence

@@ -28,6 +28,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Bakery
+region: KS
 restaurant_phone: 785-841-5553
 sitemap: false
 slug: wheatfields-bakery-downtown

@@ -21,6 +21,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0918
 sitemap: false
 slug: moose-mcguire-s-downtown

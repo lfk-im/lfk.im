@@ -25,6 +25,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order online or call
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-6973
 sitemap: false
 slug: morningstar-s-new-york-pizza-west-lawrence

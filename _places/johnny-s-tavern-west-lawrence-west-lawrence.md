@@ -30,6 +30,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-843-0704
 sitemap: false
 slug: johnny-s-tavern-west-lawrence-west-lawrence

@@ -28,6 +28,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order online and pick up curbside (both locations)
 place_type: Brewery
+region: KS
 restaurant_phone: 785-856-0596
 sitemap: false
 slug: lawrence-beer-company-west-west-lawrence

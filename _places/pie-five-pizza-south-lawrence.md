@@ -31,6 +31,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-551-7170
 sitemap: false
 slug: pie-five-pizza-south-lawrence

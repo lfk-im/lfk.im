@@ -29,6 +29,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-0543
 sitemap: false
 slug: burger-stand-at-the-casbah-downtown

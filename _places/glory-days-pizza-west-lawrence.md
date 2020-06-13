@@ -28,6 +28,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Prepay over phone. No walk ins at this time.
 place_type: Restaurant
+region: KS
 restaurant_phone: 786-841-5252
 sitemap: false
 slug: glory-days-pizza-west-lawrence

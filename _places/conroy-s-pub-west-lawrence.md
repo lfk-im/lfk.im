@@ -31,6 +31,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: BarOrPub
+region: KS
 restaurant_phone: 785-856-3663
 sitemap: false
 slug: conroy-s-pub-west-lawrence

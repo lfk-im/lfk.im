@@ -21,6 +21,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Evaluating and coming up with a plan for curbside service
 place_type: Store
+region: KS
 restaurant_phone: 785-615-0482
 sitemap: false
 slug: mass-street-soda-downtown

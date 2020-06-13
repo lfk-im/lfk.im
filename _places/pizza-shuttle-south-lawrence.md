@@ -23,6 +23,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-842-1212
 sitemap: false
 slug: pizza-shuttle-south-lawrence

@@ -31,6 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: 785-749-5282
 sitemap: false
 slug: the-java-break-downtown

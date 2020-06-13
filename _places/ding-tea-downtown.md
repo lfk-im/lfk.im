@@ -26,6 +26,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 913-370-6594
 sitemap: false
 slug: ding-tea-downtown

@@ -26,6 +26,7 @@ notes: There is a $1.50 fee for delivery. To place an order with us, please call
   the safety of our staff and guests, we will be using a no contact system and will
   not be accepting cash at this time.
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-6453
 sitemap: false
 slug: six-mile-chophouse-west-lawrence

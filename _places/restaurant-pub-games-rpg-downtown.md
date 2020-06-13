@@ -30,6 +30,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Online ordering & payment via the link at RPGLawrence.com
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-330-5079
 sitemap: false
 slug: restaurant-pub-games-rpg-downtown

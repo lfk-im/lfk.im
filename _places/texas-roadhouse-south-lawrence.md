@@ -40,6 +40,7 @@ notes: We recommend that guests call ahead or order online, but they are more th
   welcome to pull up to the front door and we will have a server take their order
   right from their car.
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-312-7427
 sitemap: false
 slug: texas-roadhouse-south-lawrence

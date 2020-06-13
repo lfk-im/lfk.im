@@ -24,6 +24,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Retail Only
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: 785-856-8227
 sitemap: false
 slug: mana-bar-downtown

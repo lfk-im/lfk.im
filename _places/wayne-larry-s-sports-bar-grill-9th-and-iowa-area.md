@@ -33,6 +33,7 @@ neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: Call upon arrival and we will curbside deliver your order
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-7170
 sitemap: false
 slug: wayne-larry-s-sports-bar-grill-9th-and-iowa-area

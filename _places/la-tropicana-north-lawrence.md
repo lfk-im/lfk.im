@@ -23,6 +23,7 @@ neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-3550
 sitemap: false
 slug: la-tropicana-north-lawrence

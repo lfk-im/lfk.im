@@ -25,6 +25,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-842-9383
 sitemap: false
 slug: mediterranean-market-west-lawrence

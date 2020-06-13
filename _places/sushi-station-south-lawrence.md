@@ -29,6 +29,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3330
 sitemap: false
 slug: sushi-station-south-lawrence

@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-865-4055
 sitemap: false
 slug: cheesy-street-lucia-downtown

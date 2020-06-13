@@ -28,6 +28,7 @@ neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
 place_type: Brewery
+region: KS
 restaurant_phone: 785-856-2337
 sitemap: false
 slug: 23rd-street-brewery-southwest-lawrence

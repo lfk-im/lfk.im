@@ -25,6 +25,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Curbside Cocktails
 place_type: BarOrPub
+region: KS
 restaurant_phone: 913-683-4774
 sitemap: false
 slug: john-brown-s-underground-downtown

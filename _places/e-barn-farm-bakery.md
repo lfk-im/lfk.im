@@ -30,6 +30,7 @@ name: E Barn Farm Bakery
 neighborhood: ''
 notes: Closed through June 8th - Deliveries happen following business day
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-836-4100
 sitemap: false
 slug: e-barn-farm-bakery

@@ -29,6 +29,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up, including bottled beers
 place_type: Brewery
+region: KS
 restaurant_phone: 785-843-4555
 sitemap: false
 slug: free-state-brewery-downtown

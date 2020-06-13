@@ -21,6 +21,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed, but plan to reopen Tuesday March 31
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-8010
 sitemap: false
 slug: little-saigon-cafe-south-lawrence

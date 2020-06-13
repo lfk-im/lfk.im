@@ -23,6 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone for carry out and limited local delivery
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-2825
 sitemap: false
 slug: limestone-pizza-downtown

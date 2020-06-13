@@ -23,6 +23,7 @@ name: Subway (next to Mass Liquor/Target)
 neighborhood: ''
 notes: ''
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-842-2479
 sitemap: false
 slug: subway-next-to-mass-liquor-target-3131-nieder

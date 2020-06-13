@@ -25,6 +25,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-8424
 sitemap: false
 slug: baan-thai-restaurant-downtown

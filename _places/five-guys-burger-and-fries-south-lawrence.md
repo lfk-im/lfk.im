@@ -26,6 +26,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-749-3400
 sitemap: false
 slug: five-guys-burger-and-fries-south-lawrence

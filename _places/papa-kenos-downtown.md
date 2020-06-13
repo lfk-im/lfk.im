@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or call for delivery
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-841-7272
 sitemap: false
 slug: papa-kenos-downtown

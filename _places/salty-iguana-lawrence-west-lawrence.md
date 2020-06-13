@@ -26,6 +26,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-312-8100
 sitemap: false
 slug: salty-iguana-lawrence-west-lawrence

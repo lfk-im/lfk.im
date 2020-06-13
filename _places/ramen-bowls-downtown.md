@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside or delivery
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-842-6957
 sitemap: false
 slug: ramen-bowls-downtown

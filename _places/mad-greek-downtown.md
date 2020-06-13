@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, or use EatStreet
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-843-2441
 sitemap: false
 slug: mad-greek-downtown

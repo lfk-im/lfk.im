@@ -37,6 +37,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Online options possible too for ordering
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-841-8881
 sitemap: false
 slug: oriental-bistro-grill-south-lawrence

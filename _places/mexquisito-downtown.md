@@ -25,6 +25,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-8226
 sitemap: false
 slug: mexquisito-downtown

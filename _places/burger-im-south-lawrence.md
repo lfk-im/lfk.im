@@ -33,6 +33,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: People can order bottles of beer and pick up
 place_type: FastFoodRestaurant
+region: KS
 restaurant_phone: 785-856-1010
 sitemap: false
 slug: burger-im-south-lawrence

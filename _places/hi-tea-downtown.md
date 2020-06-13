@@ -30,6 +30,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: 785-424-7727
 sitemap: false
 slug: hi-tea-downtown

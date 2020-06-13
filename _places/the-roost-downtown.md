@@ -31,6 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Until 3/20 - Order by phone and pick up curbside
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-843-1110
 sitemap: false
 slug: the-roost-downtown

@@ -31,6 +31,7 @@ neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Delivery as usual
 place_type: Bakery
+region: KS
 restaurant_phone: 785-856-8778
 sitemap: false
 slug: hot-box-cookies-ku-campus-area

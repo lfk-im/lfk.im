@@ -21,6 +21,7 @@ neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-830-3998
 sitemap: false
 slug: on-the-hill-ku-campus-area

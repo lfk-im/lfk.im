@@ -31,6 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or call to prepay
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-0055
 sitemap: false
 slug: rudys-pizzeria-downtown

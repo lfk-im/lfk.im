@@ -40,6 +40,7 @@ neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Pull up to front door to be helped.
 place_type: Bakery
+region: KS
 restaurant_phone: ''
 sitemap: false
 slug: panera-bread-ku-campus-area

@@ -31,6 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or by phone and pick up curbside on Mass
 place_type: CafeOrCoffeeShop
+region: KS
 restaurant_phone: 785-424-5601
 sitemap: false
 slug: alchemy-coffee-bake-house-downtown

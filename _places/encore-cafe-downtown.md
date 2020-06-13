@@ -25,6 +25,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or by phone
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3682
 sitemap: false
 slug: encore-cafe-downtown

@@ -31,6 +31,7 @@ neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Still open for now, also sells cookie dough to go
 place_type: Bakery
+region: KS
 restaurant_phone: 785-856-2253
 sitemap: false
 slug: eileen-s-colossal-cookies-west-lawrence

@@ -23,6 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: BarOrPub
+region: KS
 restaurant_phone: 785-842-0111
 sitemap: false
 slug: the-sandbar-downtown

@@ -31,6 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Open w/ limited seating. Order online w/ pick up curbside or delivery
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-832-8040
 sitemap: false
 slug: tokyo-sushi-downtown

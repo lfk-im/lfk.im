@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-843-1111
 sitemap: false
 slug: nagoya-japanese-cuisine-south-lawrence

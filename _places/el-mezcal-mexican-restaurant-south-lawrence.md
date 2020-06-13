@@ -25,6 +25,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Order online or call
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-856-3444
 sitemap: false
 slug: el-mezcal-mexican-restaurant-south-lawrence

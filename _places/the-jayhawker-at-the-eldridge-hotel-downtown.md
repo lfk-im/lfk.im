@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
 place_type: Restaurant
+region: KS
 restaurant_phone: 785-749-1005
 sitemap: false
 slug: the-jayhawker-at-the-eldridge-hotel-downtown
