@@ -3,7 +3,7 @@
 # on:
 #   #push:
 #   #  branches:
-#   #    - main
+#   #    - master
 
 #   schedule:
 #   # every 2 hours - https://crontab.guru/#*_*/2_*_*_*
