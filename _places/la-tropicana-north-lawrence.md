@@ -25,5 +25,5 @@ sitemap: false
 slug: la-tropicana-north-lawrence
 social: https://www.facebook.com/La-Tropicana-303599736470231/
 takeout: true
-website: https://www.facebook.com/La-Tropicana-303599736470231/
+website: ''
 ---

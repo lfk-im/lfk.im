@@ -23,7 +23,7 @@ sitemap: false
 slug: poorboy-burrito-company-downtown-adjacent
 social: https://www.facebook.com/webuildyoueat/
 takeout: false
-website: https://www.facebook.com/webuildyoueat/
+website: ''
 ---
 
 Unconfirmed

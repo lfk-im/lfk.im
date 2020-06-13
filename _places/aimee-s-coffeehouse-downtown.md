@@ -33,7 +33,7 @@ sitemap: false
 slug: aimee-s-coffeehouse-downtown
 social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true
-website: https://www.facebook.com/AimeesCoffeehouse/
+website: ''
 ---
 
 Delivery through EatStreet, or curbside pickup of phone orders

@@ -25,7 +25,7 @@ sitemap: false
 slug: mana-bar-downtown
 social: https://www.facebook.com/ManaBarLawrence/
 takeout: false
-website: https://www.facebook.com/ManaBarLawrence/
+website: ''
 ---
 
 Retail Only

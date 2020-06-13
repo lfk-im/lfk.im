@@ -28,7 +28,7 @@ sitemap: false
 slug: great-harvest-bread-co-downtown
 social: https://www.facebook.com/GreatHarvestLawrenceKs/
 takeout: true
-website: https://www.facebook.com/GreatHarvestLawrenceKs/
+website: ''
 ---
 
 Breads available to go and snacks for kids

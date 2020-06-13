@@ -29,5 +29,5 @@ sitemap: false
 slug: wa-restaurant-downtown
 social: https://www.facebook.com/WaSushiLawrence/
 takeout: true
-website: https://www.facebook.com/WaSushiLawrence/
+website: ''
 ---

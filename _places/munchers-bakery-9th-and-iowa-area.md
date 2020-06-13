@@ -30,7 +30,7 @@ sitemap: false
 slug: munchers-bakery-9th-and-iowa-area
 social: https://www.facebook.com/munchersbakery/
 takeout: true
-website: https://www.facebook.com/munchersbakery/
+website: ''
 ---
 
 Dining area closed, but open for takeout

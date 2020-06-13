@@ -30,5 +30,5 @@ sitemap: false
 slug: 23rd-street-brewery-southwest-lawrence
 social: https://www.facebook.com/brew23/
 takeout: true
-website: https://www.facebook.com/brew23/
+website: ''
 ---

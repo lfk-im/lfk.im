@@ -24,5 +24,5 @@ sitemap: false
 slug: boulevard-grill-200-mcdonald-dr
 social: https://www.facebook.com/BoulevardGrillLawrence
 takeout: true
-website: https://www.facebook.com/BoulevardGrillLawrence/
+website: ''
 ---

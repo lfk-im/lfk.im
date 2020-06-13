@@ -25,7 +25,7 @@ sitemap: false
 slug: cosmic-cafe-south-lawrence
 social: https://www.facebook.com/cosmiclawrence/
 takeout: false
-website: https://www.facebook.com/cosmiclawrence/
+website: ''
 ---
 
 Closed

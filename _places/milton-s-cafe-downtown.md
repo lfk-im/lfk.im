@@ -34,7 +34,7 @@ sitemap: false
 slug: milton-s-cafe-downtown
 social: https://www.facebook.com/miltonslawrenceks/
 takeout: true
-website: https://www.facebook.com/miltonslawrenceks/
+website: ''
 ---
 
 Closed

@@ -27,7 +27,7 @@ sitemap: false
 slug: mama-s-tamale-shop-downtown-adjacent
 social: https://www.facebook.com/mamastamaleshop/
 takeout: false
-website: https://www.facebook.com/mamastamaleshop/
+website: ''
 ---
 
 Re-opened

@@ -33,5 +33,5 @@ sitemap: false
 slug: conroy-s-pub-west-lawrence
 social: https://www.facebook.com/ConroysPub/
 takeout: true
-website: https://www.facebook.com/ConroysPub/
+website: ''
 ---

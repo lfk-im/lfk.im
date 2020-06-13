@@ -25,7 +25,7 @@ sitemap: false
 slug: ondori-noodle-downtown
 social: https://www.facebook.com/OndorinoodleLFK/
 takeout: true
-website: https://www.facebook.com/OndorinoodleLFK/
+website: ''
 ---
 
 Order by phone and pick up curbside, delivery via EatStreet

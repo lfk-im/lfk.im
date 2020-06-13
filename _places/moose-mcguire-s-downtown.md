@@ -23,7 +23,7 @@ sitemap: false
 slug: moose-mcguire-s-downtown
 social: https://www.facebook.com/moosemcguiresonmass/
 takeout: false
-website: https://www.facebook.com/moosemcguiresonmass/
+website: ''
 ---
 
 Unconfirmed

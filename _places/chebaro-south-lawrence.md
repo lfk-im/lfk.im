@@ -31,5 +31,5 @@ sitemap: false
 slug: chebaro-south-lawrence
 social: https://www.facebook.com/ChebaroMG/
 takeout: false
-website: https://www.facebook.com/ChebaroMG/
+website: ''
 ---
