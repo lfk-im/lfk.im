@@ -77,6 +77,7 @@ SHEETS_BOOL_FIELDS = [
     "active",
     "curbside",
     "delivery",
+    "dinein",
     "giftcard",
     "takeout",
 ]
