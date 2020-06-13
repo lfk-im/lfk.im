@@ -1,6 +1,6 @@
 ---
 active: true
-address: '711 W 23rd St, Ste 12 '
+address: 711 W 23rd St, Ste 12
 cuisine: Pizza, Wings
 cuisine_slugs:
 - pizza
@@ -10,8 +10,8 @@ cuisines:
 - Pizza
 - Wings
 curbside: true
-curbside_instructions: 'Order online and prepay, call the store when you arrive with
-  your order number. Your order will be brought out to you. '
+curbside_instructions: Order online and prepay, call the store when you arrive with
+  your order number. Your order will be brought out to you.
 delivery: true
 delivery_service_websites: ''
 dinein: false
@@ -28,7 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Th 10am-2am, Fr-Sa 10am-3am
 instagram_url: ''
-name: 'Sarpino’s Pizzeria Lawrence '
+name: Sarpino’s Pizzeria Lawrence
 neighborhood: ''
 notes: Free delivery
 place_type: Restaurant

@@ -38,7 +38,7 @@ instagram_url: ''
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: 'FREE DELIVERY if you call us direct.  '
+notes: FREE DELIVERY if you call us direct.
 place_type: Restaurant
 restaurant_phone: 785-727-4999
 sitemap: false

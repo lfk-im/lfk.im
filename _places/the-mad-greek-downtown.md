@@ -9,9 +9,9 @@ cuisines:
 - Greek
 - Italian
 curbside: true
-curbside_instructions: 'We ask that you pay for your order over the phone to avoid
-  unnecessary contact.  If you opt for Curbside you can find a spot up front and let
-  us know you are there or you can pull into the alley and let us know you have arrived. '
+curbside_instructions: We ask that you pay for your order over the phone to avoid
+  unnecessary contact. If you opt for Curbside you can find a spot up front and let
+  us know you are there or you can pull into the alley and let us know you have arrived.
 delivery: true
 delivery_service_websites: ''
 dinein: false

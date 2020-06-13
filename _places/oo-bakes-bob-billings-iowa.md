@@ -29,14 +29,11 @@ notes: 'Pizzas 13” 12.00 8” 7.00
 
   *Cheese
 
-
   Valley View Elk Burgers 7.00
 
   Add cheese, bacon, remoulade sauce 1.00
 
-
   Quinoa Millet Pilaf and Kale Salad 5.00
-
 
   Chocolate Chip Cookies 1.50'
 place_type: Bakery
@@ -54,10 +51,7 @@ Pizzas 13” 12.00 8” 7.00
 *Italian Sausage, Spinach and Artichoke with or without Organic Cheeses
 *Pepperoni
 *Cheese
-
 Valley View Elk Burgers 7.00
 Add cheese, bacon, remoulade sauce 1.00
-
 Quinoa Millet Pilaf and Kale Salad 5.00
-
 Chocolate Chip Cookies 1.50

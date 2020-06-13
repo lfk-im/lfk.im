@@ -1,7 +1,7 @@
 ---
 active: true
 address: 2228 Iowa St
-cuisine: 'American, Coffee, Healthy, Salads, Sandwiches, Smoothies, Vegan, Vegetarian '
+cuisine: American, Coffee, Healthy, Salads, Sandwiches, Smoothies, Vegan, Vegetarian
 cuisine_slugs:
 - american
 - coffee
@@ -13,8 +13,8 @@ cuisines:
 - Coffee
 - Sandwiches
 curbside: true
-curbside_instructions: 'Order online at Shaunandsonsartisanpub.com or call us at 785-766-2355.
-  We will bring your order to you via curbside. '
+curbside_instructions: Order online at Shaunandsonsartisanpub.com or call us at 785-766-2355.
+  We will bring your order to you via curbside.
 delivery: false
 delivery_service_websites: ''
 dinein: false

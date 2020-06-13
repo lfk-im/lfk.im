@@ -31,7 +31,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 place_type: CafeOrCoffeeShop
-restaurant_phone: '785-749-5282  '
+restaurant_phone: 785-749-5282
 sitemap: false
 slug: the-java-break-downtown
 social: ''

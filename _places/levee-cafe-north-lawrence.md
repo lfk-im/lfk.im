@@ -21,7 +21,7 @@ instagram_url: ''
 name: Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
-notes: 'Permanently closed. '
+notes: Permanently closed.
 place_type: Restaurant
 restaurant_phone: 785-856-3671
 sitemap: false

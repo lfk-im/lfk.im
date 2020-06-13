@@ -1,7 +1,7 @@
 ---
 active: true
 address: 907 Massachusetts St
-cuisine: 'Greek, Italian '
+cuisine: Greek, Italian
 cuisine_slugs:
 - greek
 - italian

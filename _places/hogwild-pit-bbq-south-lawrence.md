@@ -24,7 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
 instagram_url: ''
-name: 'HogWild Pit BBQ '
+name: HogWild Pit BBQ
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''

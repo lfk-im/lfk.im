@@ -5,9 +5,9 @@ cuisine: British and Irish groceries and tea
 cuisine_slugs: null
 cuisines: []
 curbside: true
-curbside_instructions: 'Place orders online to have them shipped, delivered (Mon -
+curbside_instructions: Place orders online to have them shipped, delivered (Mon -
   Sat), or for curbside pickup (Thu-Sat). We are closed on Sunday. Please email if
-  you have questions.  '
+  you have questions.
 delivery: true
 delivery_service_websites: ''
 dinein: false

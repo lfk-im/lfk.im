@@ -21,7 +21,7 @@ instagram_url: ''
 name: Thai-Siam Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: "Order by phone or Delivery \nvia Starve Bird"
+notes: Order by phone or Delivery via Starve Bird
 place_type: Restaurant
 restaurant_phone: 785-331-2525
 sitemap: false
@@ -33,5 +33,4 @@ twitter_url: ''
 website: https://www.thaisiamlawrence.com
 ---
 
-Order by phone or Delivery 
-via Starve Bird
+Order by phone or Delivery via Starve Bird

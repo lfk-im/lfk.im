@@ -18,8 +18,8 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Su 8-10pm
-instagram_url: ''
+hours: Mo-Su 11am-10pm
+instagram_url: https://www.instagram.com/orangeleaf/
 name: Orange Leaf
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -32,14 +32,14 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
   3- Call us when you get here and we will bring your order right
 
   out.'
-place_type: Restaurant
+place_type: IceCreamShop
 restaurant_phone: 785-856-0544
 sitemap: false
 slug: orange-leaf-west-lawrence
 social: https://www.facebook.com/OrangeLeafLawrence
-takeout: false
+takeout: true
 twitch_url: ''
-twitter_url: ''
+twitter_url: https://twitter.com/orangeleaf
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
 ---
 

@@ -1,12 +1,12 @@
 ---
 active: true
-address: '2330 Yale Rd, Suite A '
+address: 2330 Yale Rd, Suite A
 cuisine: Healthy
 cuisine_slugs: null
 cuisines: []
 curbside: false
-curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavor,
-  cash or card '
+curbside_instructions: Text your Name, Pick up time, smoothie flavor, tea flavor,
+  cash or card
 delivery: false
 delivery_service_websites: ''
 dinein: false
@@ -17,11 +17,11 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 8am-2pm, Sa 8am-1pm
 instagram_url: ''
-name: 'Total Body Nutrition '
+name: Total Body Nutrition
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
-notes: 'We will have a curbside app next week.  Follow our Social media for updates
-  and menu.  '
+notes: We will have a curbside app next week. Follow our Social media for updates
+  and menu.
 place_type: Restaurant
 restaurant_phone: 913-683-1604
 sitemap: false
@@ -33,4 +33,4 @@ twitter_url: ''
 website: ''
 ---
 
-We will have a curbside app next week.  Follow our Social media for updates and menu.
+We will have a curbside app next week. Follow our Social media for updates and menu.

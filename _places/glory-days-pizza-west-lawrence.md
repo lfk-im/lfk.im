@@ -10,7 +10,7 @@ cuisines:
 - Pizza
 - Sandwiches
 curbside: true
-curbside_instructions: 'Prepay over phone. No walk ins at this time. '
+curbside_instructions: Prepay over phone. No walk ins at this time.
 delivery: true
 delivery_service_websites: ''
 dinein: false
@@ -23,10 +23,10 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9pm
 instagram_url: ''
-name: 'Glory Days Pizza '
+name: Glory Days Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: 'Prepay over phone. No walk ins at this time. '
+notes: Prepay over phone. No walk ins at this time.
 place_type: Restaurant
 restaurant_phone: 786-841-5252
 sitemap: false

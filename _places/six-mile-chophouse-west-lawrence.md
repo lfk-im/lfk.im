@@ -16,7 +16,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Su 4-9pm
+hours: Mo-Su 3-9pm
 instagram_url: ''
 name: Six Mile Chophouse
 neighborhood: West Lawrence
@@ -30,7 +30,7 @@ restaurant_phone: 785-856-6453
 sitemap: false
 slug: six-mile-chophouse-west-lawrence
 social: https://www.facebook.com/6MileChophouse/
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: http://6milechophouse.com/
