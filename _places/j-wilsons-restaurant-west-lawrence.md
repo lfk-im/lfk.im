@@ -1,0 +1,34 @@
+---
+active: true
+address: 4821 W. 6th St
+cuisine: American, Steaks
+cuisine_slugs:
+- american
+- steaks
+- steakhouse
+cuisines:
+- American
+- Steaks
+curbside: true
+curbside_instructions: ''
+delivery: false
+delivery_service_websites: ''
+food_urls: []
+giftcard: false
+giftcard_notes: ''
+giftcard_url: ''
+hours: 'Tu-Su 12-8pm '
+name: J. Wilson’s Restaurant
+neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
+notes: Order by phone and pick up curbside
+place_type: Restaurant
+restaurant_phone: 785-312-9057
+sitemap: false
+slug: j-wilsons-restaurant-west-lawrence
+social: ''
+takeout: true
+website: https://jwilsonsrestaurant.com
+---
+
+Order by phone and pick up curbside
