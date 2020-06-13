@@ -8,7 +8,11 @@ layout: default
     {{ page.name }}
     {% unless page.active %}<small class="text-red-900">- Closed</small>{% endunless %}
   </h1>
-  <h2 class="text-2xl text-gray-800 font-bold" itemprop="address">{{ page.address }}</h2>
+  <h2 class="text-2xl text-gray-800 font-bold" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+    <span itemprop="streetAddress">{{ page.address }}</span>,
+    <span itemprop="addressLocality">{{ page.locality }}</span>,
+    <span itemprop="addressRegion">{{ page.region }}</span>
+  </h2>
 
   {% if page.neighborhood %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
