@@ -22,7 +22,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Sa 12 - 8pm
+hours: Tu-Sa 12-9pm
 instagram_url: ''
 name: Burger Stand at the Casbah
 neighborhood: Downtown

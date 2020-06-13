@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 638 Massachusetts St
 cuisine: Coffee, Tea
 cuisine_slugs:
@@ -19,7 +19,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Fr 6:30am-5pm, Sa-Sun 7:30am-5pm
 instagram_url: ''
 name: La Prima Tazza
 neighborhood: Downtown
@@ -30,7 +30,7 @@ restaurant_phone: 785-832-2233
 sitemap: false
 slug: la-prima-tazza-downtown
 social: https://www.facebook.com/La-Prima-Tazza-239100315171/
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: http://laprimatazza.com/

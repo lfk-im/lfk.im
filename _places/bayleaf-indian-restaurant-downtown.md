@@ -8,7 +8,7 @@ cuisines:
 - Thai
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 dinein: false
 facebook_url: https://www.facebook.com/bayleaflindianrestaurant/
@@ -20,7 +20,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Tu-Sun 11am-2:30pm, Mo-Th 5-9:30pm, Fr-Su 5pm-10pm
 instagram_url: ''
 name: Bayleaf Indian Restaurant
 neighborhood: Downtown

@@ -1,11 +1,12 @@
 ---
-active: false
+active: true
 address: 1111 Massachusetts St
-cuisine: Seafood
+cuisine: Tea
 cuisine_slugs:
-- seafood
+- tea
+- coffee-and-tea
 cuisines:
-- Seafood
+- Tea
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -16,18 +17,18 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Su 10am-8pm
 instagram_url: ''
 name: Mana Bar
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Retail Only
-place_type: Restaurant
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-856-8227
 sitemap: false
 slug: mana-bar-downtown
 social: https://www.facebook.com/ManaBarLawrence/
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

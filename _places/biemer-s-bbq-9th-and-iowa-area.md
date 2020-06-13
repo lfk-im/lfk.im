@@ -17,7 +17,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Sa 11am-8pm
 instagram_url: ''
 name: Biemer's BBQ
 neighborhood: 9th and Iowa Area
