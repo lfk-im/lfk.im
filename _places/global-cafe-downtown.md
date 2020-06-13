@@ -31,6 +31,7 @@ sitemap: false
 slug: global-cafe-downtown
 social: https://www.instagram.com/global_cafe_lawrence_kansas/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.globalcafelawrence.com/
 ---

@@ -39,6 +39,7 @@ sitemap: false
 slug: dempseys-burger-pub-downtown
 social: https://www.facebook.com/dempseysburgerpub/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://dempseysburgerpub.com
 ---

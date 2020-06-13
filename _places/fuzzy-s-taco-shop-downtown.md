@@ -37,6 +37,7 @@ sitemap: false
 slug: fuzzy-s-taco-shop-downtown
 social: https://www.facebook.com/FuzzysTacoShopLawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.fuzzystacoshop.com
 ---

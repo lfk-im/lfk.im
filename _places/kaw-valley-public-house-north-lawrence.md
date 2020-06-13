@@ -31,6 +31,7 @@ sitemap: false
 slug: kaw-valley-public-house-north-lawrence
 social: https://www.facebook.com/kvpub
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://kawvalleypub.com/
 ---

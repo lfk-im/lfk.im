@@ -28,6 +28,7 @@ sitemap: false
 slug: terrebonne-downtown
 social: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.terrebonnelfk.com/
 ---

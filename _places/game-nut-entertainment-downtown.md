@@ -9,7 +9,7 @@ curbside_instructions: Call to let us know your outside
 delivery: true
 delivery_service_websites: ''
 dinein: false
-facebook_url: ''
+facebook_url: https://www.facebook.com/GameNutEntertainment/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
@@ -26,8 +26,9 @@ sitemap: false
 slug: game-nut-entertainment-downtown
 social: ''
 takeout: false
-twitter_url: ''
-website: ''
+twitch_url: https://www.twitch.tv/Game_Nut
+twitter_url: https://twitter.com/Gamenutonmass
+website: http://www.imagamenut.com/
 ---
 
 TODO: Add a non-restaurant section

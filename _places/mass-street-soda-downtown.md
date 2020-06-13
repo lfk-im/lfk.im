@@ -26,6 +26,7 @@ sitemap: false
 slug: mass-street-soda-downtown
 social: https://www.facebook.com/massstreetsoda/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://www.massstreetsoda.com/
 ---

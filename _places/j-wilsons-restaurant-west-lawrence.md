@@ -31,6 +31,7 @@ sitemap: false
 slug: j-wilsons-restaurant-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://jwilsonsrestaurant.com
 ---

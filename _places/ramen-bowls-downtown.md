@@ -32,6 +32,7 @@ sitemap: false
 slug: ramen-bowls-downtown
 social: https://www.instagram.com/ramenbowlslawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://ramenbowls.com
 ---

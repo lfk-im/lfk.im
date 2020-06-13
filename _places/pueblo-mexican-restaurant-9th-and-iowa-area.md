@@ -28,6 +28,7 @@ sitemap: false
 slug: pueblo-mexican-restaurant-9th-and-iowa-area
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://pueblomxrestaurant.com/lawrence/
 ---

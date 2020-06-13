@@ -28,6 +28,7 @@ sitemap: false
 slug: thai-diner-south-lawrence
 social: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: http://www.thaidinerlawrence.com/
 ---

@@ -30,6 +30,7 @@ sitemap: false
 slug: taco-zone-downtown
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: http://www.thetacozone.com/
 ---

@@ -28,6 +28,7 @@ sitemap: false
 slug: subway-6th-and-wisconsin-1530-w-6th-st
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

@@ -32,6 +32,7 @@ sitemap: false
 slug: bigg-s-bbq-south-lawrence
 social: https://www.facebook.com/BiggsBBQ/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.biggsribs.com/
 ---

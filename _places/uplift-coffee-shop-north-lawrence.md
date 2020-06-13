@@ -31,6 +31,7 @@ sitemap: false
 slug: uplift-coffee-shop-north-lawrence
 social: https://www.instagram.com/upliftcoffee.co/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.upliftcoffeeshop.com
 ---

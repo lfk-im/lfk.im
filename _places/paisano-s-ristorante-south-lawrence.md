@@ -32,6 +32,7 @@ sitemap: false
 slug: paisano-s-ristorante-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://paisanoskansas.com
 ---

@@ -32,6 +32,7 @@ sitemap: false
 slug: cheesy-street-lucia-downtown
 social: https://www.facebook.com/CheesyStreetKC/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://cheesystreetkc.com/
 ---

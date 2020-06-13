@@ -28,6 +28,7 @@ sitemap: false
 slug: subway-bob-billings-and-wakarusa-1540-wakarusa
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.subway.com/en-CA/FindAStore
 ---

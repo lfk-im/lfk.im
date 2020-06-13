@@ -39,6 +39,7 @@ sitemap: false
 slug: the-mad-greek-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://www.themadgreeklawrence.com
 ---

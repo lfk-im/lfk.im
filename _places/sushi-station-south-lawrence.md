@@ -34,6 +34,7 @@ sitemap: false
 slug: sushi-station-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.sushistationks.com
 ---

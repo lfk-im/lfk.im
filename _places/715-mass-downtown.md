@@ -30,6 +30,7 @@ sitemap: false
 slug: 715-mass-downtown
 social: https://www.instagram.com/715restaurant/
 takeout: false
+twitch_url: ''
 twitter_url: https://twitter.com/715Restaurant
 website: https://715mass.com/
 ---

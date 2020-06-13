@@ -38,6 +38,7 @@ sitemap: false
 slug: burger-im-south-lawrence
 social: https://www.facebook.com/burgerimlawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://burgerimlawrence.com/
 ---

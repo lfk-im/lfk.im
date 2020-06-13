@@ -32,6 +32,7 @@ sitemap: false
 slug: kobe-japanese-steakhouse-old-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://kobejapanesesteakhouselawrence.com/28634
 ---

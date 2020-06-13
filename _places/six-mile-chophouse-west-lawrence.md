@@ -31,6 +31,7 @@ sitemap: false
 slug: six-mile-chophouse-west-lawrence
 social: https://www.facebook.com/6MileChophouse/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: http://6milechophouse.com/
 ---

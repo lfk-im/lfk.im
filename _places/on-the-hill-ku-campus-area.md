@@ -26,6 +26,7 @@ sitemap: false
 slug: on-the-hill-ku-campus-area
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://theoread.com/dining-services/on-the-hill-restaurant/
 ---

@@ -38,6 +38,7 @@ sitemap: false
 slug: orange-leaf-west-lawrence
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
 ---

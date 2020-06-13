@@ -33,6 +33,7 @@ sitemap: false
 slug: lawrence-beer-company-west-west-lawrence
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.lawrencebeerco.com
 ---

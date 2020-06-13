@@ -28,6 +28,7 @@ sitemap: false
 slug: brits-downtown
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://britsusa.com
 ---

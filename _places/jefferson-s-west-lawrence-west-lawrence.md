@@ -32,6 +32,7 @@ sitemap: false
 slug: jefferson-s-west-lawrence-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://jeffersons.com/order-online/
 ---

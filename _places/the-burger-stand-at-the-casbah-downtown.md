@@ -30,6 +30,7 @@ sitemap: false
 slug: the-burger-stand-at-the-casbah-downtown
 social: https://www.facebook.com/casbahburgerstand/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.burgerstandrestaurants.com/
 ---

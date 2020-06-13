@@ -36,6 +36,7 @@ sitemap: false
 slug: rudys-pizzeria-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://rudyspizzeria.com
 ---

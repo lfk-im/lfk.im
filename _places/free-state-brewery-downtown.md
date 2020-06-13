@@ -34,6 +34,7 @@ sitemap: false
 slug: free-state-brewery-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://www.freestatebrewing.com/brewpub/
 ---

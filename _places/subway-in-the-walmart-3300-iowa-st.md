@@ -28,6 +28,7 @@ sitemap: false
 slug: subway-in-the-walmart-3300-iowa-st
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

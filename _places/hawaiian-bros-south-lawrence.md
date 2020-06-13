@@ -30,6 +30,7 @@ sitemap: false
 slug: hawaiian-bros-south-lawrence
 social: https://www.facebook.com/hawaiianbroslawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://hawaiianbros.com/
 ---

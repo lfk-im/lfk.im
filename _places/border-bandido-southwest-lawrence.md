@@ -30,6 +30,7 @@ sitemap: false
 slug: border-bandido-southwest-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://borderbandidolawrence.com/
 ---

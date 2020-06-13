@@ -27,6 +27,7 @@ sitemap: false
 slug: taco-johns-1101-w-6th-st
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.tacojohns.com
 ---

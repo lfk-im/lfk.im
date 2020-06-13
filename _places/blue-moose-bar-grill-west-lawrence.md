@@ -45,6 +45,7 @@ sitemap: false
 slug: blue-moose-bar-grill-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://thebluemoosebarandgrill.com/lawrence/
 ---

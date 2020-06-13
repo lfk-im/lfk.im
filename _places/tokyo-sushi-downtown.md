@@ -36,6 +36,7 @@ sitemap: false
 slug: tokyo-sushi-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.tokyosushilfk.com/#/
 ---

@@ -33,6 +33,7 @@ sitemap: false
 slug: the-levee-cafe-north-lawrence
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://theleveecafe.com
 ---

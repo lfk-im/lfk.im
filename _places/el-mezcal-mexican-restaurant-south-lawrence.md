@@ -30,6 +30,7 @@ sitemap: false
 slug: el-mezcal-mexican-restaurant-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.elmezcaltogo.com/#menu
 ---

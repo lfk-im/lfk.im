@@ -36,6 +36,7 @@ sitemap: false
 slug: archibowls-downtown
 social: https://www.facebook.com/sincerelyspicy/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.archibowlslawrence.com
 ---

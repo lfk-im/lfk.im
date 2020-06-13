@@ -31,6 +31,7 @@ sitemap: false
 slug: raising-canes-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.raisingcanes.com/location/kansas/lawrence/phog
 ---

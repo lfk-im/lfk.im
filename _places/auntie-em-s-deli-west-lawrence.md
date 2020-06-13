@@ -37,6 +37,7 @@ sitemap: false
 slug: auntie-em-s-deli-west-lawrence
 social: https://www.facebook.com/AuntieEmsDeliandBakery
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.auntieemsdeli.com/home.html
 ---

@@ -30,6 +30,7 @@ sitemap: false
 slug: mexquisito-downtown
 social: https://www.facebook.com/Mexquisito
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: http://mexquisito.com/
 ---

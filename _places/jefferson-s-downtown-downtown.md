@@ -32,6 +32,7 @@ sitemap: false
 slug: jefferson-s-downtown-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://jeffersons.com/order-online/
 ---

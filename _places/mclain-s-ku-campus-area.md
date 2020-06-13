@@ -30,6 +30,7 @@ sitemap: false
 slug: mclain-s-ku-campus-area
 social: https://www.instagram.com/mclainsmarketlawrence/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.mclainskc.com/lawrence
 ---

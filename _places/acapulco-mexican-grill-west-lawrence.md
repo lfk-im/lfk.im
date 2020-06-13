@@ -32,6 +32,7 @@ sitemap: false
 slug: acapulco-mexican-grill-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://acapulcoks.com
 ---

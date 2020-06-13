@@ -33,6 +33,7 @@ sitemap: false
 slug: wheatfields-bakery-downtown
 social: https://twitter.com/WheatfieldsBkry
 takeout: true
+twitch_url: ''
 twitter_url: https://twitter.com/WheatfieldsBkry
 website: http://wheatfieldsbakery.com/
 ---

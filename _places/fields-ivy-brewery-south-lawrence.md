@@ -38,6 +38,7 @@ sitemap: false
 slug: fields-ivy-brewery-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://fieldsandivy.com
 ---

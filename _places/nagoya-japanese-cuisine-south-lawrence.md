@@ -30,6 +30,7 @@ sitemap: false
 slug: nagoya-japanese-cuisine-south-lawrence
 social: https://www.facebook.com/nagoyalawrence/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.ordernagoyasushi.com/#/
 ---

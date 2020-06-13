@@ -28,6 +28,7 @@ sitemap: false
 slug: mana-bar-downtown
 social: https://www.facebook.com/ManaBarLawrence/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

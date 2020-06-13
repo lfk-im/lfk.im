@@ -30,6 +30,7 @@ sitemap: false
 slug: applebees-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.applebees.com/en
 ---

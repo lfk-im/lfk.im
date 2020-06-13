@@ -28,6 +28,7 @@ sitemap: false
 slug: culinaria-downtown-adjacent
 social: https://www.facebook.com/pg/CulinariaKS
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.culinariafoodandwine.com/
 ---

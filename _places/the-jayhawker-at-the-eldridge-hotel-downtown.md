@@ -32,6 +32,7 @@ sitemap: false
 slug: the-jayhawker-at-the-eldridge-hotel-downtown
 social: https://www.facebook.com/TheJayhawkerBar/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://eldridgehotel.com/dining-service/thejayhawker/
 ---

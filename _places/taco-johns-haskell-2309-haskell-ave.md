@@ -27,6 +27,7 @@ sitemap: false
 slug: taco-johns-haskell-2309-haskell-ave
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.tacojohns.com
 ---

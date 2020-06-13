@@ -33,6 +33,7 @@ sitemap: false
 slug: glory-days-pizza-west-lawrence
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.glorydayspizza.com
 ---

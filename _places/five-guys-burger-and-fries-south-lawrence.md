@@ -31,6 +31,7 @@ sitemap: false
 slug: five-guys-burger-and-fries-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://order.fiveguys.com/menu/lawrence
 ---

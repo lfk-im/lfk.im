@@ -28,6 +28,7 @@ sitemap: false
 slug: the-sandbar-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: https://twitter.com/thesandbar
 website: http://www.thesandbar.com/
 ---

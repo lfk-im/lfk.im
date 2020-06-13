@@ -30,6 +30,7 @@ sitemap: false
 slug: west-coast-saloon-south-lawrence
 social: https://www.facebook.com/westcoastsaloon/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

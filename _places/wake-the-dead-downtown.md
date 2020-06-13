@@ -35,6 +35,7 @@ sitemap: false
 slug: wake-the-dead-downtown
 social: https://www.facebook.com/wakethedeadbreakfastbar/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.wtdbreakfastbar.com/
 ---

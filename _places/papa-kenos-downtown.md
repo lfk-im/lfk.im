@@ -32,6 +32,7 @@ sitemap: false
 slug: papa-kenos-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://www.papakenos.com
 ---

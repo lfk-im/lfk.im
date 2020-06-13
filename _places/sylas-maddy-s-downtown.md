@@ -29,6 +29,7 @@ sitemap: false
 slug: sylas-maddy-s-downtown
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://www.sylasandmaddysicecream.com/
 ---

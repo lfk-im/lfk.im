@@ -34,6 +34,7 @@ sitemap: false
 slug: aladdin-cafe-downtown
 social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://aladdincafelawrence.com
 ---

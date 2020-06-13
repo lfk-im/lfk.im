@@ -28,6 +28,7 @@ sitemap: false
 slug: bon-bon-downtown-adjacent
 social: https://www.instagram.com/bonbonlawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.bonbonlawrence.com/
 ---

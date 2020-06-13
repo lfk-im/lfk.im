@@ -32,6 +32,7 @@ sitemap: false
 slug: basil-leaf-cafe-downtown-adjacent
 social: https://www.facebook.com/TheBasilLeafCafeKS/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

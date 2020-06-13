@@ -34,6 +34,7 @@ sitemap: false
 slug: bellaroca-cakes-9th-and-iowa-area
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.bellarocacakes.com/
 ---

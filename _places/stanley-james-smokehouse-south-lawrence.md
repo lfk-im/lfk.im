@@ -32,6 +32,7 @@ sitemap: false
 slug: stanley-james-smokehouse-south-lawrence
 social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.sjsmokehouse.com/
 ---

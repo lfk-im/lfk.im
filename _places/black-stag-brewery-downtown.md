@@ -35,6 +35,7 @@ sitemap: false
 slug: black-stag-brewery-downtown
 social: https://www.facebook.com/BlackStagBrewery/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://blackstagbrew.com
 ---

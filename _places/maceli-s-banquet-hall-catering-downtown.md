@@ -28,6 +28,7 @@ sitemap: false
 slug: maceli-s-banquet-hall-catering-downtown
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.macelisonline.com
 ---

@@ -35,6 +35,7 @@ sitemap: false
 slug: johnny-s-tavern-west-lawrence-west-lawrence
 social: https://www.facebook.com/JohnnysTavernWestLawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://johnnystavern.com
 ---

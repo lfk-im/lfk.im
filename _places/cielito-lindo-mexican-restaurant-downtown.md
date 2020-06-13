@@ -30,6 +30,7 @@ sitemap: false
 slug: cielito-lindo-mexican-restaurant-downtown
 social: https://www.facebook.com/cielitolindoks/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.cielitolindoks.com/#/
 ---

@@ -35,6 +35,7 @@ sitemap: false
 slug: johnny-s-tavern-north-lawrence-north-lawrence
 social: https://www.facebook.com/JohnnysNorth/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://johnnystavern.com
 ---

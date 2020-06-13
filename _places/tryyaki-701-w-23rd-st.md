@@ -39,6 +39,7 @@ sitemap: false
 slug: tryyaki-701-w-23rd-st
 social: https://www.facebook.com/pages/category/Chinese-Restaurant/Tryyaki-779014658853038/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://lawrence.tryyaki.com/#/
 ---

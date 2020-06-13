@@ -31,6 +31,7 @@ sitemap: false
 slug: merchants-downtown
 social: https://www.facebook.com/MerchantsOnMass/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.merchantsonmass.com/
 ---

@@ -35,6 +35,7 @@ sitemap: false
 slug: s-s-artisan-pub-coffeehouse-southwest-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

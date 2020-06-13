@@ -35,6 +35,7 @@ sitemap: false
 slug: e-barn-farm-bakery
 social: https://www.instagram.com/ebarnfarmlf
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://ebarnfarm.org/
 ---

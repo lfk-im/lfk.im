@@ -39,6 +39,7 @@ sitemap: false
 slug: quintons-bar-deli-downtown
 social: ''
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: https://www.snappyeats.com/Order/menudetail.aspx?restaurantID=5020#!/category/
 ---

@@ -25,6 +25,7 @@ sitemap: false
 slug: trivedi-wine-1826-east-1150-rd
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.trivediwine.com
 ---

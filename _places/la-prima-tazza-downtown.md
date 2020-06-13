@@ -31,6 +31,7 @@ sitemap: false
 slug: la-prima-tazza-downtown
 social: https://www.facebook.com/La-Prima-Tazza-239100315171/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: http://laprimatazza.com/
 ---

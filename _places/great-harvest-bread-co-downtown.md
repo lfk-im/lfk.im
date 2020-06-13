@@ -31,6 +31,7 @@ sitemap: false
 slug: great-harvest-bread-co-downtown
 social: https://www.facebook.com/GreatHarvestLawrenceKs/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

@@ -34,6 +34,7 @@ sitemap: false
 slug: hogwild-pit-bbq-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.gohogwild.com
 ---

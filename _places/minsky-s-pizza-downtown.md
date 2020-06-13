@@ -30,6 +30,7 @@ sitemap: false
 slug: minsky-s-pizza-downtown
 social: https://www.facebook.com/MinskysPizzaLawrence/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://minskys.com/lawrence/
 ---

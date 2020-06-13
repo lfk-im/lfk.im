@@ -34,6 +34,7 @@ sitemap: false
 slug: toppers-pizza-downtown-adjacent
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://order.toppers.com/
 ---

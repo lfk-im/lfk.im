@@ -42,6 +42,7 @@ sitemap: false
 slug: oriental-bistro-grill-south-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://orientalbistrolawrence.com
 ---

@@ -31,6 +31,7 @@ sitemap: false
 slug: s-s-artisan-pub-coffeehouse-south-lawrence
 social: https://www.facebook.com/SSArtisanPub/
 takeout: false
+twitch_url: ''
 twitter_url: ''
 website: ''
 ---

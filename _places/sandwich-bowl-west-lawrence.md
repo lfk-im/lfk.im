@@ -31,6 +31,7 @@ sitemap: false
 slug: sandwich-bowl-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://sandwichbowl.com/menu.html
 ---

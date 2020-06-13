@@ -32,6 +32,7 @@ sitemap: false
 slug: bayleaf-indian-restaurant-downtown
 social: https://www.facebook.com/bayleaflindianrestaurant/
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: http://bayleaflawrence.com/
 ---

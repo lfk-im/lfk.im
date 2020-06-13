@@ -41,6 +41,7 @@ sitemap: false
 slug: burgers-by-biggs-west-lawrence
 social: ''
 takeout: true
+twitch_url: ''
 twitter_url: ''
 website: https://www.burgersbybiggsks.com
 ---
