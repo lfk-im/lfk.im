@@ -96,9 +96,12 @@ SHEETS_STRING_FIELDS = [
 ]
 
 SHEETS_URL_FIELDS = [
-    "giftcard_url",
-    "website",
     "delivery_service_websites",
+    "facebook_url",
+    "giftcard_url",
+    "instagram_url",
+    "twitter_url",
+    "website",
 ]
 
 FOOD_SERVICE_DICT = {
