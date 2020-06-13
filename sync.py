@@ -84,6 +84,7 @@ SHEETS_BOOL_FIELDS = [
 SHEETS_STRING_FIELDS = [
     "name",
     "address",
+    "place_type",
     "cuisine",
     "curbside_instructions",
     "giftcard_notes",
