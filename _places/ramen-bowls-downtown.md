@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: chownow.com
   url: https://eat.chownow.com/discover/restaurant/9341
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: https://www.instagram.com/ramenbowlslawrence/
 name: Ramen Bowls
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -29,6 +31,7 @@ sitemap: false
 slug: ramen-bowls-downtown
 social: https://www.instagram.com/ramenbowlslawrence/
 takeout: true
+twitter_url: ''
 website: https://ramenbowls.com
 ---
 

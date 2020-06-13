@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: Drive Thru open!
 delivery: true
 delivery_service_websites: https://www.toasttab.com/hawaiian-bros-002/v3#!/
+facebook_url: https://www.facebook.com/hawaiianbroslawrence/
 food_urls:
 - name: order online
   url: https://www.toasttab.com/hawaiian-bros-002/v3#!/
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Hawaiian Bros.
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -27,5 +29,6 @@ sitemap: false
 slug: hawaiian-bros-south-lawrence
 social: https://www.facebook.com/hawaiianbroslawrence/
 takeout: true
+twitter_url: ''
 website: https://hawaiianbros.com/
 ---

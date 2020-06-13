@@ -12,11 +12,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Taco Zone
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -27,6 +29,7 @@ sitemap: false
 slug: taco-zone-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: http://www.thetacozone.com/
 ---
 

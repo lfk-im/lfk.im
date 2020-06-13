@@ -10,11 +10,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/6MileChophouse/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
+instagram_url: ''
 name: Six Mile Chophouse
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -28,6 +30,7 @@ sitemap: false
 slug: six-mile-chophouse-west-lawrence
 social: https://www.facebook.com/6MileChophouse/
 takeout: false
+twitter_url: ''
 website: http://6milechophouse.com/
 ---
 

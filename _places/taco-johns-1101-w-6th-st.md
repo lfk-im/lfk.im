@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/taco-john-s-lawrence-872315/en-US
@@ -15,6 +16,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Taco John’s
 neighborhood: ''
 notes: ''
@@ -24,5 +26,6 @@ sitemap: false
 slug: taco-johns-1101-w-6th-st
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.tacojohns.com
 ---

@@ -14,11 +14,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/alchemycoffeeKS/
 food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: Mo-Su 7am-6pm
+instagram_url: ''
 name: Alchemy Limited
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -31,6 +33,7 @@ sitemap: false
 slug: alchemy-limited-west-lawrence
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
+twitter_url: ''
 website: https://www.alchemyks.com/
 ---
 

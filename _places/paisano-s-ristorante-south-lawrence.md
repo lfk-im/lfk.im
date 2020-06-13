@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/business/paisano-s-ristorante-172518/
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 3-8pm, Su 12-8pm
+instagram_url: ''
 name: Paisano's Ristorante
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -29,5 +31,6 @@ sitemap: false
 slug: paisano-s-ristorante-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://paisanoskansas.com
 ---

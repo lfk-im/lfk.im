@@ -17,6 +17,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/miltonslawrenceks/
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/miltons-cafe-lawrence
@@ -24,6 +25,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 7am-2pm, Su 8am-2pm
+instagram_url: ''
 name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -34,6 +36,7 @@ sitemap: false
 slug: milton-s-cafe-downtown
 social: https://www.facebook.com/miltonslawrenceks/
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

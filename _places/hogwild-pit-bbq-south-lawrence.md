@@ -14,6 +14,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/hog-wild-pit-bbq-and-catering
@@ -21,6 +22,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
+instagram_url: ''
 name: 'HogWild Pit BBQ '
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -31,5 +33,6 @@ sitemap: false
 slug: hogwild-pit-bbq-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.gohogwild.com
 ---

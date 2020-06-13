@@ -21,6 +21,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/blue-moose-bar-grill-lawrence-788195/en-US
@@ -32,6 +33,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 3-8pm, Fr-Sa 12-9pm, Su 12-8pm
+instagram_url: ''
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -42,6 +44,7 @@ sitemap: false
 slug: blue-moose-bar-grill-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: http://thebluemoosebarandgrill.com/lawrence/
 ---
 

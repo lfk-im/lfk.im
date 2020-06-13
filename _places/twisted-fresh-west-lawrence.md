@@ -19,6 +19,7 @@ curbside_instructions: Please call the store when you arrive and we will bring i
   out to you!
 delivery: true
 delivery_service_websites: https://orders.imenu360.us/TwistedFresh/Lawrence/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://orders.imenu360.us/TwistedFresh/Lawrence/
@@ -28,6 +29,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 11am-8pm, Su 11am-3pm
+instagram_url: ''
 name: Twisted Fresh
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -38,5 +40,6 @@ sitemap: false
 slug: twisted-fresh-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.twistedfresh.com
 ---

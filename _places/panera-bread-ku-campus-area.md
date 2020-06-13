@@ -23,6 +23,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/panera-bread-charlotte-858247/en-US
@@ -32,6 +33,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 7am-8pm, Su 7:30am-7:30pm
+instagram_url: ''
 name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
@@ -42,6 +44,7 @@ sitemap: false
 slug: panera-bread-ku-campus-area
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

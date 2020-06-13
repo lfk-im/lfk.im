@@ -11,6 +11,7 @@ curbside_instructions: Call (785)841-8226 when you arrive and we will bring your
   out to you.
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/FuzzysTacoShopLawrence/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/fuzzys-taco-shop-1115-massachusetts-st
@@ -24,6 +25,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: https://fuzzystacoshop.cardfoundry.com/giftcards.php
 hours: Mo-Su 11am-9pm
+instagram_url: ''
 name: Fuzzy's Taco Shop
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -34,5 +36,6 @@ sitemap: false
 slug: fuzzy-s-taco-shop-downtown
 social: https://www.facebook.com/FuzzysTacoShopLawrence/
 takeout: true
+twitter_url: ''
 website: https://www.fuzzystacoshop.com
 ---

@@ -14,6 +14,7 @@ curbside: true
 curbside_instructions: All carryout/curbside is via drive-through.
 delivery: true
 delivery_service_websites: https://lawrence.tryyaki.com/#/
+facebook_url: https://www.facebook.com/pages/category/Chinese-Restaurant/Tryyaki-779014658853038/
 food_urls:
 - name: order online
   url: https://lawrence.tryyaki.com/#/
@@ -27,6 +28,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Tryyaki
 neighborhood: ''
 notes: ''
@@ -36,5 +38,6 @@ sitemap: false
 slug: tryyaki-701-w-23rd-st
 social: https://www.facebook.com/pages/category/Chinese-Restaurant/Tryyaki-779014658853038/
 takeout: true
+twitter_url: ''
 website: https://lawrence.tryyaki.com/#/
 ---

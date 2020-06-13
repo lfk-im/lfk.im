@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://order.mclainsbakerykc.com/mclains-lawrence/menu
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://order.mclainsbakerykc.com/mclains-lawrence/menu
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: https://www.instagram.com/mclainsmarketlawrence/
 name: McLain's
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
@@ -27,6 +29,7 @@ sitemap: false
 slug: mclain-s-ku-campus-area
 social: https://www.instagram.com/mclainsmarketlawrence/
 takeout: false
+twitter_url: ''
 website: https://www.mclainskc.com/lawrence
 ---
 

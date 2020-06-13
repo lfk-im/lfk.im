@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/CheesyStreetKC/
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/cheesy-street-lawrence-940500/en-US
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Cheesy Street @ Lucia
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -29,5 +31,6 @@ sitemap: false
 slug: cheesy-street-lucia-downtown
 social: https://www.facebook.com/CheesyStreetKC/
 takeout: true
+twitter_url: ''
 website: https://cheesystreetkc.com/
 ---

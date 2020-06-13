@@ -10,11 +10,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/limestonepkb/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 4-8:30pm
+instagram_url: ''
 name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -25,6 +27,7 @@ sitemap: false
 slug: limestone-pizza-downtown
 social: https://www.facebook.com/limestonepkb/
 takeout: false
+twitter_url: ''
 website: http://www.limestonepkb.com/
 ---
 

@@ -8,11 +8,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/massstreetsoda/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mass Street Soda
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -23,6 +25,7 @@ sitemap: false
 slug: mass-street-soda-downtown
 social: https://www.facebook.com/massstreetsoda/
 takeout: true
+twitter_url: ''
 website: http://www.massstreetsoda.com/
 ---
 

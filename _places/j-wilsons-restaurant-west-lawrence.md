@@ -13,11 +13,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: 'Tu-Su 12-8pm '
+instagram_url: ''
 name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -28,6 +30,7 @@ sitemap: false
 slug: j-wilsons-restaurant-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://jwilsonsrestaurant.com
 ---
 

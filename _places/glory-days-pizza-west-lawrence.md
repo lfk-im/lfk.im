@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: 'Prepay over phone. No walk ins at this time. '
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/business/glory-days-pizza-186730/menu/
@@ -20,6 +21,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9pm
+instagram_url: ''
 name: 'Glory Days Pizza '
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -30,6 +32,7 @@ sitemap: false
 slug: glory-days-pizza-west-lawrence
 social: ''
 takeout: false
+twitter_url: ''
 website: https://www.glorydayspizza.com
 ---
 

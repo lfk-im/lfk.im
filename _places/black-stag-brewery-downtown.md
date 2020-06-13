@@ -15,6 +15,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/BlackStagBrewery/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/black-stag-brewery-and-pub
@@ -22,6 +23,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4:30-6pm
+instagram_url: ''
 name: Black Stag Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -32,6 +34,7 @@ sitemap: false
 slug: black-stag-brewery-downtown
 social: https://www.facebook.com/BlackStagBrewery/
 takeout: false
+twitter_url: ''
 website: https://blackstagbrew.com
 ---
 

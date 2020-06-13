@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.paypal.com/donate/?token=DjrgiUtpB3XvhXOzc4Nz5Nd76hmBY0aWVXiNjhX3n5RZwjjAsH6g_SovRIVisUalf9zBBG&country.x=US&locale.x=US
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.paypal.com/donate/?token=DjrgiUtpB3XvhXOzc4Nz5Nd76hmBY0aWVXiNjhX3n5RZwjjAsH6g_SovRIVisUalf9zBBG&country.x=US&locale.x=US
@@ -20,6 +21,7 @@ giftcard_notes: Free sack lunches available, can order gift cards by phone or do
   online
 giftcard_url: ''
 hours: ''
+instagram_url: https://www.instagram.com/ladybird_diner/
 name: Ladybird
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -30,5 +32,6 @@ sitemap: false
 slug: ladybird-downtown
 social: https://www.instagram.com/ladybird_diner/
 takeout: false
+twitter_url: ''
 website: https://ladybirddiner.com/
 ---

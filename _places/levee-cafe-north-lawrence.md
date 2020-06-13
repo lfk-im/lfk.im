@@ -10,11 +10,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/TheLeveeCafe/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
@@ -25,6 +27,7 @@ sitemap: false
 slug: levee-cafe-north-lawrence
 social: https://www.facebook.com/TheLeveeCafe/
 takeout: true
+twitter_url: ''
 website: http://theleveecafe.com/
 ---
 

@@ -16,6 +16,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.hotboxcookies.com/order/restaurant/hotbox-cookies---oread-avenue-menu/18175
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.hotboxcookies.com/order/restaurant/hotbox-cookies---oread-avenue-menu/18175
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Hot Box Cookies
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
@@ -33,6 +35,7 @@ sitemap: false
 slug: hot-box-cookies-ku-campus-area
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.hotboxcookies.com/
 ---
 

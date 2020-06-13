@@ -13,11 +13,13 @@ curbside: true
 curbside_instructions: Call when you’re here
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-10pm
+instagram_url: ''
 name: Pickleman’s Downtown
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,5 +30,6 @@ sitemap: false
 slug: picklemans-downtown-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: https://picklemans.com
 ---

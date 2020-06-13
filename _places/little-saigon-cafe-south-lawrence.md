@@ -8,11 +8,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/mamastamaleshop/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Fr 10am-7pm
+instagram_url: ''
 name: Little Saigon Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -23,6 +25,7 @@ sitemap: false
 slug: little-saigon-cafe-south-lawrence
 social: https://www.facebook.com/mamastamaleshop/
 takeout: true
+twitter_url: ''
 website: http://www.littlesaigonlawrence.com/
 ---
 

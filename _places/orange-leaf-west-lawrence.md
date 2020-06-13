@@ -12,11 +12,13 @@ curbside_instructions: Call 785-856-0544 to order and again when you arrive and 
   will bring to your car
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/OrangeLeafLawrence
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 8-10pm
+instagram_url: ''
 name: Orange Leaf
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -35,6 +37,7 @@ sitemap: false
 slug: orange-leaf-west-lawrence
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false
+twitter_url: ''
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
 ---
 

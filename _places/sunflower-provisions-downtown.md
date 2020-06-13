@@ -8,11 +8,13 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu,Fr 11am-1pm, 4-6pm
+instagram_url: ''
 name: Sunflower Provisions
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -23,5 +25,6 @@ sitemap: false
 slug: sunflower-provisions-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://www.sunflowerprovisions.com/
 ---

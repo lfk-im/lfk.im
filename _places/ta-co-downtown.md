@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/taco-lawrence
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 11am-8pm
+instagram_url: ''
 name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -35,6 +37,7 @@ sitemap: false
 slug: ta-co-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.tacolawrence.com
 ---
 

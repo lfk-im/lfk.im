@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/business/acapulco-mexican-restaurant-y-cantina-6798/
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sun 4-9pm
+instagram_url: ''
 name: Acapulco Mexican Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -29,6 +31,7 @@ sitemap: false
 slug: acapulco-mexican-grill-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://acapulcoks.com
 ---
 

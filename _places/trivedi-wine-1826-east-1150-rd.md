@@ -8,11 +8,13 @@ curbside: true
 curbside_instructions: Call ahead or come in for take out.
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Su 12-6pm
+instagram_url: ''
 name: Trivedi Wine
 neighborhood: ''
 notes: ''
@@ -22,5 +24,6 @@ sitemap: false
 slug: trivedi-wine-1826-east-1150-rd
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.trivediwine.com
 ---

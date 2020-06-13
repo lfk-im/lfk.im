@@ -11,11 +11,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-7pm
+instagram_url: ''
 name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''
@@ -25,5 +27,6 @@ sitemap: false
 slug: subway-in-the-walmart-3300-iowa-st
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---

@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/sincerelyspicy/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/archibowls
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Su 12-8pm
+instagram_url: ''
 name: Archibowls
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -33,6 +35,7 @@ sitemap: false
 slug: archibowls-downtown
 social: https://www.facebook.com/sincerelyspicy/
 takeout: true
+twitter_url: ''
 website: https://www.archibowlslawrence.com
 ---
 

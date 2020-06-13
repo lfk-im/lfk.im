@@ -13,11 +13,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/leewayfranksllc/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tue-Sat 10am-6pm
+instagram_url: ''
 name: Leeway Butcher
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
@@ -28,6 +30,7 @@ sitemap: false
 slug: leeway-butcher-9th-and-iowa-area
 social: https://www.facebook.com/leewayfranksllc/
 takeout: true
+twitter_url: ''
 website: http://leewaybutcher.com/
 ---
 

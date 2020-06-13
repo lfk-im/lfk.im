@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://snappyeats.com/Order/menudetail.aspx?restaurantID=3835#!/category/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://snappyeats.com/Order/menudetail.aspx?restaurantID=3835#!/category/
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 4-9pm, Fr-Su 11am-9pm
+instagram_url: ''
 name: Jefferson's West Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -29,5 +31,6 @@ sitemap: false
 slug: jefferson-s-west-lawrence-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://jeffersons.com/order-online/
 ---

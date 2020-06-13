@@ -14,6 +14,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/AimeesCoffeehouse/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/aimees-cafe-and-coffee-house
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Fr-Su 8am-2pm
+instagram_url: ''
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -33,6 +35,7 @@ sitemap: false
 slug: aimee-s-coffeehouse-downtown
 social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

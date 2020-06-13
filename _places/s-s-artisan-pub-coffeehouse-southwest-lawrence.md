@@ -17,11 +17,13 @@ curbside_instructions: 'Order online at Shaunandsonsartisanpub.com or call us at
   We will bring your order to you via curbside. '
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 11am-2pm, Su&Th 4-8pm
+instagram_url: ''
 name: S&S Artisan Pub & Coffeehouse
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
@@ -32,5 +34,6 @@ sitemap: false
 slug: s-s-artisan-pub-coffeehouse-southwest-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---

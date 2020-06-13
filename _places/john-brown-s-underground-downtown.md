@@ -12,11 +12,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
 hours: ''
+instagram_url: https://www.instagram.com/johnbrownunderground/
 name: John Brown's Underground
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -27,6 +29,7 @@ sitemap: false
 slug: john-brown-s-underground-downtown
 social: https://www.instagram.com/johnbrownunderground/
 takeout: true
+twitter_url: ''
 website: http://www.freelawrence.com/
 ---
 

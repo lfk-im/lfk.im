@@ -13,11 +13,13 @@ curbside_instructions: Order via Facebook Messenger with name and time you want 
   pick up
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/kvpub
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: We-Sa 5-9pm
+instagram_url: ''
 name: Kaw Valley Public House
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
@@ -28,5 +30,6 @@ sitemap: false
 slug: kaw-valley-public-house-north-lawrence
 social: https://www.facebook.com/kvpub
 takeout: true
+twitter_url: ''
 website: http://kawvalleypub.com/
 ---

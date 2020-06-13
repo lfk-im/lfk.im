@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/global-cafe
@@ -17,6 +18,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/CX2M2Z2679FX3/order
 hours: Th-Sa 8am-1:30pm
+instagram_url: https://www.instagram.com/global_cafe_lawrence_kansas/
 name: Global Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,6 +30,7 @@ sitemap: false
 slug: global-cafe-downtown
 social: https://www.instagram.com/global_cafe_lawrence_kansas/
 takeout: true
+twitter_url: ''
 website: https://www.globalcafelawrence.com/
 ---
 

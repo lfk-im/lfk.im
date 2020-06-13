@@ -11,11 +11,13 @@ curbside_instructions: Call ahead and/or call upon arriving and someone will com
   to your car to take your order
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-9pm
+instagram_url: ''
 name: Sylas & Maddy's
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -26,6 +28,7 @@ sitemap: false
 slug: sylas-maddy-s-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: http://www.sylasandmaddysicecream.com/
 ---
 

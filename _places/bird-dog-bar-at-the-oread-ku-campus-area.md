@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/BirdDogBar/
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/bird-dog-bar-lawrence
@@ -15,6 +16,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Bird Dog Bar at The Oread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
@@ -25,6 +27,7 @@ sitemap: false
 slug: bird-dog-bar-at-the-oread-ku-campus-area
 social: https://www.facebook.com/BirdDogBar/
 takeout: false
+twitter_url: ''
 website: https://theoread.com/dining-services/bird-dog-bar/
 ---
 

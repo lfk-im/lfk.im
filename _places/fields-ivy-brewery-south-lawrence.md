@@ -18,6 +18,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.toasttab.com/fields-ivy-brewing/v3#!/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.toasttab.com/fields-ivy-brewing/v3#!/
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9:30pm
+instagram_url: ''
 name: Fields & Ivy Brewery
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -35,6 +37,7 @@ sitemap: false
 slug: fields-ivy-brewery-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://fieldsandivy.com
 ---
 

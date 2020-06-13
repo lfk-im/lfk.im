@@ -9,11 +9,13 @@ curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at
   curbside on Friday
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Saturday meal pickup
+instagram_url: ''
 name: Maceli's Banquet Hall & Catering
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -25,6 +27,7 @@ sitemap: false
 slug: maceli-s-banquet-hall-catering-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://www.macelisonline.com
 ---
 

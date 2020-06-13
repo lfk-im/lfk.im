@@ -14,6 +14,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
+facebook_url: https://www.facebook.com/alchemycoffeeKS/
 food_urls:
 - name: order online
   url: https://squareup.com/store/AlchemyOnline
@@ -23,6 +24,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: ''
+instagram_url: ''
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -33,6 +35,7 @@ sitemap: false
 slug: alchemy-coffee-bake-house-downtown
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: false
+twitter_url: ''
 website: https://www.alchemyks.com/
 ---
 

@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/burgerimlawrence/
 food_urls:
 - name: chownow.com
   url: http://bit.ly/39UJb26
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
+instagram_url: ''
 name: Burger IM
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -35,6 +37,7 @@ sitemap: false
 slug: burger-im-south-lawrence
 social: https://www.facebook.com/burgerimlawrence/
 takeout: true
+twitter_url: ''
 website: https://burgerimlawrence.com/
 ---
 

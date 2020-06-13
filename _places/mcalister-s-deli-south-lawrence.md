@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/McAlistersDeliLawrence/
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/mcalister-s-deli-lawrence-410574/en-US
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: McAlister's Deli
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -28,6 +30,7 @@ sitemap: false
 slug: mcalister-s-deli-south-lawrence
 social: https://www.facebook.com/McAlistersDeliLawrence/
 takeout: true
+twitter_url: ''
 website: https://www.mcalistersdeli.com/menu
 ---
 

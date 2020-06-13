@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.laestrellamexicana.com/orderonline
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.laestrellamexicana.com/orderonline
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: https://www.instagram.com/laestrellamexicana/
 name: La Estrella
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -27,6 +29,7 @@ sitemap: false
 slug: la-estrella-south-lawrence
 social: https://www.instagram.com/laestrellamexicana/
 takeout: true
+twitter_url: ''
 website: http://www.laestrellamexicana.com/
 ---
 

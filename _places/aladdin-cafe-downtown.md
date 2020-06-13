@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/aladdincafeoflawrence/
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/aladdin-cafe-lawrence-327536/en-US
@@ -21,6 +22,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Sa 11:30am-2:30pm, 5-7:30pm
+instagram_url: ''
 name: Aladdin Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -31,6 +33,7 @@ sitemap: false
 slug: aladdin-cafe-downtown
 social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true
+twitter_url: ''
 website: https://aladdincafelawrence.com
 ---
 

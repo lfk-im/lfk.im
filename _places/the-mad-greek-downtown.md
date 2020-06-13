@@ -14,6 +14,7 @@ curbside_instructions: 'We ask that you pay for your order over the phone to avo
   us know you are there or you can pull into the alley and let us know you have arrived. '
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/the-mad-greek-lawrence-327564/en-US
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 11am-8pm, Fr-Sa 11am-8:30pm, Su 11am-8pm
+instagram_url: ''
 name: The Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -36,6 +38,7 @@ sitemap: false
 slug: the-mad-greek-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: http://www.themadgreeklawrence.com
 ---
 

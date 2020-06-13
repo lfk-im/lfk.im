@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.elmezcaltogo.com/#/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.elmezcaltogo.com/#/
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: El Mezcal Mexican Restaurant
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -27,6 +29,7 @@ sitemap: false
 slug: el-mezcal-mexican-restaurant-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.elmezcaltogo.com/#menu
 ---
 

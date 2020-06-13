@@ -14,6 +14,7 @@ curbside_instructions: 'Order online and prepay, call the store when you arrive 
   your order number. Your order will be brought out to you. '
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/sarpino-s-pizzeria-lawrence-556594/en-US
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Th 10am-2am, Fr-Sa 10am-3am
+instagram_url: ''
 name: 'Sarpino’s Pizzeria Lawrence '
 neighborhood: ''
 notes: Free delivery
@@ -34,6 +36,7 @@ sitemap: false
 slug: sarpinos-pizzeria-lawrence-711-w-23rd-st-ste-12
 social: ''
 takeout: true
+twitter_url: ''
 website: https://gosarpinos.com/lawrence
 ---
 

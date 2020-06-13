@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true
 delivery_service_websites: https://oobakes.com/order-retail/
+facebook_url: https://www.facebook.com/oobakeslawrence/
 food_urls:
 - name: order online
   url: https://oobakes.com/order-retail/
@@ -15,6 +16,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 9am-6pm, Sa-Su 10am-3pm
+instagram_url: ''
 name: OO Bakes
 neighborhood: Bob Billings & Iowa
 neighborhood_slug: bob-billings-iowa
@@ -42,6 +44,7 @@ sitemap: false
 slug: oo-bakes-bob-billings-iowa
 social: https://www.facebook.com/oobakeslawrence/
 takeout: true
+twitter_url: ''
 website: https://oobakes.com/
 ---
 

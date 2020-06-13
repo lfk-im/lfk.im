@@ -15,11 +15,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/munchersbakery/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Munchers Bakery
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
@@ -30,6 +32,7 @@ sitemap: false
 slug: munchers-bakery-9th-and-iowa-area
 social: https://www.facebook.com/munchersbakery/
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

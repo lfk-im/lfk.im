@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: Text (785) 727-6268 when you arrive
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/encore-cafe
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
+instagram_url: ''
 name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -27,6 +29,7 @@ sitemap: false
 slug: encore-cafe-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.encorecafeks.com/
 ---
 

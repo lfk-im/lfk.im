@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: chownow.com
   url: https://direct.chownow.com/order/12797/locations/17922
@@ -20,6 +21,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 7:30am-6:30pm, Sa 7:30am-5pm, Su 8:30am-4pm
+instagram_url: ''
 name: Wheatfields Bakery
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -30,5 +32,6 @@ sitemap: false
 slug: wheatfields-bakery-downtown
 social: https://twitter.com/WheatfieldsBkry
 takeout: true
+twitter_url: https://twitter.com/WheatfieldsBkry
 website: http://wheatfieldsbakery.com/
 ---

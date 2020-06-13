@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/WaSushiLawrence/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/wa-japanese-restaurant
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Wa Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -29,5 +31,6 @@ sitemap: false
 slug: wa-restaurant-downtown
 social: https://www.facebook.com/WaSushiLawrence/
 takeout: true
+twitter_url: ''
 website: ''
 ---

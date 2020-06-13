@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/mamastamaleshop/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/mamas-tamales-shop
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mama's Tamale Shop
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -27,6 +29,7 @@ sitemap: false
 slug: mama-s-tamale-shop-downtown-adjacent
 social: https://www.facebook.com/mamastamaleshop/
 takeout: false
+twitter_url: ''
 website: ''
 ---
 

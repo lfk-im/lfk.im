@@ -23,6 +23,7 @@ curbside: true
 curbside_instructions: 'Order through mobile app and pay online '
 delivery: false
 delivery_service_websites: https://texasroadhouse.alohaorderonline.com/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://texasroadhouse.alohaorderonline.com/
@@ -30,6 +31,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-8:30pm
+instagram_url: ''
 name: Texas Roadhouse
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -42,6 +44,7 @@ sitemap: false
 slug: texas-roadhouse-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://texasroadhouse.com
 ---
 

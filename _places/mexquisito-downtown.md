@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/Mexquisito
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/mexquisito
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mexquisito
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -27,6 +29,7 @@ sitemap: false
 slug: mexquisito-downtown
 social: https://www.facebook.com/Mexquisito
 takeout: false
+twitter_url: ''
 website: http://mexquisito.com/
 ---
 

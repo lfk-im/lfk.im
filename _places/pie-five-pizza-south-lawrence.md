@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.piefivepizza.com/locations/lawrence-iowa-st/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.piefivepizza.com/locations/lawrence-iowa-st/
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Pie Five Pizza
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -33,5 +35,6 @@ sitemap: false
 slug: pie-five-pizza-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.piefivepizza.com/locations/lawrence-iowa-st/
 ---

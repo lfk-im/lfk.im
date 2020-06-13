@@ -11,11 +11,13 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8:30pm
+instagram_url: ''
 name: Subway (6th and Wisconsin)
 neighborhood: ''
 notes: ''
@@ -25,5 +27,6 @@ sitemap: false
 slug: subway-6th-and-wisconsin-1530-w-6th-st
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---

@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/business/t-loft-276104/menu/
@@ -20,6 +21,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 10am-5pm, Sa-Su 10am-2pm
+instagram_url: ''
 name: T. Loft Health Cafe
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -30,5 +32,6 @@ sitemap: false
 slug: t-loft-health-cafe-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.tloft.net
 ---

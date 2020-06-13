@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/ChebaroMG/
 food_urls:
 - name: chownow.com
   url: http://bit.ly/39UJb26
@@ -21,6 +22,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Chebaro
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -31,5 +33,6 @@ sitemap: false
 slug: chebaro-south-lawrence
 social: https://www.facebook.com/ChebaroMG/
 takeout: false
+twitter_url: ''
 website: ''
 ---

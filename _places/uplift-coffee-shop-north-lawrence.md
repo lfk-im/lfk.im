@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
@@ -18,6 +19,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 6am-6pm, Sa 7am-6pm, Su 9am-5pm
+instagram_url: https://www.instagram.com/upliftcoffee.co/
 name: Uplift Coffee Shop
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
@@ -28,6 +30,7 @@ sitemap: false
 slug: uplift-coffee-shop-north-lawrence
 social: https://www.instagram.com/upliftcoffee.co/
 takeout: true
+twitter_url: ''
 website: https://www.upliftcoffeeshop.com
 ---
 

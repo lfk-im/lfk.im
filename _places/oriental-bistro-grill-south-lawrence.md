@@ -16,6 +16,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.orientalbistrolawrence.com/#/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.orientalbistrolawrence.com/#/
@@ -29,6 +30,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -39,6 +41,7 @@ sitemap: false
 slug: oriental-bistro-grill-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://orientalbistrolawrence.com
 ---
 

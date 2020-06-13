@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://lawrence.ordermiranchitokc.com/#/
+facebook_url: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/
 food_urls:
 - name: order online
   url: https://lawrence.ordermiranchitokc.com/#/
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mi Ranchito
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -27,6 +29,7 @@ sitemap: false
 slug: mi-ranchito-south-lawrence
 social: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/
 takeout: true
+twitter_url: ''
 website: https://www.miranchitokc.com/
 ---
 

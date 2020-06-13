@@ -10,11 +10,13 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 11am-2am,  Fr-Sa 11am-3am, Su 11am-1:30am
+instagram_url: ''
 name: Pizza Shuttle
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -25,5 +27,6 @@ sitemap: false
 slug: pizza-shuttle-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://pizza-shuttle.com
 ---

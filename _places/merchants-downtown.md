@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://app.upserve.com/s/merchants-pub-and-plate-lawrence
+facebook_url: https://www.facebook.com/MerchantsOnMass/
 food_urls:
 - name: order online
   url: https://app.upserve.com/s/merchants-pub-and-plate-lawrence
@@ -18,6 +19,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: https://www.merchantsonmass.com/store/category/gift-cards/
 hours: Tu-Sa 12-8pm, Su Brunch
+instagram_url: ''
 name: Merchants
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,6 +30,7 @@ sitemap: false
 slug: merchants-downtown
 social: https://www.facebook.com/MerchantsOnMass/
 takeout: false
+twitter_url: ''
 website: https://www.merchantsonmass.com/
 ---
 

@@ -8,11 +8,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/webuildyoueat/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: PoorBoy Burrito Company
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -23,6 +25,7 @@ sitemap: false
 slug: poorboy-burrito-company-downtown-adjacent
 social: https://www.facebook.com/webuildyoueat/
 takeout: false
+twitter_url: ''
 website: ''
 ---
 

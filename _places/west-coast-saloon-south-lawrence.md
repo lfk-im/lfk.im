@@ -10,11 +10,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/westcoastsaloon/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: West Coast Saloon
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -27,6 +29,7 @@ sitemap: false
 slug: west-coast-saloon-south-lawrence
 social: https://www.facebook.com/westcoastsaloon/
 takeout: false
+twitter_url: ''
 website: ''
 ---
 

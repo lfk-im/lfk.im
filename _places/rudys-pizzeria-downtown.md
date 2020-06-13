@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: chownow.com
   url: https://eat.chownow.com/discover/restaurant/8647
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Rudy’s Pizzeria
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -33,6 +35,7 @@ sitemap: false
 slug: rudys-pizzeria-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: http://rudyspizzeria.com
 ---
 

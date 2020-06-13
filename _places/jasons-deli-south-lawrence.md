@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://jasonsdeli.com
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://jasonsdeli.com
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Jason’s Deli
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -35,5 +37,6 @@ sitemap: false
 slug: jasons-deli-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://jasonsdeli.com
 ---

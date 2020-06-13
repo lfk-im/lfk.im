@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.toasttab.com/lawrencebeerco/v3
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.toasttab.com/lawrencebeerco/v3
@@ -20,6 +21,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-8pm
+instagram_url: ''
 name: Lawrence Beer Company
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -30,6 +32,7 @@ sitemap: false
 slug: lawrence-beer-company-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://www.lawrencebeerco.com
 ---
 

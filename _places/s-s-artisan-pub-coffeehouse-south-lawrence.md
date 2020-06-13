@@ -13,11 +13,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/SSArtisanPub/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: S&S Artisan Pub & Coffeehouse
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -28,5 +30,6 @@ sitemap: false
 slug: s-s-artisan-pub-coffeehouse-south-lawrence
 social: https://www.facebook.com/SSArtisanPub/
 takeout: false
+twitter_url: ''
 website: ''
 ---

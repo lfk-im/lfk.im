@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/GreatHarvestLawrenceKs/
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/great-harvest-bread-lawrence
@@ -18,6 +19,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Great Harvest Bread Co.
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,6 +30,7 @@ sitemap: false
 slug: great-harvest-bread-co-downtown
 social: https://www.facebook.com/GreatHarvestLawrenceKs/
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

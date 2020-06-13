@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/PlanetSub
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/yello-sub-lawrence-327547/en-US
@@ -26,6 +27,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-9pm
+instagram_url: ''
 name: Yello Sub
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -36,6 +38,7 @@ sitemap: false
 slug: yello-sub-south-lawrence
 social: https://www.facebook.com/PlanetSub
 takeout: true
+twitter_url: ''
 website: https://planetsub.com
 ---
 

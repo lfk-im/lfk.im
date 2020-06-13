@@ -13,6 +13,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/wakethedeadbreakfastbar/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/wake-the-dead
@@ -22,6 +23,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Wake The Dead
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -32,6 +34,7 @@ sitemap: false
 slug: wake-the-dead-downtown
 social: https://www.facebook.com/wakethedeadbreakfastbar/
 takeout: false
+twitter_url: ''
 website: https://www.wtdbreakfastbar.com/
 ---
 

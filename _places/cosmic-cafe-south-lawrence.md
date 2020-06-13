@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/cosmiclawrence/
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/cosmic-cafe-lawrence
@@ -15,6 +16,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Cosmic Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -25,6 +27,7 @@ sitemap: false
 slug: cosmic-cafe-south-lawrence
 social: https://www.facebook.com/cosmiclawrence/
 takeout: false
+twitter_url: ''
 website: ''
 ---
 

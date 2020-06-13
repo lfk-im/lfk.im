@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
+facebook_url: https://www.facebook.com/OndorinoodleLFK/
 food_urls:
 - name: order online
   url: https://ondorinoodleshopks.com/74250
@@ -15,6 +16,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Ondori Noodle
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -25,6 +27,7 @@ sitemap: false
 slug: ondori-noodle-downtown
 social: https://www.facebook.com/OndorinoodleLFK/
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

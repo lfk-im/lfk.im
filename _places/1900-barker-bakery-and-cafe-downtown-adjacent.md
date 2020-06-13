@@ -14,6 +14,7 @@ curbside: true
 curbside_instructions: Order online - Pickup curbside
 delivery: false
 delivery_service_websites: https://1900online.square.site/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://1900online.square.site/
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Su 8am-2pm, Mo-Fr 7am-5pm, Sa 7am-2pm
+instagram_url: https://www.instagram.com/1900barker/
 name: 1900 Barker - Bakery and Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -37,6 +39,7 @@ sitemap: false
 slug: 1900-barker-bakery-and-cafe-downtown-adjacent
 social: https://www.instagram.com/1900barker/
 takeout: true
+twitter_url: ''
 website: https://www.1900barker.com
 ---
 

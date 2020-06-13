@@ -8,11 +8,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: On The Hill
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
@@ -23,6 +25,7 @@ sitemap: false
 slug: on-the-hill-ku-campus-area
 social: ''
 takeout: false
+twitter_url: ''
 website: https://theoread.com/dining-services/on-the-hill-restaurant/
 ---
 

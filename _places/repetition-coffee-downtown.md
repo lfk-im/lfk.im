@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://repetitioncoffee.com/collections/repetition-coffee
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://repetitioncoffee.com/collections/repetition-coffee
@@ -18,6 +19,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Repetition Coffee
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,6 +30,7 @@ sitemap: false
 slug: repetition-coffee-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://repetitioncoffee.com/
 ---
 

@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://decadecafe.square.site/s/order
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://decadecafe.square.site/s/order
@@ -20,6 +21,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: https://decadecafe.square.site/
 hours: ''
+instagram_url: https://www.instagram.com/decadelawrence/
 name: Decade
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -30,6 +32,7 @@ sitemap: false
 slug: decade-downtown-adjacent
 social: https://www.instagram.com/decadelawrence/
 takeout: true
+twitter_url: ''
 website: http://www.decadelawrence.com/
 ---
 

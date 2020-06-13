@@ -16,11 +16,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Su 11:30am-9pm, Fr-Sa bar open until 10pm
+instagram_url: ''
 name: Free State Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -31,6 +33,7 @@ sitemap: false
 slug: free-state-brewery-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: http://www.freestatebrewing.com/brewpub/
 ---
 

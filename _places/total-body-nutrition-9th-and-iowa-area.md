@@ -9,11 +9,13 @@ curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavo
   cash or card '
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 8am-2pm, Sa 8am-1pm
+instagram_url: ''
 name: 'Total Body Nutrition '
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
@@ -25,6 +27,7 @@ sitemap: false
 slug: total-body-nutrition-9th-and-iowa-area
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---
 

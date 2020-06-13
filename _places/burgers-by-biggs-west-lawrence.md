@@ -21,6 +21,7 @@ curbside_instructions: call ahead with order, call when arrive and we will bring
   to your car.
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/burgers-by-biggs
@@ -28,6 +29,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
+instagram_url: ''
 name: Burgers by Biggs
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -38,5 +40,6 @@ sitemap: false
 slug: burgers-by-biggs-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.burgersbybiggsks.com
 ---

@@ -13,11 +13,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Raising Cane’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -28,6 +30,7 @@ sitemap: false
 slug: raising-canes-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.raisingcanes.com/location/kansas/lawrence/phog
 ---
 

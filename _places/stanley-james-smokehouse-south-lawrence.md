@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/StanleyJamesSmokehouse/
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/stanley-james-smokehouse-lawrence
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Stanley James Smokehouse
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -29,5 +31,6 @@ sitemap: false
 slug: stanley-james-smokehouse-south-lawrence
 social: https://www.facebook.com/StanleyJamesSmokehouse/
 takeout: true
+twitter_url: ''
 website: https://www.sjsmokehouse.com/
 ---

@@ -11,6 +11,7 @@ curbside_instructions: Please call the store at (785) 749-3400 when you arrive, 
   us the color and model of your car, and we’ll run your order out to you!
 delivery: true
 delivery_service_websites: https://order.fiveguys.com/menu/lawrence
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://order.fiveguys.com/menu/lawrence
@@ -18,6 +19,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9pm
+instagram_url: ''
 name: Five Guys Burger and Fries
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
@@ -28,5 +30,6 @@ sitemap: false
 slug: five-guys-burger-and-fries-south-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://order.fiveguys.com/menu/lawrence
 ---

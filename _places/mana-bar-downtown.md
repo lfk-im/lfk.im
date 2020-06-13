@@ -10,11 +10,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/ManaBarLawrence/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mana Bar
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -25,6 +27,7 @@ sitemap: false
 slug: mana-bar-downtown
 social: https://www.facebook.com/ManaBarLawrence/
 takeout: false
+twitter_url: ''
 website: ''
 ---
 

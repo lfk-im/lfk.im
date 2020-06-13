@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.orderjavabreak.com/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.orderjavabreak.com/
@@ -18,6 +19,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 8am-6pm
+instagram_url: ''
 name: Java Break
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,5 +30,6 @@ sitemap: false
 slug: java-break-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.orderjavabreak.com/
 ---

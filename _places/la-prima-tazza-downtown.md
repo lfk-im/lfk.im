@@ -13,11 +13,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/La-Prima-Tazza-239100315171/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: La Prima Tazza
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -28,6 +30,7 @@ sitemap: false
 slug: la-prima-tazza-downtown
 social: https://www.facebook.com/La-Prima-Tazza-239100315171/
 takeout: false
+twitter_url: ''
 website: http://laprimatazza.com/
 ---
 

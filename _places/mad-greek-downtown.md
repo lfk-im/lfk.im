@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/themadgreeklawrence/
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/the-mad-greek-lawrence-327564/
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -29,6 +31,7 @@ sitemap: false
 slug: mad-greek-downtown
 social: https://www.facebook.com/themadgreeklawrence/
 takeout: true
+twitter_url: ''
 website: https://www.themadgreeklawrence.com/
 ---
 

@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://papakenos.appfront.ai/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://papakenos.appfront.ai/
@@ -19,6 +20,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Papa Keno’s
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -29,6 +31,7 @@ sitemap: false
 slug: papa-kenos-downtown
 social: ''
 takeout: true
+twitter_url: ''
 website: http://www.papakenos.com
 ---
 

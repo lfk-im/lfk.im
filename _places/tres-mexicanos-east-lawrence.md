@@ -10,11 +10,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Tres Mexicanos
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence
@@ -25,5 +27,6 @@ sitemap: false
 slug: tres-mexicanos-east-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: ''
 ---

@@ -18,11 +18,13 @@ curbside: true
 curbside_instructions: Call when you arrive
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/ConroysPub/
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
+instagram_url: ''
 name: Conroy's Pub
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -33,5 +35,6 @@ sitemap: false
 slug: conroy-s-pub-west-lawrence
 social: https://www.facebook.com/ConroysPub/
 takeout: true
+twitter_url: ''
 website: ''
 ---

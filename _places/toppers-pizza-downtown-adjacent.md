@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/toppers-pizza-lawrence-388425/en-US
@@ -21,6 +22,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Th 11am-12am, Fr-Sa 11am-3am
+instagram_url: ''
 name: Toppers Pizza
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -31,5 +33,6 @@ sitemap: false
 slug: toppers-pizza-downtown-adjacent
 social: ''
 takeout: true
+twitter_url: ''
 website: https://order.toppers.com/
 ---

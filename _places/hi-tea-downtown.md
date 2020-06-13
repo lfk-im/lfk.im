@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: You can also opt to pick up in the front of the store
 delivery: true
 delivery_service_websites: https://www.hitealawrence.com/#/
+facebook_url: ''
 food_urls:
 - name: order online
   url: https://www.hitealawrence.com/#/
@@ -22,6 +23,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 12-9:30pm
+instagram_url: https://www.instagram.com/hitealawrence/
 name: Hi Tea
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -32,5 +34,6 @@ sitemap: false
 slug: hi-tea-downtown
 social: https://www.instagram.com/hitealawrence/
 takeout: true
+twitter_url: ''
 website: http://www.hitealawrence.com
 ---

@@ -13,6 +13,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/quinton-s-bar-deli-lawrence-327524/en-US
@@ -26,6 +27,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -36,6 +38,7 @@ sitemap: false
 slug: quintons-bar-deli-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://www.snappyeats.com/Order/menudetail.aspx?restaurantID=5020#!/category/
 ---
 

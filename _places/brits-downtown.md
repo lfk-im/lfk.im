@@ -10,11 +10,13 @@ curbside_instructions: 'Place orders online to have them shipped, delivered (Mon
   you have questions.  '
 delivery: true
 delivery_service_websites: ''
+facebook_url: ''
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Sa 10am-4pm (pickup), Mo-Sa (delivery)
+instagram_url: ''
 name: Brits
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -25,5 +27,6 @@ sitemap: false
 slug: brits-downtown
 social: ''
 takeout: false
+twitter_url: ''
 website: https://britsusa.com
 ---

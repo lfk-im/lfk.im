@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://bigmill.hrpos.heartland.us/
+facebook_url: https://www.facebook.com/BigMillLawrence/
 food_urls:
 - name: order online
   url: https://bigmill.hrpos.heartland.us/
@@ -19,6 +20,7 @@ giftcard: true
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
+instagram_url: ''
 name: Big Mill
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -29,6 +31,7 @@ sitemap: false
 slug: big-mill-downtown-adjacent
 social: https://www.facebook.com/BigMillLawrence/
 takeout: true
+twitter_url: ''
 website: http://www.bigmilllawrence.com/
 ---
 

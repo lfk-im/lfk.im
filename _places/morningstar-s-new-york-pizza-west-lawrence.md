@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/morningstarsnyp/
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/morningstars-nypd
@@ -17,6 +18,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Morningstar's New York Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -27,6 +29,7 @@ sitemap: false
 slug: morningstar-s-new-york-pizza-west-lawrence
 social: https://www.facebook.com/morningstarsnyp/
 takeout: false
+twitter_url: ''
 website: http://www.morningstarsnypizza.com/
 ---
 

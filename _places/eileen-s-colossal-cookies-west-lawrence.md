@@ -16,6 +16,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: ''
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/eileens-colossal-cookies-lawrence
@@ -23,6 +24,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
+instagram_url: ''
 name: Eileen's Colossal Cookies
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
@@ -33,6 +35,7 @@ sitemap: false
 slug: eileen-s-colossal-cookies-west-lawrence
 social: ''
 takeout: true
+twitter_url: ''
 website: https://www.eileenscookies.com/store/lawrence/
 ---
 

@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+facebook_url: https://www.facebook.com/dempseysburgerpub/
 food_urls:
 - name: chownow.com
   url: https://direct.chownow.com/order/15956/locations/22641
@@ -25,6 +26,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 4-8pm
+instagram_url: ''
 name: Dempseys Burger Pub
 neighborhood: Downtown
 neighborhood_slug: downtown
@@ -36,6 +38,7 @@ sitemap: false
 slug: dempseys-burger-pub-downtown
 social: https://www.facebook.com/dempseysburgerpub/
 takeout: true
+twitter_url: ''
 website: https://dempseysburgerpub.com
 ---
 
