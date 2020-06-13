@@ -32,7 +32,7 @@ name: Fields & Ivy Brewery
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Growlers or 6-pack available for curbside pick-up. ID required.
-place_type: Restaurant
+place_type: Brewery
 restaurant_phone: 785-274-8429
 sitemap: false
 slug: fields-ivy-brewery-south-lawrence

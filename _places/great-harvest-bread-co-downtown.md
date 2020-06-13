@@ -25,7 +25,7 @@ name: Great Harvest Bread Co.
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Breads available to go and snacks for kids
-place_type: Restaurant
+place_type: Bakery
 restaurant_phone: 785-749-2227
 sitemap: false
 slug: great-harvest-bread-co-downtown

@@ -30,7 +30,7 @@ name: Conroy's Pub
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
-place_type: Restaurant
+place_type: BarOrPub
 restaurant_phone: 785-856-3663
 sitemap: false
 slug: conroy-s-pub-west-lawrence

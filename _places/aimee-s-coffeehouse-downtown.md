@@ -30,7 +30,7 @@ name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Delivery through EatStreet, or curbside pickup of phone orders
-place_type: Restaurant
+place_type: CafeOrCoffeeShop
 restaurant_phone: 785-843-5173
 sitemap: false
 slug: aimee-s-coffeehouse-downtown
