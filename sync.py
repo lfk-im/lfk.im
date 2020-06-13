@@ -101,6 +101,7 @@ SHEETS_URL_FIELDS = [
     "facebook_url",
     "giftcard_url",
     "instagram_url",
+    "twitch_url",
     "twitter_url",
     "website",
 ]

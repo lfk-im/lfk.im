@@ -117,26 +117,29 @@ layout: default
     {% endif %}
   {% endif %}
 
-  {% if page.facebook_url != "" or page.instagram_url != "" or page.twitter_url != "" %}
+  {% if page.facebook_url != "" or page.instagram_url != "" or page.twitch_url != "" or page.twitter_url != "" %}
     <h2 class="text-2xl font-bold pt-8">Social Media</h2>
 
     {% if page.facebook_url and page.facebook_url != "" and page.facebook_url != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      {% comment %}<dt>Facebook</dt>{% endcomment %}
       <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}">Facebook</a></dd>
     </dl>
     {% endif %}
 
     {% if page.instagram_url and page.instagram_url != "" and page.instagram_url != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      {% comment %}<dt>Instagram</dt>{% endcomment %}
       <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}">Instagram</a></dd>
+    </dl>
+    {% endif %}
+
+    {% if page.twitch_url and page.twitttwitch_urler_url != "" and page.twitch_url != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitch_url }}">Twitch</a></dd>
     </dl>
     {% endif %}
 
     {% if page.twitter_url and page.twitter_url != "" and page.twitter_url != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      {% comment %}<dt>Twitter</dt>{% endcomment %}
       <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}">Twitter</a></dd>
     </dl>
     {% endif %}
