@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1516 23rd St.
+address: 1516 23rd St
 cuisine: American, Barbecue, BBQ
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4000 W 6th
+address: 4000 W 6th St
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
@@ -22,7 +22,7 @@ notes: ''
 place_type: FastFoodRestaurant
 restaurant_phone: 785-841-1319
 sitemap: false
-slug: subway-6th-and-monterey-4000-w-6th
+slug: subway-6th-and-monterey-4000-w-6th-st
 social: ''
 takeout: true
 website: ''

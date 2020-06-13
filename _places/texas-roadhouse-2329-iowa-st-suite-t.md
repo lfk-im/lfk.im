@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2329 Iowa Street, Suite T
+address: 2329 Iowa St, Suite T
 cuisine: American, Barbecue, Burgers, Dessert, Fried Chicken, Salads, Seafood, Steakhouse
 cuisine_slugs:
 - american
@@ -39,7 +39,7 @@ notes: We recommend that guests call ahead or order online, but they are more th
 place_type: Restaurant
 restaurant_phone: 785-312-7427
 sitemap: false
-slug: texas-roadhouse-2329-iowa-street-suite-t
+slug: texas-roadhouse-2329-iowa-st-suite-t
 social: ''
 takeout: true
 website: https://texasroadhouse.com

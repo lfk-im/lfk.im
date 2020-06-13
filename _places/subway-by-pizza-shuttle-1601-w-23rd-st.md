@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1601 W 23rd
+address: 1601 W 23rd St
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
@@ -22,7 +22,7 @@ notes: ''
 place_type: FastFoodRestaurant
 restaurant_phone: 785-842-2479
 sitemap: false
-slug: subway-by-pizza-shuttle-1601-w-23rd
+slug: subway-by-pizza-shuttle-1601-w-23rd-st
 social: ''
 takeout: true
 website: ''

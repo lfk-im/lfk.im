@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3115 W. 6th St Suite D
+address: 3115 W. 6th St, Suite D
 cuisine: American, Burgers, Sandwiches, Pub/bar food
 cuisine_slugs:
 - american

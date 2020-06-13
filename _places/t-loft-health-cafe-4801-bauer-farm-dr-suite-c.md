@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4801 Bauer Farm Dr. Suite C
+address: 4801 Bauer Farm Dr, Suite C
 cuisine: Healthy, Tea
 cuisine_slugs:
 - tea

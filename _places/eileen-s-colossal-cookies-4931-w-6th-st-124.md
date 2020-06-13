@@ -1,6 +1,6 @@
 ---
 active: true
-address: '4931 W 6th St # 124'
+address: '4931 W 6th St, #124'
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery

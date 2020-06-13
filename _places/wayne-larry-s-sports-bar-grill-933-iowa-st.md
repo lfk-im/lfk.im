@@ -1,6 +1,6 @@
 ---
 active: true
-address: 933 Iowa St.
+address: 933 Iowa St
 cuisine: American, Burgers, Salads, Sandwiches, Wings
 cuisine_slugs:
 - american

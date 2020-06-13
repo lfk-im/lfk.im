@@ -1,6 +1,6 @@
 ---
 active: true
-address: 623 Vermont
+address: 623 Vermont St
 cuisine: American, Burgers
 cuisine_slugs:
 - american
@@ -33,7 +33,7 @@ notes: Likely closing the restaurant if we can not drive enough pick-up and onli
 place_type: Restaurant
 restaurant_phone: 785-856-5460
 sitemap: false
-slug: dempseys-burger-pub-623-vermont
+slug: dempseys-burger-pub-623-vermont-st
 social: https://www.facebook.com/dempseysburgerpub/
 takeout: true
 website: https://dempseysburgerpub.com

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4801 Bauer Farm Drive
+address: 4801 Bauer Farm Dr
 cuisine: Frozen yogurt
 cuisine_slugs:
 - frozen-yogurt
@@ -32,7 +32,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
 place_type: Restaurant
 restaurant_phone: 785-856-0544
 sitemap: false
-slug: orange-leaf-4801-bauer-farm-drive
+slug: orange-leaf-4801-bauer-farm-dr
 social: https://www.facebook.com/OrangeLeafLawrence
 takeout: false
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks

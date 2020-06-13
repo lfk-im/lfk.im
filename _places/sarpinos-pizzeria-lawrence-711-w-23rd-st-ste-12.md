@@ -1,6 +1,6 @@
 ---
 active: true
-address: '711 W 23rd St. Suite 12 '
+address: '711 W 23rd St, Ste 12 '
 cuisine: Pizza, Wings
 cuisine_slugs:
 - pizza
@@ -31,7 +31,7 @@ notes: Free delivery
 place_type: Restaurant
 restaurant_phone: 785-727-7770
 sitemap: false
-slug: sarpinos-pizzeria-lawrence-711-w-23rd-st-suite-12
+slug: sarpinos-pizzeria-lawrence-711-w-23rd-st-ste-12
 social: ''
 takeout: true
 website: https://gosarpinos.com/lawrence

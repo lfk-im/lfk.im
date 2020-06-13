@@ -1,6 +1,6 @@
 ---
 active: true
-address: '818 Mass st '
+address: 818 Mass St
 cuisine: Pizza, Salads, Sandwiches
 cuisine_slugs:
 - pizza

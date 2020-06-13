@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4000 W. 6th Street
+address: 4000 W. 6th St
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
@@ -28,7 +28,7 @@ notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for saf
 place_type: CafeOrCoffeeShop
 restaurant_phone: 785-856-0751
 sitemap: false
-slug: alchemy-limited-4000-w-6th-street
+slug: alchemy-limited-4000-w-6th-st
 social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
 website: https://www.alchemyks.com/

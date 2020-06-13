@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1101 W. 6th St.
+address: 1101 W. 6th St
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

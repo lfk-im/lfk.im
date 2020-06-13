@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4811 Bob Billings Pkwy Ste C
+address: 4811 Bob Billings Pkwy, Ste C
 cuisine: American, Brewery
 cuisine_slugs:
 - american

@@ -16,7 +16,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
-hours: 10am-1pm Daily for carryout cocktails
+hours: Mo-Su 10am-1pm for carryout cocktails
 name: 715 Mass
 neighborhood: Downtown
 neighborhood_slug: downtown

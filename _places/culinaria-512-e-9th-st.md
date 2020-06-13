@@ -1,6 +1,6 @@
 ---
 active: true
-address: 512 E 9th St, Lawrence
+address: 512 E 9th St
 cuisine: Mediterranean
 cuisine_slugs: null
 cuisines: []
@@ -22,7 +22,7 @@ notes: ''
 place_type: Restaurant
 restaurant_phone: 785-766-8591
 sitemap: false
-slug: culinaria-512-e-9th-st-lawrence
+slug: culinaria-512-e-9th-st
 social: https://www.facebook.com/pg/CulinariaKS
 takeout: true
 website: https://www.culinariafoodandwine.com/

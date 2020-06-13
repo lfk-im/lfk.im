@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1900 Massachusetts S
+address: 1900 Massachusetts St
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -20,7 +20,7 @@ notes: Unconfirmed
 place_type: Restaurant
 restaurant_phone: 785-550-3317
 sitemap: false
-slug: poorboy-burrito-company-1900-massachusetts-s
+slug: poorboy-burrito-company-1900-massachusetts-st
 social: https://www.facebook.com/webuildyoueat/
 takeout: false
 website: https://www.facebook.com/webuildyoueat/

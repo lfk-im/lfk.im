@@ -1,6 +1,6 @@
 ---
 active: true
-address: 100 Riverfront Drive, Suite B
+address: 100 Riverfront Dr, Suite B
 cuisine: Farm
 cuisine_slugs: null
 cuisines: []
@@ -20,7 +20,7 @@ notes: ''
 place_type: Store
 restaurant_phone: 785-840-4892
 sitemap: false
-slug: sunflower-provisions-100-riverfront-drive-suite-b
+slug: sunflower-provisions-100-riverfront-dr-suite-b
 social: ''
 takeout: false
 website: https://www.sunflowerprovisions.com/

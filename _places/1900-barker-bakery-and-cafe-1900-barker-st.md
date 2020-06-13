@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1900 Barker
+address: 1900 Barker St
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery
@@ -24,7 +24,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Sun 8am-2pm, Mon-Fri 7am-5pm, Sat 7am-2pm
+hours: Su 8am-2pm, Mo-Fr 7am-5pm, Sa 7am-2pm
 name: 1900 Barker - Bakery and Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
@@ -34,7 +34,7 @@ notes: Today that looks like curbside - window pick up only — we have our enti
 place_type: Bakery
 restaurant_phone: 785-424-7609
 sitemap: false
-slug: 1900-barker-bakery-and-cafe-1900-barker
+slug: 1900-barker-bakery-and-cafe-1900-barker-st
 social: https://www.instagram.com/1900barker/
 takeout: true
 website: https://www.1900barker.com

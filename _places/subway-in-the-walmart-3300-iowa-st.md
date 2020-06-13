@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1530 W 6th
+address: 3300 Iowa St
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches
@@ -15,14 +15,14 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: 11am-8:30pm Daily
-name: Subway (6th and Wisconsin)
+hours: 11am-7pm Daily
+name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''
 place_type: FastFoodRestaurant
-restaurant_phone: 785-832-9700
+restaurant_phone: 785-832-1199
 sitemap: false
-slug: subway-6th-and-wisconsin-1530-w-6th
+slug: subway-in-the-walmart-3300-iowa-st
 social: ''
 takeout: true
 website: ''

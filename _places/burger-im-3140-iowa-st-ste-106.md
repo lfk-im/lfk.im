@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3140 Iowa Street, Ste 106
+address: 3140 Iowa St, Ste 106
 cuisine: American
 cuisine_slugs:
 - american
@@ -32,7 +32,7 @@ notes: People can order bottles of beer and pick up
 place_type: FastFoodRestaurant
 restaurant_phone: 785-856-1010
 sitemap: false
-slug: burger-im-3140-iowa-street-ste-106
+slug: burger-im-3140-iowa-st-ste-106
 social: https://www.facebook.com/burgerimlawrence/
 takeout: true
 website: https://burgerimlawrence.com/

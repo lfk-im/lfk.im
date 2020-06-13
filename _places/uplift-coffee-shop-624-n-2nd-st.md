@@ -1,6 +1,6 @@
 ---
 active: true
-address: 624 N. 2nd Street
+address: 624 N. 2nd St
 cuisine: Coffee
 cuisine_slugs:
 - coffee
@@ -25,7 +25,7 @@ notes: Download their app to order for pickup
 place_type: CafeOrCoffeeShop
 restaurant_phone: 785-424-0466
 sitemap: false
-slug: uplift-coffee-shop-624-n-2nd-street
+slug: uplift-coffee-shop-624-n-2nd-st
 social: https://www.instagram.com/upliftcoffee.co/
 takeout: true
 website: https://www.upliftcoffeeshop.com

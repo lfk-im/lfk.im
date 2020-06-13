@@ -1,6 +1,6 @@
 ---
 active: true
-address: '2520 Iowa street '
+address: 2520 Iowa St
 cuisine: American
 cuisine_slugs:
 - american
@@ -21,10 +21,10 @@ name: Applebee’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
-place_type: FastFoodRestaurant
+place_type: Restaurant
 restaurant_phone: 785-832-8338
 sitemap: false
-slug: applebees-2520-iowa-street
+slug: applebees-2520-iowa-st
 social: ''
 takeout: true
 website: https://www.applebees.com/en

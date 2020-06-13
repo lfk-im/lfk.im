@@ -19,7 +19,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://onelink.quickgifts.com/merchant/23rd-street-brewery-ks/?fbclid=IwAR1wl-iC63nzLYCFjRCrLF1-_7h6apjQYwNgjFH4NBdz2XNxYGOgA-OdrRQ
-hours: 12pm-9pm Daily
+hours: Mo-Su 12pm-9pm
 name: 23rd Street Brewery
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence

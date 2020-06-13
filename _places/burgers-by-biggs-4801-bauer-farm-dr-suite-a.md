@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4801 Bauer Farm Dr Suite A
+address: 4801 Bauer Farm Dr, Suite A
 cuisine: American, Burgers, Salads, Sandwiches, Seafood, Wings
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3300 W, Bob Billings Pkwy suite B5
+address: 3300 W, Bob Billings Pkwy, Suite B5
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

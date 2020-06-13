@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1117 Massachusetts
+address: 1117 Massachusetts St
 cuisine: Mexican
 cuisine_slugs:
 - mexican
@@ -31,7 +31,7 @@ notes: ''
 place_type: Restaurant
 restaurant_phone: 785-727-0527
 sitemap: false
-slug: fuzzy-s-taco-shop-1117-massachusetts
+slug: fuzzy-s-taco-shop-1117-massachusetts-st
 social: https://www.facebook.com/FuzzysTacoShopLawrence/
 takeout: true
 website: https://www.fuzzystacoshop.com

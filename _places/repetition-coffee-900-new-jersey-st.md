@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 New Jersey
+address: 900 New Jersey St
 cuisine: Coffee
 cuisine_slugs:
 - coffee
@@ -25,7 +25,7 @@ notes: Free porch delivery within Lawrence
 place_type: CafeOrCoffeeShop
 restaurant_phone: ''
 sitemap: false
-slug: repetition-coffee-900-new-jersey
+slug: repetition-coffee-900-new-jersey-st
 social: ''
 takeout: false
 website: https://repetitioncoffee.com/

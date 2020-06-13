@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1410 Kasold Drive, Suite A17
+address: 1410 Kasold Dr, Suite A17
 cuisine: Gluten free
 cuisine_slugs: null
 cuisines: []
@@ -39,7 +39,7 @@ notes: 'Pizzas 13” 12.00 8” 7.00
 place_type: Bakery
 restaurant_phone: 785-331-5290
 sitemap: false
-slug: oo-bakes-1410-kasold-drive-suite-a17
+slug: oo-bakes-1410-kasold-dr-suite-a17
 social: https://www.facebook.com/oobakeslawrence/
 takeout: true
 website: https://oobakes.com/

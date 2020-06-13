@@ -1,6 +1,6 @@
 ---
 active: true
-address: 17 E 7th Street
+address: 17 E 7th St
 cuisine: Coffee
 cuisine_slugs:
 - coffee
@@ -25,7 +25,7 @@ notes: ''
 place_type: CafeOrCoffeeShop
 restaurant_phone: 785-749-5282
 sitemap: false
-slug: java-break-17-e-7th-street
+slug: java-break-17-e-7th-st
 social: ''
 takeout: true
 website: https://www.orderjavabreak.com/

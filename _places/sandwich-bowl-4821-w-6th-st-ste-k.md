@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4821 W 6th Street Ste K
+address: 4821 W 6th St, Ste K
 cuisine: Sandwiches, Soup
 cuisine_slugs:
 - sandwiches
@@ -25,7 +25,7 @@ notes: ''
 place_type: Restaurant
 restaurant_phone: 785-856-3675
 sitemap: false
-slug: sandwich-bowl-4821-w-6th-street-ste-k
+slug: sandwich-bowl-4821-w-6th-st-ste-k
 social: ''
 takeout: true
 website: http://sandwichbowl.com/menu.html

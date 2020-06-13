@@ -1,6 +1,6 @@
 ---
 active: true
-address: '601 Kasold Dr # C101'
+address: '601 Kasold Dr, #C101'
 cuisine: Thai
 cuisine_slugs:
 - thai

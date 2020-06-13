@@ -1,6 +1,6 @@
 ---
 active: true
-address: '4931 W 6th St #118A'
+address: '4931 W 6th St, #118A'
 cuisine: American, Burgers, Salads, Sandwiches, Tacos, Wraps, Salads and Sandwiches
 cuisine_slugs:
 - american

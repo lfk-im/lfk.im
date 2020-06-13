@@ -1,6 +1,6 @@
 ---
 active: true
-address: 444 Locust
+address: 444 Locust St
 cuisine: Bars, Cocktails & Beer
 cuisine_slugs:
 - bars
@@ -25,7 +25,7 @@ notes: ''
 place_type: BarOrPub
 restaurant_phone: 785-424-7249
 sitemap: false
-slug: kaw-valley-public-house-444-locust
+slug: kaw-valley-public-house-444-locust-st
 social: https://www.facebook.com/kvpub
 takeout: true
 website: http://kawvalleypub.com/
