@@ -809,6 +809,14 @@ video {
   margin-left: -8rem;
 }
 
+.max-w-lg {
+  max-width: 32rem;
+}
+
+.max-w-screen-lg {
+  max-width: 1024px;
+}
+
 .min-w-0 {
   min-width: 0;
 }
