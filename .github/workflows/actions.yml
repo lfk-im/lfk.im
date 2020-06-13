@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches:
-      - master
+      - main
 
   schedule:
   # every 15 minutes - https://crontab.guru/#*/15_*_*_*_*
