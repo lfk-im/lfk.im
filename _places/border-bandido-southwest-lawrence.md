@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Fr 11am-2pm, 5-8pm, Sa 11am-8pm
 instagram_url: ''
+locality: Lawrence
 name: Border Bandido
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence

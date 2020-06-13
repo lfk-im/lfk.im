@@ -35,6 +35,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 3-8pm, Fr-Sa 12-9pm, Su 12-8pm
 instagram_url: ''
+locality: Lawrence
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 6:30am-5pm, Sa-Sun 7:30am-5pm
 instagram_url: ''
+locality: Lawrence
 name: La Prima Tazza
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Hawaiian Bros.
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

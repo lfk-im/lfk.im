@@ -24,6 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Th 11am-12am, Fr-Sa 11am-3am
 instagram_url: ''
+locality: Lawrence
 name: Toppers Pizza
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

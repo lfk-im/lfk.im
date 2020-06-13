@@ -24,6 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 5-11pm, Fr-Sa 5pm-12am
 instagram_url: ''
+locality: Lawrence
 name: Tortas Jalisco
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

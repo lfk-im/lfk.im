@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-9pm
 instagram_url: ''
+locality: Lawrence
 name: Baan Thai Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown

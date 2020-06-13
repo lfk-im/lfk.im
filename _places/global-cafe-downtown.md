@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/CX2M2Z2679FX3/order
 hours: Th-Sa 8am-1:30pm
 instagram_url: https://www.instagram.com/global_cafe_lawrence_kansas/
+locality: Lawrence
 name: Global Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown

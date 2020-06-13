@@ -25,6 +25,7 @@ giftcard_notes: Gift cards available for purchase online, online ordering is in 
 giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
 hours: We-Su 4-8pm
 instagram_url: ''
+locality: Lawrence
 name: Restaurant, Pub & Games (RPG)
 neighborhood: Downtown
 neighborhood_slug: downtown

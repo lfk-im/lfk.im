@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Su 8am-2pm, Mo-Fr 7am-5pm, Sa 7am-2pm
 instagram_url: https://www.instagram.com/1900barker/
+locality: Lawrence
 name: 1900 Barker - Bakery and Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

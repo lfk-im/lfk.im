@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown

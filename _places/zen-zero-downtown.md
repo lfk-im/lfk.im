@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9pm
 instagram_url: ''
+locality: Lawrence
 name: Zen Zero
 neighborhood: Downtown
 neighborhood_slug: downtown

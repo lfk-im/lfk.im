@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 7am-9pm
 instagram_url: ''
+locality: Lawrence
 name: The Jayhawker at the Eldridge Hotel
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: https://decadecafe.square.site/
 hours: ''
 instagram_url: https://www.instagram.com/decadelawrence/
+locality: Lawrence
 name: Decade
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

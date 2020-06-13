@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Su 12-8pm
 instagram_url: ''
+locality: Lawrence
 name: Archibowls
 neighborhood: Downtown
 neighborhood_slug: downtown

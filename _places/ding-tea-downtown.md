@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 11am-9:30pm, Fr-Su 11am-10:30pm
 instagram_url: ''
+locality: Lawrence
 name: Ding Tea
 neighborhood: Downtown
 neighborhood_slug: downtown

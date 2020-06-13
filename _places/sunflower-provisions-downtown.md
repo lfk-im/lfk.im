@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu,Fr 11am-1pm, 4-6pm
 instagram_url: ''
+locality: Lawrence
 name: Sunflower Provisions
 neighborhood: Downtown
 neighborhood_slug: downtown

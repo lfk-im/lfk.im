@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: We-Su 10am-6pm
 instagram_url: ''
+locality: Lawrence
 name: Pedestrian Cheese
 neighborhood: Downtown
 neighborhood_slug: downtown

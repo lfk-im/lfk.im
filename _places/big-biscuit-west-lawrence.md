@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 6:30am-2:30pm
 instagram_url: ''
+locality: Lawrence
 name: Big Biscuit
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

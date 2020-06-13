@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-10pm
 instagram_url: ''
+locality: Lawrence
 name: Pickleman’s
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

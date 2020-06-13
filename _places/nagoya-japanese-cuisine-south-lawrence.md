@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

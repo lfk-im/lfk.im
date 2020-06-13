@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Fr-Su 8am-2pm
 instagram_url: ''
+locality: Lawrence
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown

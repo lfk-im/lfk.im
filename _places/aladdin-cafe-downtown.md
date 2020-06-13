@@ -24,6 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Su-Sa 11:30am-2:30pm, 5-7:30pm
 instagram_url: ''
+locality: Lawrence
 name: Aladdin Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown

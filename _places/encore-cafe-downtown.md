@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
 instagram_url: ''
+locality: Lawrence
 name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown

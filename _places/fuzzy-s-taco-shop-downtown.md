@@ -27,6 +27,7 @@ giftcard_notes: ''
 giftcard_url: https://fuzzystacoshop.cardfoundry.com/giftcards.php
 hours: Mo-Su 11am-9pm
 instagram_url: ''
+locality: Lawrence
 name: Fuzzy's Taco Shop
 neighborhood: Downtown
 neighborhood_slug: downtown

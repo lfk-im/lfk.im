@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Morningstar's New York Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: https://www.instagram.com/mclainsmarketlawrence/
+locality: Lawrence
 name: McLain's
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area

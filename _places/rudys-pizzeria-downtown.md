@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Rudy’s Pizzeria
 neighborhood: Downtown
 neighborhood_slug: downtown

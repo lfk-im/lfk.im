@@ -17,6 +17,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 8am-2pm, Sa 8am-1pm
 instagram_url: ''
+locality: Lawrence
 name: Total Body Nutrition
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

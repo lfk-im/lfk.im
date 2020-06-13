@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
 instagram_url: ''
+locality: Lawrence
 name: Big Mill
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

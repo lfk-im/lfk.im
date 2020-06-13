@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Cheesy Street @ Lucia
 neighborhood: Downtown
 neighborhood_slug: downtown

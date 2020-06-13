@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Mama's Tamale Shop
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

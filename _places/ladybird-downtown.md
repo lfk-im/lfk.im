@@ -23,6 +23,7 @@ giftcard_notes: Free sack lunches available, can order gift cards by phone or do
 giftcard_url: ''
 hours: ''
 instagram_url: https://www.instagram.com/ladybird_diner/
+locality: Lawrence
 name: Ladybird
 neighborhood: Downtown
 neighborhood_slug: downtown

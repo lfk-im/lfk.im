@@ -17,6 +17,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Saturday meal pickup
 instagram_url: ''
+locality: Lawrence
 name: Maceli's Banquet Hall & Catering
 neighborhood: Downtown
 neighborhood_slug: downtown

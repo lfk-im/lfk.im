@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-8:30pm (last taken orders at 8pm)
 instagram_url: ''
+locality: Lawrence
 name: Henry T's
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence

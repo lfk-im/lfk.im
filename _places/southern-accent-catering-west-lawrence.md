@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Southern Accent Catering
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

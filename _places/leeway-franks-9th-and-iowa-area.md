@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tue-Sat 11am-8pm, Sun 10am-3pm
 instagram_url: ''
+locality: Lawrence
 name: Leeway Franks
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

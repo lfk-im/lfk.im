@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 11am-9pm, Fr 11am-10pm, Sa 12-10pm, Su 12-9pm
 instagram_url: ''
+locality: Lawrence
 name: Minsky's Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown

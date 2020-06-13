@@ -19,6 +19,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 11am-8pm
 instagram_url: ''
+locality: Lawrence
 name: Biemer's BBQ
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

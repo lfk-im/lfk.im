@@ -20,6 +20,7 @@ giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm d
 giftcard_url: ''
 hours: Mo-Su 10am-1pm for carryout cocktails
 instagram_url: https://www.instagram.com/715restaurant/
+locality: Lawrence
 name: 715 Mass
 neighborhood: Downtown
 neighborhood_slug: downtown

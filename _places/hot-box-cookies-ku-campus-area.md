@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Hot Box Cookies
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area

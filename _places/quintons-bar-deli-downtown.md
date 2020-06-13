@@ -29,6 +29,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown

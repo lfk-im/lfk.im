@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 9am-6pm, Sa-Su 10am-3pm
 instagram_url: ''
+locality: Lawrence
 name: OO Bakes
 neighborhood: Bob Billings & Iowa
 neighborhood_slug: bob-billings-iowa

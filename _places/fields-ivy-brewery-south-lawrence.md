@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9:30pm
 instagram_url: ''
+locality: Lawrence
 name: Fields & Ivy Brewery
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

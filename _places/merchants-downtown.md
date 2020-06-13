@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: https://www.merchantsonmass.com/store/category/gift-cards/
 hours: Tu-Sa 12-8pm, Su Brunch
 instagram_url: ''
+locality: Lawrence
 name: Merchants
 neighborhood: Downtown
 neighborhood_slug: downtown

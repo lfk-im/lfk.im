@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
 hours: ''
 instagram_url: https://www.instagram.com/johnbrownunderground/
+locality: Lawrence
 name: John Brown's Underground
 neighborhood: Downtown
 neighborhood_slug: downtown

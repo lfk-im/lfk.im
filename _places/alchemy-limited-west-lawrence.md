@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: Mo-Su 7am-6pm
 instagram_url: ''
+locality: Lawrence
 name: Alchemy Limited
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Tokyo Sushi
 neighborhood: Downtown
 neighborhood_slug: downtown

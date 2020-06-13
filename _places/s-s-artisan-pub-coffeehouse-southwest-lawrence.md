@@ -25,6 +25,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 11am-2pm, Su&Th 4-8pm
 instagram_url: ''
+locality: Lawrence
 name: S&S Artisan Pub & Coffeehouse
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence

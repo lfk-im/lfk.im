@@ -25,6 +25,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 12-9:30pm
 instagram_url: https://www.instagram.com/hitealawrence/
+locality: Lawrence
 name: Hi Tea
 neighborhood: Downtown
 neighborhood_slug: downtown

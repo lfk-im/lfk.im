@@ -25,6 +25,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Su 4-8pm, June 12th full hours
 instagram_url: ''
+locality: Lawrence
 name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence

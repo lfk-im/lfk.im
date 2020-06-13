@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Mexquisito
 neighborhood: Downtown
 neighborhood_slug: downtown

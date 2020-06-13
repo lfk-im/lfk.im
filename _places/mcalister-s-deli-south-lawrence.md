@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: McAlister's Deli
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

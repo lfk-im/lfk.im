@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 7:30am-6:30pm, Sa 7:30am-5pm, Su 8:30am-4pm
 instagram_url: ''
+locality: Lawrence
 name: Wheatfields Bakery
 neighborhood: Downtown
 neighborhood_slug: downtown

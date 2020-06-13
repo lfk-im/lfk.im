@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 11am-8pm
 instagram_url: ''
+locality: Lawrence
 name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown

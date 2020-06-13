@@ -32,6 +32,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

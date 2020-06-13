@@ -29,6 +29,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-9pm
 instagram_url: ''
+locality: Lawrence
 name: Yello Sub
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

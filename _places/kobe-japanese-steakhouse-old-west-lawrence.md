@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Kobe Japanese Steakhouse
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence

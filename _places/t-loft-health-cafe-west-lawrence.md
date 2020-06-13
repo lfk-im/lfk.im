@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Fr 10am-5pm, Sa-Su 10am-2pm
 instagram_url: ''
+locality: Lawrence
 name: T. Loft Health Cafe
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

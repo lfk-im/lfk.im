@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 3-8pm
 instagram_url: https://www.instagram.com/bonbonlawrence/
+locality: Lawrence
 name: Bon Bon!
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

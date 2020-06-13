@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Th 11am-2am, Fr-Sa 11am-3am, Su 11am-1:30am
 instagram_url: ''
+locality: Lawrence
 name: Pizza Shuttle
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

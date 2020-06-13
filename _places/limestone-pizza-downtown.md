@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 4-8:30pm
 instagram_url: ''
+locality: Lawrence
 name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown

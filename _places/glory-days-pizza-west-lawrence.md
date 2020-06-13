@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-9pm
 instagram_url: ''
+locality: Lawrence
 name: Glory Days Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -19,6 +19,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-7pm
 instagram_url: ''
+locality: Lawrence
 name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''

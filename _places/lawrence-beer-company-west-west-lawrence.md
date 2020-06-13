@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-8pm
 instagram_url: ''
+locality: Lawrence
 name: Lawrence Beer Company West
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sun 4-9pm
 instagram_url: ''
+locality: Lawrence
 name: Acapulco Mexican Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

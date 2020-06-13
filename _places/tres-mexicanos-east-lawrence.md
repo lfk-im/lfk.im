@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Tres Mexicanos
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence

@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Fri 2pm-7pm, Sat 5pm-8pm
 instagram_url: ''
+locality: Lawrence
 name: Liberty Hall
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Mass Street Soda
 neighborhood: Downtown
 neighborhood_slug: downtown

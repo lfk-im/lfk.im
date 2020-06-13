@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Sa 3:30-8pm
 instagram_url: ''
+locality: Lawrence
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

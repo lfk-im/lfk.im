@@ -21,6 +21,7 @@ giftcard_notes: All Gift Card Proceeds Benefit Employees. Buy one $50 Gift Card 
 giftcard_url: https://www.saltyiguanagiftcard.com/ordernow
 hours: Mo-Su 11am-8:45pm
 instagram_url: ''
+locality: Lawrence
 name: Salty Iguana Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: https://www.instagram.com/ebarnfarmlf
+locality: Lawrence
 name: E Barn Farm Bakery
 neighborhood: ''
 notes: Closed through June 8th - Deliveries happen following business day

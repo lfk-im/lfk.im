@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-7:30pm
 instagram_url: ''
+locality: Lawrence
 name: Wayne & Larry's Sports Bar & Grill
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

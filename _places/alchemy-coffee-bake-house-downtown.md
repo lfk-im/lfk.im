@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -33,6 +33,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 3-8:30pm
 instagram_url: ''
+locality: Lawrence
 name: Texas Roadhouse
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

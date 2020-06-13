@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Bird Dog Bar at The Oread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area

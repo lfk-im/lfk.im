@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-6pm
 instagram_url: ''
+locality: Lawrence
 name: Game Nut Entertainment
 neighborhood: Downtown
 neighborhood_slug: downtown

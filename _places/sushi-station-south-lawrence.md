@@ -24,6 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Su 11am-9:30pm
 instagram_url: ''
+locality: Lawrence
 name: Sushi Station
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

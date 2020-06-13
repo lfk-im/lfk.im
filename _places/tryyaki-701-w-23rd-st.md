@@ -30,6 +30,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Tryyaki
 neighborhood: ''
 notes: ''

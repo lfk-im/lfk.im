@@ -22,6 +22,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: https://www.instagram.com/ramenbowlslawrence/
+locality: Lawrence
 name: Ramen Bowls
 neighborhood: Downtown
 neighborhood_slug: downtown

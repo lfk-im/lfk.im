@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Sa 10am-4pm (pickup), Mo-Sa (delivery)
 instagram_url: ''
+locality: Lawrence
 name: Brits
 neighborhood: Downtown
 neighborhood_slug: downtown

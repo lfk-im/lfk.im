@@ -19,6 +19,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 10am-8pm
 instagram_url: ''
+locality: Lawrence
 name: Mana Bar
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Taco Zone
 neighborhood: Downtown
 neighborhood_slug: downtown

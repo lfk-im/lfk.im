@@ -25,6 +25,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Johnny's Tavern West Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

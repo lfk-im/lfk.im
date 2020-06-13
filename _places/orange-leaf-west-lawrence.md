@@ -20,6 +20,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-10pm
 instagram_url: https://www.instagram.com/orangeleaf/
+locality: Lawrence
 name: Orange Leaf
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -25,6 +25,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4:30-6pm
 instagram_url: ''
+locality: Lawrence
 name: Black Stag Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown

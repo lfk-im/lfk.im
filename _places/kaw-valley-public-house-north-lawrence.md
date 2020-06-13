@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: We-Sa 5-9pm
 instagram_url: ''
+locality: Lawrence
 name: Kaw Valley Public House
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence

@@ -24,6 +24,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 12-9pm
 instagram_url: ''
+locality: Lawrence
 name: Burger Stand at the Casbah
 neighborhood: Downtown
 neighborhood_slug: downtown

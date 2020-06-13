@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence

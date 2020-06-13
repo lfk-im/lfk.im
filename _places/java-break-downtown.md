@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 8am-6pm
 instagram_url: ''
+locality: Lawrence
 name: Java Break
 neighborhood: Downtown
 neighborhood_slug: downtown

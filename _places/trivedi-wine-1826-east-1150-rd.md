@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Th-Su 12-6pm
 instagram_url: ''
+locality: Lawrence
 name: Trivedi Wine
 neighborhood: ''
 notes: ''

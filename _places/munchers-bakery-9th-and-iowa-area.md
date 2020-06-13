@@ -23,6 +23,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Munchers Bakery
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area

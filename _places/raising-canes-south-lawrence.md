@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Raising Cane’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

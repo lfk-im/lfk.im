@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Jade Garden
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

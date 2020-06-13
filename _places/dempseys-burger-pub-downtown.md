@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Tu-Sa 4-8pm
 instagram_url: ''
+locality: Lawrence
 name: Dempseys Burger Pub
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -16,6 +16,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: PoorBoy Burrito Company
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent

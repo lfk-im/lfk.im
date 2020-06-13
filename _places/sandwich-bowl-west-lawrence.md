@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Sandwich Bowl
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

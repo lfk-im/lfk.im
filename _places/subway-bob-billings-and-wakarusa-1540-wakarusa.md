@@ -19,6 +19,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8:30pm
 instagram_url: ''
+locality: Lawrence
 name: Subway (Bob Billings and Wakarusa)
 neighborhood: ''
 notes: ''

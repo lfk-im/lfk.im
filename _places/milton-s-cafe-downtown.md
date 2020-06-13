@@ -27,6 +27,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 7am-2pm, Su 8am-2pm
 instagram_url: ''
+locality: Lawrence
 name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown

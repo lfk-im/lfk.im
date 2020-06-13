@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/C1GYHZ9MTG3S3/order
 hours: Mo-Su 2-8pm
 instagram_url: https://www.instagram.com/massfishhouse/
+locality: Lawrence
 name: Mass Street Fish House
 neighborhood: Downtown
 neighborhood_slug: downtown

@@ -35,6 +35,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Sa 7am-8pm, Su 7:30am-7:30pm
 instagram_url: ''
+locality: Lawrence
 name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area

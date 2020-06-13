@@ -28,6 +28,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Jason’s Deli
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence

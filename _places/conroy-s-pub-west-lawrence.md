@@ -26,6 +26,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-8pm
 instagram_url: ''
+locality: Lawrence
 name: Conroy's Pub
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence

@@ -18,6 +18,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 11am-2pm, 4-10pm
 instagram_url: ''
+locality: Lawrence
 name: Boulevard Grill
 neighborhood: ''
 notes: ''

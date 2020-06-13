@@ -21,6 +21,7 @@ giftcard_notes: ''
 giftcard_url: ''
 hours: ''
 instagram_url: ''
+locality: Lawrence
 name: Great Harvest Bread Co.
 neighborhood: Downtown
 neighborhood_slug: downtown
