@@ -45,6 +45,13 @@ layout: default
     </dd>
   </dl>
 
+  {% if page.dinein %}
+  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+    <dt>Dine In</dt>
+    <dd>{% if page.dinein %}✅ Yes{% else %}❌ No{% endif %}</dd>
+  </dl>
+  {% endif %}
+
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Takeout</dt>
     <dd>{% if page.takeout %}✅ Yes{% else %}❌ No{% endif %}</dd>
@@ -67,20 +74,6 @@ layout: default
   </dl>
   {% endif %}
 
-  {% if page.giftcard and page.giftcard != "" and page.giftcard != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Giftcard Options</dt>
-    <dd>
-      <a class="text-blue-700 underline hover:text-blue-500"
-          href="{{ page.giftcard_url }}">{{ page.giftcard_url }}</a>
-    </dd>
-  </dl>
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Giftcard Notes</dt>
-    <dd>{{ page.giftcard_notes }}</dd>
-  </dl>
-  {% endif %}
-
   <h2 class="text-2xl font-bold pt-8">Ordering Options</h2>
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
@@ -94,45 +87,59 @@ layout: default
 
   {% for food in page.food_urls %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Order</dt>
+    {% comment %}<dt>Order</dt>{% endcomment %}
     <dd>
       <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ food.url }}">
-        {{ food.name }}</a>
+        Order {{ page.name }} via {{ food.name }}</a>
     </dd>
   </dl>
   {% endfor %}
 
-  <h2 class="text-2xl font-bold pt-8">Social Media</h2>
+  {% if page.giftcard_url != "" or page.giftcard_notes != "" %}
+    <h2 class="text-2xl font-bold pt-8">Giftcard Options</h2>
 
-  {% comment %}
-  {% if page.social and page.social != "" and page.social != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Social</dt>
-    <dd><a href="{{ page.social }}">{{ page.social }}</a></dd>
-  </dl>
-  {% endif %}
-  {% endcomment %}
+    {% if page.giftcard_url and page.giftcard_url != "" and page.giftcard_url != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      {% comment %}<dt>Giftcards</dt>{% endcomment %}
+      <dd>
+        <a class="text-blue-700 underline hover:text-blue-500"
+            href="{{ page.giftcard_url }}">Purchase a {{ page.name }} Giftcard</a>
+      </dd>
+    </dl>
+    {% endif %}
 
-  {% if page.facebook_url and page.facebook_url != "" and page.facebook_url != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Facebook</dt>
-    <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}">Facebook</a></dd>
-  </dl>
-  {% endif %}
-
-  {% if page.instagram_url and page.instagram_url != "" and page.instagram_url != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Instagram</dt>
-    <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}">Instagram</a></dd>
-  </dl>
+    {% if page.giftcard_notes and page.giftcard_notes != "" and page.giftcard_notes != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Giftcard Notes</dt>
+      <dd>{{ page.giftcard_notes }}</dd>
+    </dl>
+    {% endif %}
   {% endif %}
 
-  {% if page.twitter_url and page.twitter_url != "" and page.twitter_url != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Twitter</dt>
-    <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}">Twitter</a></dd>
-  </dl>
+  {% if page.facebook_url != "" or page.instagram_url != "" or page.twitter_url != "" %}
+    <h2 class="text-2xl font-bold pt-8">Social Media</h2>
+
+    {% if page.facebook_url and page.facebook_url != "" and page.facebook_url != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      {% comment %}<dt>Facebook</dt>{% endcomment %}
+      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}">Facebook</a></dd>
+    </dl>
+    {% endif %}
+
+    {% if page.instagram_url and page.instagram_url != "" and page.instagram_url != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      {% comment %}<dt>Instagram</dt>{% endcomment %}
+      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}">Instagram</a></dd>
+    </dl>
+    {% endif %}
+
+    {% if page.twitter_url and page.twitter_url != "" and page.twitter_url != nil %}
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      {% comment %}<dt>Twitter</dt>{% endcomment %}
+      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}">Twitter</a></dd>
+    </dl>
+    {% endif %}
   {% endif %}
 
   {% if page.notes and page.notes != "" and page.notes != nil %}
