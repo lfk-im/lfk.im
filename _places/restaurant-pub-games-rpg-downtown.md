@@ -16,6 +16,7 @@ curbside_instructions: We will be setting up beer and wine on the patio for purc
   No need to drink on premise.
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/RPGLawrence/
 food_urls: []
 giftcard: true

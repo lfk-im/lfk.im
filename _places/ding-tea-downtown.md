@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/dingtealawrence/
 food_urls:
 - name: ubereats.com

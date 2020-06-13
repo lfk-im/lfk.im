@@ -14,6 +14,7 @@ curbside_instructions: We have the first 2 parking stalls right out front on Mas
   and we can meet you there.
 delivery: false
 delivery_service_websites: https://direct.chownow.com/order/20900/locations/30247
+dinein: false
 facebook_url: https://www.facebook.com/casbahburgerstand/
 food_urls:
 - name: order online

@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls:
 - name: eatstreet.com

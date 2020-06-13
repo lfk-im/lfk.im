@@ -11,6 +11,7 @@ curbside_instructions: Call (785)841-8226 when you arrive and we will bring your
   out to you.
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/FuzzysTacoShopLawrence/
 food_urls:
 - name: eatstreet.com

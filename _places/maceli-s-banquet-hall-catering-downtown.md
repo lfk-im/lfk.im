@@ -9,6 +9,7 @@ curbside_instructions: Please order by 5:00pm Thursday for guaranteed pick up at
   curbside on Friday
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

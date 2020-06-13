@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://my-site-103368-107531.square.site/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

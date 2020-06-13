@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/Baan-Thai-Restaurant-Lawrence-KS-344278702411383/
 food_urls:
 - name: eatstreet.com

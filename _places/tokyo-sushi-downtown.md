@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.tokyosushilfk.com/#/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: Text (785) 727-6268 when you arrive
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls:
 - name: eatstreet.com

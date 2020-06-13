@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/
 food_urls: []
 giftcard: false

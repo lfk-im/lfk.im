@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: true

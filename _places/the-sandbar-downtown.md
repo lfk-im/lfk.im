@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+dinein: true
 facebook_url: https://www.facebook.com/thesandbar
 food_urls: []
 giftcard: false

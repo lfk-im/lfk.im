@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://jasonsdeli.com
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

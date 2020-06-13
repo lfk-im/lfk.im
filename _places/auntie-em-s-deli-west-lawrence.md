@@ -17,6 +17,7 @@ curbside: false
 curbside_instructions: Call Deli direct to place order and pay.
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/AuntieEmsDeliandBakery
 food_urls:
 - name: eatstreet.com

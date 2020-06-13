@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/McAlistersDeliLawrence/
 food_urls:
 - name: doordash.com

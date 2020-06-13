@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: Call to order
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/TheBasilLeafCafeKS/
 food_urls:
 - name: eatstreet.com

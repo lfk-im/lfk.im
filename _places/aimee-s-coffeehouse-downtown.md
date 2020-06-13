@@ -14,6 +14,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/AimeesCoffeehouse/
 food_urls:
 - name: eatstreet.com

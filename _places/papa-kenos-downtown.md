@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://papakenos.appfront.ai/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

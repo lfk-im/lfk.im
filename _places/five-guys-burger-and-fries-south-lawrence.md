@@ -11,6 +11,7 @@ curbside_instructions: Please call the store at (785) 749-3400 when you arrive, 
   us the color and model of your car, and we’ll run your order out to you!
 delivery: true
 delivery_service_websites: https://order.fiveguys.com/menu/lawrence
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

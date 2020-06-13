@@ -9,6 +9,7 @@ curbside_instructions: 'Text your Name, Pick up time, smoothie flavor, tea flavo
   cash or card '
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

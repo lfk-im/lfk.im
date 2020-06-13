@@ -14,6 +14,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
+dinein: false
 facebook_url: https://www.facebook.com/alchemycoffeeKS/
 food_urls:
 - name: order online

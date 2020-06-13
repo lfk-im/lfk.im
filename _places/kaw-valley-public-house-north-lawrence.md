@@ -13,6 +13,7 @@ curbside_instructions: Order via Facebook Messenger with name and time you want 
   pick up
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/kvpub
 food_urls: []
 giftcard: false

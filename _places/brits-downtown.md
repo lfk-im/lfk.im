@@ -10,6 +10,7 @@ curbside_instructions: 'Place orders online to have them shipped, delivered (Mon
   you have questions.  '
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

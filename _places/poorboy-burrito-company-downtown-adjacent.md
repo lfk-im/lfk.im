@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/webuildyoueat/
 food_urls: []
 giftcard: false

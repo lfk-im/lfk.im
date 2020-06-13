@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: 'Prepay over phone. No walk ins at this time. '
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls:
 - name: doordash.com

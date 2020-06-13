@@ -11,6 +11,7 @@ curbside_instructions: Call ahead and/or call upon arriving and someone will com
   to your car to take your order
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: true

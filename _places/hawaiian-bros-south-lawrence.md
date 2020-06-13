@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: Drive Thru open!
 delivery: true
 delivery_service_websites: https://www.toasttab.com/hawaiian-bros-002/v3#!/
+dinein: false
 facebook_url: https://www.facebook.com/hawaiianbroslawrence/
 food_urls:
 - name: order online

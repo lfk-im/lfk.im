@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://snappyeats.com/Order/menudetail.aspx?restaurantID=3811#!/category/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

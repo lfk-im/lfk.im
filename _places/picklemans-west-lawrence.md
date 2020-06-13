@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: 'Please call when you arrive '
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

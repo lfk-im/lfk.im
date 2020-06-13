@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: Call and let us know
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/cielitolindoks/
 food_urls:
 - name: eatstreet.com

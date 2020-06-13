@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: Give us a call, we will bring it out
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/PlanetSub
 food_urls:
 - name: doordash.com

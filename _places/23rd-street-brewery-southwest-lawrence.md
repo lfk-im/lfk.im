@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/brew23/
 food_urls:
 - name: eatstreet.com

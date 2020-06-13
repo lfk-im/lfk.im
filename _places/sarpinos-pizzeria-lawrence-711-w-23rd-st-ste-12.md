@@ -14,6 +14,7 @@ curbside_instructions: 'Order online and prepay, call the store when you arrive 
   your order number. Your order will be brought out to you. '
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls:
 - name: doordash.com

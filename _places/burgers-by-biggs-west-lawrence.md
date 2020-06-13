@@ -21,6 +21,7 @@ curbside_instructions: call ahead with order, call when arrive and we will bring
   to your car.
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls:
 - name: eatstreet.com

@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
+dinein: false
 facebook_url: https://www.facebook.com/OndorinoodleLFK/
 food_urls:
 - name: order online

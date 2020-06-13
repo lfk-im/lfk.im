@@ -8,6 +8,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

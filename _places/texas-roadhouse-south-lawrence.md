@@ -23,6 +23,7 @@ curbside: true
 curbside_instructions: 'Order through mobile app and pay online '
 delivery: false
 delivery_service_websites: https://texasroadhouse.alohaorderonline.com/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

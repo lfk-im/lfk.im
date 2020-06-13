@@ -14,6 +14,7 @@ curbside: true
 curbside_instructions: All carryout/curbside is via drive-through.
 delivery: true
 delivery_service_websites: https://lawrence.tryyaki.com/#/
+dinein: false
 facebook_url: https://www.facebook.com/pages/category/Chinese-Restaurant/Tryyaki-779014658853038/
 food_urls:
 - name: order online

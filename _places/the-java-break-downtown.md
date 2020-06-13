@@ -18,6 +18,7 @@ curbside_instructions: call us when you get here. Park out front or in parking l
   behind us.
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

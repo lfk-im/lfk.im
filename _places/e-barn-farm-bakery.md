@@ -16,6 +16,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ebarnfarm.org/order-online!
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

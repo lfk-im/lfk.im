@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/BoulevardGrillLawrence
 food_urls: []
 giftcard: false

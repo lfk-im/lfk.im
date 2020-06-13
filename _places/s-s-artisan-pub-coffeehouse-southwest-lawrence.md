@@ -17,6 +17,7 @@ curbside_instructions: 'Order online at Shaunandsonsartisanpub.com or call us at
   We will bring your order to you via curbside. '
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

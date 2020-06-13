@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.ordernagoyasushi.com/#/
+dinein: false
 facebook_url: https://www.facebook.com/nagoyalawrence/
 food_urls:
 - name: order online

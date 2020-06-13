@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://app.upserve.com/s/merchants-pub-and-plate-lawrence
+dinein: false
 facebook_url: https://www.facebook.com/MerchantsOnMass/
 food_urls:
 - name: order online

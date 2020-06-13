@@ -11,6 +11,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://ordering.incentivio.com/client/a47a3c3b-0a8d-4d7e-a624-178cc9a5ac74/store/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

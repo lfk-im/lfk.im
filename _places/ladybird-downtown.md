@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.paypal.com/donate/?token=DjrgiUtpB3XvhXOzc4Nz5Nd76hmBY0aWVXiNjhX3n5RZwjjAsH6g_SovRIVisUalf9zBBG&country.x=US&locale.x=US
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

@@ -19,6 +19,7 @@ curbside_instructions: Please call the store when you arrive and we will bring i
   out to you!
 delivery: true
 delivery_service_websites: https://orders.imenu360.us/TwistedFresh/Lawrence/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

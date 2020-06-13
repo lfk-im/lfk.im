@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/burgerimlawrence/
 food_urls:
 - name: chownow.com

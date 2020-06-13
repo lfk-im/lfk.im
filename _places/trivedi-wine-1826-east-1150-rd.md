@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: Call ahead or come in for take out.
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

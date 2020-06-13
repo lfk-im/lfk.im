@@ -18,6 +18,7 @@ curbside: true
 curbside_instructions: Call when you arrive
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/ConroysPub/
 food_urls: []
 giftcard: false

@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://culinariaks.square.site/
+dinein: false
 facebook_url: https://www.facebook.com/pg/CulinariaKS
 food_urls:
 - name: order online

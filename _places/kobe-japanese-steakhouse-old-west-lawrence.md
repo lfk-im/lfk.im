@@ -12,6 +12,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://kobejapanesesteakhouselawrence.com/28634
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

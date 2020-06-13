@@ -10,6 +10,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://www.piefivepizza.com/locations/lawrence-iowa-st/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

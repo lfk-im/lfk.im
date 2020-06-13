@@ -10,6 +10,7 @@ curbside: false
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://lawrence.ordermiranchitokc.com/#/
+dinein: false
 facebook_url: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/
 food_urls:
 - name: order online

@@ -13,6 +13,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
+dinein: false
 facebook_url: https://www.facebook.com/La-Prima-Tazza-239100315171/
 food_urls: []
 giftcard: false

@@ -8,6 +8,7 @@ curbside: true
 curbside_instructions: Call to let us know your outside
 delivery: true
 delivery_service_websites: ''
+dinein: false
 facebook_url: ''
 food_urls: []
 giftcard: false

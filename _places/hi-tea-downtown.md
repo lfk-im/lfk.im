@@ -11,6 +11,7 @@ curbside: false
 curbside_instructions: You can also opt to pick up in the front of the store
 delivery: true
 delivery_service_websites: https://www.hitealawrence.com/#/
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online

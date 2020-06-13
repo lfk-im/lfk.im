@@ -12,6 +12,7 @@ curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: https://bigmill.hrpos.heartland.us/
+dinein: false
 facebook_url: https://www.facebook.com/BigMillLawrence/
 food_urls:
 - name: order online

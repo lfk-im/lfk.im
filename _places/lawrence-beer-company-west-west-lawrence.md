@@ -13,6 +13,7 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://www.toasttab.com/lawrencebeerco/v3
+dinein: false
 facebook_url: ''
 food_urls:
 - name: order online
