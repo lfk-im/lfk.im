@@ -422,7 +422,8 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
     for item in table:
         name = item.get_field_value("name")
         address = item.get_field_value("address")
-        slug = slugify(" ".join([name, address]))
+        neighborhood = item.get_field_value("neighborhood")
+        slug = slugify(" ".join([name, neighborhood or address]))
         filename = f"{slug}.md"
 
         input_file = output_folder.joinpath(filename)
