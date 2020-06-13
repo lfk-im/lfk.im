@@ -51,12 +51,14 @@ layout: default
     </dd>
   </dl>
 
+  {% if page.website and page.website != "" and page.website != nil %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Website</dt>
     <dd>
       <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}" rel="nofollow">{{ page.website }}</a>
     </dd>
   </dl>
+  {% endif %}
 
   {% if page.dinein %}
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
