@@ -42,14 +42,18 @@
               {% endif %}
             </td>
             <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
+              {% if place.neighborhood and place.neighborhood != "" and place.neighborhood != nil %}
               <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ place.neighborhood_slug }}/">
                 {{ place.neighborhood }}</a>
+              {% endif %}
             </td>
             <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
-              {% for cuisine in place.cuisines %}
-                {% if forloop.index <= 3 %}<span class="text-blue-700 underline hover:text-blue-500"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endif %}
-              {% endfor %}
-              {% if place.cuisines.size > 3 %}<span class="underline">...</span>{% endif %}
+              {% if place.cuisines.size > 0 %}
+                {% for cuisine in place.cuisines %}
+                  {% if forloop.index <= 3 %}<span class="text-blue-700 underline hover:text-blue-500"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endif %}
+                {% endfor %}
+                {% if place.cuisines.size > 3 %}<span class="underline">...</span>{% endif %}
+              {% endif %}
             </td>
             {% case include.active %}
               {% when true %}
