@@ -90,8 +90,10 @@ SHEETS_STRING_FIELDS = [
     "curbside_instructions",
     "giftcard_notes",
     "hours",
+    "location",
     "neighborhood",
     "notes",
+    "region",
     "restaurant_phone",
     "social",
 ]
