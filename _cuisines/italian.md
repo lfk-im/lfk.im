@@ -7,5 +7,5 @@ name: Italian
 redirect_from: []
 sitemap: true
 slug: italian
-title: Italian Food in Lawrence, Kansas
+title: Italian Restaurants in Lawrence, Kansas
 ---

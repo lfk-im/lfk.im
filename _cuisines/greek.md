@@ -7,5 +7,5 @@ name: Greek
 redirect_from: []
 sitemap: true
 slug: greek
-title: Greek Food in Lawrence, Kansas
+title: Greek Restaurants in Lawrence, Kansas
 ---

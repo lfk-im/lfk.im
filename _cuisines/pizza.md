@@ -7,5 +7,5 @@ name: Pizza
 redirect_from: []
 sitemap: true
 slug: pizza
-title: Pizza Food in Lawrence, Kansas
+title: Pizza Restaurants in Lawrence, Kansas
 ---

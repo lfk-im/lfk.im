@@ -7,5 +7,5 @@ name: Thai
 redirect_from: []
 sitemap: true
 slug: thai
-title: Thai Food in Lawrence, Kansas
+title: Thai Restaurants in Lawrence, Kansas
 ---

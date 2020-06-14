@@ -7,5 +7,5 @@ name: Middle-Eastern
 redirect_from: []
 sitemap: true
 slug: middle-eastern
-title: Middle-Eastern Food in Lawrence, Kansas
+title: Middle-Eastern Restaurants in Lawrence, Kansas
 ---

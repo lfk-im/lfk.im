@@ -11,5 +11,5 @@ redirect_from:
 - /cuisines/tacos/
 sitemap: true
 slug: mexican
-title: Mexican Food in Lawrence, Kansas
+title: Mexican Restaurants in Lawrence, Kansas
 ---

@@ -7,5 +7,5 @@ name: Sushi
 redirect_from: []
 sitemap: true
 slug: sushi
-title: Sushi Food in Lawrence, Kansas
+title: Sushi Restaurants in Lawrence, Kansas
 ---

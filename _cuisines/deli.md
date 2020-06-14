@@ -11,5 +11,5 @@ redirect_from:
 - /cuisines/sandwiches/
 sitemap: true
 slug: deli
-title: Deli Food in Lawrence, Kansas
+title: Deli Restaurants in Lawrence, Kansas
 ---

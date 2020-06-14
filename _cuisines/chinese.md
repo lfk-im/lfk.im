@@ -7,5 +7,5 @@ name: Chinese
 redirect_from: []
 sitemap: true
 slug: chinese
-title: Chinese Food in Lawrence, Kansas
+title: Chinese Restaurants in Lawrence, Kansas
 ---

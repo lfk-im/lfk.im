@@ -7,5 +7,5 @@ name: Japanese
 redirect_from: []
 sitemap: true
 slug: japanese
-title: Japanese Food in Lawrence, Kansas
+title: Japanese Restaurants in Lawrence, Kansas
 ---

@@ -7,5 +7,5 @@ name: Bar & Grill
 redirect_from: []
 sitemap: true
 slug: bar-grill
-title: Bar & Grill Food in Lawrence, Kansas
+title: Bar & Grill Restaurants in Lawrence, Kansas
 ---

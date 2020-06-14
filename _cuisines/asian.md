@@ -7,5 +7,5 @@ name: Asian
 redirect_from: []
 sitemap: true
 slug: asian
-title: Asian Food in Lawrence, Kansas
+title: Asian Restaurants in Lawrence, Kansas
 ---

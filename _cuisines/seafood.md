@@ -9,5 +9,5 @@ redirect_from:
 - /cuisines/seasfood/
 sitemap: true
 slug: seafood
-title: Seafood Food in Lawrence, Kansas
+title: Seafood Restaurants in Lawrence, Kansas
 ---

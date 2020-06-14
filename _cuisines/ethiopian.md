@@ -7,5 +7,5 @@ name: Ethiopian
 redirect_from: []
 sitemap: true
 slug: ethiopian
-title: Ethiopian Food in Lawrence, Kansas
+title: Ethiopian Restaurants in Lawrence, Kansas
 ---

@@ -13,5 +13,5 @@ redirect_from:
 - /cuisines/teas/
 sitemap: true
 slug: coffee-and-tea
-title: Coffee and Tea Food in Lawrence, Kansas
+title: Coffee and Tea Restaurants in Lawrence, Kansas
 ---

@@ -7,5 +7,5 @@ name: Cajun
 redirect_from: []
 sitemap: true
 slug: cajun
-title: Cajun Food in Lawrence, Kansas
+title: Cajun Restaurants in Lawrence, Kansas
 ---

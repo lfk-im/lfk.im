@@ -7,5 +7,5 @@ name: Fine Dining
 redirect_from: []
 sitemap: true
 slug: fine-dining
-title: Fine Dining Food in Lawrence, Kansas
+title: Fine Dining Restaurants in Lawrence, Kansas
 ---

@@ -15,5 +15,5 @@ redirect_from:
 - /cuisines/steaks/
 sitemap: true
 slug: steakhouse
-title: Steakhouse Food in Lawrence, Kansas
+title: Steakhouse Restaurants in Lawrence, Kansas
 ---

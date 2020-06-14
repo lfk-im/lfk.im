@@ -7,5 +7,5 @@ name: Spanish
 redirect_from: []
 sitemap: true
 slug: spanish
-title: Spanish Food in Lawrence, Kansas
+title: Spanish Restaurants in Lawrence, Kansas
 ---

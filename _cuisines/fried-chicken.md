@@ -15,5 +15,5 @@ redirect_from:
 - /cuisines/wings/
 sitemap: true
 slug: fried-chicken
-title: Fried Chicken Food in Lawrence, Kansas
+title: Fried Chicken Restaurants in Lawrence, Kansas
 ---

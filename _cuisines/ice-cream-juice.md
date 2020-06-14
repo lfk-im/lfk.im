@@ -7,5 +7,5 @@ name: Ice Cream / Juice
 redirect_from: []
 sitemap: true
 slug: ice-cream-juice
-title: Ice Cream / Juice Food in Lawrence, Kansas
+title: Ice Cream / Juice Restaurants in Lawrence, Kansas
 ---

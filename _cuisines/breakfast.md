@@ -9,5 +9,5 @@ redirect_from:
 - /cuisines/breakfast-brunch/
 sitemap: true
 slug: breakfast
-title: Breakfast Food in Lawrence, Kansas
+title: Breakfast Restaurants in Lawrence, Kansas
 ---

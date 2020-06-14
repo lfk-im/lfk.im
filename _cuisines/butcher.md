@@ -13,5 +13,5 @@ redirect_from:
 - /cuisines/sausages/
 sitemap: true
 slug: butcher
-title: Butcher Food in Lawrence, Kansas
+title: Butcher Restaurants in Lawrence, Kansas
 ---

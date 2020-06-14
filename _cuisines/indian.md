@@ -7,5 +7,5 @@ name: Indian
 redirect_from: []
 sitemap: true
 slug: indian
-title: Indian Food in Lawrence, Kansas
+title: Indian Restaurants in Lawrence, Kansas
 ---

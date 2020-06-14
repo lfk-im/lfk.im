@@ -7,5 +7,5 @@ name: American
 redirect_from: []
 sitemap: true
 slug: american
-title: American Food in Lawrence, Kansas
+title: American Restaurants in Lawrence, Kansas
 ---

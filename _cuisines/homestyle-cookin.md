@@ -7,5 +7,5 @@ name: Homestyle Cookin'
 redirect_from: []
 sitemap: true
 slug: homestyle-cookin
-title: Homestyle Cookin' Food in Lawrence, Kansas
+title: Homestyle Cookin' Restaurants in Lawrence, Kansas
 ---

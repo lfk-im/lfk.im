@@ -7,5 +7,5 @@ name: Fast Food
 redirect_from: []
 sitemap: true
 slug: fast-food
-title: Fast Food Food in Lawrence, Kansas
+title: Fast Food Restaurants in Lawrence, Kansas
 ---
