@@ -57,28 +57,28 @@
                 @click="open = true">&ctdot;</button>
 
             <div x-ref="dropdown" x-show="open" @click.away="open = false">
-              <ul class="absolute z-10 w-40 p-3 m-1 -mt-10 -ml-32 text-left bg-gray-100 border border-gray-500 shadow-2xl rounded rounded-lg" x-cloak>
+              <ul class="absolute z-10 w-40 p-3 m-1 -mt-10 -ml-32 text-left bg-gray-100 border border-gray-500 rounded rounded-lg shadow-2xl" x-cloak>
               {% if include.place.restaurant_phone and include.place.restaurant_phone != "" and include.place.restaurant_phone != nil %}
-                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
                     href="tel:{{ include.place.restaurant_phone }}" rel="nofollow">
                   {{ include.place.restaurant_phone }}</a></li>
               {% endif %}
 
               {% if include.place.website and include.place.website != "" and include.place.website != nil %}
-                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
                     href="{{ include.place.website }}" rel="nofollow">
                   visit website</a></li>
               {% endif %}
 
               {% if include.place.giftcard_url and include.place.giftcard_url != "" and include.place.giftcard_url != nil %}
-                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
                     href="{{ include.place.giftcard_url }}" rel="nofollow">
                   🎁 giftcard</a></li>
               {% endif %}
 
               {% if include.place.food_urls.size > 0 %}
                 {% for food in include.place.food_urls %}
-                  <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                  <li class="p-1"><a class="text-xs text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
                       href="{{ food.url }}" rel="nofollow">
                     order {{ food.name }}</a></li>
                 {% endfor %}
