@@ -19,7 +19,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tue-Sat 11am-8pm, Sun 10am-3pm
+hours: Tue-Sat 11am-8pm; Sun 10am-3pm
 instagram_url: ''
 locality: Lawrence
 name: Leeway Franks

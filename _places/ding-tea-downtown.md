@@ -19,7 +19,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Th 11am-9:30pm, Fr-Su 11am-10:30pm
+hours: Mo-Th 11am-9:30pm; Fr-Su 11am-10:30pm
 instagram_url: ''
 locality: Lawrence
 name: Ding Tea

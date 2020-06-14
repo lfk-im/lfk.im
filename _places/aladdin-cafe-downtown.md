@@ -22,7 +22,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Su-Sa 11:30am-2:30pm, 5-7:30pm
+hours: Su-Sa 11:30am-2:30pm; 5-7:30pm
 instagram_url: ''
 locality: Lawrence
 name: Aladdin Cafe

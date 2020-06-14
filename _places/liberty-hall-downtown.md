@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Fr 2-7pm, Sa 5-8pm
+hours: Fr 2-7pm; Sa 5-8pm
 instagram_url: ''
 locality: Lawrence
 name: Liberty Hall

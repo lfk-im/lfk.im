@@ -20,7 +20,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Sun 11am-2:30pm, Mo-Th 5-9:30pm, Fr-Su 5pm-10pm
+hours: Tu-Sun 11am-2:30pm; Mo-Th 5-9:30pm; Fr-Su 5pm-10pm
 instagram_url: ''
 locality: Lawrence
 name: Bayleaf Indian Restaurant

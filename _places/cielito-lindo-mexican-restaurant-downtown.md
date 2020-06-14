@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Su-We 11am-9pm, Th-Sa 11am-10pm
+hours: Su-We 11am-9pm; Th-Sa 11am-10pm
 instagram_url: ''
 locality: Lawrence
 name: Cielito Lindo Mexican Restaurant

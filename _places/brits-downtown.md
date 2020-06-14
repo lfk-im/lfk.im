@@ -16,7 +16,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Th-Sa 10am-4pm (pickup), Mo-Sa (delivery)
+hours: Th-Sa 10am-4pm (pickup); Mo-Sa (delivery)
 instagram_url: ''
 locality: Lawrence
 name: Brits

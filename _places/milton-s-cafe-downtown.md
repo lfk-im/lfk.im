@@ -25,7 +25,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Sa 7am-2pm, Su 8am-2pm
+hours: Mo-Sa 7am-2pm; Su 8am-2pm
 instagram_url: ''
 locality: Lawrence
 name: Milton's Café

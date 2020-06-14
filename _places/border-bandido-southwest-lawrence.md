@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Fr 11am-2pm, 5-8pm, Sa 11am-8pm
+hours: Tu-Fr 11am-2pm; Tu-Fr 5-8pm; Sa 11am-8pm
 instagram_url: ''
 locality: Lawrence
 name: Border Bandido

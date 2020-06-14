@@ -22,7 +22,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Su 11:30am-9pm, Fr-Sa bar open until 10pm
+hours: Tu-Su 11:30am-9pm; Fr-Sa bar open until 10pm
 instagram_url: ''
 locality: Lawrence
 name: Free State Brewery
