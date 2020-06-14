@@ -1,0 +1,92 @@
+<tr class="text-blue-800 align-middle border-b border-gray-400 {% unless include.place.highlight %}bg-gray-100{% else %}bg-yellow-300{% endunless  %}"
+    x-data="{ 'is_{{ include.place.slug | replace: "-", "_" }}_open': false }"
+    @keydown.escape="is_{{ include.place.slug | replace: "-", "_" }}_open = false">
+  <td class="px-4 py-2 text-right">
+    {{ include.place.place_type }}
+    <div class="font-medium">
+      {% case site.show_place_details %}
+        {% when true %}
+          <a class="text-blue-700 underline whitespace-no-wrap hover:text-blue-500"
+              name="{{ include.place.name|slugify : 'latin' }}"
+              href="{{ include.place.url }}">{{ include.place.name }}</a>
+        {% else %}
+          <a class="text-blue-700 whitespace-no-wrap" name="{{ include.place.name|slugify : 'latin' }}">{{ include.place.name }}</a>
+      {% endcase %}
+    </div>
+    {% if include.place.address %}
+    <address class="pt-1 text-sm">{{ include.place.address }}</address>
+    {% endif %}
+    {% if include.place.hours and include.place.hours != "" and include.place.hours != nil %}
+      <div class="pt-1 text-xs text-blue-700">Open: {{ include.place.hours }}</div>
+    {% endif %}
+  </td>
+  <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
+    {% if include.place.neighborhood and include.place.neighborhood != "" and include.place.neighborhood != nil %}
+    <a class="text-blue-700 underline hover:text-blue-500" href="/neighborhoods/{{ include.place.neighborhood_slug }}/">
+      {{ include.place.neighborhood }}</a>
+    {% endif %}
+  </td>
+  <td class="hidden px-4 py-2 text-sm md:table-cell md:align-middle">
+    {% if include.place.cuisines.size > 0 %}
+      {% for cuisine in include.place.cuisines %}
+        {% if forloop.index <= 3 %}<span class="text-blue-700 underline hover:text-blue-500"><a href="/cuisines/{{ cuisine|slugify : 'latin' }}/">{{ cuisine }}</a></span> {% endif %}
+      {% endfor %}
+      {% if include.place.cuisines.size > 3 %}<span class="underline">...</span>{% endif %}
+    {% endif %}
+  </td>
+  {% case include.active %}
+    {% when true %}
+      <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
+        {% if include.place.takeout %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      </td>
+      <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
+        {% if include.place.curbside %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      </td>
+      <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
+        {% if include.place.delivery %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      </td>
+    {% else %}
+      <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
+        {% if include.place.giftcard %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      </td>
+  {% endcase %}
+  <td class="px-4 py-2 md:table-cell md:align-middle">
+    <span class="relative">
+          <div x-data="{ open: false }">
+            <button
+                class="h-8 p-2 font-bold text-black hover:text-blue-700"
+                @click="open = true">&ctdot;</button>
+
+            <div x-ref="dropdown" x-show="open" @click.away="open = false">
+              <ul class="absolute z-10 w-40 p-3 m-1 -mt-10 -ml-32 text-left bg-gray-100 border border-gray-500 shadow-2xl rounded rounded-lg" x-cloak>
+              {% if include.place.restaurant_phone and include.place.restaurant_phone != "" and include.place.restaurant_phone != nil %}
+                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                    href="tel:{{ include.place.restaurant_phone }}" rel="nofollow">
+                  {{ include.place.restaurant_phone }}</a></li>
+              {% endif %}
+
+              {% if include.place.website and include.place.website != "" and include.place.website != nil %}
+                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                    href="{{ include.place.website }}" rel="nofollow">
+                  visit website</a></li>
+              {% endif %}
+
+              {% if include.place.giftcard_url and include.place.giftcard_url != "" and include.place.giftcard_url != nil %}
+                <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                    href="{{ include.place.giftcard_url }}" rel="nofollow">
+                  🎁 giftcard</a></li>
+              {% endif %}
+
+              {% if include.place.food_urls.size > 0 %}
+                {% for food in include.place.food_urls %}
+                  <li class="p-1"><a class="text-xs text-blue-700 underline hover:text-blue-500 whitespace-no-wrap"
+                      href="{{ food.url }}" rel="nofollow">
+                    order {{ food.name }}</a></li>
+                {% endfor %}
+              {% endif %}
+              </ul>
+            </div>
+          </div>
+    </span>
+  </td>
+</tr>

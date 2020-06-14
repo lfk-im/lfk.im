@@ -6,25 +6,15 @@ title: "LFK.im - Closed Lawrence, Kansas Restaurants"
 ---
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3">
-    <h2 class="text-3xl font-bold leading-7 text-red-700 sm:text-2xl sm:leading-9 sm:truncate">
-      These businesses are closed.
-    </h2>
-    <h3>
-      <p>
-        Gift cards and other resources coming soon!
-      </p>
-      <p>
-        <a class="font-bold text-blue-800 underline hover:text-blue-500" href="#add-your-business">
-          Add your business to the list
-        </a>
-      </p>
-    </h3>
+  <div class="flex-1 min-w-0 px-3 py-4">
+    <h1 class="text-3xl font-bold leading-7 text-red-700 sm:text-2xl sm:leading-9 sm:truncate">
+      These businesses are currently closed.
+    </h1>
   </div>
 </div>
 
 {% assign places = site.places | where:"active", false  %}
-{% include place-table.html places=places active=false %}
+{% include place-table.html places=places active=false  highlight=false %}
 
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 px-3 py-3 py-4">

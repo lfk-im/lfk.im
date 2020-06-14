@@ -20,7 +20,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 </div>
 
 {% assign places = site.places | where:"active", true | order: "slug" %}
-{% include place-table.html places=places active=true %}
+{% include place-table.html places=places active=true highlight=true %}
 
 <div class="lg:flex lg:items-center lg:justify-between">
   <div class="flex-1 min-w-0 px-3 py-3 py-4">
