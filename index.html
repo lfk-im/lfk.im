@@ -5,7 +5,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 ---
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3">
+  <div class="flex-1 min-w-0 px-3 py-4">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       👋 Welcome
     </h2>
@@ -19,11 +19,19 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
   </div>
 </div>
 
+<div class="lg:flex lg:items-center lg:justify-between">
+  <div class="flex-1 min-w-0 px-3 py-4">
+    <h1 class="text-3xl font-bold leading-7 text-gray-900 sm:text-3xl sm:leading-9 sm:truncate">
+      Open Restaurants in Lawrence, Kansas
+    </h1>
+  </div>
+</div>
+
 {% assign places = site.places | where:"active", true | order: "slug" %}
 {% include place-table.html places=places active=true highlight=true %}
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-4">
+  <div class="flex-1 min-w-0 px-3 py-4">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       <a name="add-your-business"></a>
         ❓ Questions about COVID-19 and food safety?
@@ -39,7 +47,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 </div>
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-4 bg-yellow-400">
+  <div class="flex-1 min-w-0 px-3 py-4 bg-yellow-400">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       <a name="add-your-business"></a>
       🍽 Add your business to the list
@@ -58,7 +66,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 </div>
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-4">
+  <div class="flex-1 min-w-0 px-3 py-4">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       <a name="add-your-business"></a>
         ❓ Looking for a list of closed businesses?
@@ -74,7 +82,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 </div>
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-4">
+  <div class="flex-1 min-w-0 px-3 py-4">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       <a name="add-your-business"></a>
         ❓ Looking for other ways to help?
@@ -101,7 +109,7 @@ title: "LFK - curbside, delivery, and takeout in Lawrence, Kansas"
 </div>
 
 <div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-4">
+  <div class="flex-1 min-w-0 px-3 py-4">
     <h2 class="text-3xl font-bold leading-7 text-gray-900 sm:text-2xl sm:leading-9 sm:truncate">
       🙏 Thank you
     </h2>
