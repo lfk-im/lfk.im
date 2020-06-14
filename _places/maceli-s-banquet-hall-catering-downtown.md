@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-1841
 sitemap: false
 slug: maceli-s-banquet-hall-catering-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

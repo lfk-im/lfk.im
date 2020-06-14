@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-424-7123
 sitemap: false
 slug: taco-zone-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

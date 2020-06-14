@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-842-9383
 sitemap: false
 slug: mediterranean-market-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

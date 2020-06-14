@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-856-3682
 sitemap: false
 slug: encore-cafe-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

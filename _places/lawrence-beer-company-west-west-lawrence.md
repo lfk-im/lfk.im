@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-856-0596
 sitemap: false
 slug: lawrence-beer-company-west-west-lawrence
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

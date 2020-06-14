@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-856-1558
 sitemap: false
 slug: jefferson-s-west-lawrence-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

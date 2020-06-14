@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-843-1110
 sitemap: false
 slug: the-roost-downtown
-social: https://www.facebook.com/920Mass/
 takeout: false
 twitch_url: ''
 twitter_url: ''

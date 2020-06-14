@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-856-8778
 sitemap: false
 slug: hot-box-cookies-ku-campus-area
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

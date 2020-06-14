@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-838-4600
 sitemap: false
 slug: global-cafe-downtown
-social: https://www.instagram.com/global_cafe_lawrence_kansas/
 takeout: true
 twitch_url: ''
 twitter_url: ''

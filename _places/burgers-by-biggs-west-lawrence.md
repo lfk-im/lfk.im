@@ -41,7 +41,6 @@ region: KS
 restaurant_phone: 785-856-2233
 sitemap: false
 slug: burgers-by-biggs-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

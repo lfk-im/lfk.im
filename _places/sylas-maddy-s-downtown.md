@@ -29,7 +29,6 @@ region: KS
 restaurant_phone: 785-832-8323
 sitemap: false
 slug: sylas-maddy-s-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

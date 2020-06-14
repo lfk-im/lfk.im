@@ -39,7 +39,6 @@ region: KS
 restaurant_phone: 704-523-8296
 sitemap: false
 slug: the-mad-greek-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

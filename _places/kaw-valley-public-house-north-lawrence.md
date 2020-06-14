@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-424-7249
 sitemap: false
 slug: kaw-valley-public-house-north-lawrence
-social: https://www.facebook.com/kvpub
 takeout: true
 twitch_url: ''
 twitter_url: ''

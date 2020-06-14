@@ -39,7 +39,6 @@ region: KS
 restaurant_phone: 785-856-5460
 sitemap: false
 slug: dempseys-burger-pub-downtown
-social: https://www.facebook.com/dempseysburgerpub/
 takeout: true
 twitch_url: ''
 twitter_url: ''

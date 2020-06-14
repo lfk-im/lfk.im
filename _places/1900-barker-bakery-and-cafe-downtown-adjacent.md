@@ -40,7 +40,6 @@ region: KS
 restaurant_phone: 785-424-7609
 sitemap: false
 slug: 1900-barker-bakery-and-cafe-downtown-adjacent
-social: https://www.instagram.com/1900barker/
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -35,7 +35,6 @@ region: KS
 restaurant_phone: 785-330-5079
 sitemap: false
 slug: restaurant-pub-games-rpg-downtown
-social: https://www.facebook.com/RPGLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

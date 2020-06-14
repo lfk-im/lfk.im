@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-832-0001
 sitemap: false
 slug: zen-zero-downtown
-social: https://www.facebook.com/Zen-Zero-40205034098/
 takeout: true
 twitch_url: ''
 twitter_url: ''

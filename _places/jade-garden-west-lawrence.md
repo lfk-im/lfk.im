@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-843-8650
 sitemap: false
 slug: jade-garden-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

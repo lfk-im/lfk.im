@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-843-1990
 sitemap: false
 slug: wa-restaurant-downtown
-social: https://www.facebook.com/WaSushiLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

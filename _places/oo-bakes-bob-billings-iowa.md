@@ -42,7 +42,6 @@ region: KS
 restaurant_phone: 785-331-5290
 sitemap: false
 slug: oo-bakes-bob-billings-iowa
-social: https://www.facebook.com/oobakeslawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

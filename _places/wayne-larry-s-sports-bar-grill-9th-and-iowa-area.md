@@ -38,7 +38,6 @@ region: KS
 restaurant_phone: 785-856-7170
 sitemap: false
 slug: wayne-larry-s-sports-bar-grill-9th-and-iowa-area
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

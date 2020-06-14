@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-424-7089
 sitemap: false
 slug: pedestrian-cheese-downtown
-social: https://www.facebook.com/pedestriancheese/
 takeout: true
 twitch_url: ''
 twitter_url: ''

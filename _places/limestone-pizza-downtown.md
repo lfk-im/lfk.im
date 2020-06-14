@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-2825
 sitemap: false
 slug: limestone-pizza-downtown
-social: https://www.facebook.com/limestonepkb/
 takeout: false
 twitch_url: ''
 twitter_url: ''

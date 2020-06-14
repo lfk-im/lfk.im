@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-0210
 sitemap: false
 slug: ondori-noodle-downtown
-social: https://www.facebook.com/OndorinoodleLFK/
 takeout: true
 twitch_url: ''
 twitter_url: ''

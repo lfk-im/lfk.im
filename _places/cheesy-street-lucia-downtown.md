@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-865-4055
 sitemap: false
 slug: cheesy-street-lucia-downtown
-social: https://www.facebook.com/CheesyStreetKC/
 takeout: true
 twitch_url: ''
 twitter_url: ''

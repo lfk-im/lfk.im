@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-424-5601
 sitemap: false
 slug: alchemy-coffee-bake-house-downtown
-social: https://www.facebook.com/alchemycoffeeKS/
 takeout: false
 twitch_url: ''
 twitter_url: ''

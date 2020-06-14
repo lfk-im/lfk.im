@@ -29,7 +29,6 @@ region: KS
 restaurant_phone: 785-856-8227
 sitemap: false
 slug: mana-bar-downtown
-social: https://www.facebook.com/ManaBarLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

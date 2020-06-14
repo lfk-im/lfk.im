@@ -45,7 +45,6 @@ region: KS
 restaurant_phone: 785-312-7427
 sitemap: false
 slug: texas-roadhouse-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

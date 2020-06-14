@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-856-3663
 sitemap: false
 slug: conroy-s-pub-west-lawrence
-social: https://www.facebook.com/ConroysPub/
 takeout: true
 twitch_url: ''
 twitter_url: ''

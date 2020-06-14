@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-856-9060
 sitemap: false
 slug: picklemans-west-lawrence
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

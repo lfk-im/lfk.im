@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-843-2288
 sitemap: false
 slug: brits-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

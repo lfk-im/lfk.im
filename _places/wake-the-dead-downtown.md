@@ -35,7 +35,6 @@ region: KS
 restaurant_phone: 303-588-4678
 sitemap: false
 slug: wake-the-dead-downtown
-social: https://www.facebook.com/wakethedeadbreakfastbar/
 takeout: false
 twitch_url: ''
 twitter_url: ''

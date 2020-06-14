@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-856-3330
 sitemap: false
 slug: sushi-station-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-832-8338
 sitemap: false
 slug: applebees-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

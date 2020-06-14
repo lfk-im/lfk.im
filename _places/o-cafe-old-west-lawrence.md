@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-312-9211
 sitemap: false
 slug: o-cafe-old-west-lawrence
-social: https://www.facebook.com/ocafelk/
 takeout: true
 twitch_url: ''
 twitter_url: ''

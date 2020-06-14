@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-856-2337
 sitemap: false
 slug: 23rd-street-brewery-southwest-lawrence
-social: https://www.facebook.com/brew23/
 takeout: true
 twitch_url: ''
 twitter_url: ''

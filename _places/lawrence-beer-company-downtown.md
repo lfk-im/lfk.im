@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-856-0453
 sitemap: false
 slug: lawrence-beer-company-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

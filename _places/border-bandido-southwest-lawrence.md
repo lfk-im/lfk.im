@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-842-8861
 sitemap: false
 slug: border-bandido-southwest-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-856-0918
 sitemap: false
 slug: moose-mcguire-s-downtown
-social: https://www.facebook.com/moosemcguiresonmass/
 takeout: false
 twitch_url: ''
 twitter_url: ''

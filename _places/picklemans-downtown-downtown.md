@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-856-6700
 sitemap: false
 slug: picklemans-downtown-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

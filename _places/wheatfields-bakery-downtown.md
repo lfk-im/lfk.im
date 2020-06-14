@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-841-5553
 sitemap: false
 slug: wheatfields-bakery-downtown
-social: https://twitter.com/WheatfieldsBkry
 takeout: true
 twitch_url: ''
 twitter_url: https://twitter.com/WheatfieldsBkry

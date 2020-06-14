@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-856-0644
 sitemap: false
 slug: leeway-butcher-9th-and-iowa-area
-social: https://www.facebook.com/leewayfranksllc/
 takeout: true
 twitch_url: ''
 twitter_url: ''

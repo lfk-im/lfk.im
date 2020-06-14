@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-856-3444
 sitemap: false
 slug: el-mezcal-mexican-restaurant-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

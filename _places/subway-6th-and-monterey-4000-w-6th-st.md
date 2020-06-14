@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-841-1319
 sitemap: false
 slug: subway-6th-and-monterey-4000-w-6th-st
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

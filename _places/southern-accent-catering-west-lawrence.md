@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-749-2770
 sitemap: false
 slug: southern-accent-catering-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

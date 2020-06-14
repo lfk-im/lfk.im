@@ -39,7 +39,6 @@ region: KS
 restaurant_phone: 785-843-6000
 sitemap: false
 slug: yello-sub-south-lawrence
-social: https://www.facebook.com/PlanetSub
 takeout: true
 twitch_url: ''
 twitter_url: ''

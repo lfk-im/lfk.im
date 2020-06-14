@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-550-3317
 sitemap: false
 slug: poorboy-burrito-company-downtown-adjacent
-social: https://www.facebook.com/webuildyoueat/
 takeout: false
 twitch_url: ''
 twitter_url: ''

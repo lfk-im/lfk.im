@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-856-0890
 sitemap: false
 slug: leeway-franks-9th-and-iowa-area
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

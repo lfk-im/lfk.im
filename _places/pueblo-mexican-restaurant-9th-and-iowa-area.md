@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-331-2710
 sitemap: false
 slug: pueblo-mexican-restaurant-9th-and-iowa-area
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

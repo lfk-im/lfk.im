@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-749-5282
 sitemap: false
 slug: java-break-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

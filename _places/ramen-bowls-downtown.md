@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-842-6957
 sitemap: false
 slug: ramen-bowls-downtown
-social: https://www.instagram.com/ramenbowlslawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

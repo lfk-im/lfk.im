@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-691-8930
 sitemap: false
 slug: tortas-jalisco-9th-and-iowa-area
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

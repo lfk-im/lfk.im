@@ -39,7 +39,6 @@ region: KS
 restaurant_phone: 785-842-6560
 sitemap: false
 slug: quintons-bar-deli-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

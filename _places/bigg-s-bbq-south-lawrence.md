@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-856-2550
 sitemap: false
 slug: bigg-s-bbq-south-lawrence
-social: https://www.facebook.com/BiggsBBQ/
 takeout: true
 twitch_url: ''
 twitter_url: ''

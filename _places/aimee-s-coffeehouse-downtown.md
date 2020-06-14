@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-843-5173
 sitemap: false
 slug: aimee-s-coffeehouse-downtown
-social: https://www.facebook.com/AimeesCoffeehouse/
 takeout: true
 twitch_url: ''
 twitter_url: ''

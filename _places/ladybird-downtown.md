@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-856-5239
 sitemap: false
 slug: ladybird-downtown
-social: https://www.instagram.com/ladybird_diner/
 takeout: false
 twitch_url: ''
 twitter_url: ''

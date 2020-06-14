@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-551-7170
 sitemap: false
 slug: pie-five-pizza-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

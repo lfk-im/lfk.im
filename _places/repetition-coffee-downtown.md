@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: repetition-coffee-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

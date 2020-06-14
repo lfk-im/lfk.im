@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-856-0101
 sitemap: false
 slug: big-mill-downtown-adjacent
-social: https://www.facebook.com/BigMillLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

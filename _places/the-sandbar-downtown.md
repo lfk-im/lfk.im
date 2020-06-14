@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-842-0111
 sitemap: false
 slug: the-sandbar-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: https://twitter.com/thesandbar

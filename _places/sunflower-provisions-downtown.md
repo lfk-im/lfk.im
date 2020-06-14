@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-840-4892
 sitemap: false
 slug: sunflower-provisions-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

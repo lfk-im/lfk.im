@@ -45,7 +45,6 @@ region: KS
 restaurant_phone: 785-856-2500
 sitemap: false
 slug: pita-pit-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

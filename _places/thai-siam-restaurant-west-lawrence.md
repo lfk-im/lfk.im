@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-331-2525
 sitemap: false
 slug: thai-siam-restaurant-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-749-5282
 sitemap: false
 slug: the-java-break-downtown
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-749-2999
 sitemap: false
 slug: henry-t-s-old-west-lawrence
-social: https://www.facebook.com/HenryTsLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

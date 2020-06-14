@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-424-7822
 sitemap: false
 slug: archibowls-downtown
-social: https://www.facebook.com/sincerelyspicy/
 takeout: true
 twitch_url: ''
 twitter_url: ''

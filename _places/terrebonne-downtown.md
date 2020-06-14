@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-3287
 sitemap: false
 slug: terrebonne-downtown
-social: https://www.facebook.com/Terrebonne-Cafe-129142333805332/
 takeout: true
 twitch_url: ''
 twitter_url: ''

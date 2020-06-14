@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-840-9800
 sitemap: false
 slug: raising-canes-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

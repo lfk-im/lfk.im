@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-424-7525
 sitemap: false
 slug: hawaiian-bros-south-lawrence
-social: https://www.facebook.com/hawaiianbroslawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-856-1540
 sitemap: false
 slug: game-nut-entertainment-downtown
-social: ''
 takeout: false
 twitch_url: https://www.twitch.tv/Game_Nut
 twitter_url: https://twitter.com/Gamenutonmass

@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-832-9400
 sitemap: false
 slug: acapulco-mexican-grill-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

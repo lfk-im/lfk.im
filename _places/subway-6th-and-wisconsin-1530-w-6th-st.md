@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-832-9700
 sitemap: false
 slug: subway-6th-and-wisconsin-1530-w-6th-st
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

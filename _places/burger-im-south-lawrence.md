@@ -38,7 +38,6 @@ region: KS
 restaurant_phone: 785-856-1010
 sitemap: false
 slug: burger-im-south-lawrence
-social: https://www.facebook.com/burgerimlawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

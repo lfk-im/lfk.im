@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 913-370-6594
 sitemap: false
 slug: ding-tea-downtown
-social: https://www.facebook.com/dingtealawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

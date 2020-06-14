@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-312-7766
 sitemap: false
 slug: subway-bob-billings-and-wakarusa-1540-wakarusa
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

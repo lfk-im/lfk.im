@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-749-1972
 sitemap: false
 slug: liberty-hall-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

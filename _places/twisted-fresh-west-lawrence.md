@@ -41,7 +41,6 @@ region: KS
 restaurant_phone: 785-856-0689
 sitemap: false
 slug: twisted-fresh-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

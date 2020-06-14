@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-832-1100
 sitemap: false
 slug: aladdin-cafe-downtown
-social: https://www.facebook.com/aladdincafeoflawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

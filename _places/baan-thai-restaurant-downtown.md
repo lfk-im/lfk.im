@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-856-8424
 sitemap: false
 slug: baan-thai-restaurant-downtown
-social: https://www.facebook.com/Baan-Thai-Restaurant-Lawrence-KS-344278702411383/
 takeout: true
 twitch_url: ''
 twitter_url: ''

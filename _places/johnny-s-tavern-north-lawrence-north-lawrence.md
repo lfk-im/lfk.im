@@ -35,7 +35,6 @@ region: KS
 restaurant_phone: 785-842-0377
 sitemap: false
 slug: johnny-s-tavern-north-lawrence-north-lawrence
-social: https://www.facebook.com/JohnnysNorth/
 takeout: true
 twitch_url: ''
 twitter_url: ''

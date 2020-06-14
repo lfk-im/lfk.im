@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-312-7660
 sitemap: false
 slug: chebaro-south-lawrence
-social: https://www.facebook.com/ChebaroMG/
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-551-3347
 sitemap: false
 slug: cosmic-cafe-south-lawrence
-social: https://www.facebook.com/cosmiclawrence/
 takeout: false
 twitch_url: ''
 twitter_url: ''

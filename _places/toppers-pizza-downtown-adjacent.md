@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-856-0058
 sitemap: false
 slug: toppers-pizza-downtown-adjacent
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

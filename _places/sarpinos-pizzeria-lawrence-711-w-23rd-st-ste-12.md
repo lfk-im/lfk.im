@@ -37,7 +37,6 @@ region: KS
 restaurant_phone: 785-727-7770
 sitemap: false
 slug: sarpinos-pizzeria-lawrence-711-w-23rd-st-ste-12
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

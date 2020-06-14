@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 913-683-4774
 sitemap: false
 slug: john-brown-s-underground-downtown
-social: https://www.instagram.com/johnbrownunderground/
 takeout: true
 twitch_url: ''
 twitter_url: ''

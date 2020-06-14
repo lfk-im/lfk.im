@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-843-4555
 sitemap: false
 slug: free-state-brewery-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

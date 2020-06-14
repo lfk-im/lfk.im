@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-2275
 sitemap: false
 slug: bon-bon-downtown-adjacent
-social: https://www.instagram.com/bonbonlawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

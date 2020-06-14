@@ -38,7 +38,6 @@ region: KS
 restaurant_phone: 785-274-8429
 sitemap: false
 slug: fields-ivy-brewery-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 786-841-5252
 sitemap: false
 slug: glory-days-pizza-west-lawrence
-social: ''
 takeout: false
 twitch_url: ''
 twitter_url: ''

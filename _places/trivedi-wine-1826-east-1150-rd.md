@@ -25,7 +25,6 @@ region: KS
 restaurant_phone: 785-856-0156
 sitemap: false
 slug: trivedi-wine-1826-east-1150-rd
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

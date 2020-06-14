@@ -37,7 +37,6 @@ region: KS
 restaurant_phone: 785-832-1333
 sitemap: false
 slug: auntie-em-s-deli-west-lawrence
-social: https://www.facebook.com/AuntieEmsDeliandBakery
 takeout: true
 twitch_url: ''
 twitter_url: ''

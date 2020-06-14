@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-832-8040
 sitemap: false
 slug: tokyo-sushi-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

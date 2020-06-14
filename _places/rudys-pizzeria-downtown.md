@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-749-0055
 sitemap: false
 slug: rudys-pizzeria-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

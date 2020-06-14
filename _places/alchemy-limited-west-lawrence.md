@@ -34,7 +34,6 @@ region: KS
 restaurant_phone: 785-856-0751
 sitemap: false
 slug: alchemy-limited-west-lawrence
-social: https://www.facebook.com/alchemycoffeeKS/
 takeout: true
 twitch_url: ''
 twitter_url: ''

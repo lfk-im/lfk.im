@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-749-3400
 sitemap: false
 slug: five-guys-burger-and-fries-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

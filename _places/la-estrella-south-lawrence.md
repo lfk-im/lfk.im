@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-843-1595
 sitemap: false
 slug: la-estrella-south-lawrence
-social: https://www.instagram.com/laestrellamexicana/
 takeout: true
 twitch_url: ''
 twitter_url: ''

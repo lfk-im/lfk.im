@@ -38,7 +38,6 @@ region: KS
 restaurant_phone: 785-856-0544
 sitemap: false
 slug: orange-leaf-west-lawrence
-social: https://www.facebook.com/OrangeLeafLawrence
 takeout: true
 twitch_url: ''
 twitter_url: https://twitter.com/orangeleaf

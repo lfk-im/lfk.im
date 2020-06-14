@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-841-7272
 sitemap: false
 slug: papa-kenos-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

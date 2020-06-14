@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-841-2739
 sitemap: false
 slug: west-coast-saloon-south-lawrence
-social: https://www.facebook.com/westcoastsaloon/
 takeout: false
 twitch_url: ''
 twitter_url: ''

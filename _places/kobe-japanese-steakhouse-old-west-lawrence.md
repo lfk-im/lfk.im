@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-838-3399
 sitemap: false
 slug: kobe-japanese-steakhouse-old-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

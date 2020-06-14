@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-856-6453
 sitemap: false
 slug: six-mile-chophouse-west-lawrence
-social: https://www.facebook.com/6MileChophouse/
 takeout: true
 twitch_url: ''
 twitter_url: ''

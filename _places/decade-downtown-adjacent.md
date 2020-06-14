@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-550-7944
 sitemap: false
 slug: decade-downtown-adjacent
-social: https://www.instagram.com/decadelawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

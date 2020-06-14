@@ -38,7 +38,6 @@ region: KS
 restaurant_phone: 785-856-2170
 sitemap: false
 slug: ta-co-downtown
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

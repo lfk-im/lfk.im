@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-371-9050
 sitemap: false
 slug: mclain-s-ku-campus-area
-social: https://www.instagram.com/mclainsmarketlawrence/
 takeout: false
 twitch_url: ''
 twitter_url: ''

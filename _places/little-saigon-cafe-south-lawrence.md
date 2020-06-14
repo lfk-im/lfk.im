@@ -26,7 +26,6 @@ region: KS
 restaurant_phone: 785-856-8010
 sitemap: false
 slug: little-saigon-cafe-south-lawrence
-social: https://www.facebook.com/mamastamaleshop/
 takeout: true
 twitch_url: ''
 twitter_url: ''

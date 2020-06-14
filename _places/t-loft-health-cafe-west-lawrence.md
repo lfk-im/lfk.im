@@ -33,7 +33,6 @@ region: KS
 restaurant_phone: 785-505-0770
 sitemap: false
 slug: t-loft-health-cafe-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

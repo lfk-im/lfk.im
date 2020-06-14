@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-832-1545
 sitemap: false
 slug: cielito-lindo-mexican-restaurant-downtown
-social: https://www.facebook.com/cielitolindoks/
 takeout: true
 twitch_url: ''
 twitter_url: ''

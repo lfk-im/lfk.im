@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-843-4111
 sitemap: false
 slug: merchants-downtown
-social: https://www.facebook.com/MerchantsOnMass/
 takeout: false
 twitch_url: ''
 twitter_url: ''

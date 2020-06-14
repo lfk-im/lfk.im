@@ -32,7 +32,6 @@ region: KS
 restaurant_phone: 785-856-0459
 sitemap: false
 slug: basil-leaf-cafe-downtown-adjacent
-social: https://www.facebook.com/TheBasilLeafCafeKS/
 takeout: true
 twitch_url: ''
 twitter_url: ''

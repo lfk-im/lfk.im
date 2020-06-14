@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-749-3354
 sitemap: false
 slug: mcalister-s-deli-south-lawrence
-social: https://www.facebook.com/McAlistersDeliLawrence/
 takeout: true
 twitch_url: ''
 twitter_url: ''

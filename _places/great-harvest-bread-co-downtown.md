@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-749-2227
 sitemap: false
 slug: great-harvest-bread-co-downtown
-social: https://www.facebook.com/GreatHarvestLawrenceKs/
 takeout: true
 twitch_url: ''
 twitter_url: ''

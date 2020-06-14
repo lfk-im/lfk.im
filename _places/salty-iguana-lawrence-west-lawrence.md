@@ -31,7 +31,6 @@ region: KS
 restaurant_phone: 785-312-8100
 sitemap: false
 slug: salty-iguana-lawrence-west-lawrence
-social: https://www.facebook.com/SaltyIguanaRestaurant/
 takeout: false
 twitch_url: ''
 twitter_url: ''

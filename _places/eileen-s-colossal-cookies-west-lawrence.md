@@ -36,7 +36,6 @@ region: KS
 restaurant_phone: 785-856-2253
 sitemap: false
 slug: eileen-s-colossal-cookies-west-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

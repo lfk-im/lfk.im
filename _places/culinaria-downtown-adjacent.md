@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-766-8591
 sitemap: false
 slug: culinaria-downtown-adjacent
-social: https://www.facebook.com/pg/CulinariaKS
 takeout: true
 twitch_url: ''
 twitter_url: ''

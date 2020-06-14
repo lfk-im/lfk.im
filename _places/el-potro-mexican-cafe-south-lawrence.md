@@ -30,7 +30,6 @@ region: KS
 restaurant_phone: 785-331-2500
 sitemap: false
 slug: el-potro-mexican-cafe-south-lawrence
-social: ''
 takeout: true
 twitch_url: ''
 twitter_url: ''

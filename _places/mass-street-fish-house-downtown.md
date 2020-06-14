@@ -28,7 +28,6 @@ region: KS
 restaurant_phone: 785-856-1081
 sitemap: false
 slug: mass-street-fish-house-downtown
-social: https://www.instagram.com/massfishhouse/
 takeout: true
 twitch_url: ''
 twitter_url: ''
