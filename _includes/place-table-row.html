@@ -1,6 +1,4 @@
-<tr class="text-blue-800 align-middle border-b border-gray-400 {% unless include.place.highlight %}bg-gray-100{% else %}bg-yellow-300{% endunless  %}"
-    x-data="{ 'is_{{ include.place.slug | replace: "-", "_" }}_open': false }"
-    @keydown.escape="is_{{ include.place.slug | replace: "-", "_" }}_open = false">
+<tr class="text-blue-800 align-middle border-b border-gray-400 {% unless include.place.highlight %}bg-gray-100{% else %}bg-yellow-300{% endunless  %}">
   <td class="px-4 py-2 text-right">
     <div class="font-medium">
       {% case site.show_place_details %}
