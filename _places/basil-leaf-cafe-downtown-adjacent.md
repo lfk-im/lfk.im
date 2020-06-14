@@ -21,7 +21,7 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: Mo-Su 4-9pm
-instagram_url: ''
+instagram_url: https://www.instagram.com/thebasilleaf/
 locality: Lawrence
 name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
@@ -34,8 +34,8 @@ sitemap: false
 slug: basil-leaf-cafe-downtown-adjacent
 takeout: true
 twitch_url: ''
-twitter_url: ''
-website: ''
+twitter_url: https://twitter.com/TheBasiLeafCafe
+website: https://basilleaflawrence.com/
 ---
 
 Re-opened

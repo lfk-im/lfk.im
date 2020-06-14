@@ -19,7 +19,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Fr 6am-6pm, Sa 7am-6pm, Su 9am-5pm
+hours: Mo-Fr 6am-6pm; Sa 7am-6pm; Su 9am-5pm
 instagram_url: https://www.instagram.com/upliftcoffee.co/
 locality: Lawrence
 name: Uplift Coffee Shop

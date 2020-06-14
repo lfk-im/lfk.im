@@ -33,7 +33,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Sa 7am-8pm, Su 7:30am-7:30pm
+hours: Mo-Sa 7am-8pm; Su 7:30am-7:30pm
 instagram_url: ''
 locality: Lawrence
 name: Panera Bread

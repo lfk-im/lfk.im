@@ -29,7 +29,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Sa 11am-8pm, Su 11am-3pm
+hours: Mo-Sa 11am-8pm; Su 11am-3pm
 instagram_url: ''
 locality: Lawrence
 name: Twisted Fresh

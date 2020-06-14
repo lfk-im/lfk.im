@@ -23,7 +23,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Th-Su 4-8pm, June 12th full hours
+hours: Th-Sa 9am-2am; Tu 11am-2am
 instagram_url: ''
 locality: Lawrence
 name: Johnny's Tavern North Lawrence

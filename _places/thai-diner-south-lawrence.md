@@ -16,7 +16,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Fr 11am-9pm, Sa 12-9pm, Su 12-8pm
+hours: Tu-Fr 11am-9pm; Sa 12-9pm; Su 12-8pm
 instagram_url: ''
 locality: Lawrence
 name: Thai Diner

@@ -20,7 +20,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Sa 3-8pm, Su 12-8pm
+hours: Mo-Sa 3-8pm; Su 12-8pm
 instagram_url: ''
 locality: Lawrence
 name: Paisano's Ristorante

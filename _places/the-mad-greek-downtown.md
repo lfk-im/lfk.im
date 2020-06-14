@@ -26,7 +26,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Th 11am-8pm, Fr-Sa 11am-8:30pm, Su 11am-8pm
+hours: Mo-Th 11am-8pm; Fr-Sa 11am-8:30pm; Su 11am-8pm
 instagram_url: ''
 locality: Lawrence
 name: The Mad Greek

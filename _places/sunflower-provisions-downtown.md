@@ -14,7 +14,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu,Fr 11am-1pm, 4-6pm
+hours: Tu,Fr 11am-1pm; Tu,Fr 4-6pm
 instagram_url: ''
 locality: Lawrence
 name: Sunflower Provisions

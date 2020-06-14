@@ -23,7 +23,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Sun-Tu 11am-12am; We-Th 11am-12am; Fr-Sa 11am-2am
 instagram_url: ''
 locality: Lawrence
 name: Johnny's Tavern West Lawrence

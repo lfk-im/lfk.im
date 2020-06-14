@@ -22,7 +22,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Su-Th 11am-12am, Fr-Sa 11am-3am
+hours: Su-Th 11am-12am; Fr-Sa 11am-3am
 instagram_url: ''
 locality: Lawrence
 name: Toppers Pizza
