@@ -95,7 +95,6 @@ SHEETS_STRING_FIELDS = [
     "notes",
     "region",
     "restaurant_phone",
-    "social",
 ]
 
 SHEETS_URL_FIELDS = [
