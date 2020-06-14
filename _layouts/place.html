@@ -36,7 +36,9 @@ layout: default
     <dt>Cuisine</dt>
     <dd>
     {% for cuisine in page.cuisines %}
-      <a class="text-blue-700 underline hover:text-blue-500" href="/cuisines/{{ cuisine|slugify }}/">{{ cuisine }}</a>
+      <a class="text-blue-700 underline hover:text-blue-500"
+          href="/cuisines/{{ cuisine|slugify }}/"
+          itemprop="servesCuisine">{{ cuisine }}</a>
     {% endfor %}
     </dd>
   </dl>
@@ -46,8 +48,8 @@ layout: default
     <dt>Phone</dt>
     <dd>
       <a class="text-blue-700 underline hover:text-blue-500"
-          href="tel:{{ page.restaurant_phone }}">
-        {{ page.restaurant_phone }}</a>
+          href="tel:{{ page.restaurant_phone }}"
+          itemprop="telephone" rel="nofollow">{{ page.restaurant_phone }}</a>
     </dd>
   </dl>
 
@@ -55,7 +57,9 @@ layout: default
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Website</dt>
     <dd>
-      <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.website }}" rel="nofollow">{{ page.website }}</a>
+      <a class="text-blue-700 underline hover:text-blue-500"
+          href="{{ page.website }}"
+          itemprop="url" rel="nofollow">{{ page.website }}</a>
     </dd>
   </dl>
   {% endif %}
