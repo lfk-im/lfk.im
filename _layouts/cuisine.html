@@ -12,4 +12,4 @@ layout: default
 <hr>
 
 {% assign places = site.places | where:"cuisine_slugs", page.slug | where:"active", true %}
-{% include place-table.html places=places active=true highlight=true %}
+{% include place-table.html places=places active=true featured=true %}
