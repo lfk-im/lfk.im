@@ -2,7 +2,6 @@
     x-data="{ 'is_{{ include.place.slug | replace: "-", "_" }}_open': false }"
     @keydown.escape="is_{{ include.place.slug | replace: "-", "_" }}_open = false">
   <td class="px-4 py-2 text-right">
-    {{ include.place.place_type }}
     <div class="font-medium">
       {% case site.show_place_details %}
         {% when true %}
