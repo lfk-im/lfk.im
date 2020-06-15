@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: '711 W 23rd St #24'
 cuisine: Japanese
 cuisine_slugs:
@@ -18,7 +18,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Tu-Sun 4:30-8pm
 instagram_url: ''
 locality: Lawrence
 name: Nagoya Japanese Cuisine
@@ -30,7 +30,7 @@ region: KS
 restaurant_phone: 785-843-1111
 sitemap: false
 slug: nagoya-japanese-cuisine-south-lawrence
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: https://www.ordernagoyasushi.com/#/

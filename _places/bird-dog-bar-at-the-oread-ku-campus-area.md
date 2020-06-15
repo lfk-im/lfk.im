@@ -17,12 +17,12 @@ giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
-instagram_url: ''
+instagram_url: https://www.instagram.com/theoread/
 locality: Lawrence
 name: Bird Dog Bar at The Oread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Unconfirmed
+notes: Closed information on their website.
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-830-3921
@@ -34,4 +34,4 @@ twitter_url: ''
 website: https://theoread.com/dining-services/bird-dog-bar/
 ---
 
-Unconfirmed
+Closed information on their website.

@@ -1,9 +1,9 @@
 ---
-active: false
+active: true
 address: 1008 Massachusetts St
-cuisine: ''
+cuisine: Ramen
 cuisine_slugs: null
-cuisines: null
+cuisines: []
 curbside: true
 curbside_instructions: ''
 delivery: true
@@ -16,7 +16,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Su 11:30am-9:30pm
 instagram_url: ''
 locality: Lawrence
 name: Ondori Noodle

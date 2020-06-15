@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1004 Massachusetts St
 cuisine: Tea
 cuisine_slugs:
@@ -19,14 +19,14 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Th 11am-9:30pm; Fr-Su 11am-10:30pm
+hours: Su 1pm-6pm, Mo-Sa 1pm-8pm
 instagram_url: ''
 locality: Lawrence
 name: Ding Tea
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
-place_type: Restaurant
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 913-370-6594
 sitemap: false

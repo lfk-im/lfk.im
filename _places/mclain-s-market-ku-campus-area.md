@@ -21,7 +21,7 @@ giftcard_url: ''
 hours: ''
 instagram_url: https://www.instagram.com/mclainsmarketlawrence/
 locality: Lawrence
-name: McLain's
+name: McLain's Market
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Order online or by phone for delivery
@@ -29,7 +29,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-371-9050
 sitemap: false
-slug: mclain-s-ku-campus-area
+slug: mclain-s-market-ku-campus-area
 takeout: false
 twitch_url: ''
 twitter_url: ''
