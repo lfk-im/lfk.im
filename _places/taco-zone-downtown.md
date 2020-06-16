@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 13 E 8th St
 cuisine: Mexican, Tacos
 cuisine_slugs:
@@ -10,7 +10,7 @@ cuisines:
 - Tacos
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: https://www.tacozonedelivery.com/
 dinein: false
 facebook_url: https://www.facebook.com/tacozoneLFK
@@ -20,22 +20,22 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Th 2pm-6pm
+hours: ''
 instagram_url: https://www.instagram.com/TACO_ZONE/
 locality: Lawrence
-name: Taco Zone Delivery
+name: Taco Zone
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Taco Zone Party Packs!
+notes: 'Closed but offering catered delivery via: https://www.tacozonedelivery.com/'
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: 785-424-7123
 sitemap: false
-slug: taco-zone-delivery-downtown
+slug: taco-zone-downtown
 takeout: false
 twitch_url: ''
 twitter_url: https://twitter.com/taco_zone
-website: https://www.tacozonedelivery.com/
+website: http://www.thetacozone.com/
 ---
 
-Taco Zone Party Packs!
+Closed but offering catered delivery via: https://www.tacozonedelivery.com/
