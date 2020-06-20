@@ -1,5 +1,6 @@
 import click
 import frontmatter
+import inflection
 import os
 import requests
 import sys
@@ -525,6 +526,46 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         post.metadata.update(place)
 
         input_file.write_text(frontmatter.dumps(post))
+
+
+@cli.command()
+def sync_schemas():
+    click.echo("sync-schemas")
+
+    if not Path("_schemas").exists():
+        Path("_schemas").mkdir()
+
+    schemas = []
+    places = Path("_places").glob("*.md")
+    for place in places:
+        post = frontmatter.loads(place.read_text())
+        place_type = post["place_type"]
+        schemas.append(place_type)
+
+    if not Path("_schemas").exists():
+        Path("_schemas").mkdir()
+
+    schemas = set(schemas)
+    schemas = sorted(schemas)
+
+    for schema in schemas:
+        print(schema)
+        print(inflection.pluralize(inflection.titleize(schema)))
+        print(slugify(inflection.tableize(schema)))
+        schema_slug = slugify(schema)
+        # if not Path("_schemas").joinpath(f"{schema_slug}.md").exists():
+        post = frontmatter.loads("")
+        post["active"] = True
+        post["name"] = schema
+        post["sitemap"] = False
+        post["slug"] = schema_slug
+        post["title"] = f"{schema} Businesses"
+
+        Path("_schemas").joinpath(f"{schema_slug}.md").write_text(
+            frontmatter.dumps(post)
+        )
+
+        print()
 
 
 if __name__ == "__main__":
