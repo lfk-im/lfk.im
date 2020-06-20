@@ -60,13 +60,18 @@ jobs:
 
       - name: Sync Cuisines locally
         run: |
-          rm _cuisines/*
+          rm -f _cuisines/*
           python sync.py sync-cuisines
 
       - name: Sync Neighborhoods locally
         run: |
-          rm _neighborhoods/*
+          rm -f _neighborhoods/*
           python sync.py sync-neighborhoods
+
+      - name: Sync Schemas locally
+        run: |
+          rm -f _schemas/*
+          python sync.py sync-schemas
 
       # - uses: mikeal/publish-to-github-action@master
       #   env:

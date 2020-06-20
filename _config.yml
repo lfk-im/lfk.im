@@ -32,6 +32,11 @@ defaults:
       layout: "neighborhood"
   - scope:
       path: ""
+      type: "schemas"
+    values:
+      layout: "schemas"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
