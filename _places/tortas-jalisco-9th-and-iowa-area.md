@@ -22,7 +22,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Th 5-11pm; Fr-Sa 5pm-12am
+hours: Mo-Th 5-11pm; Fr-Sa 11am-11pm
 instagram_url: ''
 locality: Lawrence
 name: Tortas Jalisco
