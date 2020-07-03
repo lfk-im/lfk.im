@@ -18,14 +18,14 @@ title: Neighborhoods in Lawrence, Kansas
       {% assign places = site.places | where:"neighborhood_slug", neighborhood.slug | where:"active", true  %}
       {% if places.size > 0 %}
       <div class="w-full px-3 pt-3 sm:w-1/2 md:w-1/3 lg:w-1/4 md:pr-2">
-        <div class="p-2 bg-gray-100 border rounded-lg shadow">
+        <div class="p-4 border border-blue-600 hover:border-blue-700 hover:shadow">
           <div class="flex flex-row items-center">
             <div class="flex-1">
-              <h3 class="text-2xl text-white">
-                <a class="text-blue-800 underline hover:text-blue-500" href="{{ neighborhood.url }}">
+              <a class="text-blue-600" href="{{ neighborhood.url }}">
+                <h3 class="text-2xl">
                   {{ neighborhood.name }}
-                </a>
-              </h3>
+                </h3>
+              </a>
             </div>
           </div>
         </div>
