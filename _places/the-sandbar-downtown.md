@@ -10,13 +10,13 @@ curbside: true
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-dinein: true
+dinein: false
 facebook_url: https://www.facebook.com/thesandbar
 food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Fr 3pm-2am; Sa 1pm-2am; Su 5pm-2am
+hours: Fr 5-9pm, Sa 6-9pm (to go drinks only)
 instagram_url: https://www.instagram.com/thesandbar/
 locality: Lawrence
 name: The Sandbar

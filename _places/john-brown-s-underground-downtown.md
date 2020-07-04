@@ -11,14 +11,16 @@ cuisines:
 curbside: true
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: ''
+delivery_service_websites: https://john-brown-underground.square.site/
 dinein: false
 facebook_url: ''
-food_urls: []
+food_urls:
+- name: order online
+  url: https://john-brown-underground.square.site/
 giftcard: true
 giftcard_notes: ''
 giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
-hours: ''
+hours: Pickup until 11pm
 instagram_url: https://www.instagram.com/johnbrownunderground/
 locality: Lawrence
 name: John Brown's Underground
