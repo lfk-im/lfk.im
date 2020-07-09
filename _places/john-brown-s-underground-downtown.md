@@ -19,7 +19,7 @@ food_urls:
   url: https://john-brown-underground.square.site/
 giftcard: true
 giftcard_notes: ''
-giftcard_url: https://squareup.com/gift/Y49W8RBSVCQ6H/order
+giftcard_url: https://squareup.com/gift/5NJ7HY8C1HGGP/order
 hours: Pickup until 11pm
 instagram_url: https://www.instagram.com/johnbrownunderground/
 locality: Lawrence
@@ -29,7 +29,7 @@ neighborhood_slug: downtown
 notes: Curbside Cocktails
 place_type: BarOrPub
 region: KS
-restaurant_phone: 913-683-4774
+restaurant_phone: 785-393-4296
 sitemap: false
 slug: john-brown-s-underground-downtown
 takeout: true
