@@ -23,10 +23,10 @@ giftcard: true
 giftcard_notes: Gift cards available for purchase online, online ordering is in the
   works
 giftcard_url: https://www.toasttab.com/restaurant-pub-games/giftcards
-hours: We-Su 4-8pm
-instagram_url: ''
+hours: 'We-Su - Kitchen: 4-10pm, Dining Room until 12am'
+instagram_url: https://www.instagram.com/rpglawrence/
 locality: Lawrence
-name: Restaurant, Pub & Games (RPG)
+name: RPG (Restaurant, Pub & Games)
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Online ordering & payment via the link at RPGLawrence.com
@@ -34,10 +34,10 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-330-5079
 sitemap: false
-slug: restaurant-pub-games-rpg-downtown
+slug: rpg-restaurant-pub-games-downtown
 takeout: true
 twitch_url: ''
-twitter_url: ''
+twitter_url: https://twitter.com/RPGLawrence
 website: https://rpglawrence.com
 ---
 
