@@ -32,13 +32,14 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Tryyaki
-neighborhood: ''
+neighborhood: East Lawrence
+neighborhood_slug: east-lawrence
 notes: ''
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-842-6688
 sitemap: false
-slug: tryyaki-701-w-23rd-st
+slug: tryyaki-east-lawrence
 takeout: true
 twitch_url: ''
 twitter_url: ''
