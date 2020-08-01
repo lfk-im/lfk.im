@@ -1,13 +1,13 @@
 # .PHONY: build
 # build: sync
 # 	git cia -m ":robot: Update places"
-# 	git push origin master
+# 	git push origin main
 
 # .PHONY: add
 # add: sync
 # 	git add _places/
 # 	git cia -m ":robot: Update places"
-# 	git push origin master
+# 	git push origin main
 
 # .PHONY: sync
 # sync:
@@ -25,3 +25,9 @@ static:
 		src/index.css \
 		--config src/tailwind.min.config.js \
 		--output assets/2020.min.css
+
+
+.PHONY: logo
+logo:
+	curl -o 300.png https://via.placeholder.com/300.png/1A202C/F7FAFC/?text=LFK.im
+	curl -o 16.png https://via.placeholder.com/16.png/1A202C/F7FAFC/?text=LFK.im
