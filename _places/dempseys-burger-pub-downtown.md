@@ -26,8 +26,8 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Tu-Sa 4-8pm
-instagram_url: ''
+hours: Su-Th 11am-9pm; Fr-Sa 11am-10pm
+instagram_url: https://www.instagram.com/dempseyspub/
 locality: Lawrence
 name: Dempseys Burger Pub
 neighborhood: Downtown
@@ -41,7 +41,7 @@ sitemap: false
 slug: dempseys-burger-pub-downtown
 takeout: true
 twitch_url: ''
-twitter_url: ''
+twitter_url: https://twitter.com/dempseyspub
 website: https://dempseysburgerpub.com
 ---
 
