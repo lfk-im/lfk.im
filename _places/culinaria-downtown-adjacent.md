@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 512 E 9th St
 cuisine: Mediterranean
 cuisine_slugs: null
@@ -22,7 +22,7 @@ locality: Lawrence
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: ''
+notes: Closed for August
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-766-8591
@@ -33,3 +33,5 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.culinariafoodandwine.com/
 ---
+
+Closed for August
