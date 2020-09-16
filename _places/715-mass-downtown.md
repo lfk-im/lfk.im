@@ -12,13 +12,13 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
-dinein: false
+dinein: true
 facebook_url: https://www.facebook.com/715Restaurant/
 food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
-hours: Mo-Su 10am-1pm for carryout cocktails
+hours: Mu-Sa 4pm-9pm
 instagram_url: https://www.instagram.com/715restaurant/
 locality: Lawrence
 name: 715 Mass
