@@ -20,12 +20,14 @@
         </thead>
         <tbody>
 {% comment %} show featured places first {% endcomment %}
+{% comment %}
 {% if include.featured %}
   {% assign featured_places = include.places | where:"featured", true %}
   {% for place in featured_places %}
   {% include place-table-row.html place=place active=include.active featured=true %}
   {% endfor %}
 {% endif %}
+{% endcomment %}
 
 {% comment %} show all places {% endcomment %}
 {% for place in include.places %}
