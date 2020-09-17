@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 dinein: false
 facebook_url: https://www.facebook.com/bayleaflindianrestaurant/
+featured: false
 food_urls:
 - name: order online
   url: http://bayleaflawrence.com/product-category/appetizers/

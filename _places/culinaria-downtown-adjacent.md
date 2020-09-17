@@ -10,6 +10,7 @@ delivery: false
 delivery_service_websites: https://culinariaks.square.site/
 dinein: false
 facebook_url: https://www.facebook.com/pg/CulinariaKS
+featured: false
 food_urls:
 - name: order online
   url: https://culinariaks.square.site/

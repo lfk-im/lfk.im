@@ -17,6 +17,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/BlackStagBrewery/
+featured: false
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/black-stag-brewery-and-pub

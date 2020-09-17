@@ -14,6 +14,7 @@ delivery: true
 delivery_service_websites: https://kobejapanesesteakhouselawrence.com/28634
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://kobejapanesesteakhouselawrence.com/28634

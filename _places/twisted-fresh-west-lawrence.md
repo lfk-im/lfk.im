@@ -21,6 +21,7 @@ delivery: true
 delivery_service_websites: https://orders.imenu360.us/TwistedFresh/Lawrence/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://orders.imenu360.us/TwistedFresh/Lawrence/

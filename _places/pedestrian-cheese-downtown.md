@@ -13,6 +13,7 @@ delivery: true
 delivery_service_websites: https://pedestrian-llc.square.site/
 dinein: true
 facebook_url: https://www.facebook.com/pedestriancheese/
+featured: false
 food_urls:
 - name: order online
   url: https://pedestrian-llc.square.site/

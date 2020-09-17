@@ -18,6 +18,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/RPGLawrence/
+featured: false
 food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase online, online ordering is in the

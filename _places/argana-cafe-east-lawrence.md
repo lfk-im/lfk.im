@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: grubhub.com
   url: https://www.grubhub.com/restaurant/argana-cafe-1606-w-23rd-st-lawrence/2224014

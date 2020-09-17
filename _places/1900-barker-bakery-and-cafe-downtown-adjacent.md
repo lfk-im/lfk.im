@@ -16,6 +16,7 @@ delivery: false
 delivery_service_websites: https://1900online.square.site/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://1900online.square.site/

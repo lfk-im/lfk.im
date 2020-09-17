@@ -18,6 +18,7 @@ delivery: true
 delivery_service_websites: https://www.hotboxcookies.com/order/restaurant/hotbox-cookies---oread-avenue-menu/18175
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://www.hotboxcookies.com/order/restaurant/hotbox-cookies---oread-avenue-menu/18175

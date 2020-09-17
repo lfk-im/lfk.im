@@ -14,6 +14,7 @@ delivery: true
 delivery_service_websites: https://bigmill.hrpos.heartland.us/
 dinein: false
 facebook_url: https://www.facebook.com/BigMillLawrence/
+featured: false
 food_urls:
 - name: order online
   url: https://bigmill.hrpos.heartland.us/

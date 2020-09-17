@@ -16,6 +16,7 @@ delivery: false
 delivery_service_websites: https://direct.chownow.com/order/20900/locations/30247
 dinein: false
 facebook_url: https://www.facebook.com/casbahburgerstand/
+featured: false
 food_urls:
 - name: order online
   url: https://direct.chownow.com/order/20900/locations/30247

@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/business/paisano-s-ristorante-172518/

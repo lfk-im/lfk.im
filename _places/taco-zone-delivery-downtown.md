@@ -14,6 +14,7 @@ delivery: true
 delivery_service_websites: https://www.tacozonedelivery.com/
 dinein: false
 facebook_url: https://www.facebook.com/tacozoneLFK
+featured: false
 food_urls:
 - name: order online
   url: https://www.tacozonedelivery.com/

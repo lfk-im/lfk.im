@@ -18,6 +18,7 @@ delivery: false
 delivery_service_websites: https://www.themyershotelbar.com/s/order
 dinein: false
 facebook_url: https://www.facebook.com/myershotelbar/
+featured: false
 food_urls:
 - name: order online
   url: https://www.themyershotelbar.com/s/order

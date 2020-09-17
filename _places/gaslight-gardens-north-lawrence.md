@@ -15,6 +15,7 @@ delivery: false
 delivery_service_websites: https://gaslightgardens.com/order-online/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://gaslightgardens.com/order-online/

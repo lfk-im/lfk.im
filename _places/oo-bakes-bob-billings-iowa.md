@@ -10,6 +10,7 @@ delivery: true
 delivery_service_websites: https://oobakes.com/order-retail/
 dinein: false
 facebook_url: https://www.facebook.com/oobakeslawrence/
+featured: false
 food_urls:
 - name: order online
   url: https://oobakes.com/order-retail/

@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: https://snappyeats.com/Order/menudetail.aspx?restaurantID=3835#!/category/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://snappyeats.com/Order/menudetail.aspx?restaurantID=3835#!/category/

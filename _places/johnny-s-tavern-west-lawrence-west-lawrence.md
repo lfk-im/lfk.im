@@ -17,6 +17,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/JohnnysTavernWestLawrence/
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/johnny-s-tavern-lawrence-366862/en-US

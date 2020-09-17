@@ -16,6 +16,7 @@ delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
 dinein: false
 facebook_url: https://www.facebook.com/alchemycoffeeKS/
+featured: false
 food_urls:
 - name: order online
   url: https://squareup.com/store/AlchemyOnline

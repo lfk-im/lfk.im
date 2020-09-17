@@ -16,6 +16,7 @@ delivery: true
 delivery_service_websites: https://lawrence.tryyaki.com/#/
 dinein: false
 facebook_url: https://www.facebook.com/pages/category/Chinese-Restaurant/Tryyaki-779014658853038/
+featured: false
 food_urls:
 - name: order online
   url: https://lawrence.tryyaki.com/#/

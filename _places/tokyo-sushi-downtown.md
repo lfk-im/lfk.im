@@ -14,6 +14,7 @@ delivery: true
 delivery_service_websites: https://www.tokyosushilfk.com/#/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://www.tokyosushilfk.com/#/

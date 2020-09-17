@@ -25,6 +25,7 @@ delivery: false
 delivery_service_websites: https://texasroadhouse.alohaorderonline.com/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://texasroadhouse.alohaorderonline.com/

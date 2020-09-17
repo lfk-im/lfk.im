@@ -10,6 +10,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/ChebaroMG/
+featured: false
 food_urls:
 - name: chownow.com
   url: http://bit.ly/39UJb26

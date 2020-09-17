@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/ocafelk/
+featured: false
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/o-cafe-korean-restaurant

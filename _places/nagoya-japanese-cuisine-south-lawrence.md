@@ -12,6 +12,7 @@ delivery: false
 delivery_service_websites: https://www.ordernagoyasushi.com/#/
 dinein: false
 facebook_url: https://www.facebook.com/nagoyalawrence/
+featured: false
 food_urls:
 - name: order online
   url: https://www.ordernagoyasushi.com/#/

@@ -16,6 +16,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/alchemycoffeeKS/
+featured: false
 food_urls: []
 giftcard: true
 giftcard_notes: ''

@@ -14,6 +14,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/dempseysburgerpub/
+featured: false
 food_urls:
 - name: chownow.com
   url: https://direct.chownow.com/order/15956/locations/22641

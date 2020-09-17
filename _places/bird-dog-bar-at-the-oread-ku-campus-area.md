@@ -10,6 +10,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/BirdDogBar/
+featured: false
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/bird-dog-bar-lawrence

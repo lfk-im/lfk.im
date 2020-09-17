@@ -15,6 +15,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/La-Prima-Tazza-239100315171/
+featured: false
 food_urls: []
 giftcard: false
 giftcard_notes: ''

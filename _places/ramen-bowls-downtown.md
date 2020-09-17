@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: chownow.com
   url: https://eat.chownow.com/discover/restaurant/9341

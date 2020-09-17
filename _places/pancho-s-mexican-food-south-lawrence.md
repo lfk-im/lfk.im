@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: https://www.panchosmexicanfoodks.com/order-online
 dinein: false
 facebook_url: https://www.facebook.com/panchosmexicanfoodks/
+featured: false
 food_urls:
 - name: order online
   url: https://www.panchosmexicanfoodks.com/order-online

@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: https://www.elmezcaltogo.com/#/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://www.elmezcaltogo.com/#/

@@ -18,6 +18,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/eileens-colossal-cookies-lawrence

@@ -12,6 +12,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/aladdincafeoflawrence/
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/aladdin-cafe-lawrence-327536/en-US

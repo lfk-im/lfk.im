@@ -13,6 +13,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/dingtealawrence/
+featured: false
 food_urls:
 - name: ubereats.com
   url: https://www.ubereats.com/lawrence/food-delivery/ding-tea-lawrence/aRFAdK9RSv2TFLgqpljr8g

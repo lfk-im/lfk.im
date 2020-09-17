@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/6MileChophouse/
+featured: false
 food_urls: []
 giftcard: false
 giftcard_notes: ''

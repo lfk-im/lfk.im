@@ -10,6 +10,7 @@ delivery: true
 delivery_service_websites: https://ondorinoodleshopks.com/74250
 dinein: false
 facebook_url: https://www.facebook.com/OndorinoodleLFK/
+featured: false
 food_urls:
 - name: order online
   url: https://ondorinoodleshopks.com/74250

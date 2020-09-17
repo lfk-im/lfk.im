@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: https://minsky-pizza-store-lawrence.securebrygid.com/zgrid/proc/site/sitep.jsp
 dinein: true
 facebook_url: https://www.facebook.com/MinskysPizzaLawrence/
+featured: false
 food_urls:
 - name: order online
   url: https://minsky-pizza-store-lawrence.securebrygid.com/zgrid/proc/site/sitep.jsp

@@ -16,6 +16,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/AimeesCoffeehouse/
+featured: false
 food_urls:
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/aimees-cafe-and-coffee-house

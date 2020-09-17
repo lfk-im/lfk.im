@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: https://lawrence.ordermiranchitokc.com/#/
 dinein: false
 facebook_url: https://www.facebook.com/Mi-Ranchito-Lawrence-389115051267489/
+featured: false
 food_urls:
 - name: order online
   url: https://lawrence.ordermiranchitokc.com/#/

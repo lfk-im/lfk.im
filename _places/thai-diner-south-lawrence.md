@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/Thai-Diner-Lawrence-181509148946240/
+featured: false
 food_urls: []
 giftcard: false
 giftcard_notes: ''

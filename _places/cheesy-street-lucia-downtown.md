@@ -10,6 +10,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/CheesyStreetKC/
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/cheesy-street-lawrence-940500/en-US

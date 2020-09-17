@@ -12,6 +12,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls: []
 giftcard: false
 giftcard_notes: ''

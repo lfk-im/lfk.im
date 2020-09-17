@@ -18,6 +18,7 @@ delivery: true
 delivery_service_websites: https://ebarnfarm.org/order-online!
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://ebarnfarm.org/order-online!

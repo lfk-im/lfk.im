@@ -13,6 +13,7 @@ delivery: true
 delivery_service_websites: https://repetitioncoffee.com/collections/repetition-coffee
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://repetitioncoffee.com/collections/repetition-coffee

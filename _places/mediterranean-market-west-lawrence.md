@@ -10,6 +10,7 @@ delivery: true
 delivery_service_websites: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://menupages.com/mediterranean-cafe-market/3300-bob-billings-pkwy-lawrence

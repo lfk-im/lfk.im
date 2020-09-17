@@ -14,6 +14,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/StanleyJamesSmokehouse/
+featured: false
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/stanley-james-smokehouse-lawrence

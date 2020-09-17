@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/McAlistersDeliLawrence/
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/mcalister-s-deli-lawrence-410574/en-US

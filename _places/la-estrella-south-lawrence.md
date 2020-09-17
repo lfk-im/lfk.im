@@ -12,6 +12,7 @@ delivery: false
 delivery_service_websites: https://www.laestrellamexicana.com/orderonline
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://www.laestrellamexicana.com/orderonline

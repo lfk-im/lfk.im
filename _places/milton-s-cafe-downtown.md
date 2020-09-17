@@ -19,6 +19,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/miltonslawrenceks/
+featured: false
 food_urls:
 - name: postmates.com
   url: https://postmates.com/merchant/miltons-cafe-lawrence

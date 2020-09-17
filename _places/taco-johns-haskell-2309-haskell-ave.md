@@ -10,6 +10,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/taco-john-s-lawrence-872314/en-US

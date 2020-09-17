@@ -13,6 +13,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/Biemers-BBQ-69923271907/
+featured: false
 food_urls: []
 giftcard: false
 giftcard_notes: ''

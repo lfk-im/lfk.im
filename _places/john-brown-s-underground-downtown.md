@@ -14,6 +14,7 @@ delivery: false
 delivery_service_websites: https://john-brown-underground.square.site/
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: order online
   url: https://john-brown-underground.square.site/

@@ -13,6 +13,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/PlanetSub
+featured: false
 food_urls:
 - name: doordash.com
   url: https://www.doordash.com/store/yello-sub-lawrence-327547/en-US

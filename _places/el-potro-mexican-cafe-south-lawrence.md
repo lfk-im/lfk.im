@@ -12,6 +12,7 @@ delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
+featured: false
 food_urls:
 - name: ubereats.com
   url: https://www.ubereats.com/lawrence/food-delivery/el-potro-mexican-cafe-lawrence/GZo6WUzXTxqVsRrJ7tcThA

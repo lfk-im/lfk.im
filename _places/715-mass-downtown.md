@@ -14,6 +14,7 @@ delivery: false
 delivery_service_websites: ''
 dinein: true
 facebook_url: https://www.facebook.com/715Restaurant/
+featured: true
 food_urls: []
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
