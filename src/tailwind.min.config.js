@@ -3,6 +3,7 @@ module.exports = {
     enabled: true,
     content: [
       './**/*.html',
+      './_site/*.html',
       './_site/**/*.html',
     ],
   },
