@@ -15,7 +15,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Th-Sa 10am-3pm
+hours: Th-Su 8am-3pm
 instagram_url: https://www.instagram.com/cellar.door.cafe/
 locality: Lawrence
 name: Cellar Door Café
