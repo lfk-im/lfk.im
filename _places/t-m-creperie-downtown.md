@@ -1,10 +1,12 @@
 ---
 active: true
 address: 7 E 8th St
-cuisine: Desserts
+cuisine: Crepes, Desserts
 cuisine_slugs:
+- crepes
 - desserts
 cuisines:
+- Crepes
 - Desserts
 curbside: false
 curbside_instructions: ''
