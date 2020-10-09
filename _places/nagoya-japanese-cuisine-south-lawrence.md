@@ -1,11 +1,13 @@
 ---
 active: true
 address: '711 W 23rd St #24'
-cuisine: Japanese
+cuisine: Japanese, Sushi
 cuisine_slugs:
 - japanese
+- sushi
 cuisines:
 - Japanese
+- Sushi
 curbside: false
 curbside_instructions: ''
 delivery: false
