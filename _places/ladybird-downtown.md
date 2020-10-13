@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 721 Massachusetts St
 cuisine: American, Diner, Breakfast
 cuisine_slugs:
@@ -11,18 +11,18 @@ cuisines:
 curbside: false
 curbside_instructions: ''
 delivery: false
-delivery_service_websites: https://www.paypal.com/donate/?token=DjrgiUtpB3XvhXOzc4Nz5Nd76hmBY0aWVXiNjhX3n5RZwjjAsH6g_SovRIVisUalf9zBBG&country.x=US&locale.x=US
+delivery_service_websites: https://www.ladybirddiner.menu/
 dinein: false
 facebook_url: ''
-featured: false
+featured: true
 food_urls:
 - name: order online
-  url: https://www.paypal.com/donate/?token=DjrgiUtpB3XvhXOzc4Nz5Nd76hmBY0aWVXiNjhX3n5RZwjjAsH6g_SovRIVisUalf9zBBG&country.x=US&locale.x=US
+  url: https://www.ladybirddiner.menu/
 giftcard: true
 giftcard_notes: Free sack lunches available, can order gift cards by phone or donate
   online
-giftcard_url: ''
-hours: ''
+giftcard_url: https://ladybirddiner.com/shop/
+hours: Tu-Fr 1-5pm (pies only)
 instagram_url: https://www.instagram.com/ladybird_diner/
 locality: Lawrence
 name: Ladybird
@@ -34,7 +34,7 @@ region: KS
 restaurant_phone: 785-856-5239
 sitemap: false
 slug: ladybird-downtown
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: https://ladybirddiner.com/
