@@ -29,7 +29,7 @@ name: The Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: Permanently closed.
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-3671
