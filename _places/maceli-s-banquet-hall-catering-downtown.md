@@ -24,6 +24,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Our listing says "Saturday Meal Pickup" but we've changed to Friday afternoon
   pickup instead. Could you please change this information?
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-1841

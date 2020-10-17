@@ -32,6 +32,7 @@ name: The Myers Hotel Bar
 neighborhood: Tonganoxie
 neighborhood_slug: tonganoxie
 notes: ''
+perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-840-6764

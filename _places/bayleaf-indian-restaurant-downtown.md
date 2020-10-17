@@ -28,6 +28,7 @@ name: Bayleaf Indian Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Perma Closed
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-840-0855

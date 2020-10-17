@@ -27,6 +27,7 @@ name: Uplift Coffee Shop
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: Download their app to order for pickup
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-424-0466

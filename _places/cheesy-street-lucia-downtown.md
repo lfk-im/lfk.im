@@ -28,6 +28,7 @@ name: Cheesy Street @ Lucia
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-865-4055

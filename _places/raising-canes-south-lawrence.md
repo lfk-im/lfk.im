@@ -27,6 +27,7 @@ name: Raising Cane’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Drive through also available
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-840-9800

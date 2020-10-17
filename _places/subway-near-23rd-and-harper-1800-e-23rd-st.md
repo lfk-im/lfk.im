@@ -24,6 +24,7 @@ locality: Lawrence
 name: Subway (near 23rd and Harper)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-331-0030

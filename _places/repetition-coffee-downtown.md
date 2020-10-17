@@ -27,6 +27,7 @@ name: Repetition Coffee
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Free porch delivery within Lawrence
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''

@@ -33,6 +33,7 @@ locality: Lawrence
 name: Sarpino’s Pizzeria Lawrence
 neighborhood: ''
 notes: Free delivery
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-727-7770

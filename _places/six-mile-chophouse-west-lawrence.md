@@ -27,6 +27,7 @@ notes: There is a $1.50 fee for delivery. To place an order with us, please call
   and press "1". Upon arrival, please call us and let us know you are here. To ensure
   the safety of our staff and guests, we will be using a no contact system and will
   not be accepting cash at this time.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-6453

@@ -38,6 +38,7 @@ notes: 'Pizzas 13” 12.00 8” 7.00
   Quinoa Millet Pilaf and Kale Salad 5.00
 
   Chocolate Chip Cookies 1.50'
+perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-331-5290

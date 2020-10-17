@@ -30,6 +30,7 @@ name: Free State Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up, including bottled beers
+perma_closed: false
 place_type: Brewery
 region: KS
 restaurant_phone: 785-843-4555

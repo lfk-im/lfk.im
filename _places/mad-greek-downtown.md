@@ -35,6 +35,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Open for in person dining, Curbside Pickup & Delivery, Family Meals available,
   Open 7 days
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 704-523-8296

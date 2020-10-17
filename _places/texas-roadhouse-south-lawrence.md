@@ -41,6 +41,7 @@ neighborhood_slug: south-lawrence
 notes: We recommend that guests call ahead or order online, but they are more than
   welcome to pull up to the front door and we will have a server take their order
   right from their car.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-312-7427

@@ -31,6 +31,7 @@ name: Johnny's Tavern West Lawrence
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-843-0704

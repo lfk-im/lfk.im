@@ -24,6 +24,7 @@ name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Closed for August
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-766-8591

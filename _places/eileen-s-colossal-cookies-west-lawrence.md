@@ -32,6 +32,7 @@ name: Eileen's Colossal Cookies
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Still open for now, also sells cookie dough to go
+perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-856-2253

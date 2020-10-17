@@ -28,6 +28,7 @@ name: Big Mill
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0101

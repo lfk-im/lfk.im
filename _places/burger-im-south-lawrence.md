@@ -34,6 +34,7 @@ name: Burger IM
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: People can order bottles of beer and pick up
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-856-1010

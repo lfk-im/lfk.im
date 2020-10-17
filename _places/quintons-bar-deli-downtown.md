@@ -35,6 +35,7 @@ name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed until August or September
+perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-842-6560

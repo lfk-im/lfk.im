@@ -27,6 +27,7 @@ name: Pickleman’s Downtown
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-856-6700

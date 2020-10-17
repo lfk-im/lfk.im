@@ -27,6 +27,7 @@ name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order by phone and pick up curbside
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-312-9057

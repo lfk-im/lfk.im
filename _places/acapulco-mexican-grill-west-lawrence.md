@@ -28,6 +28,7 @@ name: Acapulco Mexican Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: We will open for lunch, if people want us to do it. Or after the corona virus.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-832-9400

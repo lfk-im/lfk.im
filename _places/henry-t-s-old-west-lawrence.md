@@ -29,6 +29,7 @@ name: Henry T's
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
 notes: Call or order online via EatStreet
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-749-2999

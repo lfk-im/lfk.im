@@ -24,6 +24,7 @@ locality: Lawrence
 name: Subway (Bob Billings and Wakarusa)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-312-7766

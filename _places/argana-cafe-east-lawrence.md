@@ -28,6 +28,7 @@ name: Argana Cafe
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-424-7267

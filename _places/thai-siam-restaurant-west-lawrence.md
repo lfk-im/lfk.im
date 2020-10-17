@@ -24,6 +24,7 @@ name: Thai-Siam Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order by phone or Delivery via Starve Bird
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-331-2525

@@ -24,6 +24,7 @@ neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: We will have a curbside app next week. Follow our Social media for updates
   and menu.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 913-683-1604

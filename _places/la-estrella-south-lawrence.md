@@ -26,6 +26,7 @@ name: La Estrella
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Order online, pick up in store
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-843-1595

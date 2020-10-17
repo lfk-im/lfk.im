@@ -32,6 +32,7 @@ name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Delivery through EatStreet, or curbside pickup of phone orders
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-843-5173

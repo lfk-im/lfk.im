@@ -34,6 +34,7 @@ name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone for takeout or delivery, or order through EatStreet
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-856-2170

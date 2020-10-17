@@ -23,6 +23,7 @@ locality: Lawrence
 name: Taco John’s (Haskell)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-842-5533

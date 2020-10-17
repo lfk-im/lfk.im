@@ -27,6 +27,7 @@ name: Kaw Valley Public House
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-424-7249

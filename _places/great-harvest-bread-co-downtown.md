@@ -27,6 +27,7 @@ name: Great Harvest Bread Co.
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Breads available to go and snacks for kids
+perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-749-2227

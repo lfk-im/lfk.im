@@ -27,6 +27,7 @@ name: La Prima Tazza
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Currently closed, working on delivery options
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-832-2233

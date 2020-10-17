@@ -34,6 +34,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
   3- Call us when you get here and we will bring your order right
 
   out.'
+perma_closed: false
 place_type: IceCreamShop
 region: KS
 restaurant_phone: 785-856-0544

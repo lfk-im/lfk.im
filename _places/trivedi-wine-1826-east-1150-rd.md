@@ -21,6 +21,7 @@ locality: Lawrence
 name: Trivedi Wine
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: Winery
 region: KS
 restaurant_phone: 785-856-0156

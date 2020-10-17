@@ -29,6 +29,7 @@ name: Decade
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: Online ordering coming next week for to-go and curbside service
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-550-7944

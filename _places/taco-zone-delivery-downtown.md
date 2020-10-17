@@ -28,6 +28,7 @@ name: Taco Zone Delivery
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Taco Zone Party Packs!
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''

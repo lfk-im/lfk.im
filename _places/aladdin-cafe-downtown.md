@@ -30,6 +30,7 @@ name: Aladdin Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Call to order for pick-up
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-832-1100

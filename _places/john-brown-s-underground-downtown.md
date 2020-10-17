@@ -28,6 +28,7 @@ name: John Brown's Underground
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Curbside Cocktails
+perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-393-4296

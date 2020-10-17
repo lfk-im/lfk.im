@@ -29,6 +29,7 @@ name: Lawrence Beer Company
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online and pick up curbside (both locations)
+perma_closed: false
 place_type: Brewery
 region: KS
 restaurant_phone: 785-856-0453

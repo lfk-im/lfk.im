@@ -23,6 +23,7 @@ locality: Lawrence
 name: Taco John’s
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-843-0936

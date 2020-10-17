@@ -41,6 +41,7 @@ name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Pull up to front door to be helped.
+perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: ''

@@ -23,6 +23,7 @@ locality: Lawrence
 name: Boulevard Grill
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-841-7077

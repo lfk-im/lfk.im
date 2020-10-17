@@ -22,6 +22,7 @@ name: Game Nut Entertainment
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: 'TODO: Add a non-restaurant section'
+perma_closed: false
 place_type: Store
 region: KS
 restaurant_phone: 785-856-1540

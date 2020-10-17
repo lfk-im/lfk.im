@@ -28,6 +28,7 @@ name: Kobe Japanese Steakhouse
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
 notes: Unconfirmed
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-838-3399

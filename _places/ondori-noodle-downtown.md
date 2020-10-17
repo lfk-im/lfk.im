@@ -24,6 +24,7 @@ name: Ondori Noodle
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0210

@@ -24,6 +24,7 @@ name: Thai Diner
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Unconfirmed
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-551-7528

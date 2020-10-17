@@ -28,6 +28,7 @@ name: Taco Zone
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: 'Closed but offering catered delivery via: https://www.tacozonedelivery.com/'
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-424-7123

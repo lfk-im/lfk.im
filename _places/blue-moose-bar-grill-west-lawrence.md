@@ -41,6 +41,7 @@ name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: FREE DELIVERY if you call us direct.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-727-4999

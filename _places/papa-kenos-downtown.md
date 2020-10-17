@@ -28,6 +28,7 @@ name: Papa Keno’s
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order online or call for delivery
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-841-7272

@@ -27,6 +27,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Order online or with the app and head on over. Our team will prepare your meal
   and place it on the pickup station!
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-749-3354

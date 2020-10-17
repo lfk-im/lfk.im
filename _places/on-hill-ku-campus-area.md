@@ -22,6 +22,7 @@ name: On The Hill
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Unconfirmed
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-830-3998

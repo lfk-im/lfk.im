@@ -24,6 +24,7 @@ name: Liberty Hall
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
+perma_closed: false
 place_type: MovieRentalStore
 region: KS
 restaurant_phone: 785-749-1972

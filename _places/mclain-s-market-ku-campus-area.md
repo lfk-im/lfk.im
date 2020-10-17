@@ -26,6 +26,7 @@ name: McLain's Market
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
 notes: Order online or by phone for delivery
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-371-9050

@@ -27,6 +27,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Open w/ limited hours, can order online or on the phone for delivery/carry
   out
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-838-4600

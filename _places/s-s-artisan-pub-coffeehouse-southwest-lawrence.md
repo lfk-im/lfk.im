@@ -31,6 +31,7 @@ name: S&S Artisan Pub & Coffeehouse
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-766-2355

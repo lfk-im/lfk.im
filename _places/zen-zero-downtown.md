@@ -28,6 +28,7 @@ name: Zen Zero
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Delivery through EatStreet, or call to order and carry out
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-832-0001

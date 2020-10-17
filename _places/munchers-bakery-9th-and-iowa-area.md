@@ -29,6 +29,7 @@ name: Munchers Bakery
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
 notes: Dining area closed, but open for takeout
+perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-749-4324

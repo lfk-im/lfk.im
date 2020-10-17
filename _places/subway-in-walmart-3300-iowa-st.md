@@ -24,6 +24,7 @@ locality: Lawrence
 name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-832-1199

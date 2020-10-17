@@ -28,6 +28,7 @@ name: Ramen Bowls
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside or delivery
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-842-6957

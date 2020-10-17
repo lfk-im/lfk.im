@@ -28,6 +28,7 @@ name: Bigg's BBQ
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Closed until April 1st
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-2550

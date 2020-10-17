@@ -26,6 +26,7 @@ name: Morningstar's New York Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: Order online or call
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-6973

@@ -35,6 +35,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Likely closing the restaurant if we can not drive enough pick-up and online
   orders.
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-5460

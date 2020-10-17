@@ -24,6 +24,7 @@ name: Tres Mexicanos
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-830-8422

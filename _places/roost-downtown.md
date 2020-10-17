@@ -32,6 +32,7 @@ name: The Roost
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Until 3/20 - Order by phone and pick up curbside
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-843-1110

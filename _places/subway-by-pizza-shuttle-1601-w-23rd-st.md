@@ -24,6 +24,7 @@ locality: Lawrence
 name: Subway (by Pizza Shuttle)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-842-2479

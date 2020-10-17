@@ -24,6 +24,7 @@ locality: Lawrence
 name: Subway (6th and Monterey)
 neighborhood: ''
 notes: ''
+perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-841-1319

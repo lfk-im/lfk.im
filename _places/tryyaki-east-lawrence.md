@@ -36,6 +36,7 @@ name: Tryyaki
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-842-6688

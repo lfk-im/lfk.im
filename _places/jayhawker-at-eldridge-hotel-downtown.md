@@ -28,6 +28,7 @@ name: The Jayhawker at the Eldridge Hotel
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Unconfirmed
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-749-1005

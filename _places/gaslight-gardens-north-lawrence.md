@@ -29,6 +29,7 @@ name: Gaslight Gardens
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-505-1270

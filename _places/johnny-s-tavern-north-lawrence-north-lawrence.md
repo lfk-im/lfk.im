@@ -31,6 +31,7 @@ name: Johnny's Tavern North Lawrence
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
 notes: ''
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-842-0377

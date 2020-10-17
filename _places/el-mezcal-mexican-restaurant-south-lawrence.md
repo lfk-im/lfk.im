@@ -26,6 +26,7 @@ name: El Mezcal Mexican Restaurant
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: Order online or call
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-3444

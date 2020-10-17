@@ -31,6 +31,7 @@ name: Wake The Dead
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, or order through EatStreet
+perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 303-588-4678

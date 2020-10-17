@@ -30,6 +30,7 @@ neighborhood_slug: west-lawrence
 notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety
   reasons! Please call in your order, pay over the phone, and we will quickly deliver
   it outside to you
+perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-856-0751

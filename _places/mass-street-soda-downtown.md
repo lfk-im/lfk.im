@@ -22,6 +22,7 @@ name: Mass Street Soda
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Evaluating and coming up with a plan for curbside service
+perma_closed: false
 place_type: Store
 region: KS
 restaurant_phone: 785-615-0482
