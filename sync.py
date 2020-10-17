@@ -86,6 +86,7 @@ SHEETS_BOOL_FIELDS = [
     "dinein",
     "featured",
     "giftcard",
+    "perma_closed",
     "takeout",
 ]
 
