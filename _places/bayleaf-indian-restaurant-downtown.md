@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: '947 New Hampshire St #120'
 cuisine: Thai
 cuisine_slugs:
@@ -8,7 +8,7 @@ cuisines:
 - Thai
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 dinein: false
 facebook_url: https://www.facebook.com/bayleaflindianrestaurant/
@@ -27,16 +27,16 @@ locality: Lawrence
 name: Bayleaf Indian Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Not confirmed
+notes: Perma Closed
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-840-0855
 sitemap: false
 slug: bayleaf-indian-restaurant-downtown
-takeout: true
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: http://bayleaflawrence.com/
 ---
 
-Not confirmed
+Perma Closed
