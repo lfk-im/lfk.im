@@ -28,7 +28,7 @@ place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-832-1199
 sitemap: false
-slug: subway-in-the-walmart-3300-iowa-st
+slug: subway-in-walmart-3300-iowa-st
 takeout: true
 twitch_url: ''
 twitter_url: ''

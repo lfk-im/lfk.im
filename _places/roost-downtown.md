@@ -36,7 +36,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-843-1110
 sitemap: false
-slug: the-roost-downtown
+slug: roost-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -33,7 +33,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-3671
 sitemap: false
-slug: the-levee-cafe-north-lawrence
+slug: levee-cafe-north-lawrence
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -28,7 +28,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-830-3921
 sitemap: false
-slug: bird-dog-bar-at-the-oread-ku-campus-area
+slug: bird-dog-bar-at-oread-ku-campus-area
 takeout: false
 twitch_url: ''
 twitter_url: ''

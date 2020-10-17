@@ -30,7 +30,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0543
 sitemap: false
-slug: the-burger-stand-at-the-casbah-downtown
+slug: burger-stand-at-casbah-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''

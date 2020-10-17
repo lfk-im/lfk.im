@@ -35,7 +35,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 303-588-4678
 sitemap: false
-slug: wake-the-dead-downtown
+slug: wake-dead-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''
