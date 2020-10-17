@@ -244,7 +244,7 @@ def sync_cuisines_to_aliases():
 
 
 @app.command()
-def sync_cuisines(overwrite: bool = True):
+def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
     typer.echo("sync-cuisines")
 
     aliases = load_aliases()
@@ -258,12 +258,13 @@ def sync_cuisines(overwrite: bool = True):
         if cuisines and len(cuisines):
             data += cuisines
 
-    if not Path("_cuisines").exists():
-        Path("_cuisines").mkdir()
+    output_folder = Path(output_folder)
+    if not output_folder.exists():
+        output_folder.mkdir()
 
     for cuisine in CUISINE_INITIAL:
         cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
-        if (not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
+        if (not output_folder.joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
             post = frontmatter.loads("")
             post["active"] = True
             post[
@@ -293,7 +294,7 @@ def sync_cuisines(overwrite: bool = True):
             except IndexError:
                 pass
 
-            Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+            output_folder.joinpath(f"{cuisine_slug}.md").write_text(
                 frontmatter.dumps(post)
             )
 
@@ -307,20 +308,20 @@ def sync_cuisines(overwrite: bool = True):
     for cuisine in data:
         cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if cuisine.lower() not in alias_data:
-            if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
+            if (not output_folder.joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
                 post = frontmatter.loads("")
                 post["active"] = False
                 post["name"] = cuisine
                 post["sitemap"] = False
                 post["slug"] = cuisine_slug
 
-                Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
+                output_folder.joinpath(f"{cuisine_slug}.md").write_text(
                     frontmatter.dumps(post)
                 )
 
 
 @app.command()
-def sync_neighborhoods():
+def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = True):
     typer.echo("sync-neighborhoods")
 
     aliases = load_aliases()
@@ -334,8 +335,9 @@ def sync_neighborhoods():
         if neighborhood and len(neighborhood):
             data.append(neighborhood)
 
-    if not Path("_neighborhoods").exists():
-        Path("_neighborhoods").mkdir()
+    output_folder = Path(output_folder)
+    if not output_folder.exists():
+        output_folder.mkdir()
 
     data = set(data)
 
@@ -344,7 +346,9 @@ def sync_neighborhoods():
         if not any(
             [alias for alias in neighborhood_aliases if neighborhood in alias["name"]]
         ):
-            if not Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").exists():
+            if (
+                not output_folder.joinpath(f"{neighborhood_slug}.md").exists()
+            ) or overwrite:
                 post = frontmatter.loads("")
                 post["active"] = True
                 post["name"] = neighborhood
@@ -352,7 +356,7 @@ def sync_neighborhoods():
                 post["slug"] = neighborhood_slug
                 post["title"] = f"{neighborhood} Restaurants"
 
-                Path("_neighborhoods").joinpath(f"{neighborhood_slug}.md").write_text(
+                output_folder.joinpath(f"{neighborhood_slug}.md").write_text(
                     frontmatter.dumps(post)
                 )
 
@@ -505,11 +509,8 @@ def sync_places(
 
 
 @app.command()
-def sync_schemas():
+def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
     typer.echo("sync-schemas")
-
-    if not Path("_schemas").exists():
-        Path("_schemas").mkdir()
 
     schemas = []
     places = Path("_places").glob("*.md")
@@ -518,8 +519,9 @@ def sync_schemas():
         place_type = post["place_type"]
         schemas.append(place_type)
 
-    if not Path("_schemas").exists():
-        Path("_schemas").mkdir()
+    output_folder = Path(output_folder)
+    if not output_folder.exists():
+        output_folder.mkdir()
 
     schemas = set(schemas)
     schemas = sorted(schemas)
@@ -529,19 +531,17 @@ def sync_schemas():
         print(inflection.pluralize(inflection.titleize(schema)))
         print(slugify(inflection.tableize(schema), stopwords=STOPWORDS))
         schema_slug = slugify(schema, stopwords=STOPWORDS)
-        # if not Path("_schemas").joinpath(f"{schema_slug}.md").exists():
-        post = frontmatter.loads("")
-        post["active"] = True
-        post["name"] = schema
-        post["sitemap"] = False
-        post["slug"] = schema_slug
-        post["title"] = f"{schema} Businesses"
+        if (not Path("_schemas").joinpath(f"{schema_slug}.md").exists()) or overwrite:
+            post = frontmatter.loads("")
+            post["active"] = True
+            post["name"] = schema
+            post["sitemap"] = False
+            post["slug"] = schema_slug
+            post["title"] = f"{schema} Businesses"
 
-        Path("_schemas").joinpath(f"{schema_slug}.md").write_text(
-            frontmatter.dumps(post)
-        )
-
-        print()
+            output_folder.joinpath(f"{schema_slug}.md").write_text(
+                frontmatter.dumps(post)
+            )
 
 
 if __name__ == "__main__":
