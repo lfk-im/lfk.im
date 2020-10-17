@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 239 Elm St
 cuisine: American, Breakfast, Sandwiches
 cuisine_slugs:
@@ -11,7 +11,7 @@ cuisines:
 - American
 - Breakfast
 - Sandwiches
-curbside: true
+curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
@@ -28,7 +28,7 @@ locality: Lawrence
 name: The Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
-notes: ''
+notes: Permanently closed.
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-3671
@@ -39,3 +39,5 @@ twitch_url: ''
 twitter_url: ''
 website: https://theleveecafe.com
 ---
+
+Permanently closed.

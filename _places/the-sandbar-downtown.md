@@ -17,7 +17,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Fr 5-9pm, Sa 6-9pm (to go drinks only)
+hours: Mo-Sa 5pm-12am, Su (check online for hours)
 instagram_url: https://www.instagram.com/thesandbar/
 locality: Lawrence
 name: The Sandbar
