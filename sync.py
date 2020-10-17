@@ -2,6 +2,7 @@ import click
 import frontmatter
 import inflection
 import os
+import re
 import requests
 import sys
 import yaml
@@ -55,7 +56,9 @@ CUISINE_INITIAL = [
     "Thai",
 ]
 
-CUISINE_INITIAL_SLUGS = [slugify(cuisine) for cuisine in CUISINE_INITIAL]
+CUISINE_INITIAL_SLUGS = [
+    slugify(cuisine, stopwords=STOPWORDS) for cuisine in CUISINE_INITIAL
+]
 
 # Don't customize these
 EXPECTED_ENV_VARS = [
@@ -135,6 +138,8 @@ FOOD_SERVICE_URLS = [
     "seamless_url",
     "ubereats_url",
 ]
+
+STOPWORDS = ["the"]
 
 
 def load_aliases():
@@ -219,13 +224,13 @@ def sync_cuisines_to_aliases():
             data += cuisines
 
     for cuisine in CUISINE_INITIAL:
-        cuisine_slug = slugify(cuisine)
+        cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if not any(
             [True for alias in cuisine_aliases if cuisine_slug == alias["name"].lower()]
         ):
             aliases["cuisines"].append({"name": cuisine_slug, "aliases": list()})
 
-    data = set([slugify(item) for item in data])
+    data = set([slugify(item, stopwords=STOPWORDS) for item in data])
     unknown_cuisines = []
     for cuisine in data:
         if not any([True for alias in cuisine_aliases if cuisine in alias["aliases"]]):
@@ -260,7 +265,7 @@ def sync_cuisines(overwrite):
         Path("_cuisines").mkdir()
 
     for cuisine in CUISINE_INITIAL:
-        cuisine_slug = slugify(cuisine)
+        cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if (not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
             post = frontmatter.loads("")
             post["active"] = True
@@ -282,7 +287,10 @@ def sync_cuisines(overwrite):
                     for alias in cuisine_aliases
                     if cuisine_slug == alias["name"].lower()
                 ][0]
-                redirect_from = [f"/cuisines/{slugify(alias)}/" for alias in aliases]
+                redirect_from = [
+                    f"/cuisines/{slugify(alias, stopwords=STOPWORDS)}/"
+                    for alias in aliases
+                ]
                 post["aliases"] = aliases
                 post["redirect_from"] = redirect_from
             except IndexError:
@@ -300,7 +308,7 @@ def sync_cuisines(overwrite):
         alias_data += alias
 
     for cuisine in data:
-        cuisine_slug = slugify(cuisine)
+        cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if cuisine.lower() not in alias_data:
             if not Path("_cuisines").joinpath(f"{cuisine_slug}.md").exists():
                 post = frontmatter.loads("")
@@ -312,42 +320,6 @@ def sync_cuisines(overwrite):
                 Path("_cuisines").joinpath(f"{cuisine_slug}.md").write_text(
                     frontmatter.dumps(post)
                 )
-
-
-@cli.command()
-def sync_downtownlawrence():
-    click.echo("sync-downtownlawrence")
-
-    if not Path("_downtown").exists():
-        Path("_downtown").mkdir()
-
-    url = requests.get(
-        "https://www.downtownlawrence.com/2020/06/list-business-temporary-closingsreduced-hours/"
-    )
-    soup = BeautifulSoup(url.text, "html.parser")
-    table = soup.find("table")
-    rows = table.find_all("tr")
-    for row in rows[1:]:
-        try:
-            name, address, services = row.find_all("td")
-            place_slug = slugify(name.text)
-            # if not Path("_downtown").joinpath(f"{place_slug}.md").exists():
-            post = frontmatter.loads("")
-            post["active"] = False if "Closed" in services.text else True
-            post["address"] = address.text
-            post["name"] = name.text
-            post["neighborhood"] = "Downtown"
-            post["notes"] = services.text
-            post["sitemap"] = False
-            post["slug"] = place_slug
-            post["url"] = name.find("a").get("href")
-
-            Path("_downtown").joinpath(f"{place_slug}.md").write_text(
-                frontmatter.dumps(post)
-            )
-
-        except ValueError as e:
-            print(row)
 
 
 @cli.command()
@@ -371,7 +343,7 @@ def sync_neighborhoods():
     data = set(data)
 
     for neighborhood in data:
-        neighborhood_slug = slugify(neighborhood)
+        neighborhood_slug = slugify(neighborhood, stopwords=STOPWORDS)
         if not any(
             [alias for alias in neighborhood_aliases if neighborhood in alias["name"]]
         ):
@@ -434,7 +406,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         name = item.get_field_value("name")
         address = item.get_field_value("address")
         neighborhood = item.get_field_value("neighborhood")
-        slug = slugify(" ".join([name, neighborhood or address]))
+        slug = slugify(" ".join([name, neighborhood or address]), stopwords=STOPWORDS)
         filename = f"{slug}.md"
 
         input_file = output_folder.joinpath(filename)
@@ -482,7 +454,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
                 place["cuisines"] = [
                     cuisine
                     for cuisine in place["cuisines"]
-                    if slugify(cuisine) not in unknown_cuisines
+                    if slugify(cuisine, stopwords=STOPWORDS) not in unknown_cuisines
                 ]
 
         else:
@@ -491,7 +463,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         if place["cuisines"] and len(place["cuisines"]):
             place["cuisine_slugs"] = []
             for cuisine in place["cuisines"]:
-                cuisine_slug = slugify(cuisine)
+                cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
                 place["cuisine_slugs"].append(cuisine_slug)
                 if (
                     cuisine_slug in cuisine_aliases
@@ -503,7 +475,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
             place["cuisine_slugs"] = None
 
         if "neighborhood" in place and len(place["neighborhood"]):
-            place["neighborhood_slug"] = slugify(place["neighborhood"])
+            place["neighborhood_slug"] = slugify(
+                place["neighborhood"], stopwords=STOPWORDS
+            )
 
         if "delivery_service_websites" in place and len(
             place["delivery_service_websites"]
@@ -555,8 +529,8 @@ def sync_schemas():
     for schema in schemas:
         print(schema)
         print(inflection.pluralize(inflection.titleize(schema)))
-        print(slugify(inflection.tableize(schema)))
-        schema_slug = slugify(schema)
+        print(slugify(inflection.tableize(schema), stopwords=STOPWORDS))
+        schema_slug = slugify(schema, stopwords=STOPWORDS)
         # if not Path("_schemas").joinpath(f"{schema_slug}.md").exists():
         post = frontmatter.loads("")
         post["active"] = True
