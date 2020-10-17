@@ -17,6 +17,8 @@ from typesystem.fields import Boolean
 
 Boolean.coerce_values.update({"n": False, "no": False, "y": True, "yes": True})
 
+STOPWORDS = ["the"]
+
 CUISINE_INITIAL = [
     "American",
     "Asian",
@@ -138,8 +140,6 @@ FOOD_SERVICE_URLS = [
     "seamless_url",
     "ubereats_url",
 ]
-
-STOPWORDS = ["the"]
 
 
 def load_aliases():
