@@ -1,14 +1,13 @@
-import click
 import frontmatter
 import inflection
 import os
 import re
 import requests
 import sys
+import typer
 import yaml
 
 from bs4 import BeautifulSoup
-from click_default_group import DefaultGroup
 from pathlib import Path
 from sheetfu import SpreadsheetApp, Table
 from slugify import slugify
@@ -143,6 +142,9 @@ FOOD_SERVICE_URLS = [
 ]
 
 
+app = typer.Typer()
+
+
 def load_aliases():
     if Path("_data", "aliases.yml").exists():
         input_file = Path("_data", "aliases.yml").read_text()
@@ -182,7 +184,7 @@ def verify_http(value):
 
 
 def print_expected_env_variables():
-    click.echo(
+    typer.echo(
         """
 To use this command, you will need to setup a Google Cloud Project and have
 authentication properly setup. To start, check out:
@@ -199,19 +201,14 @@ These are the values that you need to configure for the script to run:
 
     for var in EXPECTED_ENV_VARS:
         if var not in os.environ or not os.environ.get(var):
-            click.echo(f"- {var}")
+            typer.echo(f"- {var}")
 
-    click.echo("")
-
-
-@click.group(cls=DefaultGroup, default="sync-places", default_if_no_args=True)
-def cli():
-    pass
+    typer.echo("")
 
 
-@cli.command()
+@app.command()
 def sync_cuisines_to_aliases():
-    click.echo("sync-cuisines-to-aliases")
+    typer.echo("sync-cuisines-to-aliases")
 
     aliases = load_aliases()
     cuisine_aliases = aliases["cuisines"]
@@ -246,10 +243,9 @@ def sync_cuisines_to_aliases():
     Path("_data", "aliases.yml").write_text(yaml.dump(aliases))
 
 
-@cli.command()
-@click.option("--overwrite", is_flag=True)
-def sync_cuisines(overwrite):
-    click.echo("sync-cuisines")
+@app.command()
+def sync_cuisines(overwrite: bool = True):
+    typer.echo("sync-cuisines")
 
     aliases = load_aliases()
     cuisine_aliases = aliases["cuisines"]
@@ -323,9 +319,9 @@ def sync_cuisines(overwrite):
                 )
 
 
-@cli.command()
+@app.command()
 def sync_neighborhoods():
-    click.echo("sync-neighborhoods")
+    typer.echo("sync-neighborhoods")
 
     aliases = load_aliases()
     neighborhood_aliases = aliases.get("neighborhoods", list())
@@ -361,11 +357,12 @@ def sync_neighborhoods():
                 )
 
 
-@cli.command()
-@click.option("--output-folder", default="_places")
-@click.option("--sheet-app-id", envvar="LFK_GOOGLE_SHEET_APP_ID")
-@click.option("--sheet-name", default="Sheet1", envvar="LFK_SHEET_NAME")
-def sync_places(sheet_app_id, output_folder, sheet_name):
+@app.command()
+def sync_places(
+    output_folder: str = "_places",
+    sheet_app_id: str = typer.Argument(default="", envvar="LFK_GOOGLE_SHEET_APP_ID"),
+    sheet_name: str = typer.Argument(default="", envvar="LFK_SHEET_NAME"),
+):
 
     output_folder = Path(output_folder)
     cuisine_aliases = aliases_to_cuisine()
@@ -385,7 +382,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
     try:
         spreadsheet = sa.open_by_id(sheet_app_id)
     except Exception:
-        click.echo(
+        typer.echo(
             f"We can't find that 'sheet_app_id'. Please double check that 'LFK_GOOGLE_SHEET_APP_ID' is set. (Currently set to: '{sheet_app_id}')"
         )
         sys.exit(1)
@@ -393,7 +390,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
     try:
         sheet = spreadsheet.get_sheet_by_name(sheet_name)
     except Exception:
-        click.echo(
+        typer.echo(
             f"We can't find that 'sheet_name' aka the tab. Please double check that 'LFK_SHEET_NAME' is set. (Currently set to: '{sheet_name}')"
         )
         sys.exit(1)
@@ -429,21 +426,21 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
                 try:
                     place[var] = string_to_boolean(item.get_field_value(var))
                 except ValueError:
-                    click.echo(f"A column named '{var}' was expected, but not found.")
+                    typer.echo(f"A column named '{var}' was expected, but not found.")
 
         if SHEETS_STRING_FIELDS:
             for var in SHEETS_STRING_FIELDS:
                 try:
                     place[var] = item.get_field_value(var)
                 except ValueError:
-                    click.echo(f"A column named '{var}' was expected, but not found.")
+                    typer.echo(f"A column named '{var}' was expected, but not found.")
 
         if SHEETS_URL_FIELDS:
             for var in SHEETS_URL_FIELDS:
                 try:
                     place[var] = verify_http(item.get_field_value(var))
                 except ValueError:
-                    click.echo(f"A column named '{var}' was expected, but not found.")
+                    typer.echo(f"A column named '{var}' was expected, but not found.")
 
         food_urls = []
 
@@ -496,7 +493,7 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
                             {"name": FOOD_SERVICE_DICT.get(var), "url": value}
                         )
                 except ValueError:
-                    click.echo(f"A column named '{var}' was expected, but not found.")
+                    typer.echo(f"A column named '{var}' was expected, but not found.")
 
             place["food_urls"] = [food_url for food_url in food_urls if food_url]
 
@@ -507,9 +504,9 @@ def sync_places(sheet_app_id, output_folder, sheet_name):
         input_file.write_text(frontmatter.dumps(post))
 
 
-@cli.command()
+@app.command()
 def sync_schemas():
-    click.echo("sync-schemas")
+    typer.echo("sync-schemas")
 
     if not Path("_schemas").exists():
         Path("_schemas").mkdir()
@@ -548,4 +545,4 @@ def sync_schemas():
 
 
 if __name__ == "__main__":
-    cli()
+    app()
