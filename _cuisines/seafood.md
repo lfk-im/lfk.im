@@ -1,13 +1,6 @@
 ---
-active: true
-aliases:
-- seasfood
-description: Seafood restaurants offering curbside, takeout, and delivery food in
-  Lawrence, Kansas
+active: false
 name: Seafood
-redirect_from:
-- /cuisines/seasfood/
-sitemap: true
+sitemap: false
 slug: seafood
-title: Seafood Restaurants in Lawrence, Kansas
 ---

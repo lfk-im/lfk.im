@@ -1,11 +1,6 @@
 ---
-active: true
-aliases: []
-description: Thai restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Thai
-redirect_from: []
-sitemap: true
+sitemap: false
 slug: thai
-title: Thai Restaurants in Lawrence, Kansas
 ---

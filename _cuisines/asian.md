@@ -1,11 +1,6 @@
 ---
-active: true
-aliases: []
-description: Asian restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Asian
-redirect_from: []
-sitemap: true
+sitemap: false
 slug: asian
-title: Asian Restaurants in Lawrence, Kansas
 ---

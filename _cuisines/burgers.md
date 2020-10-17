@@ -1,11 +1,6 @@
 ---
-active: true
-aliases: []
-description: Burgers restaurants offering curbside, takeout, and delivery food in
-  Lawrence, Kansas
+active: false
 name: Burgers
-redirect_from: []
-sitemap: true
+sitemap: false
 slug: burgers
-title: Burgers in Lawrence, Kansas
 ---

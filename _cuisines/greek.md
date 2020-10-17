@@ -1,11 +1,6 @@
 ---
-active: true
-aliases: []
-description: Greek restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Greek
-redirect_from: []
-sitemap: true
+sitemap: false
 slug: greek
-title: Greek Restaurants in Lawrence, Kansas
 ---

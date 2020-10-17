@@ -1,21 +1,6 @@
 ---
-active: true
-aliases:
-- bar
-- beer
-- cocktail-bar
-- cocktails
-- cocktails-beer
-description: Bars restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Bars
-redirect_from:
-- /cuisines/bar/
-- /cuisines/beer/
-- /cuisines/cocktail-bar/
-- /cuisines/cocktails/
-- /cuisines/cocktails-beer/
-sitemap: true
+sitemap: false
 slug: bars
-title: Bars in Lawrence, Kansas
 ---

@@ -1,15 +1,6 @@
 ---
-active: true
-aliases:
-- sandwich
-- sandwiches
-description: Deli restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Deli
-redirect_from:
-- /cuisines/sandwich/
-- /cuisines/sandwiches/
-sitemap: true
+sitemap: false
 slug: deli
-title: Deli Restaurants in Lawrence, Kansas
 ---

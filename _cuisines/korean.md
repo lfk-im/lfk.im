@@ -1,11 +1,6 @@
 ---
-active: true
-aliases: []
-description: Korean restaurants offering curbside, takeout, and delivery food in Lawrence,
-  Kansas
+active: false
 name: Korean
-redirect_from: []
-sitemap: true
+sitemap: false
 slug: korean
-title: Korean Restaurants in Lawrence, Kansas
 ---

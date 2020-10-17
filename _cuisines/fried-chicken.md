@@ -1,19 +1,6 @@
 ---
-active: true
-aliases:
-- chicken
-- chickens
-- fried-chicken
-- wings
-description: Fried Chicken restaurants offering curbside, takeout, and delivery food
-  in Lawrence, Kansas
+active: false
 name: Fried Chicken
-redirect_from:
-- /cuisines/chicken/
-- /cuisines/chickens/
-- /cuisines/fried-chicken/
-- /cuisines/wings/
-sitemap: true
+sitemap: false
 slug: fried-chicken
-title: Fried Chicken Restaurants in Lawrence, Kansas
 ---
