@@ -5,7 +5,9 @@ import re
 import requests
 import sys
 import typer
+import typesystem
 import yaml
+
 
 from bs4 import BeautifulSoup
 from pathlib import Path
@@ -142,6 +144,82 @@ FOOD_SERVICE_URLS = [
 ]
 
 
+class Url(typesystem.Schema):
+    name = typesystem.String()
+    url = typesystem.String()
+
+
+class Cuisine(typesystem.Schema):
+    active = typesystem.Boolean(default=True)
+    aliases = typesystem.Array(items=typesystem.String(allow_blank=True))
+    description = typesystem.String()
+    name = typesystem.String()
+    redirect_from = typesystem.Array(items=typesystem.String(allow_blank=True))
+    sitemap = typesystem.Boolean(default=True)
+    slug = typesystem.String()
+    title = typesystem.String()
+
+
+class Place(typesystem.Schema):
+    active = typesystem.Boolean()
+    address = typesystem.String(allow_null=True)
+    cuisine = typesystem.String(allow_null=True)
+    cuisine_slugs = typesystem.Array(
+        allow_null=True, items=typesystem.String(allow_null=True)
+    )
+    cuisines = typesystem.Array(
+        allow_null=True, items=typesystem.String(allow_null=True)
+    )
+    curbside = typesystem.Boolean(default=False)
+    curbside_instructions = typesystem.String(allow_null=True)
+    delivery = typesystem.Boolean(default=False)
+    delivery_service_websites = typesystem.String(allow_null=True)
+    dinein = typesystem.Boolean(default=False)
+    facebook_url = typesystem.String(allow_null=True)
+    featured = typesystem.Boolean(default=False)
+    food_urls = typesystem.Array(
+        allow_null=True, items=typesystem.Reference(allow_null=True, to=Url)
+    )
+    giftcard = typesystem.Boolean(default=False)
+    giftcard_notes = typesystem.String(allow_null=True)
+    giftcard_url = typesystem.String(allow_null=True)
+    hours = typesystem.String(allow_null=True)
+    instagram_url = typesystem.String(allow_null=True)
+    locality = typesystem.String(
+        allow_null=True
+    )  # set default to a variable like "Lawrence"
+    name = typesystem.String()
+    neighborhood = typesystem.String(allow_null=True)
+    neighborhood_slug = typesystem.String(allow_null=True)
+    notes = typesystem.String(allow_blank=True)
+    perma_closed = typesystem.Boolean(allow_null=True)
+    place_type = typesystem.String(allow_null=True)
+    region = typesystem.String(allow_null=True)
+    restaurant_phone = typesystem.String(allow_null=True)
+    sitemap = typesystem.Boolean()
+    slug = typesystem.String()
+    takeout = typesystem.Boolean(default=False)
+    twitch_url = typesystem.String(allow_null=True)
+    twitter_url = typesystem.String(allow_null=True)
+    website = typesystem.String(allow_null=True)
+
+
+class Neighborhood(typesystem.Schema):
+    active = typesystem.Boolean(default=True)
+    name = typesystem.String()
+    sitemap = typesystem.Boolean(default=True)
+    slug = typesystem.String()
+    title = typesystem.String()
+
+
+class Schema(typesystem.Schema):
+    active = typesystem.Boolean(default=True)
+    name = typesystem.String()
+    sitemap = typesystem.Boolean(default=False)
+    slug = typesystem.String()
+    title = typesystem.String()
+
+
 app = typer.Typer()
 
 
@@ -264,7 +342,12 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
 
     for cuisine in CUISINE_INITIAL:
         cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
-        if (not output_folder.joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
+
+        input_file = output_folder.joinpath(f"{cuisine_slug}.md")
+
+        if input_file.exists():
+            post = frontmatter.load(input_file)
+        else:
             post = frontmatter.loads("")
             post["active"] = True
             post[
@@ -294,9 +377,9 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
             except IndexError:
                 pass
 
-            output_folder.joinpath(f"{cuisine_slug}.md").write_text(
-                frontmatter.dumps(post)
-            )
+        typer.echo(Cuisine.validate(post.metadata))
+
+        input_file.write_text(frontmatter.dumps(post))
 
     data = set(data)
 
@@ -308,16 +391,15 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
     for cuisine in data:
         cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if cuisine.lower() not in alias_data:
-            if (not output_folder.joinpath(f"{cuisine_slug}.md").exists()) or overwrite:
+            input_file = output_folder.joinpath(f"{cuisine_slug}.md")
+            if not input_file.exists():
                 post = frontmatter.loads("")
                 post["active"] = False
                 post["name"] = cuisine
                 post["sitemap"] = False
                 post["slug"] = cuisine_slug
 
-                output_folder.joinpath(f"{cuisine_slug}.md").write_text(
-                    frontmatter.dumps(post)
-                )
+                input_file.write_text(frontmatter.dumps(post))
 
 
 @app.command()
@@ -343,6 +425,7 @@ def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = 
 
     for neighborhood in data:
         neighborhood_slug = slugify(neighborhood, stopwords=STOPWORDS)
+
         if not any(
             [alias for alias in neighborhood_aliases if neighborhood in alias["name"]]
         ):
@@ -355,6 +438,8 @@ def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = 
                 post["sitemap"] = True
                 post["slug"] = neighborhood_slug
                 post["title"] = f"{neighborhood} Restaurants"
+
+                typer.echo(Neighborhood.validate(post.metadata))
 
                 output_folder.joinpath(f"{neighborhood_slug}.md").write_text(
                     frontmatter.dumps(post)
@@ -505,6 +590,8 @@ def sync_places(
 
         post.metadata.update(place)
 
+        typer.echo(Place.validate(post.metadata))
+
         input_file.write_text(frontmatter.dumps(post))
 
 
@@ -527,9 +614,8 @@ def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
     schemas = sorted(schemas)
 
     for schema in schemas:
-        print(schema)
-        print(inflection.pluralize(inflection.titleize(schema)))
-        print(slugify(inflection.tableize(schema), stopwords=STOPWORDS))
+        # print(inflection.pluralize(inflection.titleize(schema)))
+        # print(slugify(inflection.tableize(schema), stopwords=STOPWORDS))
         schema_slug = slugify(schema, stopwords=STOPWORDS)
         if (not Path("_schemas").joinpath(f"{schema_slug}.md").exists()) or overwrite:
             post = frontmatter.loads("")
@@ -538,6 +624,8 @@ def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
             post["sitemap"] = False
             post["slug"] = schema_slug
             post["title"] = f"{schema} Businesses"
+
+            typer.echo(Schema.validate(post.metadata))
 
             output_folder.joinpath(f"{schema_slug}.md").write_text(
                 frontmatter.dumps(post)
