@@ -1,5 +1,5 @@
+# import inflection
 import frontmatter
-import inflection
 import os
 import re
 import requests
@@ -151,13 +151,21 @@ class Url(typesystem.Schema):
 
 class Cuisine(typesystem.Schema):
     active = typesystem.Boolean(default=True)
-    aliases = typesystem.Array(allow_null=True, items=typesystem.String(allow_blank=True))
+    aliases = typesystem.Array(allow_null=True, default=list, items=typesystem.String(allow_blank=True))
     description = typesystem.String(allow_blank=True)
     name = typesystem.String()
-    redirect_from = typesystem.Array(allow_null=True, items=typesystem.String(allow_blank=True))
+    redirect_from = typesystem.Array(allow_null=True, default=list, items=typesystem.String(allow_blank=True))
     sitemap = typesystem.Boolean(default=True)
     slug = typesystem.String()
     title = typesystem.String(allow_blank=True)
+
+
+class Neighborhood(typesystem.Schema):
+    active = typesystem.Boolean(default=True)
+    name = typesystem.String()
+    sitemap = typesystem.Boolean(default=True)
+    slug = typesystem.String()
+    title = typesystem.String()
 
 
 class Place(typesystem.Schema):
@@ -202,14 +210,6 @@ class Place(typesystem.Schema):
     twitch_url = typesystem.String(allow_null=True)
     twitter_url = typesystem.String(allow_null=True)
     website = typesystem.String(allow_null=True)
-
-
-class Neighborhood(typesystem.Schema):
-    active = typesystem.Boolean(default=True)
-    name = typesystem.String()
-    sitemap = typesystem.Boolean(default=True)
-    slug = typesystem.String()
-    title = typesystem.String()
 
 
 class Schema(typesystem.Schema):
@@ -377,7 +377,7 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
             except IndexError:
                 pass
 
-        typer.echo(Cuisine.validate(post.metadata))
+        typer.echo(dict(Cuisine.validate(post.metadata)))
 
         input_file.write_text(frontmatter.dumps(post))
 
@@ -392,14 +392,19 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
         cuisine_slug = slugify(cuisine, stopwords=STOPWORDS)
         if cuisine.lower() not in alias_data:
             input_file = output_folder.joinpath(f"{cuisine_slug}.md")
-            if not input_file.exists():
-                post = frontmatter.loads("")
-                post["active"] = False
-                post["name"] = cuisine
-                post["sitemap"] = False
-                post["slug"] = cuisine_slug
 
-                input_file.write_text(frontmatter.dumps(post))
+            if input_file.exists():
+                post = frontmatter.loads(input_file.read_text())
+                obj = Cuisine.validate(post.metadata)
+            else:
+                post = frontmatter.loads("")
+                post["name"] = cuisine
+                post["slug"] = cuisine_slug
+                obj = Cuisine.validate(post.metadata)
+
+            typer.echo(dict(obj))
+            post.metadata.update(dict(obj))
+            input_file.write_text(frontmatter.dumps(post))
 
 
 @app.command()
@@ -425,25 +430,25 @@ def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = 
 
     for neighborhood in data:
         neighborhood_slug = slugify(neighborhood, stopwords=STOPWORDS)
+        input_file = output_folder.joinpath(f"{neighborhood_slug}.md")
 
         if not any(
             [alias for alias in neighborhood_aliases if neighborhood in alias["name"]]
         ):
-            if (
-                not output_folder.joinpath(f"{neighborhood_slug}.md").exists()
-            ) or overwrite:
+
+            if input_file.exists():
+                post = frontmatter.loads(input_file.read_text())
+                obj = Neighborhood.validate(post.metadata)
+            else:
                 post = frontmatter.loads("")
-                post["active"] = True
                 post["name"] = neighborhood
-                post["sitemap"] = True
                 post["slug"] = neighborhood_slug
                 post["title"] = f"{neighborhood} Restaurants"
+                obj = Neighborhood.validate(post.metadata)
 
-                typer.echo(Neighborhood.validate(post.metadata))
-
-                output_folder.joinpath(f"{neighborhood_slug}.md").write_text(
-                    frontmatter.dumps(post)
-                )
+            typer.echo(dict(obj))
+            post.metadata.update(dict(obj))
+            input_file.write_text(frontmatter.dumps(post))
 
 
 @app.command()
@@ -591,7 +596,7 @@ def sync_places(
 
         post.metadata.update(place)
 
-        typer.echo(Place.validate(post.metadata))
+        typer.echo(dict(Place.validate(post.metadata)))
 
         input_file.write_text(frontmatter.dumps(post))
 
@@ -601,6 +606,8 @@ def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
     typer.secho("sync-schemas", fg="yellow")
 
     schemas = []
+
+    # cache place.place_types to build our schemas
     places = Path("_places").glob("*.md")
     for place in places:
         post = frontmatter.loads(place.read_text())
@@ -618,19 +625,21 @@ def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
         # print(inflection.pluralize(inflection.titleize(schema)))
         # print(slugify(inflection.tableize(schema), stopwords=STOPWORDS))
         schema_slug = slugify(schema, stopwords=STOPWORDS)
-        if (not Path("_schemas").joinpath(f"{schema_slug}.md").exists()) or overwrite:
+        input_file = Path("_schemas").joinpath(f"{schema_slug}.md")
+
+        if input_file.exists():
+            post = frontmatter.loads(input_file.read_text())
+            obj = Schema.validate(post.metadata)
+        else:
             post = frontmatter.loads("")
-            post["active"] = True
             post["name"] = schema
-            post["sitemap"] = False
             post["slug"] = schema_slug
             post["title"] = f"{schema} Businesses"
+            obj = Schema.validate(post.metadata)
 
-            typer.echo(Schema.validate(post.metadata))
-
-            output_folder.joinpath(f"{schema_slug}.md").write_text(
-                frontmatter.dumps(post)
-            )
+        typer.echo(dict(obj))
+        post.metadata.update(dict(obj))
+        input_file.write_text(frontmatter.dumps(post))
 
 
 if __name__ == "__main__":
