@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Frozen yogurt
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: frozen-yogurt
+title: ''
 ---

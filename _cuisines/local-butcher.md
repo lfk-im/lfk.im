@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Local Butcher
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: local-butcher
+title: ''
 ---

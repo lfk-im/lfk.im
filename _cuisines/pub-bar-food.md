@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Pub/bar food
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: pub-bar-food
+title: ''
 ---

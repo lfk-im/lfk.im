@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Cocktail Bar
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: cocktail-bar
+title: ''
 ---

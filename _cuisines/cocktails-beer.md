@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Cocktails & Beer
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: cocktails-beer
+title: ''
 ---

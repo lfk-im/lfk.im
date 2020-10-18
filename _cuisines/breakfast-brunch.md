@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Breakfast & Brunch
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: breakfast-brunch
+title: ''
 ---

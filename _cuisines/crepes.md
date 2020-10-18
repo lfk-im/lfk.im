@@ -1,6 +1,10 @@
 ---
-active: false
+active: true
+aliases: []
+description: ''
 name: Crepes
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: crepes
+title: ''
 ---
