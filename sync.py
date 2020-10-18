@@ -1,9 +1,7 @@
 # import inflection
 import frontmatter
 import os
-import re
 import requests
-import sys
 import typer
 import typesystem
 import yaml
@@ -476,7 +474,7 @@ def sync_places(
         sa = SpreadsheetApp(from_env=True)
     except AttributeError:
         print_expected_env_variables()
-        sys.exit(1)
+        raise typer.Exit()
 
     try:
         spreadsheet = sa.open_by_id(sheet_app_id)
@@ -484,7 +482,7 @@ def sync_places(
         typer.echo(
             f"We can't find that 'sheet_app_id'. Please double check that 'LFK_GOOGLE_SHEET_APP_ID' is set. (Currently set to: '{sheet_app_id}')"
         )
-        sys.exit(1)
+        raise typer.Exit()
 
     try:
         sheet = spreadsheet.get_sheet_by_name(sheet_name)
@@ -492,7 +490,7 @@ def sync_places(
         typer.echo(
             f"We can't find that 'sheet_name' aka the tab. Please double check that 'LFK_SHEET_NAME' is set. (Currently set to: '{sheet_name}')"
         )
-        sys.exit(1)
+        raise typer.Exit()
 
     # returns the sheet range that contains data values.
     data_range = sheet.get_data_range()
