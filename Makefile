@@ -27,6 +27,15 @@ static:
 		--output assets/2020.min.css
 
 
+.PHONY: sync
+sync:
+	@python sync.py sync-cuisines --overwrite
+# 	@python sync.py sync-cuisines-to-aliases --overwrite
+	@python sync.py sync-neighborhoods --overwrite
+# 	@python sync.py sync-places --overwrite
+	@python sync.py sync-schemas --overwrite
+
+
 .PHONY: logo
 logo:
 	curl -o 300.png https://via.placeholder.com/300.png/1A202C/F7FAFC/?text=LFK.im
