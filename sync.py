@@ -151,13 +151,13 @@ class Url(typesystem.Schema):
 
 class Cuisine(typesystem.Schema):
     active = typesystem.Boolean(default=True)
-    aliases = typesystem.Array(items=typesystem.String(allow_blank=True))
-    description = typesystem.String()
+    aliases = typesystem.Array(allow_null=True, items=typesystem.String(allow_blank=True))
+    description = typesystem.String(allow_blank=True)
     name = typesystem.String()
-    redirect_from = typesystem.Array(items=typesystem.String(allow_blank=True))
+    redirect_from = typesystem.Array(allow_null=True, items=typesystem.String(allow_blank=True))
     sitemap = typesystem.Boolean(default=True)
     slug = typesystem.String()
-    title = typesystem.String()
+    title = typesystem.String(allow_blank=True)
 
 
 class Place(typesystem.Schema):
