@@ -1,6 +1,11 @@
 ---
-active: false
+active: true
+aliases: []
+description: Sushi restaurants offering curbside, takeout, and delivery food in Lawrence,
+  Kansas
 name: Sushi
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: sushi
+title: Sushi Restaurants in Lawrence, Kansas
 ---

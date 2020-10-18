@@ -1,6 +1,11 @@
 ---
-active: false
+active: true
+aliases: []
+description: American restaurants offering curbside, takeout, and delivery food in
+  Lawrence, Kansas
 name: American
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: american
+title: American Restaurants in Lawrence, Kansas
 ---

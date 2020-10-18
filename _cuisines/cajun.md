@@ -1,6 +1,11 @@
 ---
-active: false
+active: true
+aliases: []
+description: Cajun restaurants offering curbside, takeout, and delivery food in Lawrence,
+  Kansas
 name: Cajun
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: cajun
+title: Cajun Restaurants in Lawrence, Kansas
 ---

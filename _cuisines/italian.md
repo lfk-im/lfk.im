@@ -1,6 +1,11 @@
 ---
-active: false
+active: true
+aliases: []
+description: Italian restaurants offering curbside, takeout, and delivery food in
+  Lawrence, Kansas
 name: Italian
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: italian
+title: Italian Restaurants in Lawrence, Kansas
 ---

@@ -1,6 +1,11 @@
 ---
-active: false
+active: true
+aliases: []
+description: Middle-Eastern restaurants offering curbside, takeout, and delivery food
+  in Lawrence, Kansas
 name: Middle-Eastern
-sitemap: false
+redirect_from: []
+sitemap: true
 slug: middle-eastern
+title: Middle-Eastern Restaurants in Lawrence, Kansas
 ---
