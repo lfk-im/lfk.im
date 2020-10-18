@@ -688,10 +688,6 @@ video {
   border-bottom-width: 1px;
 }
 
-.block {
-  display: block;
-}
-
 .inline-block {
   display: inline-block;
 }

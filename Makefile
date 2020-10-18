@@ -1,4 +1,4 @@
-TAILWIND_CSS_VERSION := 1.8.10
+TAILWIND_CSS_VERSION := 1.9.4
 
 
 .PHONY: lint
@@ -20,12 +20,12 @@ serve:
 .PHONY: static
 static:
  	# @NODE_ENV=production npm run build
-	@npx tailwindcss@1.8.7 build \
+	@npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
 		src/index.css \
 		--config src/tailwind.config.js \
 		--output assets/2020.css
 
-	@npx tailwindcss@1.8.7 build \
+	@npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
 		src/index.css \
 		--config src/tailwind.min.config.js \
 		--output assets/2020.min.css
