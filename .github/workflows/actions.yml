@@ -37,11 +37,7 @@ jobs:
           pip install -U pip
           python -m pip install -r requirements.txt
 
-      - name: Clean up old Places to avoid duplicates
-        run: |
-          rm _places/*
-
-      - name: Sync Places (Google Sheets) locally
+      - name: Sync Places from Google Sheets
         env:
           LFK_GOOGLE_SHEET_APP_ID: ${{ secrets.LFK_GOOGLE_SHEET_APP_ID }}
           LFK_SHEET_NAME: ${{ secrets.LFK_SHEET_NAME }}
@@ -56,26 +52,23 @@ jobs:
           SHEETFU_CONFIG_TOKEN_URI: ${{ secrets.SHEETFU_CONFIG_TOKEN_URI }}
           SHEETFU_CONFIG_TYPE: ${{ secrets.SHEETFU_CONFIG_TYPE }}
         run: |
+          rm -f _places/*
           python sync.py sync-places
 
-      - name: Sync Cuisines locally
+      - name: Sync Cuisines
         run: |
           rm -f _cuisines/*
           python sync.py sync-cuisines
 
-      - name: Sync Neighborhoods locally
+      - name: Sync Neighborhoods
         run: |
           rm -f _neighborhoods/*
           python sync.py sync-neighborhoods
 
-      - name: Sync Schemas locally
+      - name: Sync Schemas
         run: |
           rm -f _schemas/*
           python sync.py sync-schemas
-
-      # - uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if it changed
         run: |
