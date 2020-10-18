@@ -29,11 +29,11 @@ static:
 
 .PHONY: sync
 sync:
-	@python sync.py sync-cuisines --overwrite
-# 	@python sync.py sync-cuisines-to-aliases --overwrite
-	@python sync.py sync-neighborhoods --overwrite
-# 	@python sync.py sync-places --overwrite
-	@python sync.py sync-schemas --overwrite
+	@python sync.py sync-cuisines
+# 	@python sync.py sync-cuisines-to-aliases
+	@python sync.py sync-neighborhoods
+# 	@python sync.py sync-places
+	@python sync.py sync-schemas
 
 
 .PHONY: logo
