@@ -286,7 +286,7 @@ These are the values that you need to configure for the script to run:
 
 @app.command()
 def sync_cuisines_to_aliases():
-    typer.echo("sync-cuisines-to-aliases")
+    typer.secho("sync-cuisines-to-aliases", fg="yellow")
 
     aliases = load_aliases()
     cuisine_aliases = aliases["cuisines"]
@@ -323,7 +323,7 @@ def sync_cuisines_to_aliases():
 
 @app.command()
 def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
-    typer.echo("sync-cuisines")
+    typer.secho("sync-cuisines", fg="yellow")
 
     aliases = load_aliases()
     cuisine_aliases = aliases["cuisines"]
@@ -404,7 +404,7 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
 
 @app.command()
 def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = True):
-    typer.echo("sync-neighborhoods")
+    typer.secho("sync-neighborhoods", fg="yellow")
 
     aliases = load_aliases()
     neighborhood_aliases = aliases.get("neighborhoods", list())
@@ -452,6 +452,7 @@ def sync_places(
     sheet_app_id: str = typer.Argument(default="", envvar="LFK_GOOGLE_SHEET_APP_ID"),
     sheet_name: str = typer.Argument(default="", envvar="LFK_SHEET_NAME"),
 ):
+    typer.secho("sync-places", fg="yellow")
 
     output_folder = Path(output_folder)
     cuisine_aliases = aliases_to_cuisine()
@@ -597,7 +598,7 @@ def sync_places(
 
 @app.command()
 def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
-    typer.echo("sync-schemas")
+    typer.secho("sync-schemas", fg="yellow")
 
     schemas = []
     places = Path("_places").glob("*.md")
