@@ -322,7 +322,7 @@ def sync_cuisines_to_aliases():
 
 
 @app.command()
-def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
+def sync_cuisines(output_folder: str = "_cuisines"):
     typer.secho("sync-cuisines", fg="yellow")
 
     aliases = load_aliases()
@@ -408,7 +408,7 @@ def sync_cuisines(output_folder: str = "_cuisines", overwrite: bool = True):
 
 
 @app.command()
-def sync_neighborhoods(output_folder: str = "_neighborhoods", overwrite: bool = True):
+def sync_neighborhoods(output_folder: str = "_neighborhoods"):
     typer.secho("sync-neighborhoods", fg="yellow")
 
     aliases = load_aliases()
@@ -602,7 +602,7 @@ def sync_places(
 
 
 @app.command()
-def sync_schemas(output_folder: str = "_schemas", overwrite: bool = True):
+def sync_schemas(output_folder: str = "_schemas"):
     typer.secho("sync-schemas", fg="yellow")
 
     schemas = []
