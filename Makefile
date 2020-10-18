@@ -1,17 +1,21 @@
-# .PHONY: build
-# build: sync
-# 	git cia -m ":robot: Update places"
-# 	git push origin main
+TAILWIND_CSS_VERSION := 1.8.10
 
-# .PHONY: add
-# add: sync
-# 	git add _places/
-# 	git cia -m ":robot: Update places"
-# 	git push origin main
 
-# .PHONY: sync
-# sync:
-# 	python sync.py
+.PHONY: lint
+lint:
+	@black --check .
+	@curlylint *.html
+
+
+.PHONY: proxy
+proxy:
+	devd --modd -l http://localhost:4000
+
+
+.PHONY: serve
+serve:
+	bundle exec jekyll serve --drafts --watch --port 4000
+
 
 .PHONY: static
 static:
