@@ -462,6 +462,9 @@ def sync_places(
     typer.secho("sync-places", fg="yellow")
 
     output_folder = Path(output_folder)
+    if not output_folder.exists():
+        output_folder.mkdir()
+
     cuisine_aliases = aliases_to_cuisine()
 
     aliases = load_aliases()
