@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1025 Massachusetts St
 cuisine: Bakery, Coffee
 cuisine_slugs:
@@ -10,9 +10,9 @@ cuisine_slugs:
 cuisines:
 - Bakery
 - Coffee
-curbside: true
+curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/AimeesCoffeehouse/
@@ -31,17 +31,17 @@ locality: Lawrence
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Delivery through EatStreet, or curbside pickup of phone orders
-perma_closed: false
+notes: Perma Closed
+perma_closed: true
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: 785-843-5173
 sitemap: false
 slug: aimee-s-coffeehouse-downtown
-takeout: true
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''
 ---
 
-Delivery through EatStreet, or curbside pickup of phone orders
+Perma Closed

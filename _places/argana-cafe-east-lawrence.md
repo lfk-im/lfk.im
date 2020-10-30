@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1606 W 23rd St
+address: 7 E 7th St
 cuisine: Middle-Eastern
 cuisine_slugs:
 - middle-eastern
@@ -37,5 +37,5 @@ slug: argana-cafe-east-lawrence
 takeout: true
 twitch_url: ''
 twitter_url: ''
-website: ''
+website: http://argana.cafe/
 ---

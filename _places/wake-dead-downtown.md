@@ -30,8 +30,8 @@ locality: Lawrence
 name: Wake The Dead
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone and pick up curbside, or order through EatStreet
-perma_closed: false
+notes: Perma Closed
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 303-588-4678
@@ -43,4 +43,4 @@ twitter_url: ''
 website: https://www.wtdbreakfastbar.com/
 ---
 
-Order by phone and pick up curbside, or order through EatStreet
+Perma Closed
