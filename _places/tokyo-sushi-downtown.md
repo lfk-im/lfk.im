@@ -1,6 +1,6 @@
 ---
 active: true
-address: 619 Massachusetts St
+address: 239 Elm St
 cuisine: Sushi, Japanese
 cuisine_slugs:
 - sushi
@@ -25,7 +25,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo,We,Th,Su 11am-9pm; Fr-Sa 11am-10pm
 instagram_url: ''
 locality: Lawrence
 name: Tokyo Sushi
