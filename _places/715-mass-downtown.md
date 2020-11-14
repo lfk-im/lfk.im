@@ -10,7 +10,7 @@ cuisines:
 - Bars
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://menu.715mass.com/
 dinein: true
 facebook_url: https://www.facebook.com/715Restaurant/
@@ -18,6 +18,10 @@ featured: true
 food_urls:
 - name: order online
   url: https://menu.715mass.com/
+- name: doordash.com
+  url: https://www.doordash.com/store/715-lawrence-1241139/en-US
+- name: grubhub.com
+  url: https://www.grubhub.com/restaurant/715-715-massachusetts-st-lawrence/2410433
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
