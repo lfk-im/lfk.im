@@ -22,19 +22,19 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Fr 7am-6pm; Sa 7am-5pm
 instagram_url: ''
 locality: Lawrence
 name: Great Harvest Bread Co.
-neighborhood: Downtown
-neighborhood_slug: downtown
+neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: Breads available to go and snacks for kids
 perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-749-2227
 sitemap: false
-slug: great-harvest-bread-co-downtown
+slug: great-harvest-bread-co-downtown-adjacent
 takeout: true
 twitch_url: ''
 twitter_url: ''
