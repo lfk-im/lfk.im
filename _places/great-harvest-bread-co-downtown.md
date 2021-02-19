@@ -1,6 +1,6 @@
 ---
 active: true
-address: 807 Vermont St
+address: 501 W  Ninth St
 cuisine: Bakery
 cuisine_slugs:
 - bakery
@@ -10,11 +10,13 @@ cuisines:
 curbside: true
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: ''
+delivery_service_websites: https://greatharvestbreadlawrenceks.square.site/
 dinein: false
 facebook_url: https://www.facebook.com/GreatHarvestLawrenceKs/
 featured: false
 food_urls:
+- name: order online
+  url: https://greatharvestbreadlawrenceks.square.site/
 - name: postmates.com
   url: https://postmates.com/merchant/great-harvest-bread-lawrence
 giftcard: false
@@ -36,7 +38,7 @@ slug: great-harvest-bread-co-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''
-website: ''
+website: http://lawrence.greatharvestbread.com/
 ---
 
 Breads available to go and snacks for kids
