@@ -14,7 +14,7 @@ delivery: false
 delivery_service_websites: https://www.ladybirddiner.menu/
 dinein: false
 facebook_url: ''
-featured: true
+featured: false
 food_urls:
 - name: order online
   url: https://www.ladybirddiner.menu/
