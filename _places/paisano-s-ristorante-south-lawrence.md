@@ -27,8 +27,8 @@ locality: Lawrence
 name: Paisano's Ristorante
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: (Adam) Paisano's closed because the building was sold, read about it a while
-  back and now their website shows it's closed.
+notes: (Adam 4/18/21) Paisano's closed because the building was sold, read about it
+  a while back and now their website shows it's closed.
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -41,4 +41,4 @@ twitter_url: ''
 website: https://paisanoskansas.com
 ---
 
-(Adam) Paisano's closed because the building was sold, read about it a while back and now their website shows it's closed.
+(Adam 4/18/21) Paisano's closed because the building was sold, read about it a while back and now their website shows it's closed.
