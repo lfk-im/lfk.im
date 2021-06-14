@@ -14,7 +14,7 @@ delivery: true
 delivery_service_websites: https://menu.715mass.com/
 dinein: true
 facebook_url: https://www.facebook.com/715Restaurant/
-featured: true
+featured: false
 food_urls:
 - name: order online
   url: https://menu.715mass.com/
@@ -25,7 +25,7 @@ food_urls:
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
-hours: Mu-Sa 4pm-9pm
+hours: Tu-Th 3pm-9pm; Fr-Sa 3pm-10pm
 instagram_url: https://www.instagram.com/715restaurant/
 locality: Lawrence
 name: 715 Mass

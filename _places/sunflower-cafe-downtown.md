@@ -16,7 +16,7 @@ delivery: false
 delivery_service_websites: https://sunfloweroutdoor.square.site/
 dinein: true
 facebook_url: ''
-featured: true
+featured: false
 food_urls:
 - name: order online
   url: https://sunfloweroutdoor.square.site/
