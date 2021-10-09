@@ -21,7 +21,7 @@ locality: Lawrence
 name: Game Nut Entertainment
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: 'TODO: Add a non-restaurant section'
+notes: ''
 perma_closed: false
 place_type: Store
 region: KS
@@ -33,5 +33,3 @@ twitch_url: https://www.twitch.tv/Game_Nut
 twitter_url: https://twitter.com/Gamenutonmass
 website: http://www.imagamenut.com/
 ---
-
-TODO: Add a non-restaurant section
