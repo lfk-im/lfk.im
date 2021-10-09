@@ -15,7 +15,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Th-Su 8am-3pm
+hours: We-Su 8am-6pm
 instagram_url: https://www.instagram.com/cellar.door.cafe/
 locality: Lawrence
 name: Cellar Door Café
@@ -31,5 +31,5 @@ slug: cellar-door-cafe-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''
-website: https://cellardoorcafe.com
+website: https://cellardoorcafe.square.site/
 ---
