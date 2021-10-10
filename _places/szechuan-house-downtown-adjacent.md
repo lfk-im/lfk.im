@@ -15,13 +15,11 @@ cuisines:
 curbside: false
 curbside_instructions: ''
 delivery: true
-delivery_service_websites: https://www.szechuanhousecuisine.com/order
+delivery_service_websites: ''
 dinein: true
 facebook_url: ''
 featured: false
-food_urls:
-- name: order online
-  url: https://www.szechuanhousecuisine.com/order
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
