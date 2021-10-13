@@ -19,10 +19,9 @@ food_urls:
 - name: order online
   url: https://www.ladybirddiner.menu/
 giftcard: true
-giftcard_notes: Free sack lunches available, can order gift cards by phone or donate
-  online
+giftcard_notes: ''
 giftcard_url: https://ladybirddiner.com/shop/
-hours: Tu-Fr 12:30-5pm (pies only)
+hours: We-Su 8am-3pm
 instagram_url: https://www.instagram.com/ladybird_diner/
 locality: Lawrence
 name: Ladybird
