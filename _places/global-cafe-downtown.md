@@ -1,14 +1,16 @@
 ---
 active: true
 address: 820 Massachusetts St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Latin American
+cuisine_slugs:
+- latin-american
+cuisines:
+- Latin American
 curbside: true
 curbside_instructions: ''
 delivery: true
 delivery_service_websites: ''
-dinein: false
+dinein: true
 facebook_url: ''
 featured: false
 food_urls:
