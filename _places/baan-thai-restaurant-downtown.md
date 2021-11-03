@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 741 Massachusetts St
 cuisine: Thai
 cuisine_slugs:
@@ -25,7 +25,7 @@ locality: Lawrence
 name: Baan Thai Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: ''
+notes: Perma Closed
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,3 +37,5 @@ twitch_url: ''
 twitter_url: ''
 website: http://baanthaikansas.com/
 ---
+
+Perma Closed
