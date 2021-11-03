@@ -21,7 +21,7 @@ food_urls: []
 giftcard: true
 giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
-hours: Mo-Su 7am-6pm
+hours: Mo-Su 7am-5pm
 instagram_url: ''
 locality: Lawrence
 name: Alchemy Limited

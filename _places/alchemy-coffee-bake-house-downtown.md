@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 816 Massachusetts St
 cuisine: Bakery, Coffee
 cuisine_slugs:
@@ -14,7 +14,7 @@ curbside: false
 curbside_instructions: ''
 delivery: false
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
-dinein: false
+dinein: true
 facebook_url: https://www.facebook.com/alchemycoffeeKS/
 featured: false
 food_urls:
@@ -25,7 +25,7 @@ food_urls:
 giftcard: true
 giftcard_notes: ''
 giftcard_url: http://www.alchemyks.com/online-shop/gift-card
-hours: ''
+hours: Th-Sun 8am-2pm
 instagram_url: ''
 locality: Lawrence
 name: Alchemy Coffee & Bake House
@@ -38,7 +38,7 @@ region: KS
 restaurant_phone: 785-424-5601
 sitemap: false
 slug: alchemy-coffee-bake-house-downtown
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: https://www.alchemyks.com/
