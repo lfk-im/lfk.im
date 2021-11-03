@@ -13,13 +13,11 @@ delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/mamastamaleshop/
 featured: false
-food_urls:
-- name: eatstreet.com
-  url: https://eatstreet.com/lawrence-ks/restaurants/mamas-tamales-shop
+food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Th 10:30am-8pm; Th-Fr 10:30am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Mama's Tamale Shop
@@ -32,7 +30,7 @@ region: KS
 restaurant_phone: 785-424-7565
 sitemap: false
 slug: mama-s-tamale-shop-downtown-adjacent
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''
