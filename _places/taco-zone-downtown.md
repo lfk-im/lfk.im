@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 13 E 8th St
 cuisine: Mexican, Tacos
 cuisine_slugs:
@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Tu-Sa 12pm-8pm
 instagram_url: https://www.instagram.com/TACO_ZONE/
 locality: Lawrence
 name: Taco Zone
@@ -34,7 +34,7 @@ region: KS
 restaurant_phone: 785-424-7123
 sitemap: false
 slug: taco-zone-downtown
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: https://twitter.com/taco_zone
 website: http://www.thetacozone.com/

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 13 E 8th St
 cuisine: Mexican, Tacos
 cuisine_slugs:
@@ -10,7 +10,7 @@ cuisines:
 - Tacos
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: https://www.tacozonedelivery.com/
 dinein: false
 facebook_url: https://www.facebook.com/tacozoneLFK
