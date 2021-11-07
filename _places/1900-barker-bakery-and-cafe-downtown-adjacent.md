@@ -42,6 +42,6 @@ sitemap: false
 slug: 1900-barker-bakery-and-cafe-downtown-adjacent
 takeout: true
 twitch_url: ''
-twitter_url: ''
+twitter_url: https://twitter.com/1900barker
 website: https://www.1900barker.com
 ---

@@ -25,7 +25,7 @@ food_urls: []
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Su 8am-1pm
+hours: Mo-Su 7am-2pm
 instagram_url: ''
 locality: Lawrence
 name: The Roost
@@ -38,7 +38,7 @@ region: KS
 restaurant_phone: 785-843-1110
 sitemap: false
 slug: roost-downtown
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: http://www.920mass.com/
