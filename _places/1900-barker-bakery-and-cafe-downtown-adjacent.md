@@ -15,7 +15,7 @@ curbside_instructions: Order online - Pickup curbside
 delivery: false
 delivery_service_websites: https://1900online.square.site/
 dinein: false
-facebook_url: ''
+facebook_url: http://facebook.com/1900barker
 featured: false
 food_urls:
 - name: order online
@@ -27,15 +27,13 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Su 8am-2pm; Mo-Fr 7am-5pm; Sa 7am-2pm
+hours: Sa-Su 8am-2pm; Mo-Fr 7am-5pm
 instagram_url: https://www.instagram.com/1900barker/
 locality: Lawrence
 name: 1900 Barker - Bakery and Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Today that looks like curbside - window pick up only — we have our entire Bread,
-  Pastry, Coffee and Lunch Menu loaded to an online store where you can order from
-  the safety of your home and then pick up at our window here at the Café.
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -47,5 +45,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.1900barker.com
 ---
-
-Today that looks like curbside - window pick up only — we have our entire Bread, Pastry, Coffee and Lunch Menu loaded to an online store where you can order from the safety of your home and then pick up at our window here at the Café.
