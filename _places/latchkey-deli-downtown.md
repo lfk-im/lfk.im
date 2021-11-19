@@ -24,7 +24,7 @@ locality: Lawrence
 name: Latchkey Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: ''
+notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/08/25/review-latchkey-deli/ '
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -36,3 +36,5 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.latchkeydeli.com/
 ---
+
+The Lawrence Times reviewed: https://lawrencekstimes.com/2021/08/25/review-latchkey-deli/
