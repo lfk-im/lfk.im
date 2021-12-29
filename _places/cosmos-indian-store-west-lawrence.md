@@ -35,14 +35,15 @@ hours: Su-Mo 11am-8pm; Tu-Sa 11am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Cosmos Indian Store
-neighborhood: ''
+neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0080
 sitemap: false
-slug: cosmos-indian-store-3115-west-6th-street-suite-h
+slug: cosmos-indian-store-west-lawrence
 takeout: true
 twitch_url: ''
 twitter_url: ''
