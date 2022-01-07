@@ -1,6 +1,6 @@
 ---
 active: false
-address: ' '
+address: 18 East 8th Street
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery
@@ -29,14 +29,15 @@ hours: ''
 instagram_url: https://www.instagram.com/ebarnfarmlf
 locality: Lawrence
 name: E Barn Farm Bakery
-neighborhood: ''
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: Closed through June 8th - Deliveries happen following business day
-perma_closed: false
+perma_closed: true
 place_type: Bakery
 region: KS
 restaurant_phone: 785-836-4100
 sitemap: false
-slug: e-barn-farm-bakery
+slug: e-barn-farm-bakery-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

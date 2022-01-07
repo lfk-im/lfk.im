@@ -1,6 +1,6 @@
 ---
-active: true
-address: 901 Stange Road
+active: false
+address: 11 East 8th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: The Merc
-neighborhood: ''
+name: Henry's Coffee Shop
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: GroceryStore
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: merc-901-stange-road
+slug: henry-s-coffee-shop-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

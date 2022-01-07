@@ -1,6 +1,6 @@
 ---
 active: false
-address: 712 Massachusetts Street
+address: 707 West 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican
@@ -26,7 +26,7 @@ name: Mexquisito
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-8226

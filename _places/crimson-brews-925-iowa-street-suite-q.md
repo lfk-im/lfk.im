@@ -1,6 +1,6 @@
 ---
 active: true
-address: 21 West 9th Street
+address: 925 Iowa Street Suite Q
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: House of Cha
+name: Crimson & Brews
 neighborhood: ''
 notes: ''
 perma_closed: false
-place_type: Restaurant
+place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: house-of-cha-21-west-9th-street
-takeout: true
+slug: crimson-brews-925-iowa-street-suite-q
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''

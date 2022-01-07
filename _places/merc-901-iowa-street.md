@@ -1,6 +1,6 @@
 ---
-active: false
-address: 11 East 8th Street
+active: true
+address: 901 Iowa Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,15 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Henry's Coffee Shop
+name: The Merc
 neighborhood: ''
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: GroceryStore
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: henry-s-coffee-shop-11-east-8th-street
+slug: merc-901-iowa-street
 takeout: false
 twitch_url: ''
 twitter_url: ''

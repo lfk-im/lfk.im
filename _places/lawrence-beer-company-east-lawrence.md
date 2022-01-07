@@ -26,15 +26,15 @@ hours: Mo-Su 3-8pm
 instagram_url: ''
 locality: Lawrence
 name: Lawrence Beer Company
-neighborhood: Downtown
-neighborhood_slug: downtown
+neighborhood: East Lawrence
+neighborhood_slug: east-lawrence
 notes: Order online and pick up curbside (both locations)
 perma_closed: false
 place_type: Brewery
 region: KS
 restaurant_phone: 785-856-0453
 sitemap: false
-slug: lawrence-beer-company-downtown
+slug: lawrence-beer-company-east-lawrence
 takeout: false
 twitch_url: ''
 twitter_url: ''

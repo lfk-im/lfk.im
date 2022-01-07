@@ -1,6 +1,6 @@
 ---
 active: false
-address: 3320 McCarthy Road
+address: 941 Massachusetts St
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

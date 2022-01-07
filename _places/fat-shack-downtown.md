@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2351 West 31st Street
+address: 1008 Massachusetts Avenue
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Z's Divine Espresso South
-neighborhood: ''
+name: Fat Shack
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: z-s-divine-espresso-south-2351-west-31st-street
+slug: fat-shack-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

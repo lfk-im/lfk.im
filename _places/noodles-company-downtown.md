@@ -1,6 +1,6 @@
 ---
 active: true
-address: 925 South Houser Street
+address: 8 West 8th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Crimson & Brews
-neighborhood: ''
+name: Noodles & Company
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: BarOrPub
+place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: crimson-brews-925-south-houser-street
-takeout: false
+slug: noodles-company-downtown
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

@@ -1,9 +1,11 @@
 ---
 active: true
-address: 1026 Massachusetts Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+address: 1900 Massachusetts Street
+cuisine: Mexican
+cuisine_slugs:
+- mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -18,16 +20,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Einstein Bros Bagels
-neighborhood: ''
+name: La Pasadita Taquria
+neighborhood: Barker
+neighborhood_slug: barker
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: einstein-bros-bagels-1026-massachusetts-street
-takeout: false
+slug: la-pasadita-taquria-barker
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

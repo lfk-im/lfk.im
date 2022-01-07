@@ -31,15 +31,15 @@ hours: Sa-Su 8am-2pm; Mo-Fr 7am-5pm
 instagram_url: https://www.instagram.com/1900barker/
 locality: Lawrence
 name: 1900 Barker - Bakery and Café
-neighborhood: Downtown-Adjacent
-neighborhood_slug: downtown-adjacent
+neighborhood: Barker
+neighborhood_slug: barker
 notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-424-7609
 sitemap: false
-slug: 1900-barker-bakery-and-cafe-downtown-adjacent
+slug: 1900-barker-bakery-and-cafe-barker
 takeout: true
 twitch_url: ''
 twitter_url: https://twitter.com/1900barker

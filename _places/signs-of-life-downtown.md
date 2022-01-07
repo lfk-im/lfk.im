@@ -1,6 +1,6 @@
 ---
 active: true
-address: 8 West 8th Street
+address: 722 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Noodles & Company
-neighborhood: ''
+name: Signs of Life
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: FastFoodRestaurant
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: noodles-company-8-west-8th-street
-takeout: true
+slug: signs-of-life-downtown
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''

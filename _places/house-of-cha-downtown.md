@@ -1,6 +1,6 @@
 ---
 active: true
-address: 722 Massachusetts Street
+address: 21 West 9th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Signs of Life
-neighborhood: ''
+name: House of Cha
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: signs-of-life-722-massachusetts-street
-takeout: false
+slug: house-of-cha-downtown
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

@@ -25,15 +25,15 @@ hours: Mo-Su 10:30am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Argana Cafe
-neighborhood: East Lawrence
-neighborhood_slug: east-lawrence
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-424-7267
 sitemap: false
-slug: argana-cafe-east-lawrence
+slug: argana-cafe-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''
