@@ -1,6 +1,6 @@
 ---
 active: false
-address: ''
+address: ' '
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery

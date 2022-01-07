@@ -1,6 +1,6 @@
 ---
 active: true
-address: ' East 7th Street'
+address: 7 East 7th Street
 cuisine: Bars, Cocktail Bar
 cuisine_slugs:
 - bars

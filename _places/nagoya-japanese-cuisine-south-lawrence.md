@@ -1,6 +1,6 @@
 ---
 active: true
-address: '711 W 23rd St #24'
+address: 711 West 23rd Street
 cuisine: Japanese, Sushi
 cuisine_slugs:
 - japanese

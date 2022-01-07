@@ -1,6 +1,6 @@
 ---
 active: true
-address: ' West 8th Street'
+address: 8 West 8th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -26,7 +26,7 @@ place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: noodles-company-west-8th-street
+slug: noodles-company-8-west-8th-street
 takeout: true
 twitch_url: ''
 twitter_url: ''

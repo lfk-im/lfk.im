@@ -1,6 +1,6 @@
 ---
 active: false
-address: ' '
+address: 220 South Main Street
 cuisine: Bar, Cocktails, Coffee
 cuisine_slugs:
 - bar

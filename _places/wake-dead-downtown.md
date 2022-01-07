@@ -1,6 +1,6 @@
 ---
 active: false
-address: ' East 7th Street'
+address: 7 East 7th Street
 cuisine: Breakfast, Donuts
 cuisine_slugs:
 - breakfast

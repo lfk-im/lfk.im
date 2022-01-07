@@ -23,7 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: Store
+place_type: LocalBusiness
 region: KS
 restaurant_phone: 785-840-4892
 sitemap: false

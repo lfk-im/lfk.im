@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2700 Iowa Street
+address: 2700 Iowa Avenue
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -26,7 +26,7 @@ place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: runza-2700-iowa-street
+slug: runza-2700-iowa-avenue
 takeout: false
 twitch_url: ''
 twitter_url: ''

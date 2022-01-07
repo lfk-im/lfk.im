@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2520 Iowa Street
+address: 2520 West Iowa Street
 cuisine: American
 cuisine_slugs:
 - american

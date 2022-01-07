@@ -1,6 +1,6 @@
 ---
 active: true
-address: '1601 W 23rd #119'
+address: 1601 West 23rd Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

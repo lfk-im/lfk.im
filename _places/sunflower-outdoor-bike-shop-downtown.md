@@ -1,6 +1,6 @@
 ---
 active: true
-address: ' '
+address: 804 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -23,7 +23,7 @@ neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: BikeStore
 region: KS
 restaurant_phone: ''
 sitemap: false

@@ -1,6 +1,6 @@
 ---
 active: true
-address: '2311 Wakarusa Dr #D'
+address: 2311 Wakarusa Drive
 cuisine: Bakery, Dessert, Healthy, Salads, Sandwiches
 cuisine_slugs:
 - bakery

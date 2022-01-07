@@ -1,6 +1,6 @@
 ---
 active: false
-address: '947 New Hampshire St #120'
+address: 947 New Hampshire Street
 cuisine: Thai
 cuisine_slugs:
 - thai
