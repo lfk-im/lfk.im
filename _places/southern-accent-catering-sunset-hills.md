@@ -1,12 +1,12 @@
 ---
 active: true
-address: 1410 Kasold Drive
-cuisine: ''
+address: 3115 West 6th Street
+cuisine: Catering, Variety
 cuisine_slugs: null
-cuisines: null
+cuisines: []
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
@@ -18,17 +18,18 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: OO Bakes
-neighborhood: ''
+name: Southern Accent Catering
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: Bakery
+place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: 785-749-2770
 sitemap: false
-slug: oo-bakes-1410-kasold-drive
+slug: southern-accent-catering-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''
-website: ''
+website: http://www.southernaccentcatering.com/HOME
 ---

@@ -26,15 +26,15 @@ hours: Mo-Su 4-8:30pm (last taken orders at 8pm)
 instagram_url: ''
 locality: Lawrence
 name: Henry T's
-neighborhood: Old West Lawrence
-neighborhood_slug: old-west-lawrence
+neighborhood: Deerfield
+neighborhood_slug: deerfield
 notes: Call or order online via EatStreet
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-749-2999
 sitemap: false
-slug: henry-t-s-old-west-lawrence
+slug: henry-t-s-deerfield
 takeout: true
 twitch_url: ''
 twitter_url: ''

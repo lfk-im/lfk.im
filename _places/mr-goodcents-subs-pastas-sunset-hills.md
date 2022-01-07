@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3300 Bob Billings Parkway
+address: 1410 Kasold Drive
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Scone Lady's Coffee Shop
-neighborhood: ''
+name: Mr. Goodcents Subs & Pastas
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: scone-lady-s-coffee-shop-3300-bob-billings-parkway
-takeout: false
+slug: mr-goodcents-subs-pastas-sunset-hills
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

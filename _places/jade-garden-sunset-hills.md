@@ -21,15 +21,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Jade Garden
-neighborhood: West Lawrence
-neighborhood_slug: west-lawrence
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-843-8650
 sitemap: false
-slug: jade-garden-west-lawrence
+slug: jade-garden-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

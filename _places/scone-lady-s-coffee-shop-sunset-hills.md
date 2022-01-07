@@ -1,6 +1,6 @@
 ---
 active: true
-address: 939 Iowa Street
+address: 3300 Bob Billings Parkway
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Tad's Shaved Ice
-neighborhood: ''
+name: Scone Lady's Coffee Shop
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: IceCreamShop
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: tad-s-shaved-ice-939-iowa-street
+slug: scone-lady-s-coffee-shop-sunset-hills
 takeout: false
 twitch_url: ''
 twitter_url: ''

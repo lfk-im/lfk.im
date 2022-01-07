@@ -1,6 +1,6 @@
 ---
-active: true
-address: 1410 Kasold Drive
+active: false
+address: 1900 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -9,7 +9,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 dinein: false
-facebook_url: ''
+facebook_url: https://www.facebook.com/webuildyoueat/
 featured: false
 food_urls: []
 giftcard: false
@@ -18,17 +18,20 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Mr. Goodcents Subs & Pastas
-neighborhood: ''
-notes: ''
+name: PoorBoy Burrito Company
+neighborhood: Barker
+neighborhood_slug: barker
+notes: Unconfirmed
 perma_closed: false
-place_type: FastFoodRestaurant
+place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: 785-550-3317
 sitemap: false
-slug: mr-goodcents-subs-pastas-1410-kasold-drive
-takeout: true
+slug: poorboy-burrito-company-barker
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''
 ---
+
+Unconfirmed

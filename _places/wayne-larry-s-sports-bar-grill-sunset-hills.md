@@ -31,15 +31,15 @@ hours: Mo-Su 11am-7:30pm
 instagram_url: ''
 locality: Lawrence
 name: Wayne & Larry's Sports Bar & Grill
-neighborhood: 9th and Iowa Area
-neighborhood_slug: 9th-and-iowa-area
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: Call upon arrival and we will curbside deliver your order
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-7170
 sitemap: false
-slug: wayne-larry-s-sports-bar-grill-9th-and-iowa-area
+slug: wayne-larry-s-sports-bar-grill-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

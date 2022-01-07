@@ -21,8 +21,8 @@ hours: Mo-Fr 9am-6pm; Sa-Su 10am-3pm
 instagram_url: ''
 locality: Lawrence
 name: OO Bakes
-neighborhood: Bob Billings & Iowa
-neighborhood_slug: bob-billings-iowa
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: 'Pizzas 13” 12.00 8” 7.00
 
   *Italian Sausage, Spinach and Artichoke with or without Organic Cheeses
@@ -43,7 +43,7 @@ place_type: Bakery
 region: KS
 restaurant_phone: 785-331-5290
 sitemap: false
-slug: oo-bakes-bob-billings-iowa
+slug: oo-bakes-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

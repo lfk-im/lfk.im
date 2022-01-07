@@ -25,15 +25,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Kobe Japanese Steakhouse
-neighborhood: Old West Lawrence
-neighborhood_slug: old-west-lawrence
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: Unconfirmed
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-838-3399
 sitemap: false
-slug: kobe-japanese-steakhouse-old-west-lawrence
+slug: kobe-japanese-steakhouse-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

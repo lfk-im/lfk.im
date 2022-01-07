@@ -29,15 +29,15 @@ hours: Mo-Su 11am-8pm
 instagram_url: ''
 locality: Lawrence
 name: Murf's Pub
-neighborhood: West Lawrence
-neighborhood_slug: west-lawrence
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-856-3663
 sitemap: false
-slug: murf-s-pub-west-lawrence
+slug: murf-s-pub-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

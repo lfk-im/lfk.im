@@ -27,15 +27,15 @@ hours: Mo-Th 5-11pm; Fr-Sa 11am-11pm
 instagram_url: ''
 locality: Lawrence
 name: Tortas Jalisco
-neighborhood: 9th and Iowa Area
-neighborhood_slug: 9th-and-iowa-area
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-691-8930
 sitemap: false
-slug: tortas-jalisco-9th-and-iowa-area
+slug: tortas-jalisco-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

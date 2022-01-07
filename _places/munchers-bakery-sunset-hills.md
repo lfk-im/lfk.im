@@ -26,15 +26,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Munchers Bakery
-neighborhood: 9th and Iowa Area
-neighborhood_slug: 9th-and-iowa-area
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: Dining area closed, but open for takeout
 perma_closed: false
 place_type: Bakery
 region: KS
 restaurant_phone: 785-749-4324
 sitemap: false
-slug: munchers-bakery-9th-and-iowa-area
+slug: munchers-bakery-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

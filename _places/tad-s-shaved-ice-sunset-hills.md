@@ -1,6 +1,6 @@
 ---
 active: true
-address: 846 Illinois Street
+address: 939 Iowa Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Rick's Place
-neighborhood: ''
+name: Tad's Shaved Ice
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: BarOrPub
+place_type: IceCreamShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: rick-s-place-846-illinois-street
+slug: tad-s-shaved-ice-sunset-hills
 takeout: false
 twitch_url: ''
 twitter_url: ''

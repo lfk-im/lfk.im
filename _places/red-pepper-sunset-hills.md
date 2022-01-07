@@ -1,6 +1,6 @@
 ---
 active: true
-address: 925 Iowa Street Suite Q
+address: 821 Iowa Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Crimson & Brews
-neighborhood: ''
+name: Red Pepper
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: BarOrPub
+place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: crimson-brews-925-iowa-street-suite-q
+slug: red-pepper-sunset-hills
 takeout: false
 twitch_url: ''
 twitter_url: ''

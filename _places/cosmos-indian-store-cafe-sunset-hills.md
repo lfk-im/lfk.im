@@ -35,15 +35,15 @@ hours: Su-Mo 11am-8pm; Tu-Sa 11am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Cosmos Indian Store & Cafe
-neighborhood: West Lawrence
-neighborhood_slug: west-lawrence
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0080
 sitemap: false
-slug: cosmos-indian-store-cafe-west-lawrence
+slug: cosmos-indian-store-cafe-sunset-hills
 takeout: true
 twitch_url: ''
 twitter_url: ''

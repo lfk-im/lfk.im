@@ -1,12 +1,12 @@
 ---
 active: true
-address: 3115 West 6th Street
-cuisine: Catering, Variety
+address: 901 Iowa Street
+cuisine: ''
 cuisine_slugs: null
-cuisines: []
+cuisines: null
 curbside: false
 curbside_instructions: ''
-delivery: true
+delivery: false
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
@@ -18,18 +18,18 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Southern Accent Catering
-neighborhood: West Lawrence
-neighborhood_slug: west-lawrence
+name: The Merc
+neighborhood: Sunset Hills
+neighborhood_slug: sunset-hills
 notes: ''
 perma_closed: false
-place_type: Restaurant
+place_type: GroceryStore
 region: KS
-restaurant_phone: 785-749-2770
+restaurant_phone: ''
 sitemap: false
-slug: southern-accent-catering-west-lawrence
-takeout: true
+slug: merc-sunset-hills
+takeout: false
 twitch_url: ''
 twitter_url: ''
-website: http://www.southernaccentcatering.com/HOME
+website: ''
 ---

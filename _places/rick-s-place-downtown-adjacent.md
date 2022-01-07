@@ -1,6 +1,6 @@
 ---
-active: false
-address: 1900 Massachusetts Street
+active: true
+address: 846 Illinois Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -9,7 +9,7 @@ curbside_instructions: ''
 delivery: false
 delivery_service_websites: ''
 dinein: false
-facebook_url: https://www.facebook.com/webuildyoueat/
+facebook_url: ''
 featured: false
 food_urls: []
 giftcard: false
@@ -18,20 +18,18 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: PoorBoy Burrito Company
+name: Rick's Place
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Unconfirmed
+notes: ''
 perma_closed: false
-place_type: Restaurant
+place_type: BarOrPub
 region: KS
-restaurant_phone: 785-550-3317
+restaurant_phone: ''
 sitemap: false
-slug: poorboy-burrito-company-downtown-adjacent
+slug: rick-s-place-downtown-adjacent
 takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Unconfirmed
