@@ -25,7 +25,7 @@ notes: Unconfirmed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-550-3317
+restaurant_phone: '+17855503317'
 sitemap: false
 slug: poorboy-burrito-company-barker
 takeout: false

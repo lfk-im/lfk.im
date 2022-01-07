@@ -27,7 +27,7 @@ notes: Order by phone or Delivery via Starve Bird
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-331-2525
+restaurant_phone: '+17853312525'
 sitemap: false
 slug: thai-siam-restaurant-west-lawrence
 takeout: true

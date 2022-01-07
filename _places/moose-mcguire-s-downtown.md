@@ -25,7 +25,7 @@ notes: Unconfirmed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0918
+restaurant_phone: '+17858560918'
 sitemap: false
 slug: moose-mcguire-s-downtown
 takeout: false

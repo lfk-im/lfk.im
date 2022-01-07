@@ -36,7 +36,7 @@ notes: Free delivery
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-727-7770
+restaurant_phone: '+17857277770'
 sitemap: false
 slug: sarpinos-pizzeria-711-west-23rd-street
 takeout: true

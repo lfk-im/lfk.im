@@ -26,7 +26,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858413837'
 sitemap: false
 slug: el-matador-cafe-446-locust-street
 takeout: false

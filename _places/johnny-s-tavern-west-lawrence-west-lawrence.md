@@ -34,7 +34,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-0704
+restaurant_phone: '+17858430704'
 sitemap: false
 slug: johnny-s-tavern-west-lawrence-west-lawrence
 takeout: true

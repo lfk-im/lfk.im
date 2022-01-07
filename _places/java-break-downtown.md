@@ -30,7 +30,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-749-5282
+restaurant_phone: '+17857495282'
 sitemap: false
 slug: java-break-downtown
 takeout: true

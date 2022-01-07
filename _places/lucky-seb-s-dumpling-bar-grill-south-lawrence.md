@@ -33,7 +33,7 @@ notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/05/07/revi
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7277
+restaurant_phone: '+17854247277'
 sitemap: false
 slug: lucky-seb-s-dumpling-bar-grill-south-lawrence
 takeout: true

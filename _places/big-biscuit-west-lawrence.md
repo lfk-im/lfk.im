@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0496
+restaurant_phone: '+17858560496'
 sitemap: false
 slug: big-biscuit-west-lawrence
 takeout: true

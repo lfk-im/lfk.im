@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-841-1319
+restaurant_phone: '+17858411319'
 sitemap: false
 slug: subway-6th-and-monterey-4000-west-6th-street
 takeout: true

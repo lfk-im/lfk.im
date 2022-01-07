@@ -31,7 +31,7 @@ notes: We will open for lunch, if people want us to do it. Or after the corona v
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-9400
+restaurant_phone: '+17858329400'
 sitemap: false
 slug: acapulco-mexican-grill-west-lawrence
 takeout: true

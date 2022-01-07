@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-0800
+restaurant_phone: '+17858420800'
 sitemap: false
 slug: biemer-s-bbq-sunset-hills
 takeout: true

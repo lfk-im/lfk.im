@@ -37,7 +37,7 @@ notes: People can order bottles of beer and pick up
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-856-1010
+restaurant_phone: '+17858561010'
 sitemap: false
 slug: burger-im-south-lawrence
 takeout: true

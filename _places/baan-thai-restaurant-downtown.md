@@ -29,7 +29,7 @@ notes: Perma Closed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-8424
+restaurant_phone: '+17858568424'
 sitemap: false
 slug: baan-thai-restaurant-downtown
 takeout: true

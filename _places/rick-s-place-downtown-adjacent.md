@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857495067'
 sitemap: false
 slug: rick-s-place-downtown-adjacent
 takeout: false

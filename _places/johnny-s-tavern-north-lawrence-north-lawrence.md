@@ -34,7 +34,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-0377
+restaurant_phone: '+17858420377'
 sitemap: false
 slug: johnny-s-tavern-north-lawrence-north-lawrence
 takeout: true

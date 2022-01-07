@@ -27,7 +27,7 @@ notes: We will have a curbside app next week. Follow our Social media for update
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 913-683-1604
+restaurant_phone: '+19136831604'
 sitemap: false
 slug: total-body-nutrition-sunset-hills
 takeout: true

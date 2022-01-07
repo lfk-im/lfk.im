@@ -32,7 +32,7 @@ notes: Open w/ limited hours, can order online or on the phone for delivery/carr
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-838-4600
+restaurant_phone: '+17858384600'
 sitemap: false
 slug: global-cafe-downtown
 takeout: true

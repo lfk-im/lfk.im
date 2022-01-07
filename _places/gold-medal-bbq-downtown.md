@@ -31,7 +31,7 @@ notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/10/08/revi
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-4227
+restaurant_phone: '+17858564227'
 sitemap: false
 slug: gold-medal-bbq-downtown
 takeout: true

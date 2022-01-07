@@ -38,7 +38,7 @@ notes: Closed until August or September
 perma_closed: true
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-842-6560
+restaurant_phone: '+17858426560'
 sitemap: false
 slug: quintons-bar-deli-downtown
 takeout: false

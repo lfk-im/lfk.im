@@ -36,7 +36,7 @@ notes: Closed
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0663
+restaurant_phone: '+17858560663'
 sitemap: false
 slug: milton-s-cafe-downtown
 takeout: true

@@ -38,7 +38,7 @@ notes: Open for in person dining, Curbside Pickup & Delivery, Family Meals avail
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 704-523-8296
+restaurant_phone: '+17045238296'
 sitemap: false
 slug: mad-greek-downtown
 takeout: true

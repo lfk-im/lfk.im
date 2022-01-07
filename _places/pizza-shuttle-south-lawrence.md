@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-1212
+restaurant_phone: '+17858421212'
 sitemap: false
 slug: pizza-shuttle-south-lawrence
 takeout: true

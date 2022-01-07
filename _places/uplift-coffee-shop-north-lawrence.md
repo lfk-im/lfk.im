@@ -30,7 +30,7 @@ notes: Download their app to order for pickup
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-424-0466
+restaurant_phone: '+17854240466'
 sitemap: false
 slug: uplift-coffee-shop-north-lawrence
 takeout: true

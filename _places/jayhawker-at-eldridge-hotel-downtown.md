@@ -31,7 +31,7 @@ notes: Unconfirmed
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-1005
+restaurant_phone: '+17857491005'
 sitemap: false
 slug: jayhawker-at-eldridge-hotel-downtown
 takeout: true

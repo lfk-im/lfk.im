@@ -32,7 +32,7 @@ notes: Permanently closed.
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-3671
+restaurant_phone: '+17858563671'
 sitemap: false
 slug: levee-cafe-north-lawrence
 takeout: false

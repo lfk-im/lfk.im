@@ -25,7 +25,7 @@ notes: Closed, but plan to reopen Tuesday March 31
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-8010
+restaurant_phone: '+17858568010'
 sitemap: false
 slug: little-saigon-cafe-south-lawrence
 takeout: true

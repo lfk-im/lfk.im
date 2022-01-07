@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858560271'
 sitemap: false
 slug: fat-shack-downtown
 takeout: false

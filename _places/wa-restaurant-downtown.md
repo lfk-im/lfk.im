@@ -31,7 +31,7 @@ notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-1990
+restaurant_phone: '+17858431990'
 sitemap: false
 slug: wa-restaurant-downtown
 takeout: true

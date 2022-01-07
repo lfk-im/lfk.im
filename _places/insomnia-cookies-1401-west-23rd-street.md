@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+18776326654'
 sitemap: false
 slug: insomnia-cookies-1401-west-23rd-street
 takeout: true

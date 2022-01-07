@@ -27,7 +27,7 @@ notes: Closed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-551-3347
+restaurant_phone: '+17855513347'
 sitemap: false
 slug: cosmic-cafe-south-lawrence
 takeout: false

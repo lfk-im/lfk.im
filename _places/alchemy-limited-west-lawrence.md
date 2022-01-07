@@ -33,7 +33,7 @@ notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for saf
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-856-0751
+restaurant_phone: '+17858560751'
 sitemap: false
 slug: alchemy-limited-west-lawrence
 takeout: true

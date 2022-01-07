@@ -28,7 +28,7 @@ notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/08/25/revi
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7350
+restaurant_phone: '+17854247350'
 sitemap: false
 slug: latchkey-deli-downtown
 takeout: true

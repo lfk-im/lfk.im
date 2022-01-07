@@ -35,7 +35,7 @@ notes: Order online or call to prepay
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-0055
+restaurant_phone: '+17857490055'
 sitemap: false
 slug: rudys-pizzeria-downtown
 takeout: true

@@ -29,7 +29,7 @@ notes: Order online or call
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-6973
+restaurant_phone: '+17858566973'
 sitemap: false
 slug: morningstar-s-new-york-pizza-west-lawrence
 takeout: false

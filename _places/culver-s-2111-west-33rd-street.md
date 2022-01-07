@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858561000'
 sitemap: false
 slug: culver-s-2111-west-33rd-street
 takeout: false

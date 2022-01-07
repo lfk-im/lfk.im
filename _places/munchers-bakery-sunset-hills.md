@@ -32,7 +32,7 @@ notes: Dining area closed, but open for takeout
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-749-4324
+restaurant_phone: '+17857494324'
 sitemap: false
 slug: munchers-bakery-sunset-hills
 takeout: true

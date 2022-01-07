@@ -32,7 +32,7 @@ notes: Prepay over phone. No walk ins at this time.
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 786-841-5252
+restaurant_phone: '+17868415252'
 sitemap: false
 slug: glory-days-pizza-west-lawrence
 takeout: true

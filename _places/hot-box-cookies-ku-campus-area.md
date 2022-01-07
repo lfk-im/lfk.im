@@ -35,7 +35,7 @@ notes: Delivery as usual
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-856-8778
+restaurant_phone: '+17858568778'
 sitemap: false
 slug: hot-box-cookies-ku-campus-area
 takeout: true

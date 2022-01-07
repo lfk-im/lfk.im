@@ -35,7 +35,7 @@ notes: Closed through June 8th - Deliveries happen following business day
 perma_closed: true
 place_type: Bakery
 region: KS
-restaurant_phone: 785-836-4100
+restaurant_phone: '+17858364100'
 sitemap: false
 slug: e-barn-farm-bakery-downtown
 takeout: false

@@ -41,7 +41,7 @@ notes: 'Pizzas 13” 12.00 8” 7.00
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-331-5290
+restaurant_phone: '+17853315290'
 sitemap: false
 slug: oo-bakes-sunset-hills
 takeout: true

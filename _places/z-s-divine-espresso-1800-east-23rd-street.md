@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858427651'
 sitemap: false
 slug: z-s-divine-espresso-1800-east-23rd-street
 takeout: false

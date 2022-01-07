@@ -30,7 +30,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-3675
+restaurant_phone: '+17858563675'
 sitemap: false
 slug: sandwich-bowl-west-lawrence
 takeout: true

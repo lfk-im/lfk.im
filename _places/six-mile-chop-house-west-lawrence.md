@@ -30,7 +30,7 @@ notes: There is a $1.50 fee for delivery. To place an order with us, please call
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-6453
+restaurant_phone: '+17858566453'
 sitemap: false
 slug: six-mile-chop-house-west-lawrence
 takeout: true

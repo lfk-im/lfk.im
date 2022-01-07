@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858563312'
 sitemap: false
 slug: z-s-divine-espresso-south-2351-west-31st-street
 takeout: false

@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-331-2710
+restaurant_phone: '+17853312710'
 sitemap: false
 slug: pueblo-mexican-restaurant-hillcrest
 takeout: true

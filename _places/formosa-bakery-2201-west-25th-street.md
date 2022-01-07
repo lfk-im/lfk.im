@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858566900'
 sitemap: false
 slug: formosa-bakery-2201-west-25th-street
 takeout: true

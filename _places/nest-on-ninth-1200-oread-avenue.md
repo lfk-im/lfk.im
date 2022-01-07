@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858303945'
 sitemap: false
 slug: nest-on-ninth-1200-oread-avenue
 takeout: false

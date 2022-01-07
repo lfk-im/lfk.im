@@ -32,7 +32,7 @@ notes: Order online and pick up curbside (both locations)
 perma_closed: false
 place_type: Brewery
 region: KS
-restaurant_phone: 785-856-0596
+restaurant_phone: '+17858560596'
 sitemap: false
 slug: lawrence-beer-company-west-west-lawrence
 takeout: false

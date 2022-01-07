@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Winery
 region: KS
-restaurant_phone: 785-856-0156
+restaurant_phone: '+17858560156'
 sitemap: false
 slug: trivedi-wine-1826-east-1150-road
 takeout: true

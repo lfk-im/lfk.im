@@ -29,7 +29,7 @@ notes: Closed information on their website.
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-830-3921
+restaurant_phone: '+17858303921'
 sitemap: false
 slug: bird-dog-bar-at-oread-ku-campus-area
 takeout: false

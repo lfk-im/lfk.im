@@ -30,7 +30,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-856-9060
+restaurant_phone: '+17858569060'
 sitemap: false
 slug: pickleman-s-west-lawrence-west-lawrence
 takeout: false

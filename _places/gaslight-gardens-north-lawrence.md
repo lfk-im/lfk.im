@@ -32,7 +32,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-505-1270
+restaurant_phone: '+17855051270'
 sitemap: false
 slug: gaslight-gardens-north-lawrence
 takeout: true

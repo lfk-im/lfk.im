@@ -35,7 +35,7 @@ notes: Order online or by phone and pick up curbside on Mass
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-424-5601
+restaurant_phone: '+17854245601'
 sitemap: false
 slug: alchemy-coffee-bake-house-downtown
 takeout: true

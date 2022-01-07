@@ -27,7 +27,7 @@ notes: Re-opened
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7565
+restaurant_phone: '+17854247565'
 sitemap: false
 slug: mama-s-tamale-shop-downtown-adjacent
 takeout: true

@@ -32,7 +32,7 @@ notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-841-5553
+restaurant_phone: '+17858415553'
 sitemap: false
 slug: wheatfields-bakery-cafe-downtown
 takeout: true

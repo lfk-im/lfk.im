@@ -33,7 +33,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-691-8930
+restaurant_phone: '+17856918930'
 sitemap: false
 slug: tortas-jalisco-sunset-hills
 takeout: true

@@ -36,7 +36,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-1333
+restaurant_phone: '+17858321333'
 sitemap: false
 slug: auntie-em-s-deli-west-lawrence
 takeout: true

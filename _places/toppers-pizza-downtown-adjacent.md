@@ -33,7 +33,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-856-0058
+restaurant_phone: '+17858560058'
 sitemap: false
 slug: toppers-pizza-downtown-adjacent
 takeout: true

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858430990'
 sitemap: false
 slug: cold-stone-creamery-downtown
 takeout: true

@@ -34,7 +34,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-424-7727
+restaurant_phone: '+17854247727'
 sitemap: false
 slug: hi-tea-downtown
 takeout: true

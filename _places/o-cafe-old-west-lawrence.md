@@ -31,7 +31,7 @@ notes: Unconfirmed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-312-9211
+restaurant_phone: '+17853129211'
 sitemap: false
 slug: o-cafe-old-west-lawrence
 takeout: true

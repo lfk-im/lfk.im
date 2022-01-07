@@ -29,7 +29,7 @@ notes: Call or order online
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-5600
+restaurant_phone: '+17857495600'
 sitemap: false
 slug: mi-ranchito-south-lawrence
 takeout: true

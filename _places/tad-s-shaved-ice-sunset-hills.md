@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858308552'
 sitemap: false
 slug: tad-s-shaved-ice-sunset-hills
 takeout: false

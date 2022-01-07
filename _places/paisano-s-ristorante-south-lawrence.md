@@ -32,7 +32,7 @@ notes: (Adam 4/18/21) Paisano's closed because the building was sold, read about
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-838-3500
+restaurant_phone: '+17858383500'
 sitemap: false
 slug: paisano-s-ristorante-south-lawrence
 takeout: true

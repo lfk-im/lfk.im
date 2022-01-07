@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17855517100'
 sitemap: false
 slug: huhot-mongolian-grill-2525-iowa-street
 takeout: false

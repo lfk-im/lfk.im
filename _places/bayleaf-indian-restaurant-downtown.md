@@ -31,7 +31,7 @@ notes: Perma Closed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-840-0855
+restaurant_phone: '+17858400855'
 sitemap: false
 slug: bayleaf-indian-restaurant-downtown
 takeout: false

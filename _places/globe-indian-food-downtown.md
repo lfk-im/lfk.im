@@ -29,7 +29,7 @@ notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/09/10/revi
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-5556
+restaurant_phone: '+17858565556'
 sitemap: false
 slug: globe-indian-food-downtown
 takeout: true

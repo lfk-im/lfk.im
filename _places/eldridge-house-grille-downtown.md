@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857491005'
 sitemap: false
 slug: eldridge-house-grille-downtown
 takeout: false

@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-331-4300
+restaurant_phone: '+17853314300'
 sitemap: false
 slug: india-palace-downtown
 takeout: true

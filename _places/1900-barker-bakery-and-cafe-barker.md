@@ -37,7 +37,7 @@ notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-424-7609
+restaurant_phone: '+17854247609'
 sitemap: false
 slug: 1900-barker-bakery-and-cafe-barker
 takeout: true

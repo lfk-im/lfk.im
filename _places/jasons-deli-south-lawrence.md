@@ -37,7 +37,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-5600
+restaurant_phone: '+17858425600'
 sitemap: false
 slug: jasons-deli-south-lawrence
 takeout: true

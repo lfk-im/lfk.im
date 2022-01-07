@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858563447'
 sitemap: false
 slug: first-watch-restaurant-2540-iowa-street
 takeout: false

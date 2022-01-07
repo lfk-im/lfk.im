@@ -30,7 +30,7 @@ notes: Family style orders by phone, online ordering is a work in progress
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-4111
+restaurant_phone: '+17858434111'
 sitemap: false
 slug: merchants-pub-plate-downtown
 takeout: false

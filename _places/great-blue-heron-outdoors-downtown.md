@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: LocalBusiness
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858565656'
 sitemap: false
 slug: great-blue-heron-outdoors-downtown
 takeout: false

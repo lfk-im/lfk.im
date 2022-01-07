@@ -31,7 +31,7 @@ notes: Re-opened
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0459
+restaurant_phone: '+17858560459'
 sitemap: false
 slug: basil-leaf-cafe-downtown-adjacent
 takeout: true

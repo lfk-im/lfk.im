@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858431001'
 sitemap: false
 slug: bourgeois-pig-downtown
 takeout: false

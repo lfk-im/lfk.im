@@ -31,7 +31,7 @@ notes: Closed until April 1st
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-2550
+restaurant_phone: '+17858562550'
 sitemap: false
 slug: bigg-s-bbq-south-lawrence
 takeout: true

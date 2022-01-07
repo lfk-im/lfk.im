@@ -35,7 +35,7 @@ notes: offering free hot beans and rice meals at the window from noon to 8 every
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7822
+restaurant_phone: '+17854247822'
 sitemap: false
 slug: archibowls-downtown
 takeout: true

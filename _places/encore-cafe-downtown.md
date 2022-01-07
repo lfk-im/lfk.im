@@ -29,7 +29,7 @@ notes: Order online or by phone
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-3682
+restaurant_phone: '+17858563682'
 sitemap: false
 slug: encore-cafe-downtown
 takeout: true

@@ -31,7 +31,7 @@ notes: Order online or call for delivery
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-841-7272
+restaurant_phone: '+17858417272'
 sitemap: false
 slug: papa-keno-s-pizzeria-downtown
 takeout: true

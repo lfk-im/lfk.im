@@ -29,7 +29,7 @@ notes: Order online, pick up in store
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-1595
+restaurant_phone: '+17858431595'
 sitemap: false
 slug: la-estrella-south-lawrence
 takeout: true

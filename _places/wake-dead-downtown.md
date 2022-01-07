@@ -34,7 +34,7 @@ notes: Perma Closed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 303-588-4678
+restaurant_phone: '+13035884678'
 sitemap: false
 slug: wake-dead-downtown
 takeout: false

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858389494'
 sitemap: false
 slug: einstein-bros-bagels-downtown
 takeout: false

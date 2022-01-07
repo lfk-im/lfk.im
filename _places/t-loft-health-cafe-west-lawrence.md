@@ -32,7 +32,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-505-0770
+restaurant_phone: '+17855050770'
 sitemap: false
 slug: t-loft-health-cafe-west-lawrence
 takeout: true

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858439032'
 sitemap: false
 slug: louise-s-bar-downtown
 takeout: false

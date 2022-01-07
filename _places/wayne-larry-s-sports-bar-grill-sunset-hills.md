@@ -37,7 +37,7 @@ notes: Call upon arrival and we will curbside deliver your order
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-7170
+restaurant_phone: '+17858567170'
 sitemap: false
 slug: wayne-larry-s-sports-bar-grill-sunset-hills
 takeout: true

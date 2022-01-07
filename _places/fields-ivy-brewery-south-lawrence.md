@@ -37,7 +37,7 @@ notes: Growlers or 6-pack available for curbside pick-up. ID required.
 perma_closed: false
 place_type: Brewery
 region: KS
-restaurant_phone: 785-274-8429
+restaurant_phone: '+17852748429'
 sitemap: false
 slug: fields-ivy-brewery-south-lawrence
 takeout: true

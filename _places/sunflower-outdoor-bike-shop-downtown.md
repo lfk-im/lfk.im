@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BikeStore
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858435000'
 sitemap: false
 slug: sunflower-outdoor-bike-shop-downtown
 takeout: false

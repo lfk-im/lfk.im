@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858562277'
 sitemap: false
 slug: rbar-patio-hillcrest
 takeout: false

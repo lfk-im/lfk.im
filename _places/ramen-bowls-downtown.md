@@ -31,7 +31,7 @@ notes: Order by phone and pick up curbside or delivery
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-6957
+restaurant_phone: '+17858426957'
 sitemap: false
 slug: ramen-bowls-downtown
 takeout: true

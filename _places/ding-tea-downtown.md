@@ -30,7 +30,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 913-370-6594
+restaurant_phone: '+19133706594'
 sitemap: false
 slug: ding-tea-downtown
 takeout: true

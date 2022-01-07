@@ -32,7 +32,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-312-8100
+restaurant_phone: '+17853128100'
 sitemap: false
 slug: salty-iguana-west-lawrence
 takeout: true

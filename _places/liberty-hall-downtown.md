@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: MovieRentalStore
 region: KS
-restaurant_phone: 785-749-1972
+restaurant_phone: '+17857491972'
 sitemap: false
 slug: liberty-hall-downtown
 takeout: true

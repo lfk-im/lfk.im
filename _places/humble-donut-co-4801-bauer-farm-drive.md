@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858560544'
 sitemap: false
 slug: humble-donut-co-4801-bauer-farm-drive
 takeout: true

@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858562739'
 sitemap: false
 slug: old-chicago-545-wakarusa-drive
 takeout: false

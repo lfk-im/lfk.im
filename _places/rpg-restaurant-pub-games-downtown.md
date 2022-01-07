@@ -34,7 +34,7 @@ notes: Online ordering & payment via the link at RPGLawrence.com
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-330-5079
+restaurant_phone: '+17853305079'
 sitemap: false
 slug: rpg-restaurant-pub-games-downtown
 takeout: true

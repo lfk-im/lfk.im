@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: GroceryStore
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858438544'
 sitemap: false
 slug: merc-sunset-hills
 takeout: false

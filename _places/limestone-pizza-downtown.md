@@ -27,7 +27,7 @@ notes: Order by phone for carry out and limited local delivery
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-2825
+restaurant_phone: '+17858562825'
 sitemap: false
 slug: limestone-pizza-downtown
 takeout: false

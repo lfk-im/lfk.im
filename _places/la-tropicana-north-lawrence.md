@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-3550
+restaurant_phone: '+17857493550'
 sitemap: false
 slug: la-tropicana-north-lawrence
 takeout: true

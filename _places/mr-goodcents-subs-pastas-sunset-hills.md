@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858418444'
 sitemap: false
 slug: mr-goodcents-subs-pastas-sunset-hills
 takeout: true

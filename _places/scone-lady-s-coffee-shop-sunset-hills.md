@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858383992'
 sitemap: false
 slug: scone-lady-s-coffee-shop-sunset-hills
 takeout: false

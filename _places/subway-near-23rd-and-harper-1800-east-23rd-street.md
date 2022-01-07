@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-331-0030
+restaurant_phone: '+17853310030'
 sitemap: false
 slug: subway-near-23rd-and-harper-1800-east-23rd-street
 takeout: true

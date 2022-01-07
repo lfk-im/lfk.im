@@ -27,7 +27,7 @@ notes: Our listing says "Saturday Meal Pickup" but we've changed to Friday after
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-1841
+restaurant_phone: '+17858561841'
 sitemap: false
 slug: maceli-s-banquet-hall-catering-downtown
 takeout: false

@@ -29,7 +29,7 @@ notes: All you need to do is call us with your order and let us know what type o
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-841-2739
+restaurant_phone: '+17858412739'
 sitemap: false
 slug: west-coast-saloon-south-lawrence
 takeout: false

@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857277314'
 sitemap: false
 slug: sprouts-4740-bauer-farm-drive
 takeout: false

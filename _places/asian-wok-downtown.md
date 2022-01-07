@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17854247377'
 sitemap: false
 slug: asian-wok-downtown
 takeout: false

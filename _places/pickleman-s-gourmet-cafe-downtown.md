@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858566700'
 sitemap: false
 slug: pickleman-s-gourmet-cafe-downtown
 takeout: true

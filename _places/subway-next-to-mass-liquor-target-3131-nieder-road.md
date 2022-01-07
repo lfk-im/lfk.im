@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-842-2479
+restaurant_phone: '+17858422479'
 sitemap: false
 slug: subway-next-to-mass-liquor-target-3131-nieder-road
 takeout: true

@@ -30,7 +30,7 @@ notes: Order by phone with delivery available, or pick up curbside
 perma_closed: false
 place_type: Store
 region: KS
-restaurant_phone: 785-856-0644
+restaurant_phone: '+17858560644'
 sitemap: false
 slug: leeway-butcher-sunset-hills
 takeout: true

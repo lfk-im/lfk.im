@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857492615'
 sitemap: false
 slug: runza-2700-iowa-avenue
 takeout: false

@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857494888'
 sitemap: false
 slug: king-buffet-1601-west-23rd-street
 takeout: false

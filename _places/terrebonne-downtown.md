@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-3287
+restaurant_phone: '+17858563287'
 sitemap: false
 slug: terrebonne-downtown
 takeout: true

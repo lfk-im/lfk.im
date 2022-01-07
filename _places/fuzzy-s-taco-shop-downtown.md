@@ -36,7 +36,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-727-0527
+restaurant_phone: '+17857270527'
 sitemap: false
 slug: fuzzy-s-taco-shop-downtown
 takeout: true

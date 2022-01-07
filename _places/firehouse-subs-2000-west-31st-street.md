@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858562562'
 sitemap: false
 slug: firehouse-subs-2000-west-31st-street
 takeout: false

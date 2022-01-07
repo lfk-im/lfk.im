@@ -30,7 +30,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-424-7249
+restaurant_phone: '+17854247249'
 sitemap: false
 slug: kaw-valley-public-house-north-lawrence
 takeout: true

@@ -30,7 +30,7 @@ notes: Order online or with the app and head on over. Our team will prepare your
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-3354
+restaurant_phone: '+17857493354'
 sitemap: false
 slug: mcalister-s-deli-south-lawrence
 takeout: true

@@ -38,7 +38,7 @@ notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in La
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-843-6000
+restaurant_phone: '+17858436000'
 sitemap: false
 slug: yello-sub-south-lawrence
 takeout: true

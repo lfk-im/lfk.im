@@ -38,7 +38,7 @@ notes: Likely closing the restaurant if we can not drive enough pick-up and onli
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-5460
+restaurant_phone: '+17858565460'
 sitemap: false
 slug: dempseys-burger-pub-downtown
 takeout: true

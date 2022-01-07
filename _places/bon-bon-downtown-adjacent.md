@@ -34,7 +34,7 @@ notes: 'Perma-closed: https://www2.ljworld.com/weblogs/town_talk/2020/jun/23/an-
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-2275
+restaurant_phone: '+17858562275'
 sitemap: false
 slug: bon-bon-downtown-adjacent
 takeout: false

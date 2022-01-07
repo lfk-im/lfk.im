@@ -35,7 +35,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0548
+restaurant_phone: '+17858560548'
 sitemap: false
 slug: t-m-creperie-downtown
 takeout: true

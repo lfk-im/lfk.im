@@ -37,7 +37,7 @@ notes: '1- Call us at 785-856-0544 to place your order ☎️
 perma_closed: false
 place_type: IceCreamShop
 region: KS
-restaurant_phone: 785-856-0544
+restaurant_phone: '+17858560544'
 sitemap: false
 slug: orange-leaf-west-lawrence
 takeout: true

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858414300'
 sitemap: false
 slug: noodles-company-downtown
 takeout: true

@@ -31,7 +31,7 @@ notes: Curbside Cocktails
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-393-4296
+restaurant_phone: '+17853934296'
 sitemap: false
 slug: john-brown-s-underground-downtown
 takeout: true

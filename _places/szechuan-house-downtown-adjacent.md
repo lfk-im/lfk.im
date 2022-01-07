@@ -33,7 +33,7 @@ notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-551-7418
+restaurant_phone: '+17855517418'
 sitemap: false
 slug: szechuan-house-downtown-adjacent
 takeout: true

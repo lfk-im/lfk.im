@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858308030'
 sitemap: false
 slug: signs-of-life-downtown
 takeout: false

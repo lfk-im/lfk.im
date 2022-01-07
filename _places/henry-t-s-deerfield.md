@@ -32,7 +32,7 @@ notes: Call or order online via EatStreet
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-2999
+restaurant_phone: '+17857492999'
 sitemap: false
 slug: henry-t-s-deerfield
 takeout: true

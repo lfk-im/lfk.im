@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-842-0111
+restaurant_phone: '+17858420111'
 sitemap: false
 slug: sandbar-downtown
 takeout: true

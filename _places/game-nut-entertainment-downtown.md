@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Store
 region: KS
-restaurant_phone: 785-856-1540
+restaurant_phone: '+17858561540'
 sitemap: false
 slug: game-nut-entertainment-downtown
 takeout: false

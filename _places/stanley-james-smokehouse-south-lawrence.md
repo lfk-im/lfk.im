@@ -31,7 +31,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-841-9691
+restaurant_phone: '+17858419691'
 sitemap: false
 slug: stanley-james-smokehouse-south-lawrence
 takeout: true

@@ -34,7 +34,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-766-2355
+restaurant_phone: '+17857662355'
 sitemap: false
 slug: s-s-artisan-pub-coffeehouse-southwest-lawrence
 takeout: true

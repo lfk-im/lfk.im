@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858426462'
 sitemap: false
 slug: ihop-3102-iowa-street
 takeout: true

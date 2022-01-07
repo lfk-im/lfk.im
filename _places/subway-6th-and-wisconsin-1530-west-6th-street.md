@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-832-9700
+restaurant_phone: '+17858329700'
 sitemap: false
 slug: subway-6th-and-wisconsin-1530-west-6th-street
 takeout: true

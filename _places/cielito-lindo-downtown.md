@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-1545
+restaurant_phone: '+17858321545'
 sitemap: false
 slug: cielito-lindo-downtown
 takeout: true

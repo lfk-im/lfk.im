@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858309281'
 sitemap: false
 slug: brother-s-bar-grill-downtown
 takeout: false

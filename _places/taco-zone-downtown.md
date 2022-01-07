@@ -31,7 +31,7 @@ notes: 'Closed but offering catered delivery via: https://www.tacozonedelivery.c
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7123
+restaurant_phone: '+17854247123'
 sitemap: false
 slug: taco-zone-downtown
 takeout: true

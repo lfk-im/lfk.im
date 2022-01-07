@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858413808'
 sitemap: false
 slug: crimson-brews-sunset-hills
 takeout: false

@@ -44,7 +44,7 @@ notes: Pull up to front door to be helped.
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17853312700'
 sitemap: false
 slug: panera-bread-ku-campus-area
 takeout: true

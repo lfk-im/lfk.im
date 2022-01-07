@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-312-7766
+restaurant_phone: '+17853127766'
 sitemap: false
 slug: subway-bob-billings-and-wakarusa-1540-wakarusa-drive
 takeout: true

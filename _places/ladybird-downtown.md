@@ -31,7 +31,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-5239
+restaurant_phone: '+17858565239'
 sitemap: false
 slug: ladybird-downtown
 takeout: true

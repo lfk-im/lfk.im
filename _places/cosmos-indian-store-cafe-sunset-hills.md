@@ -41,7 +41,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0080
+restaurant_phone: '+17858560080'
 sitemap: false
 slug: cosmos-indian-store-cafe-sunset-hills
 takeout: true

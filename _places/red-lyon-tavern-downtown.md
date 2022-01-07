@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858328228'
 sitemap: false
 slug: red-lyon-tavern-downtown
 takeout: false

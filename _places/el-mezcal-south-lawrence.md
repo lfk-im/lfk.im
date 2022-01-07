@@ -29,7 +29,7 @@ notes: Order online or call
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-3444
+restaurant_phone: '+17858563444'
 sitemap: false
 slug: el-mezcal-south-lawrence
 takeout: true

@@ -32,7 +32,7 @@ notes: Breads available to go and snacks for kids
 perma_closed: false
 place_type: Bakery
 region: KS
-restaurant_phone: 785-749-2227
+restaurant_phone: '+17857492227'
 sitemap: false
 slug: great-harvest-bread-co-downtown-adjacent
 takeout: true

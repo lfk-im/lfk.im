@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858654055'
 sitemap: false
 slug: lucia-beer-garden-grill-downtown
 takeout: false

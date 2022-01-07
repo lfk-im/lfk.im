@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858650123'
 sitemap: false
 slug: freddy-s-frozen-custard-steakburgers-2030-west-23rd-street
 takeout: true

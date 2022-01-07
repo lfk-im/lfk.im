@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+19132890509'
 sitemap: false
 slug: torchy-s-tacos-3050-iowa-street
 takeout: false

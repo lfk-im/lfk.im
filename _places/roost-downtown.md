@@ -35,7 +35,7 @@ notes: Until 3/20 - Order by phone and pick up curbside
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-1110
+restaurant_phone: '+17858431110'
 sitemap: false
 slug: roost-downtown
 takeout: true

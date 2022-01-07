@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-8650
+restaurant_phone: '+17858438650'
 sitemap: false
 slug: jade-garden-sunset-hills
 takeout: true

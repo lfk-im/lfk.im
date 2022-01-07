@@ -25,7 +25,7 @@ notes: Unconfirmed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-830-3998
+restaurant_phone: '+17858303998'
 sitemap: false
 slug: on-hill-ku-campus-area
 takeout: false

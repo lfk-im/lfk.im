@@ -29,7 +29,7 @@ notes: Call or order online
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-5252
+restaurant_phone: '+17858565252'
 sitemap: false
 slug: minsky-s-pizza-downtown
 takeout: true

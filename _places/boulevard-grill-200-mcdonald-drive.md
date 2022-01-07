@@ -26,7 +26,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-841-7077
+restaurant_phone: '+17858417077'
 sitemap: false
 slug: boulevard-grill-200-mcdonald-drive
 takeout: true

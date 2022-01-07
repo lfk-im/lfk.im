@@ -41,7 +41,7 @@ notes: Online options possible too for ordering
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-841-8881
+restaurant_phone: '+17858418881'
 sitemap: false
 slug: oriental-bistro-grill-south-lawrence
 takeout: true

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858566688'
 sitemap: false
 slug: house-of-cha-downtown
 takeout: true

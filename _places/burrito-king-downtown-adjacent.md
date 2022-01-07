@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858413663'
 sitemap: false
 slug: burrito-king-downtown-adjacent
 takeout: false

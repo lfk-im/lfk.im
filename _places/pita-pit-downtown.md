@@ -44,7 +44,7 @@ notes: ''
 perma_closed: true
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-856-2500
+restaurant_phone: '+17858562500'
 sitemap: false
 slug: pita-pit-downtown
 takeout: true

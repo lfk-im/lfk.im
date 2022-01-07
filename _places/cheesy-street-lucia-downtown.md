@@ -31,7 +31,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-865-4055
+restaurant_phone: '+17858654055'
 sitemap: false
 slug: cheesy-street-lucia-downtown
 takeout: true

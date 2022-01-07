@@ -27,7 +27,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-551-7528
+restaurant_phone: '+17855517528'
 sitemap: false
 slug: thai-diner-south-lawrence
 takeout: true

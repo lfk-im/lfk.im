@@ -29,7 +29,7 @@ notes: Closed
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-8226
+restaurant_phone: '+17858568226'
 sitemap: false
 slug: mexquisito-downtown
 takeout: false

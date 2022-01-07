@@ -32,7 +32,7 @@ notes: Online ordering coming next week for to-go and curbside service
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-550-7944
+restaurant_phone: '+17855507944'
 sitemap: false
 slug: decade-downtown-adjacent
 takeout: true

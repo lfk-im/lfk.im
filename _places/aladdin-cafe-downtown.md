@@ -33,7 +33,7 @@ notes: Call to order for pick-up
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-1100
+restaurant_phone: '+17858321100'
 sitemap: false
 slug: aladdin-cafe-downtown
 takeout: true

@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-9383
+restaurant_phone: '+17858429383'
 sitemap: false
 slug: mediterranean-market-cafe-sunset-hills
 takeout: true

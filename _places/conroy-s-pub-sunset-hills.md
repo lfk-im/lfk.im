@@ -35,7 +35,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-856-3663
+restaurant_phone: '+17858563663'
 sitemap: false
 slug: conroy-s-pub-sunset-hills
 takeout: true

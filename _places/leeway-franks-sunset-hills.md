@@ -30,7 +30,7 @@ notes: Order by phone with delivery available, or pick up curbside
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0890
+restaurant_phone: '+17858560890'
 sitemap: false
 slug: leeway-franks-sunset-hills
 takeout: true

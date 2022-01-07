@@ -35,7 +35,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-7150
+restaurant_phone: '+17858567150'
 sitemap: false
 slug: 715-mass-downtown
 takeout: true

@@ -33,7 +33,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-842-4100
+restaurant_phone: '+17858424100'
 sitemap: false
 slug: hogwild-pit-bbq-south-lawrence
 takeout: true

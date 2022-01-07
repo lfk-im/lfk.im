@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858561010'
 sitemap: false
 slug: mr-brews-taphouse-3140-iowa-street
 takeout: false

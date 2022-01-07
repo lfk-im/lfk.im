@@ -31,7 +31,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-2000
+restaurant_phone: '+17858322000'
 sitemap: false
 slug: jefferson-s-downtown-downtown
 takeout: true

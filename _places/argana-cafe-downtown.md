@@ -31,7 +31,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7267
+restaurant_phone: '+17854247267'
 sitemap: false
 slug: argana-cafe-downtown
 takeout: true

@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858432441'
 sitemap: false
 slug: mad-greek-restaurant-downtown
 takeout: true

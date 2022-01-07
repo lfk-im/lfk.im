@@ -35,7 +35,7 @@ notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
-restaurant_phone: 785-840-6764
+restaurant_phone: '+17858406764'
 sitemap: false
 slug: myers-hotel-bar-tonganoxie
 takeout: true

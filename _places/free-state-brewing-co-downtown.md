@@ -33,7 +33,7 @@ notes: Order by phone and pick up, including bottled beers
 perma_closed: false
 place_type: Brewery
 region: KS
-restaurant_phone: 785-843-4555
+restaurant_phone: '+17858434555'
 sitemap: false
 slug: free-state-brewing-co-downtown
 takeout: true

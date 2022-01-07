@@ -29,7 +29,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-4058
+restaurant_phone: '+17858564058'
 sitemap: false
 slug: pancho-s-mexican-food-south-lawrence
 takeout: true

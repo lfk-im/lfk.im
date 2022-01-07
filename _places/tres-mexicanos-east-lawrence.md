@@ -27,7 +27,7 @@ notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-830-8422
+restaurant_phone: '+17858308422'
 sitemap: false
 slug: tres-mexicanos-east-lawrence
 takeout: true

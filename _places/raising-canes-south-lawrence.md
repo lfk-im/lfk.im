@@ -30,7 +30,7 @@ notes: Drive through also available
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-840-9800
+restaurant_phone: '+17858409800'
 sitemap: false
 slug: raising-canes-south-lawrence
 takeout: true

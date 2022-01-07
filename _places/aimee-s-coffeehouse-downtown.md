@@ -35,7 +35,7 @@ notes: Perma Closed
 perma_closed: true
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-843-5173
+restaurant_phone: '+17858435173'
 sitemap: false
 slug: aimee-s-coffeehouse-downtown
 takeout: false

@@ -33,7 +33,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-843-5000
+restaurant_phone: '+17858435000'
 sitemap: false
 slug: sunflower-cafe-downtown
 takeout: true

@@ -44,7 +44,7 @@ notes: FREE DELIVERY if you call us direct.
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-727-4999
+restaurant_phone: '+17857274999'
 sitemap: false
 slug: blue-moose-bar-grill-west-lawrence
 takeout: true

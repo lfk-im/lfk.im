@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-749-2770
+restaurant_phone: '+17857492770'
 sitemap: false
 slug: southern-accent-catering-sunset-hills
 takeout: true

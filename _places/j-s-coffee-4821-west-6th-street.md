@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17857490100'
 sitemap: false
 slug: j-s-coffee-4821-west-6th-street
 takeout: true

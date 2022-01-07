@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0817
+restaurant_phone: '+17858560817'
 sitemap: false
 slug: cellar-door-cafe-downtown
 takeout: true

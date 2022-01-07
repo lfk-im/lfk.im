@@ -40,7 +40,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0689
+restaurant_phone: '+17858560689'
 sitemap: false
 slug: twisted-fresh-west-lawrence
 takeout: true

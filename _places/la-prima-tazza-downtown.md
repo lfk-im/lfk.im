@@ -30,7 +30,7 @@ notes: Currently closed, working on delivery options
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-832-2233
+restaurant_phone: '+17858322233'
 sitemap: false
 slug: la-prima-tazza-downtown
 takeout: true

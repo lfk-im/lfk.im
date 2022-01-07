@@ -27,7 +27,7 @@ notes: Order by phone and pick up curbside, delivery via EatStreet
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-856-0210
+restaurant_phone: '+17858560210'
 sitemap: false
 slug: ondori-noodle-downtown
 takeout: true

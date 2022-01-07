@@ -33,7 +33,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-312-7660
+restaurant_phone: '+17853127660'
 sitemap: false
 slug: chebaro-mediterrnean-grill-south-lawrence
 takeout: false

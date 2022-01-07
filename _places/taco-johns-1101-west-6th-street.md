@@ -26,7 +26,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-843-0936
+restaurant_phone: '+17858430936'
 sitemap: false
 slug: taco-johns-1101-west-6th-street
 takeout: true

@@ -24,7 +24,7 @@ notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858562418'
 sitemap: false
 slug: spin-pizza-525-wakarusa-drive
 takeout: false

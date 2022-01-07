@@ -30,7 +30,7 @@ notes: Order by phone and pick up curbside
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-312-9057
+restaurant_phone: '+17853129057'
 sitemap: false
 slug: j-wilsons-restaurant-west-lawrence
 takeout: true

@@ -28,7 +28,7 @@ notes: Retail Only
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: 785-856-8227
+restaurant_phone: '+17858568227'
 sitemap: false
 slug: mana-bar-downtown
 takeout: true

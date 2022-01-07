@@ -34,7 +34,7 @@ notes: Call 785-764-1628 when you arrive or 10-15 mins ahead to have your order 
 perma_closed: false
 place_type: Brewery
 region: KS
-restaurant_phone: 785-766-1163
+restaurant_phone: '+17857661163'
 sitemap: false
 slug: black-stag-brewery-downtown
 takeout: false

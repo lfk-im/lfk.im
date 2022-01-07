@@ -25,7 +25,7 @@ notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
-restaurant_phone: ''
+restaurant_phone: '+17858560094'
 sitemap: false
 slug: sid-nancy-s-downtown
 takeout: false

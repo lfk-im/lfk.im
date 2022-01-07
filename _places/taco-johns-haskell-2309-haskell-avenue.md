@@ -26,7 +26,7 @@ notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
-restaurant_phone: 785-842-5533
+restaurant_phone: '+17858425533'
 sitemap: false
 slug: taco-johns-haskell-2309-haskell-avenue
 takeout: true

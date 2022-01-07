@@ -30,7 +30,7 @@ notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-424-7089
+restaurant_phone: '+17854247089'
 sitemap: false
 slug: pedestrian-cheese-downtown
 takeout: true

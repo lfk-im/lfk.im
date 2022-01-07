@@ -29,7 +29,7 @@ notes: Order online or by phone for delivery
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-371-9050
+restaurant_phone: '+17853719050'
 sitemap: false
 slug: mclain-s-market-ku-campus-area
 takeout: false
