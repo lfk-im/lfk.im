@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3333 Iowa St
+address: 3333 Iowa Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

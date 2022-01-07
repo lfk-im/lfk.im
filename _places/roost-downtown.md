@@ -1,6 +1,6 @@
 ---
 active: true
-address: 920 Massachusetts St
+address: 920 Massachusetts Street
 cuisine: Breakfast
 cuisine_slugs:
 - breakfast

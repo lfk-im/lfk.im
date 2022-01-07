@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3140 Iowa St
+address: 3140 Iowa Street
 cuisine: American
 cuisine_slugs:
 - american

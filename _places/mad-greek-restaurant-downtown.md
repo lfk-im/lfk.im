@@ -1,6 +1,6 @@
 ---
 active: true
-address: 907 Massachusetts St.
+address: 907 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

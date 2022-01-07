@@ -1,6 +1,6 @@
 ---
 active: true
-address: 129 E 10th Street
+address: 129 East 10th Street
 cuisine: Indian
 cuisine_slugs:
 - indian

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 935 Iowa St
+address: 935 Iowa Street
 cuisine: Local Butcher, Eggs
 cuisine_slugs:
 - local-butcher

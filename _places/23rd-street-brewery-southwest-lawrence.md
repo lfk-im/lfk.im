@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3512 Clinton Pkwy
+address: 3512 Clinton Parkway
 cuisine: American, Brewery
 cuisine_slugs:
 - american

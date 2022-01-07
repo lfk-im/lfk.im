@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1900 Barker St
+address: 1900 Barker Avenue
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 17 E 7th St
+address: 17 East 7th Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2120 W 9th St
+address: 2120 West 9th Street
 cuisine: Barbecue, BBQ
 cuisine_slugs:
 - barbecue

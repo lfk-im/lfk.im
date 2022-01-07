@@ -1,6 +1,6 @@
 ---
 active: true
-address: 947 New Hampshire Street, Ste. 100
+address: 947 New Hampshire Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1420 Crescent Rd
+address: 1420 Crescent Road
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

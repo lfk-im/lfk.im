@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1540 Wakarusa Dr
+address: 1540 Wakarusa Drive
 cuisine: American
 cuisine_slugs:
 - american

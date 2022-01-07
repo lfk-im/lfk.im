@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2228 Iowa St
+address: 2228 Iowa Street
 cuisine: American, Coffee, Healthy, Salads, Sandwiches, Smoothies, Vegan, Vegetarian
 cuisine_slugs:
 - american

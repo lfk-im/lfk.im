@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1004 Massachusetts St
+address: 1004 Massachusetts Street
 cuisine: Tea
 cuisine_slugs:
 - tea

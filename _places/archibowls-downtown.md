@@ -1,6 +1,6 @@
 ---
 active: true
-address: 125 E. 10th St
+address: 125 East 10th Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

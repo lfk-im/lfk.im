@@ -1,6 +1,6 @@
 ---
 active: true
-address: 802-804 Massachusetts
+address: ' '
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

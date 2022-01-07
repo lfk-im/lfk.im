@@ -1,6 +1,6 @@
 ---
 active: true
-address: 724 Massachusetts St
+address: 724 Massachusetts Street
 cuisine: American, Burgers, Sandwiches
 cuisine_slugs:
 - american

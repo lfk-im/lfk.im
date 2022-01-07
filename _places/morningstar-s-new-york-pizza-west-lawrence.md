@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4931 W 6th St
+address: 4931 West 6th Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

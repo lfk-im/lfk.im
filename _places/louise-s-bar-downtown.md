@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1009 Massachusetts St.
+address: 1009 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

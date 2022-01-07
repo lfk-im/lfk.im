@@ -1,6 +1,6 @@
 ---
 active: true
-address: 706 E 23rd St
+address: 706 East 23rd Street
 cuisine: American, Brewery, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american

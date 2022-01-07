@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1031 New Hampshire St
+address: 1031 New Hampshire Street
 cuisine: Heat & Eat
 cuisine_slugs: null
 cuisines: []

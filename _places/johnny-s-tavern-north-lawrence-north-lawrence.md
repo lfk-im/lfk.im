@@ -1,6 +1,6 @@
 ---
 active: true
-address: 401 N 2nd St
+address: 401 North 2nd Street
 cuisine: American, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american

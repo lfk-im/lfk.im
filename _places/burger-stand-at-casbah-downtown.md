@@ -1,6 +1,6 @@
 ---
 active: true
-address: 803 Massachusetts St
+address: 803 Massachusetts Street
 cuisine: American, Burgers
 cuisine_slugs:
 - american

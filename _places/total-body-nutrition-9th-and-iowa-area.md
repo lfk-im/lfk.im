@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2330 Yale Rd, Suite A
+address: 2330 Yale Road
 cuisine: Healthy
 cuisine_slugs: null
 cuisines: []

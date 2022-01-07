@@ -1,6 +1,6 @@
 ---
 active: true
-address: 619 Massachusetts St
+address: 619 Massachusetts Street
 cuisine: Indian
 cuisine_slugs:
 - indian

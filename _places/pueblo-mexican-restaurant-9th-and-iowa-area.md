@@ -1,6 +1,6 @@
 ---
 active: true
-address: 804 Iowa St
+address: 804 Iowa Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

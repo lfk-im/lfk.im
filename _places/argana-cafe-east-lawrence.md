@@ -1,6 +1,6 @@
 ---
 active: true
-address: 7 E 7th St
+address: 7 East 7th Street
 cuisine: Middle-Eastern
 cuisine_slugs:
 - middle-eastern

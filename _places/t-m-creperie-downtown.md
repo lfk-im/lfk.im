@@ -1,6 +1,6 @@
 ---
 active: true
-address: 7 E 8th St
+address: 7 East 8th Street
 cuisine: Crepes, Desserts
 cuisine_slugs:
 - crepes

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 623 Massachusetts St
+address: 623 Massachusetts Street
 cuisine: American, Brewery, Steakhouse
 cuisine_slugs:
 - american

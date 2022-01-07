@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1618 W 23rd St
+address: 1618 West 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

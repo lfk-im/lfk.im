@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 New Hampshire St Ste B
+address: 900 New Hampshire Street
 cuisine: Barbecue, BBQ
 cuisine_slugs:
 - barbecue

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 929 Massachusetts St
+address: 929 Massachusetts Street
 cuisine: British and Irish groceries and tea
 cuisine_slugs: null
 cuisines: []

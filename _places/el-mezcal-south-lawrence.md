@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1819 W 23rd St
+address: 1819 West 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

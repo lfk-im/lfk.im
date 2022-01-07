@@ -1,6 +1,6 @@
 ---
 active: true
-address: 520 W 23rd St
+address: 520 West 23rd Street
 cuisine: Bakery, Breakfast & Brunch, Coffee, Dessert, Salads, Sandwiches, Smoothies
 cuisine_slugs:
 - bakery

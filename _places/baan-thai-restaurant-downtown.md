@@ -1,6 +1,6 @@
 ---
 active: false
-address: 741 Massachusetts St
+address: 741 Massachusetts Street
 cuisine: Thai
 cuisine_slugs:
 - thai

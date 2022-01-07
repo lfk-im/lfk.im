@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4821 W 6th St, Ste K
+address: 4821 West 6th Street
 cuisine: Sandwiches, Soup
 cuisine_slugs:
 - sandwiches

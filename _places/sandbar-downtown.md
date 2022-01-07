@@ -1,6 +1,6 @@
 ---
 active: true
-address: 17 E 8th St
+address: 17 East 8th Street
 cuisine: Bars
 cuisine_slugs:
 - bars

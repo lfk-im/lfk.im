@@ -1,6 +1,6 @@
 ---
 active: true
-address: 623 Vermont St
+address: 623 Vermont Street
 cuisine: American, Burgers
 cuisine_slugs:
 - american

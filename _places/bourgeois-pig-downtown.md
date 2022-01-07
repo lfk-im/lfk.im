@@ -1,6 +1,6 @@
 ---
 active: true
-address: 6 E 9th St.
+address: 6 East 9th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

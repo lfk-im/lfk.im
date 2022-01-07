@@ -1,6 +1,6 @@
 ---
 active: true
-address: 704 Massachusetts St
+address: 704 Massachusetts Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

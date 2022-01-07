@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1035 Massachusetts St
+address: 1035 Massachusetts Street
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1100 Mississippi St
+address: 1100 Mississippi Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

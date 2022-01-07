@@ -1,6 +1,6 @@
 ---
 active: true
-address: 13 E 8th St
+address: 13 East 8th Street
 cuisine: Mexican, Tacos
 cuisine_slugs:
 - mexican

@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1025 Massachusetts St
+address: 1025 Massachusetts Street
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery

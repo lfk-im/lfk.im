@@ -1,6 +1,6 @@
 ---
 active: false
-address: 2112 W 25th St
+address: 2112 West 25th Street
 cuisine: Italian
 cuisine_slugs:
 - italian

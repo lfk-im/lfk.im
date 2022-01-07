@@ -1,6 +1,6 @@
 ---
 active: true
-address: 901 New Hampshire St
+address: 901 New Hampshire Street
 cuisine: Breakfast & Brunch, Coffee, Healthy, Salads, Sandwiches
 cuisine_slugs:
 - breakfast-brunch

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 719 Massachusetts St
+address: 719 Massachusetts Street
 cuisine: Seafood
 cuisine_slugs:
 - seafood

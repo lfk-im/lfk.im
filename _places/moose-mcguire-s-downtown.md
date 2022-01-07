@@ -1,6 +1,6 @@
 ---
 active: false
-address: 3320 McCarthy Rd
+address: 3320 McCarthy Road
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

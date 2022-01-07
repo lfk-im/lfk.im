@@ -1,6 +1,6 @@
 ---
 active: true
-address: 239 Elm St
+address: 239 Elm Street
 cuisine: Sushi, Japanese
 cuisine_slugs:
 - sushi

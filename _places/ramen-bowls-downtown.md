@@ -1,6 +1,6 @@
 ---
 active: true
-address: 918 Massachusetts St
+address: 918 Massachusetts Street
 cuisine: Asian, Ramen
 cuisine_slugs:
 - asian

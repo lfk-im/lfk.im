@@ -1,6 +1,6 @@
 ---
 active: true
-address: 721 Wakarusa Dr
+address: 721 Wakarusa Drive
 cuisine: American, Sandwiches, Pizza, Salads
 cuisine_slugs:
 - american

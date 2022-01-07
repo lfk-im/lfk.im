@@ -1,6 +1,6 @@
 ---
 active: true
-address: 826 Pennsylvania St
+address: 826 Pennsylvania Street
 cuisine: American, Brewery
 cuisine_slugs:
 - american

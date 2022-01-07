@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1900 Massachusetts St
+address: 1900 Massachusetts Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

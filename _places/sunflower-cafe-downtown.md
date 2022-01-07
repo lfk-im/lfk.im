@@ -1,6 +1,6 @@
 ---
 active: true
-address: 804 Massachusetts St
+address: 804 Massachusetts Street
 cuisine: Coffee, Sandwiches
 cuisine_slugs:
 - coffee

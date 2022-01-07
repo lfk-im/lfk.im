@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1111 Massachusetts St
+address: 1111 Massachusetts Street
 cuisine: Tea
 cuisine_slugs:
 - tea

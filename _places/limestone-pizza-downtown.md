@@ -1,6 +1,6 @@
 ---
 active: true
-address: 814 Massachusetts St
+address: 814 Massachusetts Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

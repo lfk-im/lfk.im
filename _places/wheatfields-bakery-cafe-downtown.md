@@ -1,6 +1,6 @@
 ---
 active: true
-address: 904 Vermont St
+address: 904 Vermont Street
 cuisine: Bakery
 cuisine_slugs:
 - bakery

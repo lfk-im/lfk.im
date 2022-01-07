@@ -1,6 +1,6 @@
 ---
 active: true
-address: 816 Massachusetts St
+address: 816 Massachusetts Street
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery

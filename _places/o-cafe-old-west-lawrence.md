@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1530 W 6th St
+address: 1530 West 6th Street
 cuisine: Korean
 cuisine_slugs:
 - korean

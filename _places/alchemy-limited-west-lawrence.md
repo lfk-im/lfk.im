@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4000 W. 6th St, Suite A
+address: 4000 West 6th Street
 cuisine: Bakery, Coffee
 cuisine_slugs:
 - bakery

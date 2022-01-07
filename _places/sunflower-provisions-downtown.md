@@ -1,6 +1,6 @@
 ---
 active: true
-address: 100 Riverfront Dr, Suite B
+address: 100 Riverfront Drive
 cuisine: Farm
 cuisine_slugs: null
 cuisines: []

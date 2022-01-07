@@ -1,6 +1,6 @@
 ---
 active: true
-address: 818 Massachusetts St
+address: 818 Massachusetts Street
 cuisine: Pizza, Salads, Sandwiches
 cuisine_slugs:
 - pizza

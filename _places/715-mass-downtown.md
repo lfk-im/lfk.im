@@ -1,6 +1,6 @@
 ---
 active: true
-address: 715 Massachusetts St
+address: 715 Massachusetts Street
 cuisine: American, Bars
 cuisine_slugs:
 - american

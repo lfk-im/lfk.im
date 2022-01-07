@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1410 Kasold Dr, Suite A17
+address: 1410 Kasold Drive
 cuisine: Gluten free
 cuisine_slugs: null
 cuisines: []

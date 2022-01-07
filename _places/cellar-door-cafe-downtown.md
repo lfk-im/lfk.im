@@ -1,6 +1,6 @@
 ---
 active: true
-address: 7 W 11th St
+address: 7 West 11th Street
 cuisine: Diner
 cuisine_slugs: null
 cuisines: []

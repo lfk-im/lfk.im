@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1528 W 23rd St
+address: 1528 West 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 818 Massachusetts St.
+address: 818 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

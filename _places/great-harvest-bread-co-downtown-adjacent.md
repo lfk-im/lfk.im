@@ -1,6 +1,6 @@
 ---
 active: true
-address: 501 W. 9th St
+address: 501 West 9th Street
 cuisine: Bakery
 cuisine_slugs:
 - bakery

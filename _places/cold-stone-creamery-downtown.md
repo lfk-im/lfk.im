@@ -1,6 +1,6 @@
 ---
 active: true
-address: 647 Massachusetts St.
+address: 647 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

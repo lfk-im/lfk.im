@@ -1,6 +1,6 @@
 ---
 active: true
-address: 200 McDonald Dr
+address: 200 McDonald Drive
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery

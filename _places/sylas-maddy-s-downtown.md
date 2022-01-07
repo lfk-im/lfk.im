@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1011 Massachusetts St
+address: 1011 Massachusetts Street
 cuisine: Desserts
 cuisine_slugs:
 - desserts

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 434 Locust St
+address: 434 Locust Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

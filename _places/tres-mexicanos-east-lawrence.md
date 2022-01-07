@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1800 E. 23rd St
+address: 1800 East 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

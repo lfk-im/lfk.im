@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1000 W 23rd St
+address: 1000 West 23rd Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

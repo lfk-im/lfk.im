@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1410 Kasold Dr A13
+address: 1410 Kasold Drive
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

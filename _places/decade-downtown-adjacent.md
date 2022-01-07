@@ -1,6 +1,6 @@
 ---
 active: true
-address: 920 Delaware St
+address: 920 Delaware Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee

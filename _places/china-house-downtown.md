@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4821 W 6th St
+address: 4821 West 6th Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

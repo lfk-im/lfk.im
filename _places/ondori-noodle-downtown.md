@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1008 Massachusetts St
+address: 1008 Massachusetts Avenue
 cuisine: Ramen
 cuisine_slugs: null
 cuisines: []

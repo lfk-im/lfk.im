@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1501 W 23rd St
+address: 1501 West 23rd Street
 cuisine: Hawaiian
 cuisine_slugs: null
 cuisines: []

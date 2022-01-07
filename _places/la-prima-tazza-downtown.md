@@ -1,6 +1,6 @@
 ---
 active: true
-address: 638 Massachusetts St
+address: 638 Massachusetts Street
 cuisine: Coffee, Tea
 cuisine_slugs:
 - coffee

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 644 Massachusetts St
+address: 644 Massachusetts Street
 cuisine: Popcorn
 cuisine_slugs: null
 cuisines: []

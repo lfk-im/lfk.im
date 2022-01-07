@@ -1,6 +1,6 @@
 ---
 active: true
-address: 844 Massachusetts St
+address: 844 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

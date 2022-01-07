@@ -1,6 +1,6 @@
 ---
 active: true
-address: 811 Massachusetts St
+address: 811 Massachusetts Street
 cuisine: Asian, Thai
 cuisine_slugs:
 - asian

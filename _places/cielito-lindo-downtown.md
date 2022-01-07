@@ -1,6 +1,6 @@
 ---
 active: true
-address: 815 New Hampshire St
+address: 815 New Hampshire Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

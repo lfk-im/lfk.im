@@ -1,6 +1,6 @@
 ---
 active: false
-address: 512 E 9th St
+address: 512 East 9th Street
 cuisine: Mediterranean
 cuisine_slugs: null
 cuisines: []

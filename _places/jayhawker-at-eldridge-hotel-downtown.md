@@ -1,6 +1,6 @@
 ---
 active: true
-address: 701 Massachusetts St
+address: 701 Massachusetts Street
 cuisine: American, Bars, Cocktail Bar
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 624 N. 2nd St
+address: 624 North 2nd Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee

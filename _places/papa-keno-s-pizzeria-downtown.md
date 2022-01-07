@@ -1,6 +1,6 @@
 ---
 active: true
-address: 837 Massachusetts St.
+address: 837 Massachusetts Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

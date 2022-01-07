@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2449 Iowa St
+address: 2449 Iowa Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

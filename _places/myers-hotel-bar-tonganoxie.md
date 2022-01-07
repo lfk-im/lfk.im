@@ -1,6 +1,6 @@
 ---
 active: false
-address: 220 S Main St
+address: ' '
 cuisine: Bar, Cocktails, Coffee
 cuisine_slugs:
 - bar

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 805 Vermont St
+address: 805 Vermont Street
 cuisine: Cajun
 cuisine_slugs:
 - cajun

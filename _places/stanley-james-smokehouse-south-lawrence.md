@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1500 E 23rd St
+address: 1500 East 23rd Street
 cuisine: Barbecue, BBQ
 cuisine_slugs:
 - barbecue

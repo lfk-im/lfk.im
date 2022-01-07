@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2435 Iowa St
+address: 2435 Iowa Street
 cuisine: American, Chicken
 cuisine_slugs:
 - american

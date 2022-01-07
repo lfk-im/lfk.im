@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3520 W 6th St
+address: 3520 West 6th Street
 cuisine: American, Wings
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1520 Wakarusa Dr, Suite A
+address: 1520 Wakarusa Drive
 cuisine: American, Burgers, Salads, Sandwiches, Seafood, Wings
 cuisine_slugs:
 - american

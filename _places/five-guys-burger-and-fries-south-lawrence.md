@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2040 31st St, Suite B
+address: 2040 West 31st Street
 cuisine: American
 cuisine_slugs:
 - american

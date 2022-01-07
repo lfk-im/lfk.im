@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1200 Oread Ave
+address: 1200 Oread Avenue
 cuisine: Bakery, Cookies, Desserts
 cuisine_slugs:
 - bakery

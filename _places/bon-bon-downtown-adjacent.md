@@ -1,6 +1,6 @@
 ---
 active: false
-address: 804 Pennsylvania St
+address: 804 Pennsylvania Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

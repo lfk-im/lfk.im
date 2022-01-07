@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 Illinois St
+address: 900 East Illinois Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

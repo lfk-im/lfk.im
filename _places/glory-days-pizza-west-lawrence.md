@@ -1,6 +1,6 @@
 ---
 active: true
-address: 4621 W 6th St
+address: 4621 West 6th Street
 cuisine: Pizza, Salads, Sandwiches, Pasta
 cuisine_slugs:
 - pizza

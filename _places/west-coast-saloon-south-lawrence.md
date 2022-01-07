@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2222 Iowa St
+address: 2222 Iowa Street
 cuisine: American
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3115 W 6th St
+address: 3115 West 6th Street
 cuisine: Catering, Variety
 cuisine_slugs: null
 cuisines: []

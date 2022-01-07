@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2429 Iowa St
+address: 2429 Iowa Street
 cuisine: Barbecue, BBQ
 cuisine_slugs:
 - barbecue

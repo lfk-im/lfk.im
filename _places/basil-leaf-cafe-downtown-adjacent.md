@@ -1,6 +1,6 @@
 ---
 active: true
-address: 616 W 9th St
+address: 616 West 9th Street
 cuisine: American, Italian
 cuisine_slugs:
 - american

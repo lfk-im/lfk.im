@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1814 W 23rd St
+address: 1814 West 23rd Street
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches

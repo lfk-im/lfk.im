@@ -1,6 +1,6 @@
 ---
 active: true
-address: 312 N 2nd St
+address: 312 North 2nd Street
 cuisine: Bars, Tacos
 cuisine_slugs:
 - bars

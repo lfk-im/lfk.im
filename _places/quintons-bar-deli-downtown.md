@@ -1,6 +1,6 @@
 ---
 active: false
-address: 615 Massachusetts St
+address: 615 Massachusetts Street
 cuisine: American, Sandwiches
 cuisine_slugs:
 - american

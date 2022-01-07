@@ -1,6 +1,6 @@
 ---
 active: true
-address: 934 Massachusetts St
+address: 934 Massachusetts Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

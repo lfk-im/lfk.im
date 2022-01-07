@@ -1,6 +1,6 @@
 ---
 active: true
-address: 444 Locust St
+address: 444 Locust Street
 cuisine: Bars, Cocktails & Beer
 cuisine_slugs:
 - bars

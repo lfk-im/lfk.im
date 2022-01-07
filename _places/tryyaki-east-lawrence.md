@@ -1,6 +1,6 @@
 ---
 active: true
-address: 701 W 23rd St
+address: 701 West 23rd Street
 cuisine: Sushi, Japanese, Asian
 cuisine_slugs:
 - sushi

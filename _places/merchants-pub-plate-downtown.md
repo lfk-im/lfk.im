@@ -1,6 +1,6 @@
 ---
 active: true
-address: 746 Massachusetts St
+address: 746 Massachusetts Street
 cuisine: Gastropub
 cuisine_slugs:
 - gastropub

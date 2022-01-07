@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1103 Massachusetts St
+address: 1103 Massachusetts Street
 cuisine: Soda
 cuisine_slugs: null
 cuisines: []

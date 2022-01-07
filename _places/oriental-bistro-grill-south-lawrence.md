@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1511 W. 23rd St
+address: 1511 West 23rd Street
 cuisine: Chinese, Korean, Thai, Japanese
 cuisine_slugs:
 - chinese

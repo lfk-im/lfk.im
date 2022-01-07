@@ -1,6 +1,6 @@
 ---
 active: false
-address: 740 Massachusetts St
+address: 740 Massachusetts Street
 cuisine: Sushi, Japanese
 cuisine_slugs:
 - sushi

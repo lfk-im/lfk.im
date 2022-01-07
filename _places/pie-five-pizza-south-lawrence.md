@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2500 Iowa St
+address: 2500 Iowa Street
 cuisine: Pizza
 cuisine_slugs:
 - pizza

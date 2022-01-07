@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 New Jersey St
+address: 900 New Jersey Street
 cuisine: Coffee
 cuisine_slugs:
 - coffee

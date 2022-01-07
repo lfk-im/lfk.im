@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 Mississippi St
+address: 900 Mississippi Street
 cuisine: American, Pizza
 cuisine_slugs:
 - american

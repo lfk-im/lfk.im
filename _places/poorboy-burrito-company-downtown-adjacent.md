@@ -1,6 +1,6 @@
 ---
 active: false
-address: 1900 Massachusetts St
+address: 1900 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

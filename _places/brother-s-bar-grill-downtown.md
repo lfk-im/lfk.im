@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1105 Massachusetts St.
+address: 1105 Massachusetts Avenue
 cuisine: ''
 cuisine_slugs: null
 cuisines: null

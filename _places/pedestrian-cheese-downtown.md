@@ -1,6 +1,6 @@
 ---
 active: false
-address: 845 Massachusetts St
+address: 845 Massachusetts Street
 cuisine: Sandwiches
 cuisine_slugs:
 - sandwiches

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 636 Massachusetts St
+address: 636 Massachusetts Street
 cuisine: American, Brewery, Sandwiches, Pasta, Salads
 cuisine_slugs:
 - american

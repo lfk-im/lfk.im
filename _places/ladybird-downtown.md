@@ -1,6 +1,6 @@
 ---
 active: true
-address: 721 Massachusetts St
+address: 721 Massachusetts Street
 cuisine: American, Diner, Breakfast
 cuisine_slugs:
 - american

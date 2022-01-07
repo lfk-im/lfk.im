@@ -1,6 +1,6 @@
 ---
 active: false
-address: 239 Elm St
+address: 239 Elm Street
 cuisine: American, Breakfast, Sandwiches
 cuisine_slugs:
 - american

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1007 Massachusetts St
+address: 1007 Massachusetts Street
 cuisine: Asian
 cuisine_slugs:
 - asian

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 801 Massachusetts St
+address: 801 Massachusetts Street
 cuisine: Mexican, Tacos
 cuisine_slugs:
 - mexican

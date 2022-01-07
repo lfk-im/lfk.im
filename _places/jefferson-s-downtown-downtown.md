@@ -1,6 +1,6 @@
 ---
 active: true
-address: 743 Massachusetts St
+address: 743 Massachusetts Street
 cuisine: American
 cuisine_slugs:
 - american

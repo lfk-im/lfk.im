@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2210 Iowa St
+address: 2210 Iowa Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 3115 West 6th Street, Suite H
+address: 3115 West 6th Street
 cuisine: Indian
 cuisine_slugs:
 - indian

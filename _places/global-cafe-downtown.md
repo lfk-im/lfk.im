@@ -1,6 +1,6 @@
 ---
 active: true
-address: 820 Massachusetts St
+address: 820 Massachusetts Street
 cuisine: Latin American
 cuisine_slugs:
 - latin-american

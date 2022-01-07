@@ -1,6 +1,6 @@
 ---
 active: true
-address: 925 Iowa St, Suite P
+address: 925 Iowa Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

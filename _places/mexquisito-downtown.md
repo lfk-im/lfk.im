@@ -1,6 +1,6 @@
 ---
 active: false
-address: 712 Massachusetts St
+address: 712 Massachusetts Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

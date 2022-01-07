@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1520 Wakarusa Dr
+address: 1520 Wakarusa Drive
 cuisine: Mexican
 cuisine_slugs:
 - mexican

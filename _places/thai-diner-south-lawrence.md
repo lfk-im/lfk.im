@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2223 Louisiana St
+address: 2223 Louisiana Street
 cuisine: Thai
 cuisine_slugs:
 - thai

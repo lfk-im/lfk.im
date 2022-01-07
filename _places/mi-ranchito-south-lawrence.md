@@ -1,6 +1,6 @@
 ---
 active: true
-address: 707 W 23rd St
+address: 707 West 23rd Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

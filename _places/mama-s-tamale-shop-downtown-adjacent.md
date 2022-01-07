@@ -1,6 +1,6 @@
 ---
 active: true
-address: 602 W 9th St
+address: 602 West 9th Street
 cuisine: Mexican
 cuisine_slugs:
 - mexican

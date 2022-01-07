@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2907 W 6th St
+address: 2907 West 6th Street
 cuisine: Japanese, Steakhouse
 cuisine_slugs:
 - japanese

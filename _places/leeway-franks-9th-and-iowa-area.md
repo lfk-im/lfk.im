@@ -1,6 +1,6 @@
 ---
 active: true
-address: 935 Iowa St
+address: 935 Iowa Street
 cuisine: American, Sausages
 cuisine_slugs:
 - american
