@@ -2,7 +2,7 @@
 layout: none
 ---
 <html lang="en">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {% seo %}
@@ -15,70 +15,70 @@ layout: none
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl | prepend: site.url }}/assets/img/favicon-16x16.png">
     <link rel="manifest" href="{{ site.baseurl | prepend: site.url }}/assets/img/site.webmanifest">
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
-</head>
-<body class="max-w-screen-lg mx-auto">
+  </head>
+  <body class="max-w-screen-lg mx-auto">
 
-<div class="sticky top-0 z-30 bg-gray-900 md:flex md:items-center md:justify-between">
-  <div class="flex-1 min-w-0">
-    <h2 class="px-3 py-3 text-4xl font-bold leading-7 text-gray-100 sm:text-4xl sm:leading-9 sm:truncate">
-        <a href="/">LFK.im</a>
-    </h2>
-  </div>
-  <div class="flex-1 px-3 py-3 md:text-right">
-    <a class="px-3 py-2 font-bold text-red-700 underline bg-yellow-400 rounded hover:text-red-900" href="#add-your-business">
-      Add your business to the list
-    </a>
-  </div>
-</div>
+    <div class="sticky top-0 z-30 bg-gray-900 md:flex md:items-center md:justify-between">
+      <div class="flex-1 min-w-0">
+        <h2 class="px-3 py-3 text-4xl font-bold leading-7 text-gray-100 sm:text-4xl sm:leading-9 sm:truncate">
+          <a href="/">LFK.im</a>
+        </h2>
+      </div>
+      <div class="flex-1 px-3 py-3 md:text-right">
+        <a class="px-3 py-2 font-bold text-red-700 underline bg-yellow-400 rounded hover:text-red-900" href="#add-your-business">
+          Add your business to the list
+        </a>
+      </div>
+    </div>
 
-{{ content }}
+    {{ content }}
 
-<div class="lg:flex lg:items-center lg:justify-between">
-  <div class="flex-1 min-w-0 px-3 py-3 py-8">
-    <div class="py-4 text-xl text-center border-t-2">
-      <a target="_blank" class="text-red-700 underline hover:text-red-900" href="https://forms.gle/dcfNTcTqdT27BiL77" rel="nofollow">
-        Suggest a New Business</a>
-      | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/cuisines.html %}">
-        Cuisines</a>
-      | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/neighborhoods.html %}">
-        Neighborhoods</a>
-      | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/closed.html %}">
-        Closed Businesses</a>
-      {% comment %}
+    <div class="lg:flex lg:items-center lg:justify-between">
+      <div class="flex-1 min-w-0 px-3 py-3 py-8">
+        <div class="py-4 text-xl text-center border-t-2">
+          <a target="_blank" class="text-red-700 underline hover:text-red-900" href="https://forms.gle/dcfNTcTqdT27BiL77" rel="nofollow">
+            Suggest a New Business</a>
+          | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/cuisines.html %}">
+            Cuisines</a>
+          | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/neighborhoods.html %}">
+            Neighborhoods</a>
+          | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/closed.html %}">
+            Closed Businesses</a>
+          {% comment %}
       | <a class="text-blue-700 underline hover:text-blue-500" href="{% link _pages/about.html %}">
         About</a>
       {% endcomment %}
+        </div>
+        <div class="py-2 text-sm text-center border-t-2">
+          <p>
+            LFK.im is not associated with <a class="text-red-600 underline" href="https://www.lfkhq.com/" rel="sponsored">LFK PRESS</a>, who is the legal copyright holder of the LFK® Trademark.
+          </p>
+          <p>
+            We are big fans. Buy their stuff.
+            <a class="text-blue-700 underline hover:text-blue-500" href="http://www.kansan.com/arts_and_culture/behind-lfk-the-acronym-created-by-local-printmaker-and-ku-alumna/article_8dc5971e-7248-11e5-953b-1344b0483548.html" rel="nofollow">
+              Learn the story behind the LFK name.</a>
+          </p>
+        </div>
+        <div class="py-2 text-sm text-center border-t-2">
+          <p>
+            Made with ♥ in LFK by
+            <a class="text-blue-700 underline hover:text-blue-500" href="https://twitter.com/webology" rel="author">
+              Jeff Triplett</a>
+            from
+            <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://www.revsys.com/">
+              REVSYS</a>.
+            🙏 Special thanks to
+            <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://www.revsys.com/about/bio/catherine-holmes">
+              Catherine Holmes</a>
+            for all the help.
+            <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://github.com/jefftriplett/lfk.im" rel="nofollow">
+              View on GitHub</a>
+          </p>
+        </div>
+      </div>
     </div>
-    <div class="py-2 text-sm text-center border-t-2">
-      <p>
-        LFK.im is not associated with <a class="text-red-600 underline" href="https://www.lfkhq.com/" rel="sponsored">LFK PRESS</a>, who is the legal copyright holder of the LFK® Trademark.
-      </p>
-      <p>
-        We are big fans. Buy their stuff.
-        <a class="text-blue-700 underline hover:text-blue-500" href="http://www.kansan.com/arts_and_culture/behind-lfk-the-acronym-created-by-local-printmaker-and-ku-alumna/article_8dc5971e-7248-11e5-953b-1344b0483548.html" rel="nofollow">
-          Learn the story behind the LFK name.</a>
-      </p>
-    </div>
-    <div class="py-2 text-sm text-center border-t-2">
-      <p>
-        Made with ♥ in LFK by
-        <a class="text-blue-700 underline hover:text-blue-500" href="https://twitter.com/webology" rel="author">
-          Jeff Triplett</a>
-        from
-        <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://www.revsys.com/">
-          REVSYS</a>.
-          🙏 Special thanks to
-        <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://www.revsys.com/about/bio/catherine-holmes">
-          Catherine Holmes</a>
-        for all the help.
-        <a target="_blank" class="text-blue-700 underline hover:text-blue-500" href="https://github.com/jefftriplett/lfk.im" rel="nofollow">
-          View on GitHub</a>
-      </p>
-    </div>
-  </div>
-</div>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
-<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
-</body>
+    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+  </body>
 </html>

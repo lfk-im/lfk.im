@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="p-2" itemscope itemtype="http://schema.org/{{ page.place_type }}">
-    <!-- content -->
+  <!-- content -->
   <h1 class="font-bold text-4xl {% unless page.active %}text-red-700{% endunless %}" itemprop="name">
     {{ page.name }}
     {% unless page.active %}<small class="text-red-900">- Closed</small>{% endunless %}
@@ -15,60 +15,60 @@ layout: default
   </h2>
 
   {% if page.neighborhood %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Neighborhood</dt>
-    <dd>
-      <a class="text-blue-700 underline hover:text-blue-500"
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Neighborhood</dt>
+      <dd>
+        <a class="text-blue-700 underline hover:text-blue-500"
           href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a>
-    </dd>
-  </dl>
+      </dd>
+    </dl>
   {% endif %}
 
   {% if page.hours and page.hours != "" and page.hours != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Hours</dt>
-    <dd>{{ page.hours }}</dd>
-  </dl>
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Hours</dt>
+      <dd>{{ page.hours }}</dd>
+    </dl>
   {% endif %}
 
   {% if page.cuisines.size > 0 %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Cuisine</dt>
-    <dd>
-    {% for cuisine in page.cuisines %}
-      <a class="text-blue-700 underline hover:text-blue-500"
-          href="/cuisines/{{ cuisine|slugify }}/"
-          itemprop="servesCuisine">{{ cuisine }}</a>
-    {% endfor %}
-    </dd>
-  </dl>
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Cuisine</dt>
+      <dd>
+        {% for cuisine in page.cuisines %}
+          <a class="text-blue-700 underline hover:text-blue-500"
+            href="/cuisines/{{ cuisine|slugify }}/"
+            itemprop="servesCuisine">{{ cuisine }}</a>
+        {% endfor %}
+      </dd>
+    </dl>
   {% endif %}
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
     <dt>Phone</dt>
     <dd>
       <a class="text-blue-700 underline hover:text-blue-500"
-          href="tel:{{ page.restaurant_phone }}"
-          itemprop="telephone" rel="nofollow">{{ page.restaurant_phone }}</a>
+        href="tel:{{ page.restaurant_phone }}"
+        itemprop="telephone" rel="nofollow">{{ page.restaurant_phone }}</a>
     </dd>
   </dl>
 
   {% if page.website and page.website != "" and page.website != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Website</dt>
-    <dd>
-      <a class="text-blue-700 underline hover:text-blue-500"
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Website</dt>
+      <dd>
+        <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ page.website }}"
           itemprop="url" rel="ugc">{{ page.website }}</a>
-    </dd>
-  </dl>
+      </dd>
+    </dl>
   {% endif %}
 
   {% if page.dinein %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Dine In</dt>
-    <dd>{% if page.dinein %}✅ Yes{% else %}❌ No{% endif %}</dd>
-  </dl>
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Dine In</dt>
+      <dd>{% if page.dinein %}✅ Yes{% else %}❌ No{% endif %}</dd>
+    </dl>
   {% endif %}
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
@@ -87,41 +87,41 @@ layout: default
   </dl>
 
   {% if page.curbside_instructions and page.curbside_instructions != "" and page.curbside_instructions != nil %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Curbside Instructions</dt>
-    <dd>{{ page.curbside_instructions }}</dd>
-  </dl>
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dt>Curbside Instructions</dt>
+      <dd>{{ page.curbside_instructions }}</dd>
+    </dl>
   {% endif %}
 
   <h2 class="pt-8 text-2xl font-bold">Ordering Options</h2>
 
   {% for food in page.food_urls %}
-  <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dd>
-      <a class="text-blue-700 underline hover:text-blue-500"
+    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+      <dd>
+        <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ food.url }}" rel="nofollow">
-        Order {{ page.name }} via {{ food.name }}</a>
-    </dd>
-  </dl>
+          Order {{ page.name }} via {{ food.name }}</a>
+      </dd>
+    </dl>
   {% endfor %}
 
   {% if page.giftcard_url != "" or page.giftcard_notes != "" %}
     <h2 class="pt-8 text-2xl font-bold">Giftcard Options</h2>
 
     {% if page.giftcard_url and page.giftcard_url != "" and page.giftcard_url != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd>
-        <a class="text-blue-700 underline hover:text-blue-500"
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dd>
+          <a class="text-blue-700 underline hover:text-blue-500"
             href="{{ page.giftcard_url }}" rel="nofollow">Purchase a {{ page.name }} Giftcard</a>
-      </dd>
-    </dl>
+        </dd>
+      </dl>
     {% endif %}
 
     {% if page.giftcard_notes and page.giftcard_notes != "" and page.giftcard_notes != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Giftcard Notes</dt>
-      <dd>{{ page.giftcard_notes }}</dd>
-    </dl>
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dt>Giftcard Notes</dt>
+        <dd>{{ page.giftcard_notes }}</dd>
+      </dl>
     {% endif %}
   {% endif %}
 
@@ -129,33 +129,33 @@ layout: default
     <h2 class="pt-8 text-2xl font-bold">Social Media</h2>
 
     {% if page.facebook_url and page.facebook_url != "" and page.facebook_url != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}" rel="nofollow">Facebook</a></dd>
-    </dl>
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}" rel="nofollow">Facebook</a></dd>
+      </dl>
     {% endif %}
 
     {% if page.instagram_url and page.instagram_url != "" and page.instagram_url != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}" rel="nofollow">Instagram</a></dd>
-    </dl>
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}" rel="nofollow">Instagram</a></dd>
+      </dl>
     {% endif %}
 
     {% if page.twitch_url and page.twitch_url != "" and page.twitch_url != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitch_url }}" rel="nofollow">Twitch</a></dd>
-    </dl>
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitch_url }}" rel="nofollow">Twitch</a></dd>
+      </dl>
     {% endif %}
 
     {% if page.twitter_url and page.twitter_url != "" and page.twitter_url != nil %}
-    <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}" rel="nofollow">Twitter</a></dd>
-    </dl>
+      <dl class="flex items-center justify-between py-2 border-b border-gray-400">
+        <dd><a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}" rel="nofollow">Twitter</a></dd>
+      </dl>
     {% endif %}
   {% endif %}
 
   {% if page.notes and page.notes != "" and page.notes != nil %}
-  <h2 class="pt-8 text-2xl font-bold">Notes</h2>
-  <div class="text-lg">{{ page.notes }}</div>
+    <h2 class="pt-8 text-2xl font-bold">Notes</h2>
+    <div class="text-lg">{{ page.notes }}</div>
   {% endif %}
 
 </div>

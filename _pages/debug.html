@@ -12,31 +12,31 @@ permalink: /debug/
 </div>
 
 <div class="w-full mx-auto">
-<h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/cuisines.html %}">Cuisines</a></h3>
+  <h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/cuisines.html %}">Cuisines</a></h3>
 
-<ul class="p-2">
-{% for cuisine in site.cuisines %}
-{% unless cuisine.active %}
-{% assign places = site.places | where:"cuisine", cuisine.name %}
-<li>
-    <a class="text-blue-700 underline hover:text-blue-500" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
-</li>
-{% endunless %}
-{% endfor %}
-</ul>
+  <ul class="p-2">
+    {% for cuisine in site.cuisines %}
+      {% unless cuisine.active %}
+        {% assign places = site.places | where:"cuisine", cuisine.name %}
+        <li>
+          <a class="text-blue-700 underline hover:text-blue-500" href="{{ cuisine.url }}">{{ cuisine.name }} ({{ places.size }})</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 </div>
 
 <hr>
 
 <div class="w-full mx-auto">
-<h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/neighborhoods.html %}">Neighborhoods</a></h3>
+  <h3 class="p-2 text-2xl font-bold"><a href="{% link _pages/neighborhoods.html %}">Neighborhoods</a></h3>
 
-<ul class="p-2">
-{% for neighborhood in site.neighborhoods %}
-{% unless neighborhood.active %}
-{% assign places = site.places | where:"neighborhood", neighborhood.name %}
-<li><a class="text-blue-700 underline hover:text-blue-500" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a></li>
-{% endunless %}
-{% endfor %}
-</ul>
+  <ul class="p-2">
+    {% for neighborhood in site.neighborhoods %}
+      {% unless neighborhood.active %}
+        {% assign places = site.places | where:"neighborhood", neighborhood.name %}
+        <li><a class="text-blue-700 underline hover:text-blue-500" href="{{ neighborhood.url }}">{{ neighborhood.name }} ({{ places.size }})</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 </div>
