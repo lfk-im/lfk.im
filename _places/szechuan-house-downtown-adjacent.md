@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1500 West 6th Street
 cuisine: Asian, Chinese, Szechuan, Cajun
 cuisine_slugs:
@@ -30,7 +30,7 @@ name: Szechuan House
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
 notes: ''
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-551-7418

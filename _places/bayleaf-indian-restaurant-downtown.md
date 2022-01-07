@@ -8,7 +8,7 @@ cuisines:
 - Thai
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: http://bayleaflawrence.com/product-category/appetizers/
 dinein: false
 facebook_url: https://www.facebook.com/bayleaflindianrestaurant/

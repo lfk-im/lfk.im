@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 525 Wakarusa Drive
 cuisine: American, Burgers, Dessert, Salads, Sandwiches, Wings
 cuisine_slugs:
@@ -41,7 +41,7 @@ name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
 notes: FREE DELIVERY if you call us direct.
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-727-4999

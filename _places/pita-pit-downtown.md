@@ -41,7 +41,7 @@ name: Pita Pit
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
-perma_closed: false
+perma_closed: true
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-856-2500

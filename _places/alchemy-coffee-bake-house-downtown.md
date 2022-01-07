@@ -12,7 +12,7 @@ cuisines:
 - Coffee
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://squareup.com/store/AlchemyOnline
 dinein: true
 facebook_url: https://www.facebook.com/alchemycoffeeKS/

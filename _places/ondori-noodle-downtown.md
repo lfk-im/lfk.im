@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1008 Massachusetts Avenue
 cuisine: Ramen
 cuisine_slugs: null
@@ -24,7 +24,7 @@ name: Ondori Noodle
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Order by phone and pick up curbside, delivery via EatStreet
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-856-0210

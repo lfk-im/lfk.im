@@ -11,7 +11,7 @@ cuisines:
 - Sandwiches
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''
@@ -35,7 +35,7 @@ name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: Closed until August or September
-perma_closed: false
+perma_closed: true
 place_type: BarOrPub
 region: KS
 restaurant_phone: 785-842-6560

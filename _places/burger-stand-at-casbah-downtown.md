@@ -10,7 +10,7 @@ cuisines:
 - Burgers
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/casbahburgerstand/

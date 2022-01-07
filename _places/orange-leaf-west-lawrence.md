@@ -10,7 +10,7 @@ cuisines:
 curbside: true
 curbside_instructions: Call 785-856-0544 to order and again when you arrive and they
   will bring to your car
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/OrangeLeafLawrence

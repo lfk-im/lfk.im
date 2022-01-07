@@ -8,7 +8,7 @@ cuisines:
 - Seafood
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''

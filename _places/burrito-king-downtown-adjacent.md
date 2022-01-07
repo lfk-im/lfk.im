@@ -6,7 +6,7 @@ cuisine_slugs: null
 cuisines: null
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''

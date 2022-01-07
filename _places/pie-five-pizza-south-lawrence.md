@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 2500 Iowa Street
 cuisine: Pizza
 cuisine_slugs:
@@ -32,7 +32,7 @@ name: Pie Five Pizza
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-551-7170

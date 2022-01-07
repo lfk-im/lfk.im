@@ -16,7 +16,7 @@ cuisines:
 - Pizza
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://www.toasttab.com/fields-ivy-brewing/v3#!/
 dinein: false
 facebook_url: ''

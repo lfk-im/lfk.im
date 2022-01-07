@@ -12,7 +12,7 @@ cuisines:
 - Coffee
 curbside: true
 curbside_instructions: Order online - Pickup curbside
-delivery: false
+delivery: true
 delivery_service_websites: https://1900online.square.site/
 dinein: false
 facebook_url: http://facebook.com/1900barker

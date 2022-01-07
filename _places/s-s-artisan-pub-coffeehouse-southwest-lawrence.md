@@ -15,7 +15,7 @@ cuisines:
 curbside: true
 curbside_instructions: Order online at Shaunandsonsartisanpub.com or call us at 785-766-2355.
   We will bring your order to you via curbside.
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''

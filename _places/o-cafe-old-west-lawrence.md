@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 1530 West 6th Street
 cuisine: Korean
 cuisine_slugs:
@@ -28,7 +28,7 @@ name: O Cafe
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
 notes: Unconfirmed
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-312-9211

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 3300 Iowa Street
 cuisine: Sandwiches
 cuisine_slugs:
@@ -24,7 +24,7 @@ locality: Lawrence
 name: Subway (in the Walmart)
 neighborhood: ''
 notes: ''
-perma_closed: false
+perma_closed: true
 place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: 785-832-1199

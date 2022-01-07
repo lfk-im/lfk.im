@@ -6,7 +6,7 @@ cuisine_slugs: null
 cuisines: []
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://culinariaks.square.site/
 dinein: false
 facebook_url: https://www.facebook.com/pg/CulinariaKS

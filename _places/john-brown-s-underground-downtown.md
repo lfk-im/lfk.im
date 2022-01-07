@@ -10,7 +10,7 @@ cuisines:
 - Cocktail Bar
 curbside: true
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://john-brown-underground.square.site/
 dinein: false
 facebook_url: ''

@@ -26,7 +26,7 @@ name: Border Bandido
 neighborhood: Southwest Lawrence
 neighborhood_slug: southwest-lawrence
 notes: ''
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-842-8861

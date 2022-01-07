@@ -29,7 +29,7 @@ neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: (Adam 4/18/21) Paisano's closed because the building was sold, read about it
   a while back and now their website shows it's closed.
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-838-3500

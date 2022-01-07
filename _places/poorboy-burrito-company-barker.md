@@ -22,7 +22,7 @@ name: PoorBoy Burrito Company
 neighborhood: Barker
 neighborhood_slug: barker
 notes: Unconfirmed
-perma_closed: false
+perma_closed: true
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-550-3317

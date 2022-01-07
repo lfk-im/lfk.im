@@ -6,7 +6,7 @@ cuisine_slugs: null
 cuisines: []
 curbside: true
 curbside_instructions: Call ahead or come in for take out.
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: ''

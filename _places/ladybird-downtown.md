@@ -10,7 +10,7 @@ cuisines:
 - Breakfast
 curbside: false
 curbside_instructions: ''
-delivery: false
+delivery: true
 delivery_service_websites: https://www.ladybirddiner.menu/
 dinein: false
 facebook_url: ''

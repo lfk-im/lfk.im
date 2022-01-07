@@ -16,7 +16,7 @@ curbside_instructions: 'Step 1 call (785) 843-1110 or (785) 841-1149
   Step 4 we''ll make sure you are out front somewhere
 
   Step 5 we''ll place your order outside on a patio table with your name on it'
-delivery: false
+delivery: true
 delivery_service_websites: ''
 dinein: false
 facebook_url: https://www.facebook.com/920Mass/
