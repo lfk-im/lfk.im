@@ -1,6 +1,6 @@
 ---
 active: true
-address: 901 Alpine Avenue Northwest
+address: 616 West 9th Street
 cuisine: American, Italian
 cuisine_slugs:
 - american
