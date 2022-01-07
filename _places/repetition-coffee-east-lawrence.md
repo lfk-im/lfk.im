@@ -24,15 +24,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Repetition Coffee
-neighborhood: Downtown
-neighborhood_slug: downtown
+neighborhood: East Lawrence
+neighborhood_slug: east-lawrence
 notes: Free porch delivery within Lawrence
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: repetition-coffee-downtown
+slug: repetition-coffee-east-lawrence
 takeout: false
 twitch_url: ''
 twitter_url: ''

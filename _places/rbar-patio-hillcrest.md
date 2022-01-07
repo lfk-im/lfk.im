@@ -19,14 +19,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: RBar & Patio
-neighborhood: ''
+neighborhood: Hillcrest
+neighborhood_slug: hillcrest
 notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: rbar-patio-610-florida-street
+slug: rbar-patio-hillcrest
 takeout: false
 twitch_url: ''
 twitter_url: ''

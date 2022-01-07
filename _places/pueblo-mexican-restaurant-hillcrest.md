@@ -21,15 +21,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Pueblo Mexican Restaurant
-neighborhood: 9th and Iowa Area
-neighborhood_slug: 9th-and-iowa-area
+neighborhood: Hillcrest
+neighborhood_slug: hillcrest
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: 785-331-2710
 sitemap: false
-slug: pueblo-mexican-restaurant-9th-and-iowa-area
+slug: pueblo-mexican-restaurant-hillcrest
 takeout: true
 twitch_url: ''
 twitter_url: ''
