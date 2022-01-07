@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 925 S Iowa St .
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 821 Iowa
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2525 Iowa St
 cuisine: ''
 cuisine_slugs: null

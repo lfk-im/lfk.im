@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 545 Wakarusa Rd
 cuisine: ''
 cuisine_slugs: null

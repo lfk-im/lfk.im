@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2201 W 25th, Suite L
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: formosa-bakery-2201-w-25th-suite-l
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2000 W 31 St
 cuisine: ''
 cuisine_slugs: null

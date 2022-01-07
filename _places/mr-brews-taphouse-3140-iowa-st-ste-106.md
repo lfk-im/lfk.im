@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 3140 Iowa St. Ste. 106
 cuisine: ''
 cuisine_slugs: null

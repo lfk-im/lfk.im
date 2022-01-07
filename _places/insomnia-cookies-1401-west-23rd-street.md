@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1401 West 23rd Street
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: insomnia-cookies-1401-west-23rd-street
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

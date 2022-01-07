@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1200 Oread Avenue
 cuisine: ''
 cuisine_slugs: null

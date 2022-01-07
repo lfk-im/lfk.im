@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 507 W 14th
 cuisine: ''
 cuisine_slugs: null

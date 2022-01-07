@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 3102 Iowa St.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: ihop-3102-iowa-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

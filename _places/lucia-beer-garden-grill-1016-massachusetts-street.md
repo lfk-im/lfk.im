@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1016 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null

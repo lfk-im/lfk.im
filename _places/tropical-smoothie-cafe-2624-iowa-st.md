@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2624 Iowa St.
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 4740 Bauer Farm Dr
 cuisine: ''
 cuisine_slugs: null

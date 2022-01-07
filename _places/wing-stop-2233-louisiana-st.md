@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2233 Louisiana St
 cuisine: ''
 cuisine_slugs: null

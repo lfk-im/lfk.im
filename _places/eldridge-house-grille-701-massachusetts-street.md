@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 701 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 446 Locust St.
 cuisine: ''
 cuisine_slugs: null

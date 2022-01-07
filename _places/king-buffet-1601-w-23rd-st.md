@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1601 W. 23rd St.
 cuisine: ''
 cuisine_slugs: null

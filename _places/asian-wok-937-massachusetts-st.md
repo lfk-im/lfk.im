@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 937 Massachusetts St
 cuisine: ''
 cuisine_slugs: null

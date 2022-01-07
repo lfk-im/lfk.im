@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1532 Engel Road
 cuisine: ''
 cuisine_slugs: null

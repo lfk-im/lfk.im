@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 3300 Bob Billings Pkwy.
 cuisine: ''
 cuisine_slugs: null

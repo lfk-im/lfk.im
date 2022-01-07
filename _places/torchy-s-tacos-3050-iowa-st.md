@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 3050 Iowa St
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 4821 W 6th St
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: j-s-coffee-4821-w-6th-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

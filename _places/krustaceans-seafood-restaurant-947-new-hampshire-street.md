@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 947 New Hampshire Street
 cuisine: ''
 cuisine_slugs: null

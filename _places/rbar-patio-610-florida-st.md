@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 610 Florida St
 cuisine: ''
 cuisine_slugs: null

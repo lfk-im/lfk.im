@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 3504 Clinton Parkway
 cuisine: ''
 cuisine_slugs: null

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2351 W 31st Street
 cuisine: ''
 cuisine_slugs: null

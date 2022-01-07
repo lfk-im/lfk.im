@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1410 Kasold Dr.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: mr-goodcents-subs-pastas-1410-kasold-dr
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

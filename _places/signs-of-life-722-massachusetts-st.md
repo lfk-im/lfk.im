@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 722 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null

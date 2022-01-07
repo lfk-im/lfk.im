@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 846 Illinois St
 cuisine: ''
 cuisine_slugs: null

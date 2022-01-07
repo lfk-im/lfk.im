@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 944 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null

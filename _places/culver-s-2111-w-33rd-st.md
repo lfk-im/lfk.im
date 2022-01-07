@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2111 W 33rd ST
 cuisine: ''
 cuisine_slugs: null

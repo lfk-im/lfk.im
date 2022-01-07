@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 907 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: mad-greek-restaurant-907-massachusetts-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

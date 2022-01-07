@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 8 W. 8th St.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: noodles-company-8-w-8th-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

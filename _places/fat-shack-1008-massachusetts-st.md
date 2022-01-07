@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1008 Massachusetts St
 cuisine: ''
 cuisine_slugs: null

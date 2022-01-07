@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 2030 W 23rd St.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: freddy-s-frozen-custard-steakburgers-2030-w-23rd-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

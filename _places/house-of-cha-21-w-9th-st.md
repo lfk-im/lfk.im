@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 21 W. 9th St.
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: house-of-cha-21-w-9th-st
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

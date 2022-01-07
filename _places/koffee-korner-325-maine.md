@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 325 Maine
 cuisine: ''
 cuisine_slugs: null

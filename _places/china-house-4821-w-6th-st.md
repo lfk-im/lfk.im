@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 4821 W 6th St
 cuisine: ''
 cuisine_slugs: null

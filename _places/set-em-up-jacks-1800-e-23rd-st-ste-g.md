@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1800 E 23rd St. Ste G
 cuisine: ''
 cuisine_slugs: null

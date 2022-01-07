@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 4801 Bauer Farm Dr
 cuisine: ''
 cuisine_slugs: null
@@ -27,7 +27,7 @@ region: KS
 restaurant_phone: ''
 sitemap: false
 slug: humble-donut-co-4801-bauer-farm-dr
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

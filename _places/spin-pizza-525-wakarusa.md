@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 525 Wakarusa
 cuisine: ''
 cuisine_slugs: null
