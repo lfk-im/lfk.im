@@ -29,6 +29,6 @@ sitemap: false
 slug: wagon-wheel-507-west-14th-street
 takeout: false
 twitch_url: ''
-twitter_url: ''
+twitter_url: https://twitter.com/thewagonwheel
 website: ''
 ---

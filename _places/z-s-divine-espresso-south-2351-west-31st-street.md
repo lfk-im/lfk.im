@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2351 W 31st St
+address: 2351 West 31st Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -26,7 +26,7 @@ place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: z-s-divine-espresso-south-2351-w-31st-st
+slug: z-s-divine-espresso-south-2351-west-31st-street
 takeout: false
 twitch_url: ''
 twitter_url: ''
