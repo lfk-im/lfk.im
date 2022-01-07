@@ -1,9 +1,13 @@
 ---
 active: true
 address: 1105 Massachusetts Avenue
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Dance Clubs, Bars
+cuisine_slugs:
+- dance-clubs
+- bars
+cuisines:
+- Dance Clubs
+- Bars
 curbside: false
 curbside_instructions: ''
 delivery: true

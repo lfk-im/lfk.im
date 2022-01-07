@@ -1,9 +1,11 @@
 ---
 active: false
 address: 1200 Oread Avenue
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Bars
+cuisine_slugs:
+- bars
+cuisines:
+- Bars
 curbside: false
 curbside_instructions: ''
 delivery: false

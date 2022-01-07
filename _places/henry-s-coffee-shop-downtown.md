@@ -1,9 +1,12 @@
 ---
 active: false
 address: 11 East 8th Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Coffee
+cuisine_slugs:
+- coffee
+- coffee-and-tea
+cuisines:
+- Coffee
 curbside: false
 curbside_instructions: ''
 delivery: false

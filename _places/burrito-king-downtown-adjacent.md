@@ -1,9 +1,11 @@
 ---
 active: true
 address: 900 East Illinois Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Mexican
+cuisine_slugs:
+- mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: true

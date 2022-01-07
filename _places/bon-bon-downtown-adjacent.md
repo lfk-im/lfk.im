@@ -1,9 +1,16 @@
 ---
 active: false
 address: 804 Pennsylvania Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Breakfast & Brunch, Thai, Chicken Wings
+cuisine_slugs:
+- breakfast-brunch
+- breakfast
+- thai
+- chicken-wings
+cuisines:
+- Breakfast & Brunch
+- Thai
+- Chicken Wings
 curbside: false
 curbside_instructions: ''
 delivery: true

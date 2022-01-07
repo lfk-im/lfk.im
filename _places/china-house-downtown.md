@@ -1,9 +1,13 @@
 ---
 active: true
 address: 4821 West 6th Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Chinese, Seafood, Soup
+cuisine_slugs:
+- chinese
+- seafood
+cuisines:
+- Chinese
+- Seafood
 curbside: false
 curbside_instructions: ''
 delivery: true

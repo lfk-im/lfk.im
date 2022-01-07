@@ -1,9 +1,13 @@
 ---
 active: true
 address: 937 Massachusetts Street
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+cuisine: Asian Fusion, Chinese
+cuisine_slugs:
+- asian-fusion
+- chinese
+cuisines:
+- Asian Fusion
+- Chinese
 curbside: false
 curbside_instructions: ''
 delivery: true
