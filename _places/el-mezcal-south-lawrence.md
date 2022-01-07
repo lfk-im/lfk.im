@@ -1,6 +1,6 @@
 ---
 active: true
-address: 2210 Iowa St
+address: 1819 W 23rd St
 cuisine: Mexican
 cuisine_slugs:
 - mexican
@@ -8,34 +8,34 @@ cuisines:
 - Mexican
 curbside: false
 curbside_instructions: ''
-delivery: false
-delivery_service_websites: https://www.laestrellamexicana.com/orderonline
+delivery: true
+delivery_service_websites: https://www.elmezcaltogo.com/#/
 dinein: false
 facebook_url: ''
 featured: false
 food_urls:
 - name: order online
-  url: https://www.laestrellamexicana.com/orderonline
+  url: https://www.elmezcaltogo.com/#/
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
 hours: ''
-instagram_url: https://www.instagram.com/laestrellamexicana/
+instagram_url: ''
 locality: Lawrence
-name: La Estrella
+name: El Mezcal
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Order online, pick up in store
+notes: Order online or call
 perma_closed: false
 place_type: Restaurant
 region: KS
-restaurant_phone: 785-843-1595
+restaurant_phone: 785-856-3444
 sitemap: false
-slug: la-estrella-south-lawrence
+slug: el-mezcal-south-lawrence
 takeout: true
 twitch_url: ''
 twitter_url: ''
-website: http://www.laestrellamexicana.com/
+website: https://www.elmezcaltogo.com/#menu
 ---
 
-Order online, pick up in store
+Order online or call

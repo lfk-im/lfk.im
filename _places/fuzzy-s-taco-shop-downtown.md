@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1117 Massachusetts St
+address: 1115 Massachusetts St.
 cuisine: Mexican
 cuisine_slugs:
 - mexican
