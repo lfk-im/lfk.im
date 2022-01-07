@@ -28,7 +28,7 @@ locality: Lawrence
 name: Henry T's
 neighborhood: Deerfield
 neighborhood_slug: deerfield
-notes: Call or order online via EatStreet
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://henryts.com/
 ---
-
-Call or order online via EatStreet

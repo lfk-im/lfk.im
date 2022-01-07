@@ -38,9 +38,7 @@ locality: Lawrence
 name: Texas Roadhouse
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: We recommend that guests call ahead or order online, but they are more than
-  welcome to pull up to the front door and we will have a server take their order
-  right from their car.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -52,5 +50,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://texasroadhouse.com
 ---
-
-We recommend that guests call ahead or order online, but they are more than welcome to pull up to the front door and we will have a server take their order right from their car.

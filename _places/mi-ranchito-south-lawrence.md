@@ -25,7 +25,7 @@ locality: Lawrence
 name: Mi Ranchito
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Call or order online
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.miranchitokc.com/
 ---
-
-Call or order online

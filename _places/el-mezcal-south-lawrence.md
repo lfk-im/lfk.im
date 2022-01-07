@@ -25,7 +25,7 @@ locality: Lawrence
 name: El Mezcal
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Order online or call
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.elmezcaltogo.com/#menu
 ---
-
-Order online or call

@@ -33,8 +33,7 @@ locality: Lawrence
 name: Dempseys Burger Pub
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Likely closing the restaurant if we can not drive enough pick-up and online
-  orders.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -46,5 +45,3 @@ twitch_url: ''
 twitter_url: https://twitter.com/dempseyspub
 website: https://dempseysburgerpub.com
 ---
-
-Likely closing the restaurant if we can not drive enough pick-up and online orders.

@@ -25,15 +25,7 @@ locality: Lawrence
 name: Orange Leaf
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: '1- Call us at 785-856-0544 to place your order ☎️
-
-  2- We will make your froyo cups, add toppings and keep them
-
-  nice and chill.❄️
-
-  3- Call us when you get here and we will bring your order right
-
-  out.'
+notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
@@ -45,9 +37,3 @@ twitch_url: ''
 twitter_url: https://twitter.com/orangeleaf
 website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
 ---
-
-1- Call us at 785-856-0544 to place your order ☎️
-2- We will make your froyo cups, add toppings and keep them
-nice and chill.❄️
-3- Call us when you get here and we will bring your order right
-out.

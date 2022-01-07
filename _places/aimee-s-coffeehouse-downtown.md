@@ -31,7 +31,7 @@ locality: Lawrence
 name: Aimee's Coffeehouse
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Perma Closed
+notes: ''
 perma_closed: true
 place_type: CafeOrCoffeeShop
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Perma Closed

@@ -27,7 +27,7 @@ locality: Lawrence
 name: Basil Leaf Café
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Re-opened
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: https://twitter.com/TheBasiLeafCafe
 website: https://basilleaflawrence.com/
 ---
-
-Re-opened

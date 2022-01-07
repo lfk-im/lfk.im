@@ -27,7 +27,7 @@ locality: Lawrence
 name: Kobe Japanese Steakhouse
 neighborhood: Sunset Hills
 neighborhood_slug: sunset-hills
-notes: Unconfirmed
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://kobejapanesesteakhouselawrence.com/28634
 ---
-
-Unconfirmed

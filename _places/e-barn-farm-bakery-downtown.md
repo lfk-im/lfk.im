@@ -31,7 +31,7 @@ locality: Lawrence
 name: E Barn Farm Bakery
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Closed through June 8th - Deliveries happen following business day
+notes: ''
 perma_closed: true
 place_type: Bakery
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://ebarnfarm.org/
 ---
-
-Closed through June 8th - Deliveries happen following business day

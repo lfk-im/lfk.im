@@ -26,7 +26,7 @@ locality: Lawrence
 name: Uplift Coffee Shop
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
-notes: Download their app to order for pickup
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.upliftcoffeeshop.com
 ---
-
-Download their app to order for pickup

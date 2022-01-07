@@ -25,7 +25,7 @@ locality: Lawrence
 name: Morningstar's New York Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Order online or call
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.morningstarsnypizza.com/
 ---
-
-Order online or call

@@ -27,9 +27,7 @@ locality: Lawrence
 name: Alchemy Limited
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety
-  reasons! Please call in your order, pay over the phone, and we will quickly deliver
-  it outside to you
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -41,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.alchemyks.com/
 ---
-
-FOR PEDESTRIANS - please know the drive thru is for vehicles only for safety reasons! Please call in your order, pay over the phone, and we will quickly deliver it outside to you

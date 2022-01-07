@@ -29,7 +29,7 @@ locality: Lawrence
 name: Free State Brewing Co.
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone and pick up, including bottled beers
+notes: ''
 perma_closed: false
 place_type: Brewery
 region: KS
@@ -41,5 +41,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.freestatebrewing.com/brewpub/
 ---
-
-Order by phone and pick up, including bottled beers

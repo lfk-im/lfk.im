@@ -24,7 +24,7 @@ locality: Lawrence
 name: Sylas & Maddy's
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Still open, with to-go pints/quarts available
+notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
@@ -36,5 +36,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.sylasandmaddysicecream.com/
 ---
-
-Still open, with to-go pints/quarts available

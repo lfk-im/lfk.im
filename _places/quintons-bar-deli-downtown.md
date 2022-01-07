@@ -34,7 +34,7 @@ locality: Lawrence
 name: Quinton’s Bar & Deli
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Closed until August or September
+notes: ''
 perma_closed: true
 place_type: BarOrPub
 region: KS
@@ -46,5 +46,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.snappyeats.com/Order/menudetail.aspx?restaurantID=5020#!/category/
 ---
-
-Closed until August or September

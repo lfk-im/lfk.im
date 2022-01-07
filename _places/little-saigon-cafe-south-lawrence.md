@@ -21,7 +21,7 @@ locality: Lawrence
 name: Little Saigon Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Closed, but plan to reopen Tuesday March 31
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -33,5 +33,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.littlesaigonlawrence.com/
 ---
-
-Closed, but plan to reopen Tuesday March 31

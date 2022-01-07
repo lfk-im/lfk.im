@@ -33,7 +33,7 @@ locality: Lawrence
 name: Wayne & Larry's Sports Bar & Grill
 neighborhood: Sunset Hills
 neighborhood_slug: sunset-hills
-notes: Call upon arrival and we will curbside deliver your order
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -45,5 +45,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.wayneandlarrys.com
 ---
-
-Call upon arrival and we will curbside deliver your order

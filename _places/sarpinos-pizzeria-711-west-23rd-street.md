@@ -32,7 +32,7 @@ instagram_url: ''
 locality: Lawrence
 name: Sarpino’s Pizzeria
 neighborhood: ''
-notes: Free delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -44,5 +44,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://gosarpinos.com/lawrence
 ---
-
-Free delivery

@@ -19,7 +19,9 @@ food_urls:
 - name: order online
   url: https://menu.715mass.com/
 - name: doordash.com
-  url: https://www.doordash.com/store/715-lawrence-1241139/en-US
+  url: https://www.doordash.com/store/715-lawrence-1241139/
+- name: eatstreet.com
+  url: https://eatstreet.com/lawrence-ks/restaurants/715-restaurant
 - name: grubhub.com
   url: https://www.grubhub.com/restaurant/715-715-massachusetts-st-lawrence/2410433
 giftcard: true

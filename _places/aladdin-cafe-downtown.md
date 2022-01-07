@@ -29,7 +29,7 @@ locality: Lawrence
 name: Aladdin Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Call to order for pick-up
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -41,5 +41,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://aladdincafelawrence.com
 ---
-
-Call to order for pick-up

@@ -28,7 +28,7 @@ locality: Lawrence
 name: Munchers Bakery
 neighborhood: Sunset Hills
 neighborhood_slug: sunset-hills
-notes: Dining area closed, but open for takeout
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Dining area closed, but open for takeout

@@ -28,7 +28,7 @@ locality: Lawrence
 name: The Levee Cafe
 neighborhood: North Lawrence
 neighborhood_slug: north-lawrence
-notes: Permanently closed.
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://theleveecafe.com
 ---
-
-Permanently closed.

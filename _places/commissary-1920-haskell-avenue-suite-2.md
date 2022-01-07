@@ -23,9 +23,7 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: 'The Commissary
-
-  '
+name: The Commissary
 neighborhood: ''
 notes: ''
 perma_closed: false

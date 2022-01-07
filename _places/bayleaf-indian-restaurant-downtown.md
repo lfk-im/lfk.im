@@ -27,7 +27,7 @@ locality: Lawrence
 name: Bayleaf Indian Restaurant
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Perma Closed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://bayleaflawrence.com/
 ---
-
-Perma Closed

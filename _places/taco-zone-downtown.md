@@ -27,7 +27,7 @@ locality: Lawrence
 name: Taco Zone
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: 'Closed but offering catered delivery via: https://www.tacozonedelivery.com/'
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: https://twitter.com/taco_zone
 website: http://www.thetacozone.com/
 ---
-
-Closed but offering catered delivery via: https://www.tacozonedelivery.com/

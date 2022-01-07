@@ -40,7 +40,7 @@ locality: Lawrence
 name: Blue Moose Bar & Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: FREE DELIVERY if you call us direct.
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -52,5 +52,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://thebluemoosebarandgrill.com/lawrence/
 ---
-
-FREE DELIVERY if you call us direct.

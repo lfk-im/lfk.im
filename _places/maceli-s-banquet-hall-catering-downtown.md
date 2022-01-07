@@ -22,8 +22,7 @@ locality: Lawrence
 name: Maceli's Banquet Hall & Catering
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Our listing says "Saturday Meal Pickup" but we've changed to Friday afternoon
-  pickup instead. Could you please change this information?
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +34,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.macelisonline.com
 ---
-
-Our listing says "Saturday Meal Pickup" but we've changed to Friday afternoon pickup instead. Could you please change this information?

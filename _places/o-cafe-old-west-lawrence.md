@@ -27,7 +27,7 @@ locality: Lawrence
 name: O Cafe
 neighborhood: Old West Lawrence
 neighborhood_slug: old-west-lawrence
-notes: Unconfirmed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://ocafelk.com/
 ---
-
-Unconfirmed

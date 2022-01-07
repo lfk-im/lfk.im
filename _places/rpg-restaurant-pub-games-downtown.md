@@ -30,7 +30,7 @@ locality: Lawrence
 name: RPG (Restaurant, Pub & Games)
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Online ordering & payment via the link at RPGLawrence.com
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -42,5 +42,3 @@ twitch_url: ''
 twitter_url: https://twitter.com/RPGLawrence
 website: https://rpglawrence.com
 ---
-
-Online ordering & payment via the link at RPGLawrence.com

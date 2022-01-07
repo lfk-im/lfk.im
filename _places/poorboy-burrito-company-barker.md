@@ -21,7 +21,7 @@ locality: Lawrence
 name: PoorBoy Burrito Company
 neighborhood: Barker
 neighborhood_slug: barker
-notes: Unconfirmed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -33,5 +33,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Unconfirmed

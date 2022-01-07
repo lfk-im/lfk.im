@@ -26,7 +26,7 @@ locality: Lawrence
 name: Merchants Pub & Plate
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Family style orders by phone, online ordering is a work in progress
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.merchantsonmass.com/
 ---
-
-Family style orders by phone, online ordering is a work in progress

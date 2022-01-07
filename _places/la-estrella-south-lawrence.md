@@ -25,7 +25,7 @@ locality: Lawrence
 name: La Estrella
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Order online, pick up in store
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.laestrellamexicana.com/
 ---
-
-Order online, pick up in store

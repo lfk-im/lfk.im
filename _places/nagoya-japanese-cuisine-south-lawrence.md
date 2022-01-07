@@ -27,7 +27,7 @@ locality: Lawrence
 name: Nagoya Japanese Cuisine
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Closed
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.ordernagoyasushi.com/#/
 ---
-
-Closed

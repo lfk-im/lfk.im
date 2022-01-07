@@ -25,7 +25,7 @@ locality: Lawrence
 name: Encore Café
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order online or by phone
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.encorecafeks.com/
 ---
-
-Order online or by phone

@@ -25,7 +25,7 @@ locality: Lawrence
 name: Mexquisito
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Closed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://mexquisito.com/
 ---
-
-Closed

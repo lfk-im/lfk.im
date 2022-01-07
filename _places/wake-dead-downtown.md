@@ -30,7 +30,7 @@ locality: Lawrence
 name: Wake The Dead
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Perma Closed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -42,5 +42,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.wtdbreakfastbar.com/
 ---
-
-Perma Closed

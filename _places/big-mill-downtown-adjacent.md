@@ -27,7 +27,7 @@ locality: Lawrence
 name: Big Mill
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Offering curbside to go & delivery from 11am to 9pm, order online or by phone
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.bigmilllawrence.com/
 ---
-
-Offering curbside to go & delivery from 11am to 9pm, order online or by phone

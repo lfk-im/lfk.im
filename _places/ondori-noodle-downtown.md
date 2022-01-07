@@ -23,7 +23,7 @@ locality: Lawrence
 name: Ondori Noodle
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone and pick up curbside, delivery via EatStreet
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Order by phone and pick up curbside, delivery via EatStreet

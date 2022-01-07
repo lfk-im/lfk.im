@@ -31,7 +31,7 @@ locality: Lawrence
 name: Alchemy Coffee & Bake House
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order online or by phone and pick up curbside on Mass
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.alchemyks.com/
 ---
-
-Order online or by phone and pick up curbside on Mass

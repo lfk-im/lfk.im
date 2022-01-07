@@ -23,7 +23,7 @@ locality: Lawrence
 name: Mama's Tamale Shop
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Re-opened
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Re-opened

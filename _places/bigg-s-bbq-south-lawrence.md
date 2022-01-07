@@ -27,7 +27,7 @@ locality: Lawrence
 name: Bigg's BBQ
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Closed until April 1st
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.biggsribs.com/
 ---
-
-Closed until April 1st

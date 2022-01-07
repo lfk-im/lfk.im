@@ -37,7 +37,7 @@ locality: Lawrence
 name: Oriental Bistro & Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Online options possible too for ordering
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -49,5 +49,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://orientalbistrolawrence.com
 ---
-
-Online options possible too for ordering

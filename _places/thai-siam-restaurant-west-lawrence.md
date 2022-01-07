@@ -23,7 +23,7 @@ locality: Lawrence
 name: Thai-Siam Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Order by phone or Delivery via Starve Bird
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.thaisiamlawrence.com
 ---
-
-Order by phone or Delivery via Starve Bird

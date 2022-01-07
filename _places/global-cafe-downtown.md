@@ -27,8 +27,7 @@ locality: Lawrence
 name: Global Cafe
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Open w/ limited hours, can order online or on the phone for delivery/carry
-  out
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -40,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.globalcafelawrence.com/
 ---
-
-Open w/ limited hours, can order online or on the phone for delivery/carry out

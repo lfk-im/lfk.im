@@ -23,7 +23,7 @@ locality: Lawrence
 name: Cosmic Cafe
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Closed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Closed

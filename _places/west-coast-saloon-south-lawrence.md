@@ -23,9 +23,7 @@ locality: Lawrence
 name: West Coast Saloon
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: All you need to do is call us with your order and let us know what type of
-  car you will be picking it up in. For now, we will only be accepting credit card
-  payments over the phone at the time of your order
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-All you need to do is call us with your order and let us know what type of car you will be picking it up in. For now, we will only be accepting credit card payments over the phone at the time of your order

@@ -33,8 +33,7 @@ locality: Lawrence
 name: The Mad Greek
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Open for in person dining, Curbside Pickup & Delivery, Family Meals available,
-  Open 7 days
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -46,5 +45,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.themadgreeklawrence.com
 ---
-
-Open for in person dining, Curbside Pickup & Delivery, Family Meals available, Open 7 days

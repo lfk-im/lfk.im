@@ -31,7 +31,7 @@ locality: Lawrence
 name: Rudy’s Pizzeria
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order online or call to prepay
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://rudyspizzeria.com
 ---
-
-Order online or call to prepay

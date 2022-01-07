@@ -26,7 +26,7 @@ locality: Lawrence
 name: Raising Cane’s
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Drive through also available
+notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.raisingcanes.com/location/kansas/lawrence/phog
 ---
-
-Drive through also available

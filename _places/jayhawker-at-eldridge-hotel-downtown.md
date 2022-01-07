@@ -27,7 +27,7 @@ locality: Lawrence
 name: The Jayhawker at the Eldridge Hotel
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Unconfirmed
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://eldridgehotel.com/dining-service/thejayhawker/
 ---
-
-Unconfirmed

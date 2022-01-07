@@ -28,7 +28,7 @@ locality: Lawrence
 name: Glory Days Pizza
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Prepay over phone. No walk ins at this time.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.glorydayspizza.com
 ---
-
-Prepay over phone. No walk ins at this time.

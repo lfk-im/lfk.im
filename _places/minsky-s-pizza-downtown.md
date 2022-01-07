@@ -25,7 +25,7 @@ locality: Lawrence
 name: Minsky's Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Call or order online
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://minskys.com/lawrence/
 ---
-
-Call or order online

@@ -23,7 +23,7 @@ locality: Lawrence
 name: Culinaria
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Closed for August
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.culinariafoodandwine.com/
 ---
-
-Closed for August

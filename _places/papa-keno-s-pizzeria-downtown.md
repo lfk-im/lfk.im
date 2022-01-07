@@ -27,7 +27,7 @@ locality: Lawrence
 name: Papa Keno's Pizzeria
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order online or call for delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.papakenos.com
 ---
-
-Order online or call for delivery

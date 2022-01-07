@@ -40,7 +40,7 @@ locality: Lawrence
 name: Panera Bread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Pull up to front door to be helped.
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -52,5 +52,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Pull up to front door to be helped.

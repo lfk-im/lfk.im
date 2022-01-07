@@ -28,7 +28,7 @@ locality: Lawrence
 name: Great Harvest Bread Co.
 neighborhood: Downtown-Adjacent
 neighborhood_slug: downtown-adjacent
-notes: Breads available to go and snacks for kids
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://lawrence.greatharvestbread.com/
 ---
-
-Breads available to go and snacks for kids

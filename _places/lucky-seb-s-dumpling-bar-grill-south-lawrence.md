@@ -29,7 +29,7 @@ locality: Lawrence
 name: Lucky Seb's Dumpling Bar & Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/05/07/review-lucky-sebs/ '
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -41,5 +41,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://luckysebs.com/
 ---
-
-The Lawrence Times reviewed: https://lawrencekstimes.com/2021/05/07/review-lucky-sebs/

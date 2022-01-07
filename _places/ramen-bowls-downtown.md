@@ -27,7 +27,7 @@ locality: Lawrence
 name: Ramen Bowls
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone and pick up curbside or delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://ramenbowls.com
 ---
-
-Order by phone and pick up curbside or delivery

@@ -22,8 +22,7 @@ locality: Lawrence
 name: Total Body Nutrition
 neighborhood: Sunset Hills
 neighborhood_slug: sunset-hills
-notes: We will have a curbside app next week. Follow our Social media for updates
-  and menu.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +34,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-We will have a curbside app next week. Follow our Social media for updates and menu.

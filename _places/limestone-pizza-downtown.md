@@ -23,7 +23,7 @@ locality: Lawrence
 name: Limestone Pizza
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone for carry out and limited local delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -35,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.limestonepkb.com/
 ---
-
-Order by phone for carry out and limited local delivery

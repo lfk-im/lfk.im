@@ -21,7 +21,7 @@ locality: Lawrence
 name: On The Hill
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Unconfirmed
+notes: ''
 perma_closed: true
 place_type: Restaurant
 region: KS
@@ -33,5 +33,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://theoread.com/dining-services/on-the-hill-restaurant/
 ---
-
-Unconfirmed

@@ -26,7 +26,7 @@ locality: Lawrence
 name: Leeway Franks
 neighborhood: Sunset Hills
 neighborhood_slug: sunset-hills
-notes: Order by phone with delivery available, or pick up curbside
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://leewayfranks.com
 ---
-
-Order by phone with delivery available, or pick up curbside

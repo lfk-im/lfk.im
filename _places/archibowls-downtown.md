@@ -31,7 +31,7 @@ locality: Lawrence
 name: Archibowls
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: offering free hot beans and rice meals at the window from noon to 8 every day.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.archibowlslawrence.com
 ---
-
-offering free hot beans and rice meals at the window from noon to 8 every day.

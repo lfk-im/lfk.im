@@ -26,7 +26,7 @@ locality: Lawrence
 name: La Prima Tazza
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Currently closed, working on delivery options
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://laprimatazza.com/
 ---
-
-Currently closed, working on delivery options

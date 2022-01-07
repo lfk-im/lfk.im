@@ -26,7 +26,7 @@ locality: Lawrence
 name: J. Wilson’s Restaurant
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Order by phone and pick up curbside
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://jwilsonsrestaurant.com
 ---
-
-Order by phone and pick up curbside

@@ -26,7 +26,7 @@ locality: Lawrence
 name: Repetition Coffee
 neighborhood: East Lawrence
 neighborhood_slug: east-lawrence
-notes: Free porch delivery within Lawrence
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -38,5 +38,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://repetitioncoffee.com/
 ---
-
-Free porch delivery within Lawrence

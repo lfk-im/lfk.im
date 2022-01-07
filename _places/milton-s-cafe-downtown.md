@@ -32,7 +32,7 @@ locality: Lawrence
 name: Milton's Café
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Closed
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -44,5 +44,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Closed

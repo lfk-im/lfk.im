@@ -30,7 +30,7 @@ locality: Lawrence
 name: Black Stag Brewery
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Call 785-764-1628 when you arrive or 10-15 mins ahead to have your order ready
+notes: ''
 perma_closed: false
 place_type: Brewery
 region: KS
@@ -42,5 +42,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://blackstagbrew.com
 ---
-
-Call 785-764-1628 when you arrive or 10-15 mins ahead to have your order ready

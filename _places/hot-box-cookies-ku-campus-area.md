@@ -31,7 +31,7 @@ locality: Lawrence
 name: Hot Box Cookies
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Delivery as usual
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.hotboxcookies.com/
 ---
-
-Delivery as usual

@@ -29,7 +29,7 @@ locality: Lawrence
 name: BellaRoca Cakes
 neighborhood: 9th and Iowa Area
 neighborhood_slug: 9th-and-iowa-area
-notes: fresh, made to order, local desserts
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -41,5 +41,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.bellarocacakes.com/
 ---
-
-fresh, made to order, local desserts

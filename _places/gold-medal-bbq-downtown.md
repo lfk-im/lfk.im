@@ -27,7 +27,7 @@ locality: Lawrence
 name: Gold Medal BBQ
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/10/08/review-gold-medal-bbq/ '
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.goldmedalbbqco.com/
 ---
-
-The Lawrence Times reviewed: https://lawrencekstimes.com/2021/10/08/review-gold-medal-bbq/

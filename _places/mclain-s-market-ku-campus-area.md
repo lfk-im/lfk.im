@@ -25,7 +25,7 @@ locality: Lawrence
 name: McLain's Market
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Order online or by phone for delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.mclainskc.com/lawrence
 ---
-
-Order online or by phone for delivery

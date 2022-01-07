@@ -25,7 +25,7 @@ locality: Lawrence
 name: Bird Dog Bar at The Oread
 neighborhood: KU Campus Area
 neighborhood_slug: ku-campus-area
-notes: Closed information on their website.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://theoread.com/dining-services/bird-dog-bar/
 ---
-
-Closed information on their website.

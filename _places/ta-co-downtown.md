@@ -16,6 +16,8 @@ dinein: false
 facebook_url: ''
 featured: false
 food_urls:
+- name: doordash.com
+  url: https://www.doordash.com/store/ta-co.-lawrence-lawrence-2416547/
 - name: eatstreet.com
   url: https://eatstreet.com/lawrence-ks/restaurants/taco-lawrence
 - name: grubhub.com
@@ -33,7 +35,7 @@ locality: Lawrence
 name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Order by phone for takeout or delivery, or order through EatStreet
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -45,5 +47,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.tacolawrence.com
 ---
-
-Order by phone for takeout or delivery, or order through EatStreet

@@ -33,7 +33,7 @@ locality: Lawrence
 name: Fields & Ivy Brewery
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Growlers or 6-pack available for curbside pick-up. ID required.
+notes: ''
 perma_closed: false
 place_type: Brewery
 region: KS
@@ -45,5 +45,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://fieldsandivy.com
 ---
-
-Growlers or 6-pack available for curbside pick-up. ID required.

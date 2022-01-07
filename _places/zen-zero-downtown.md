@@ -27,7 +27,7 @@ locality: Lawrence
 name: Zen Zero
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Delivery through EatStreet, or call to order and carry out
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.zen-zero.com/
 ---
-
-Delivery through EatStreet, or call to order and carry out

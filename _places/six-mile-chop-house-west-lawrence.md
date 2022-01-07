@@ -23,10 +23,7 @@ locality: Lawrence
 name: Six Mile Chop House
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: There is a $1.50 fee for delivery. To place an order with us, please call (785)856-6453
-  and press "1". Upon arrival, please call us and let us know you are here. To ensure
-  the safety of our staff and guests, we will be using a no contact system and will
-  not be accepting cash at this time.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -38,5 +35,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://6milechophouse.com/
 ---
-
-There is a $1.50 fee for delivery. To place an order with us, please call (785)856-6453 and press "1". Upon arrival, please call us and let us know you are here. To ensure the safety of our staff and guests, we will be using a no contact system and will not be accepting cash at this time.

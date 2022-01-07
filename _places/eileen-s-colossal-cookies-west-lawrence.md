@@ -31,7 +31,7 @@ locality: Lawrence
 name: Eileen's Colossal Cookies
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Still open for now, also sells cookie dough to go
+notes: ''
 perma_closed: false
 place_type: Bakery
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.eileenscookies.com/store/lawrence/
 ---
-
-Still open for now, also sells cookie dough to go

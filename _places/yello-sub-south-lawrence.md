@@ -34,7 +34,7 @@ locality: Lawrence
 name: Yello Sub
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
-notes: Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence
+notes: ''
 perma_closed: false
 place_type: FastFoodRestaurant
 region: KS
@@ -46,5 +46,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://planetsub.com
 ---
-
-Call us at 785-843-6000 for delivery with no delivery fee, anywhere in Lawrence

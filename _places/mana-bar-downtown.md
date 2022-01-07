@@ -24,7 +24,7 @@ locality: Lawrence
 name: Mana Bar
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Retail Only
+notes: ''
 perma_closed: false
 place_type: CafeOrCoffeeShop
 region: KS
@@ -36,5 +36,3 @@ twitch_url: ''
 twitter_url: ''
 website: ''
 ---
-
-Retail Only

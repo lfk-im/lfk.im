@@ -27,7 +27,7 @@ locality: Lawrence
 name: Acapulco Mexican Grill
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: We will open for lunch, if people want us to do it. Or after the corona virus.
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://acapulcoks.com
 ---
-
-We will open for lunch, if people want us to do it. Or after the corona virus.

@@ -28,7 +28,7 @@ locality: Lawrence
 name: Lawrence Beer Company West
 neighborhood: West Lawrence
 neighborhood_slug: west-lawrence
-notes: Order online and pick up curbside (both locations)
+notes: ''
 perma_closed: false
 place_type: Brewery
 region: KS
@@ -40,5 +40,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.lawrencebeerco.com
 ---
-
-Order online and pick up curbside (both locations)

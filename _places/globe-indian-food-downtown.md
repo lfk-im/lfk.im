@@ -25,7 +25,7 @@ locality: Lawrence
 name: Globe Indian Food
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: 'The Lawrence Times reviewed: https://lawrencekstimes.com/2021/09/10/review-globe/ '
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -37,5 +37,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.globelawrence.com/
 ---
-
-The Lawrence Times reviewed: https://lawrencekstimes.com/2021/09/10/review-globe/

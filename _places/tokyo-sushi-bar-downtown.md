@@ -31,7 +31,7 @@ locality: Lawrence
 name: Tokyo Sushi Bar
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Open w/ limited seating. Order online w/ pick up curbside or delivery
+notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
@@ -43,5 +43,3 @@ twitch_url: ''
 twitter_url: ''
 website: https://www.tokyosushilfk.com/#/
 ---
-
-Open w/ limited seating. Order online w/ pick up curbside or delivery

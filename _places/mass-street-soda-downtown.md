@@ -21,7 +21,7 @@ locality: Lawrence
 name: Mass Street Soda
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Evaluating and coming up with a plan for curbside service
+notes: ''
 perma_closed: false
 place_type: Store
 region: KS
@@ -33,5 +33,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.massstreetsoda.com/
 ---
-
-Evaluating and coming up with a plan for curbside service

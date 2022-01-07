@@ -27,7 +27,7 @@ locality: Lawrence
 name: John Brown's Underground
 neighborhood: Downtown
 neighborhood_slug: downtown
-notes: Curbside Cocktails
+notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
@@ -39,5 +39,3 @@ twitch_url: ''
 twitter_url: ''
 website: http://www.freelawrence.com/
 ---
-
-Curbside Cocktails
