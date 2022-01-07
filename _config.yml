@@ -48,8 +48,10 @@ exclude:
   - "*.toml"
   - Gemfile
   - Gemfile.lock
-  - README.md
+  - justfile
   - node_modules
+  - README.md
+  - src
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
