@@ -1,13 +1,10 @@
 # import inflection
 import frontmatter
 import os
-import requests
 import typer
 import typesystem
 import yaml
 
-
-from bs4 import BeautifulSoup
 from pathlib import Path
 from sheetfu import SpreadsheetApp, Table
 from slugify import slugify
