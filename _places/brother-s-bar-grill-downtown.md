@@ -1,6 +1,6 @@
 ---
 active: true
-address: 802-804 Massachusetts
+address: 1105 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Sunflower Outdoor & Bike Shop
-neighborhood: ''
+name: Brother's Bar & Grill
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: sunflower-outdoor-bike-shop-802-804-massachusetts
+slug: brother-s-bar-grill-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 907 Massachusetts St.
+address: 818 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Mad Greek Restaurant
-neighborhood: ''
+name: Pickleman's Gourmet Cafe
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: Restaurant
+place_type: FastFoodRestaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: mad-greek-restaurant-907-massachusetts-st
+slug: pickleman-s-gourmet-cafe-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''

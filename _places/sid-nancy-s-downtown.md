@@ -1,6 +1,6 @@
 ---
 active: true
-address: 6 E 9th St.
+address: 947 New Hampshire Street, Ste. 100
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: The Bourgeois Pig
-neighborhood: ''
+name: Sid & Nancy's
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: BarOrPub
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: bourgeois-pig-6-e-9th-st
+slug: sid-nancy-s-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

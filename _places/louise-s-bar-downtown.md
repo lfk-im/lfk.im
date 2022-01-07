@@ -1,6 +1,6 @@
 ---
 active: true
-address: 818 Massachusetts St.
+address: 1009 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Pickleman's Gourmet Cafe
-neighborhood: ''
+name: Louise's Bar
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: FastFoodRestaurant
+place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: pickleman-s-gourmet-cafe-818-massachusetts-st
-takeout: true
+slug: louise-s-bar-downtown
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''

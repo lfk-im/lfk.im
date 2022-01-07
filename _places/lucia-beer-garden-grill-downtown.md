@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1009 Massachusetts St.
+address: 1016 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Louise's Bar
-neighborhood: ''
+name: Lucia Beer Garden + Grill
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: louise-s-bar-1009-massachusetts-st
+slug: lucia-beer-garden-grill-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

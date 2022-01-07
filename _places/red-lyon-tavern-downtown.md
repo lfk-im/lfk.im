@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1105 Massachusetts St.
+address: 944 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Brother's Bar & Grill
-neighborhood: ''
+name: Red Lyon Tavern
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: brother-s-bar-grill-1105-massachusetts-st
+slug: red-lyon-tavern-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

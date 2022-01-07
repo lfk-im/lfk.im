@@ -1,9 +1,11 @@
 ---
 active: true
-address: 1000 W 23rd St
-cuisine: ''
-cuisine_slugs: null
-cuisines: null
+address: 1900 Massachusetts St
+cuisine: Mexican
+cuisine_slugs:
+- mexican
+cuisines:
+- Mexican
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -18,16 +20,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Chebaro Mediterrnean Grill
-neighborhood: ''
+name: La Pasadita Taquria
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: chebaro-mediterrnean-grill-1000-w-23rd-st
-takeout: false
+slug: la-pasadita-taquria-downtown
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

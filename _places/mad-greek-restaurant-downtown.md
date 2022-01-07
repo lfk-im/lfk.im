@@ -1,6 +1,6 @@
 ---
 active: true
-address: 947 New Hampshire Street
+address: 907 Massachusetts St.
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Krustaceans Seafood Restaurant
-neighborhood: ''
+name: Mad Greek Restaurant
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: krustaceans-seafood-restaurant-947-new-hampshire-street
-takeout: false
+slug: mad-greek-restaurant-downtown
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: ''

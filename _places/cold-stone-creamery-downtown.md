@@ -19,14 +19,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: Cold Stone Creamery
-neighborhood: ''
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: IceCreamShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: cold-stone-creamery-647-massachusetts-st
+slug: cold-stone-creamery-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''

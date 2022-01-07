@@ -19,14 +19,15 @@ hours: ''
 instagram_url: ''
 locality: Lawrence
 name: China House
-neighborhood: ''
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: china-house-4821-w-6th-st
+slug: china-house-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

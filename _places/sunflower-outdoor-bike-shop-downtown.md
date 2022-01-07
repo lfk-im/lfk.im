@@ -1,6 +1,6 @@
 ---
 active: true
-address: 701 Massachusetts Street
+address: 802-804 Massachusetts
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Eldridge House Grille
-neighborhood: ''
+name: Sunflower Outdoor & Bike Shop
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: Restaurant
+place_type: CafeOrCoffeeShop
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: eldridge-house-grille-701-massachusetts-street
+slug: sunflower-outdoor-bike-shop-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

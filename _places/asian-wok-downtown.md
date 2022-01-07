@@ -1,6 +1,6 @@
 ---
 active: true
-address: 900 Illinois St
+address: 937 Massachusetts St
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Burrito King
-neighborhood: ''
+name: Asian Wok
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: burrito-king-900-illinois-st
+slug: asian-wok-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 823 Massachusetts Street
+address: 900 Illinois St
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Great Blue Heron Outdoors
-neighborhood: ''
+name: Burrito King
+neighborhood: Downtown-Adjacent
+neighborhood_slug: downtown-adjacent
 notes: ''
 perma_closed: false
-place_type: LocalBusiness
+place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: great-blue-heron-outdoors-823-massachusetts-street
+slug: burrito-king-downtown-adjacent
 takeout: false
 twitch_url: ''
 twitter_url: ''

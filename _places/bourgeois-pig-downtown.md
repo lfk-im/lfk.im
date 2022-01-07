@@ -1,6 +1,6 @@
 ---
 active: true
-address: 1016 Massachusetts Street
+address: 6 E 9th St.
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Lucia Beer Garden + Grill
-neighborhood: ''
+name: The Bourgeois Pig
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: BarOrPub
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: lucia-beer-garden-grill-1016-massachusetts-street
+slug: bourgeois-pig-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

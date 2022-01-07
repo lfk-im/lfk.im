@@ -1,11 +1,9 @@
 ---
 active: true
-address: 1900 Massachusetts St
-cuisine: Mexican
-cuisine_slugs:
-- mexican
-cuisines:
-- Mexican
+address: 701 Massachusetts Street
+cuisine: ''
+cuisine_slugs: null
+cuisines: null
 curbside: false
 curbside_instructions: ''
 delivery: false
@@ -20,16 +18,17 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: La Pasadita Taquria
-neighborhood: ''
+name: Eldridge House Grille
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: la-pasadita-taquria-1900-massachusetts-st
-takeout: true
+slug: eldridge-house-grille-downtown
+takeout: false
 twitch_url: ''
 twitter_url: ''
 website: ''

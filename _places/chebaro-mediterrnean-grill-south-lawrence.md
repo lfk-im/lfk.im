@@ -26,7 +26,7 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Chebaro
+name: Chebaro Mediterrnean Grill
 neighborhood: South Lawrence
 neighborhood_slug: south-lawrence
 notes: ''
@@ -35,7 +35,7 @@ place_type: Restaurant
 region: KS
 restaurant_phone: 785-312-7660
 sitemap: false
-slug: chebaro-south-lawrence
+slug: chebaro-mediterrnean-grill-south-lawrence
 takeout: false
 twitch_url: ''
 twitter_url: ''

@@ -1,6 +1,6 @@
 ---
 active: true
-address: 947 New Hampshire Street, Ste. 100
+address: 947 New Hampshire Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Sid & Nancy's
-neighborhood: ''
+name: Krustaceans Seafood Restaurant
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: CafeOrCoffeeShop
+place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: sid-nancy-s-947-new-hampshire-street-ste-100
+slug: krustaceans-seafood-restaurant-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''

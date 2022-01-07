@@ -1,6 +1,6 @@
 ---
 active: true
-address: 944 Massachusetts Street
+address: 823 Massachusetts Street
 cuisine: ''
 cuisine_slugs: null
 cuisines: null
@@ -18,15 +18,16 @@ giftcard_url: ''
 hours: ''
 instagram_url: ''
 locality: Lawrence
-name: Red Lyon Tavern
-neighborhood: ''
+name: Great Blue Heron Outdoors
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
-place_type: BarOrPub
+place_type: LocalBusiness
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: red-lyon-tavern-944-massachusetts-street
+slug: great-blue-heron-outdoors-downtown
 takeout: false
 twitch_url: ''
 twitter_url: ''
