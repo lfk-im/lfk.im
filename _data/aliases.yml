@@ -112,32 +112,12 @@ cuisines:
   - local-butcher
   - sausages
   name: butcher
-# neighborhoods:
-# - name: 701 W 23rd St
 unknown-cuisines:
 - aliases:
-  - british-and-irish-groceries-and-tea
-  - catering
-  - diner
-  - farm
-  - global
-  - gluten-free
-  - gourmet-grilled-cheese
-  - hawaiian
-  - healthy
-  - heat-eat
-  - mediterranean
-  - pasta
-  - popcorn
-  - ramen
-  - salads
-  - salads-and-sandwiches
-  - smoothies
-  - soda
-  - soup
-  - variety
-  - vegan
-  - vegetarian
-  - winery
-  - wraps
+  - szechuan
+  - asian-fusion
+  - dumplings
+  - crepes
+  - dance-clubs
+  - chicken-wings
   name: unknown-cuisines

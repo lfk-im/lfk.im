@@ -1,6 +1,7 @@
 ---
 active: true
-aliases: []
+aliases: 
+- homestyle-cookin
 description: American restaurants offering curbside, takeout, and delivery food in
   Lawrence, Kansas
 name: American

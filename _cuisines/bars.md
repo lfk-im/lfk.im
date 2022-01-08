@@ -6,6 +6,7 @@ aliases:
 - cocktail-bar
 - cocktails
 - cocktails-beer
+- dance-clubs
 description: Bars restaurants offering curbside, takeout, and delivery food in Lawrence,
   Kansas
 name: Bars

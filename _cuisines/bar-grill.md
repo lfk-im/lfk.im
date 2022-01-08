@@ -1,6 +1,7 @@
 ---
 active: true
-aliases: []
+aliases: 
+- pub-bar-food
 description: Bar & Grill restaurants offering curbside, takeout, and delivery food
   in Lawrence, Kansas
 name: Bar & Grill
