@@ -27,7 +27,7 @@ food_urls:
 giftcard: true
 giftcard_notes: Gift cards available for purchase over the phone from 10am-1pm daily
 giftcard_url: ''
-hours: Tu-Th 3pm-9pm; Fr-Sa 3pm-10pm
+hours: Tu-Sa 3pm; Happy Hour 3-5pm
 instagram_url: https://www.instagram.com/715restaurant/
 locality: Lawrence
 name: 715 Mass
