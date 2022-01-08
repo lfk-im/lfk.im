@@ -2,9 +2,9 @@
 active: true
 aliases: []
 description: ''
-name: Dumplings
+name: Diner
 redirect_from: []
 sitemap: true
-slug: dumplings
+slug: diner
 title: ''
 ---

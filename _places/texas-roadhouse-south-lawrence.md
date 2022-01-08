@@ -9,6 +9,7 @@ cuisine_slugs:
 - dessert
 - desserts
 - fried-chicken
+- salads
 - seafood
 - steakhouse
 cuisines:
@@ -17,6 +18,7 @@ cuisines:
 - Burgers
 - Dessert
 - Fried Chicken
+- Salads
 - Seafood
 - Steakhouse
 curbside: true

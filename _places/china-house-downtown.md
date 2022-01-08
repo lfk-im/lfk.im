@@ -5,9 +5,11 @@ cuisine: Chinese, Seafood, Soup
 cuisine_slugs:
 - chinese
 - seafood
+- soup
 cuisines:
 - Chinese
 - Seafood
+- Soup
 curbside: false
 curbside_instructions: ''
 delivery: true

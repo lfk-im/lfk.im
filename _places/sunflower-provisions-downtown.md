@@ -2,8 +2,10 @@
 active: true
 address: 100 Riverfront Drive
 cuisine: Farm
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- farm
+cuisines:
+- Farm
 curbside: false
 curbside_instructions: ''
 delivery: true

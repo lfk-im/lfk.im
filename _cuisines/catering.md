@@ -2,9 +2,9 @@
 active: true
 aliases: []
 description: ''
-name: Szechuan
+name: Catering
 redirect_from: []
 sitemap: true
-slug: szechuan
+slug: catering
 title: ''
 ---

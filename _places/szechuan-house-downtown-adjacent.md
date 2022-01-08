@@ -5,12 +5,10 @@ cuisine: Asian, Chinese, Szechuan, Cajun
 cuisine_slugs:
 - asian
 - chinese
-- szechuan
 - cajun
 cuisines:
 - Asian
 - Chinese
-- Szechuan
 - Cajun
 curbside: false
 curbside_instructions: ''

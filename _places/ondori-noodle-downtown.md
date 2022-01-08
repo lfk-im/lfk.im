@@ -2,8 +2,10 @@
 active: false
 address: 1008 Massachusetts Avenue
 cuisine: Ramen
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- ramen
+cuisines:
+- Ramen
 curbside: true
 curbside_instructions: ''
 delivery: true

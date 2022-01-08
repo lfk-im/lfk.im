@@ -5,15 +5,21 @@ cuisine: American, Burgers, Salads, Sandwiches, Tacos, Wraps, Salads and Sandwic
 cuisine_slugs:
 - american
 - burgers
+- salads
 - sandwiches
 - deli
 - tacos
 - mexican
+- wraps
+- salads-and-sandwiches
 cuisines:
 - American
 - Burgers
+- Salads
 - Sandwiches
 - Tacos
+- Wraps
+- Salads and Sandwiches
 curbside: true
 curbside_instructions: Please call the store when you arrive and we will bring it
   out to you!

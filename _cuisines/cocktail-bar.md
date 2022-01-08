@@ -2,9 +2,9 @@
 active: true
 aliases: []
 description: ''
-name: Chicken Wings
+name: Cocktail Bar
 redirect_from: []
 sitemap: true
-slug: chicken-wings
+slug: cocktail-bar
 title: ''
 ---

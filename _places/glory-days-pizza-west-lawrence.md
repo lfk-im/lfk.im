@@ -4,11 +4,15 @@ address: 4621 West 6th Street
 cuisine: Pizza, Salads, Sandwiches, Pasta
 cuisine_slugs:
 - pizza
+- salads
 - sandwiches
 - deli
+- pasta
 cuisines:
 - Pizza
+- Salads
 - Sandwiches
+- Pasta
 curbside: true
 curbside_instructions: Prepay over phone. No walk ins at this time.
 delivery: true

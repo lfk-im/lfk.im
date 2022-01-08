@@ -2,8 +2,10 @@
 active: false
 address: 512 East 9th Street
 cuisine: Mediterranean
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- mediterranean
+cuisines:
+- Mediterranean
 curbside: true
 curbside_instructions: ''
 delivery: true

@@ -4,10 +4,12 @@ address: 818 Massachusetts Street
 cuisine: Pizza, Salads, Sandwiches
 cuisine_slugs:
 - pizza
+- salads
 - sandwiches
 - deli
 cuisines:
 - Pizza
+- Salads
 - Sandwiches
 curbside: true
 curbside_instructions: Call when you’re here

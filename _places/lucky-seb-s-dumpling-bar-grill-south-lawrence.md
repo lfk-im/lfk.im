@@ -5,12 +5,10 @@ cuisine: Chicken, Dumplings, BBQ
 cuisine_slugs:
 - chicken
 - fried-chicken
-- dumplings
 - bbq
 - barbecue
 cuisines:
 - Chicken
-- Dumplings
 - BBQ
 curbside: false
 curbside_instructions: ''

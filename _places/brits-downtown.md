@@ -2,8 +2,10 @@
 active: true
 address: 929 Massachusetts Street
 cuisine: British and Irish groceries and tea
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- british-and-irish-groceries-and-tea
+cuisines:
+- British and Irish groceries and tea
 curbside: true
 curbside_instructions: Place orders online to have them shipped, delivered (Mon -
   Sat), or for curbside pickup (Thu-Sat). We are closed on Sunday. Please email if

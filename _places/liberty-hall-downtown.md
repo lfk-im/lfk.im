@@ -2,8 +2,10 @@
 active: true
 address: 644 Massachusetts Street
 cuisine: Popcorn
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- popcorn
+cuisines:
+- Popcorn
 curbside: true
 curbside_instructions: ''
 delivery: false

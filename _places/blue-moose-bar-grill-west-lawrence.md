@@ -7,6 +7,7 @@ cuisine_slugs:
 - burgers
 - dessert
 - desserts
+- salads
 - sandwiches
 - deli
 - wings
@@ -15,6 +16,7 @@ cuisines:
 - American
 - Burgers
 - Dessert
+- Salads
 - Sandwiches
 - Wings
 curbside: true

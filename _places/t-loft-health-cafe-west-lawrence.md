@@ -3,9 +3,11 @@ active: true
 address: 4801 Bauer Farm Drive
 cuisine: Healthy, Tea
 cuisine_slugs:
+- healthy
 - tea
 - coffee-and-tea
 cuisines:
+- Healthy
 - Tea
 curbside: true
 curbside_instructions: ''

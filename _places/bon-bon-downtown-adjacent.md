@@ -6,11 +6,9 @@ cuisine_slugs:
 - breakfast-brunch
 - breakfast
 - thai
-- chicken-wings
 cuisines:
 - Breakfast & Brunch
 - Thai
-- Chicken Wings
 curbside: false
 curbside_instructions: ''
 delivery: true

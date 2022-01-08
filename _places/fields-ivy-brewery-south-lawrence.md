@@ -9,11 +9,13 @@ cuisine_slugs:
 - sandwiches
 - deli
 - pizza
+- salads
 cuisines:
 - American
 - Brewery
 - Sandwiches
 - Pizza
+- Salads
 curbside: true
 curbside_instructions: ''
 delivery: true

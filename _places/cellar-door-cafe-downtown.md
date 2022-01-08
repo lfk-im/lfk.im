@@ -2,8 +2,10 @@
 active: true
 address: 7 West 11th Street
 cuisine: Diner
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- diner
+cuisines:
+- Diner
 curbside: false
 curbside_instructions: ''
 delivery: true

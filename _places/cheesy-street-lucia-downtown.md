@@ -2,8 +2,10 @@
 active: true
 address: 1016 Massachusetts Street
 cuisine: Gourmet Grilled Cheese
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- gourmet-grilled-cheese
+cuisines:
+- Gourmet Grilled Cheese
 curbside: true
 curbside_instructions: ''
 delivery: true

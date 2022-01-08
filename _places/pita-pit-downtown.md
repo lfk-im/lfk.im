@@ -6,15 +6,25 @@ cuisine: Breakfast & Brunch, Global, Greek, Healthy, Mediterranean, Middle Easte
 cuisine_slugs:
 - breakfast-brunch
 - breakfast
+- global
 - greek
+- healthy
+- mediterranean
 - middle-eastern
+- salads
 - sandwiches
 - deli
+- smoothies
 cuisines:
 - Breakfast & Brunch
+- Global
 - Greek
+- Healthy
+- Mediterranean
 - Middle Eastern
+- Salads
 - Sandwiches
+- Smoothies
 curbside: true
 curbside_instructions: ''
 delivery: true

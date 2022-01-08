@@ -2,8 +2,10 @@
 active: true
 address: 2330 Yale Road
 cuisine: Healthy
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- healthy
+cuisines:
+- Healthy
 curbside: false
 curbside_instructions: Text your Name, Pick up time, smoothie flavor, tea flavor,
   cash or card

@@ -8,10 +8,14 @@ cuisine_slugs:
 - breweries
 - sandwiches
 - deli
+- pasta
+- salads
 cuisines:
 - American
 - Brewery
 - Sandwiches
+- Pasta
+- Salads
 curbside: true
 curbside_instructions: ''
 delivery: true

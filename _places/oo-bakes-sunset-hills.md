@@ -2,8 +2,10 @@
 active: true
 address: 1410 Kasold Drive
 cuisine: Gluten free
-cuisine_slugs: null
-cuisines: []
+cuisine_slugs:
+- gluten-free
+cuisines:
+- Gluten free
 curbside: true
 curbside_instructions: Call us at 331-5290 for pick up and delivery.
 delivery: true

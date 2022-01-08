@@ -7,10 +7,12 @@ cuisine_slugs:
 - sandwiches
 - deli
 - pizza
+- salads
 cuisines:
 - American
 - Sandwiches
 - Pizza
+- Salads
 curbside: true
 curbside_instructions: ''
 delivery: true

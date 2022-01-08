@@ -5,8 +5,10 @@ cuisine: Sandwiches, Soup
 cuisine_slugs:
 - sandwiches
 - deli
+- soup
 cuisines:
 - Sandwiches
+- Soup
 curbside: true
 curbside_instructions: ''
 delivery: true
