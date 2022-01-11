@@ -37,7 +37,7 @@ region: KS
 restaurant_phone: '+17857661163'
 sitemap: false
 slug: black-stag-brewery-downtown
-takeout: false
+takeout: true
 twitch_url: ''
 twitter_url: ''
 website: https://blackstagbrew.com
