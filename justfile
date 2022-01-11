@@ -15,15 +15,15 @@ TAILWIND_CSS_VERSION := "1.9.4"
 
 @static:
     # NODE_ENV=production npm run build
-    npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
+    npx -p tailwindcss@{{TAILWIND_CSS_VERSION}} tailwindcss build \
     	src/index.css \
     	--config src/tailwind.config.js \
-    	--output assets/2020.css
+    	--output assets/2022.css
 
-    npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
+    npx -p tailwindcss@{{TAILWIND_CSS_VERSION}} tailwindcss build \
     	src/index.css \
     	--config src/tailwind.min.config.js \
-    	--output assets/2020.min.css
+    	--output assets/2022.min.css
 
 sync:
     python sync.py sync-cuisines
