@@ -34,14 +34,26 @@
   {% case include.active %}
     {% when true %}
     <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
-      {% if include.place.takeout %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      {% if include.place.takeout %}
+        <i class="fas fa-check-circle text-md text-green-700"></i> <span class="hidden md:inline">Yes</span>
+      {% else %}
+        <i class="far fa-times-circle text-md"></i> <span class="hidden md:inline">No</span>
+      {% endif %}
     </td>
     <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
-      {% if include.place.delivery %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      {% if include.place.delivery %}
+        <i class="fas fa-check-circle text-md text-green-700"></i> <span class="hidden md:inline">Yes</span>
+      {% else %}
+        <i class="far fa-times-circle text-md"></i> <span class="hidden md:inline">No</span>
+      {% endif %}
     </td>
   {% else %}
     <td class="px-4 py-2 text-sm text-center whitespace-no-wrap">
-      {% if include.place.giftcard %}✅ <span class="hidden md:inline">Yes</span>{% else %}❌ <span class="hidden md:inline">No</span>{% endif %}
+      {% if include.place.giftcard %}
+        <i class="fas fa-check-circle text-md text-green-700"></i> <span class="hidden md:inline">Yes</span>
+      {% else %}
+        <i class="far fa-times-circle text-md"></i> <span class="hidden md:inline">No</span>
+      {% endif %}
     </td>
   {% endcase %}
   <td class="px-4 py-2 md:table-cell md:align-middle">
