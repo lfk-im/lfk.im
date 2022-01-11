@@ -5,6 +5,7 @@ cuisines:
   - cocktail-bar
   - cocktails
   - cocktails-beer
+  - dance-clubs
   name: bars
 - aliases:
   - bbq
@@ -39,10 +40,12 @@ cuisines:
   name: american
 - aliases: []
   name: asian
-- aliases: []
+- aliases:
+  - asian-fusion
   name: bar-grill
 - aliases:
   - breakfast-brunch
+  - crepes
   name: breakfast
 - aliases:
   - brewery
@@ -53,7 +56,8 @@ cuisines:
   name: burgers
 - aliases: []
   name: cajun
-- aliases: []
+- aliases:
+  - szechuan
   name: chinese
 - aliases:
   - coffee
@@ -114,10 +118,6 @@ cuisines:
   name: butcher
 unknown-cuisines:
 - aliases:
-  - szechuan
-  - asian-fusion
-  - dumplings
-  - crepes
-  - dance-clubs
   - chicken-wings
+  - dumplings
   name: unknown-cuisines
