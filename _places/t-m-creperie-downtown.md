@@ -3,8 +3,11 @@ active: true
 address: 7 East 8th Street
 cuisine: Crepes, Desserts
 cuisine_slugs:
+- crepes
+- breakfast
 - desserts
 cuisines:
+- Crepes
 - Desserts
 curbside: false
 curbside_instructions: ''

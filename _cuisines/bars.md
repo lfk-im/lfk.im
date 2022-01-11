@@ -6,6 +6,7 @@ aliases:
 - cocktail-bar
 - cocktails
 - cocktails-beer
+- dance-clubs
 description: Bars restaurants offering curbside, takeout, and delivery food in Lawrence,
   Kansas
 name: Bars
@@ -15,6 +16,7 @@ redirect_from:
 - /cuisines/cocktail-bar/
 - /cuisines/cocktails/
 - /cuisines/cocktails-beer/
+- /cuisines/dance-clubs/
 sitemap: true
 slug: bars
 title: Bars in Lawrence, Kansas

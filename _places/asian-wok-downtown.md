@@ -3,8 +3,11 @@ active: true
 address: 937 Massachusetts Street
 cuisine: Asian Fusion, Chinese
 cuisine_slugs:
+- asian-fusion
+- bar-grill
 - chinese
 cuisines:
+- Asian Fusion
 - Chinese
 curbside: false
 curbside_instructions: ''
