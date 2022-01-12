@@ -1,4 +1,4 @@
-TAILWIND_CSS_VERSION := "3.0.13"
+TAILWIND_CSS_VERSION := "latest"
 
 @_default:
     just --list

@@ -477,7 +477,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .sticky {
-  position: -webkit-sticky;
   position: sticky;
 }
 
