@@ -16,8 +16,8 @@ layout: default
 
   {% if page.neighborhood %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Neighborhood</dt>
-      <dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Neighborhood</dt>
+      <dd class="flex-auto">
         <a class="text-blue-700 underline hover:text-blue-500"
           href="/neighborhoods/{{ page.neighborhood_slug }}/">{{ page.neighborhood }}</a>
       </dd>
@@ -26,15 +26,15 @@ layout: default
 
   {% if page.hours and page.hours != "" and page.hours != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Hours</dt>
-      <dd>{{ page.hours }}</dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Hours</dt>
+      <dd class="flex-auto">{{ page.hours }}</dd>
     </dl>
   {% endif %}
 
   {% if page.cuisines.size > 0 %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Cuisine</dt>
-      <dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Cuisine</dt>
+      <dd class="flex-auto">
         {% for cuisine in page.cuisines %}
           <a class="text-blue-700 underline hover:text-blue-500"
             href="/cuisines/{{ cuisine|slugify }}/"
@@ -45,8 +45,8 @@ layout: default
   {% endif %}
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Phone</dt>
-    <dd>
+    <dt class="flex-none w-1/3 xs:w-1/2">Phone</dt>
+    <dd class="flex-auto">
       <a class="text-blue-700 underline hover:text-blue-500"
         href="tel:{{ page.restaurant_phone }}"
         itemprop="telephone" rel="nofollow">{{ page.restaurant_phone }}</a>
@@ -55,8 +55,8 @@ layout: default
 
   {% if page.website and page.website != "" and page.website != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Website</dt>
-      <dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Website</dt>
+      <dd class="flex-auto">
         <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ page.website }}"
           itemprop="url" rel="ugc">{{ page.website }}</a>
@@ -66,8 +66,8 @@ layout: default
 
   {% if page.dinein %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Dine In</dt>
-      <dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Dine In</dt>
+      <dd class="flex-auto">
         {% if page.dinein == true %}
           <i class="fas fa-check-circle text-md text-green-700"></i> Yes
         {% endif %}
@@ -79,8 +79,8 @@ layout: default
   {% endif %}
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Takeout</dt>
-    <dd>
+    <dt class="flex-none w-1/3 xs:w-1/2">Takeout</dt>
+    <dd class="flex-auto">
       {% if page.takeout == true %}
         <i class="fas fa-check-circle text-md text-green-700"></i> Yes
       {% endif %}
@@ -91,8 +91,8 @@ layout: default
   </dl>
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Delivery</dt>
-    <dd>
+    <dt class="flex-none w-1/3 xs:w-1/2">Delivery</dt>
+    <dd class="flex-auto">
       {% if page.delivery == true %}
         <i class="fas fa-check-circle text-md text-green-700"></i> Yes
       {% endif %}
@@ -103,8 +103,8 @@ layout: default
   </dl>
 
   <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-    <dt>Curbside</dt>
-    <dd>
+    <dt class="flex-none w-1/3 xs:w-1/2">Curbside</dt>
+    <dd class="flex-auto">
       {% if page.curbside == true %}
         <i class="fas fa-check-circle text-md text-green-700"></i> Yes
       {% endif %}
@@ -116,8 +116,8 @@ layout: default
 
   {% if page.curbside_instructions and page.curbside_instructions != "" and page.curbside_instructions != nil %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dt>Curbside Instructions</dt>
-      <dd>{{ page.curbside_instructions }}</dd>
+      <dt class="flex-none w-1/3 xs:w-1/2">Curbside Instructions</dt>
+      <dd class="flex-auto">{{ page.curbside_instructions }}</dd>
     </dl>
   {% endif %}
 
@@ -125,7 +125,7 @@ layout: default
 
   {% for food in page.food_urls %}
     <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-      <dd>
+      <dd class="flex-auto">
         <i class="fas fa-money-bill-wave"></i>
         <a class="text-blue-700 underline hover:text-blue-500"
           href="{{ food.url }}" rel="nofollow">
@@ -139,7 +139,7 @@ layout: default
 
     {% if page.giftcard_url and page.giftcard_url != "" and page.giftcard_url != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dd>
+        <dd class="flex-auto">
           <a class="text-blue-700 underline hover:text-blue-500"
             href="{{ page.giftcard_url }}" rel="nofollow">Purchase a {{ page.name }} Giftcard</a>
         </dd>
@@ -148,10 +148,10 @@ layout: default
 
     {% if page.giftcard_notes and page.giftcard_notes != "" and page.giftcard_notes != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dt>
+        <dt class="flex-none w-1/3 xs:w-1/2">
           <i class="fas fa-gift"></i> Giftcard Notes
         </dt>
-        <dd>{{ page.giftcard_notes }}</dd>
+        <dd class="flex-auto">{{ page.giftcard_notes }}</dd>
       </dl>
     {% endif %}
   {% endif %}
@@ -161,7 +161,7 @@ layout: default
 
     {% if page.instagram_url and page.instagram_url != "" and page.instagram_url != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dd>
+        <dd class="flex-auto">
           <i class="fab fa-instagram text-md"></i>
           <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.instagram_url }}" rel="nofollow">Instagram</a>
         </dd>
@@ -170,7 +170,7 @@ layout: default
 
     {% if page.twitter_url and page.twitter_url != "" and page.twitter_url != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dd>
+        <dd class="flex-auto">
           <i class="fab fa-twitter text-md"></i>
           <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitter_url }}" rel="nofollow">Twitter</a>
         </dd>
@@ -179,7 +179,7 @@ layout: default
 
     {% if page.facebook_url and page.facebook_url != "" and page.facebook_url != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dd>
+        <dd class="flex-auto">
           <i class="fab fa-facebook text-md"></i>
           <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.facebook_url }}" rel="nofollow">Facebook</a>
         </dd>
@@ -188,7 +188,7 @@ layout: default
 
     {% if page.twitch_url and page.twitch_url != "" and page.twitch_url != nil %}
       <dl class="flex items-center justify-between py-2 border-b border-gray-400">
-        <dd>
+        <dd class="flex-auto">
           <i class="fab fa-twitch text-md"></i>
           <a class="text-blue-700 underline hover:text-blue-500" href="{{ page.twitch_url }}" rel="nofollow">Twitch</a>
         </dd>
