@@ -1,4 +1,4 @@
-TAILWIND_CSS_VERSION := "1.9.4"
+TAILWIND_CSS_VERSION := "3.0.13"
 
 @_default:
     just --list
@@ -15,12 +15,12 @@ TAILWIND_CSS_VERSION := "1.9.4"
 
 @static:
     # NODE_ENV=production npm run build
-    npx -p tailwindcss@{{TAILWIND_CSS_VERSION}} tailwindcss build \
+    npx -p tailwindcss@{{ TAILWIND_CSS_VERSION }} tailwindcss build \
     	src/index.css \
     	--config src/tailwind.config.js \
     	--output assets/2022.css
 
-    npx -p tailwindcss@{{TAILWIND_CSS_VERSION}} tailwindcss build \
+    npx -p tailwindcss@{{ TAILWIND_CSS_VERSION }} tailwindcss build \
     	src/index.css \
     	--config src/tailwind.min.config.js \
     	--output assets/2022.min.css
