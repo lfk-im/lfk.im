@@ -1,0 +1,39 @@
+---
+active: true
+address: 4801 Bauer Farm Drive
+cuisine: Frozen yogurt
+cuisine_slugs:
+- frozen-yogurt
+- desserts
+cuisines:
+- Frozen yogurt
+curbside: true
+curbside_instructions: Call 785-856-0544 to order and again when you arrive and they
+  will bring to your car
+delivery: true
+delivery_service_websites: ''
+dinein: false
+facebook_url: https://www.facebook.com/OrangeLeafLawrence
+featured: false
+food_urls: []
+giftcard: false
+giftcard_notes: ''
+giftcard_url: ''
+hours: Mo-Su 11am-10pm
+instagram_url: https://www.instagram.com/orangeleaf/
+locality: Lawrence
+name: Orange Leaf
+neighborhood: West Lawrence
+neighborhood_slug: west-lawrence
+notes: ''
+perma_closed: false
+place_type: IceCreamShop
+region: KS
+restaurant_phone: '+17858560544'
+sitemap: false
+slug: orange-leaf-west-lawrence
+takeout: true
+twitch_url: ''
+twitter_url: https://twitter.com/orangeleaf
+website: https://www.orangeleafyogurt.com/locations/KS/lawrence-ks
+---
