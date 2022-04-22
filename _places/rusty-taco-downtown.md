@@ -23,15 +23,15 @@ hours: Su 10am-10pm; Mo-Sa 10am-12am
 instagram_url: ''
 locality: Lawrence
 name: Rusty Taco
-neighborhood: Downton
-neighborhood_slug: downton
+neighborhood: Downtown
+neighborhood_slug: downtown
 notes: ''
 perma_closed: false
 place_type: Restaurant
 region: KS
 restaurant_phone: ''
 sitemap: false
-slug: rusty-taco-downton
+slug: rusty-taco-downtown
 takeout: true
 twitch_url: ''
 twitter_url: ''
