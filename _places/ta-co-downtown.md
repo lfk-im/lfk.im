@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 801 Massachusetts Street
 cuisine: Mexican, Tacos
 cuisine_slugs:
@@ -36,8 +36,8 @@ name: Ta Co
 neighborhood: Downtown
 neighborhood_slug: downtown
 notes: ''
-perma_closed: false
-place_type: CafeOrCoffeeShop
+perma_closed: true
+place_type: Restaurant
 region: KS
 restaurant_phone: '+17858562170'
 sitemap: false
