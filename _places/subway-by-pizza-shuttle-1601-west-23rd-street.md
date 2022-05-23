@@ -1,0 +1,37 @@
+---
+active: true
+address: 1601 West 23rd Street
+cuisine: Sandwiches
+cuisine_slugs:
+- sandwiches
+- deli
+cuisines:
+- Sandwiches
+curbside: true
+curbside_instructions: ''
+delivery: true
+delivery_service_websites: ''
+dinein: false
+facebook_url: ''
+featured: false
+food_urls: []
+giftcard: false
+giftcard_notes: ''
+giftcard_url: ''
+hours: Mo-Su 11am-8:30pm
+instagram_url: ''
+locality: Lawrence
+name: Subway (by Pizza Shuttle)
+neighborhood: ''
+notes: ''
+perma_closed: false
+place_type: FastFoodRestaurant
+region: KS
+restaurant_phone: '+17858422479'
+sitemap: false
+slug: subway-by-pizza-shuttle-1601-west-23rd-street
+takeout: true
+twitch_url: ''
+twitter_url: ''
+website: ''
+---
