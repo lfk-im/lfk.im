@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 address: 4000 West 6th Street
 cuisine: Bakery, Coffee
 cuisine_slugs:
