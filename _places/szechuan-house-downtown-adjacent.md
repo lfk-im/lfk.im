@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 address: 1500 West 6th Street
 cuisine: Asian, Chinese, Szechuan, Cajun
 cuisine_slugs:
