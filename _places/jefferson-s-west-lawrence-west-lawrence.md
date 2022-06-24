@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: Mo-Th 4-9pm; Fr-Su 11am-9pm
+hours: Mo-Th 11am-10pm; Fr-Sa 11am-11pm; Su 11am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Jefferson's West Lawrence
