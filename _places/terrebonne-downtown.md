@@ -1,6 +1,6 @@
 ---
 active: true
-address: 805 Vermont Street
+address: 845 Massachusetts Street
 cuisine: Cajun
 cuisine_slugs:
 - cajun
