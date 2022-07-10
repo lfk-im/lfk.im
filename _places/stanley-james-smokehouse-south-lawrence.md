@@ -21,7 +21,7 @@ food_urls:
 giftcard: false
 giftcard_notes: ''
 giftcard_url: ''
-hours: ''
+hours: Mo-Sa 6am-9pm; Su 7am-9pm
 instagram_url: ''
 locality: Lawrence
 name: Stanley James Smokehouse
